@@ -1,5 +1,7 @@
 # Different types of syntactic agreement recruit the same units within large language models
 
+[![arXiv](https://img.shields.io/badge/arXiv-2512.03676-b31b1b.svg)](https://arxiv.org/abs/2512.03676)
+
 Using a functional localization approach inspired by cognitive neuroscience, we identify the LLM units most responsive to 67 English syntactic phenomena in seven open-weight models. These units are consistently recruited across sentences containing the phenomena and causally support the models’ syntactic performance. Critically, different types of syntactic agreement (e.g., subject-verb, anaphor, determiner-noun) recruit overlapping sets of units, suggesting that agreement constitutes a meaningful functional category for LLMs. This pattern holds in English, Russian, and Chinese; and further, in a cross-lingual analysis of 57 diverse languages, structurally more similar languages share more units for subject-verb agreement.
 
 ## Setup
@@ -44,12 +46,14 @@ Using a functional localization approach inspired by cognitive neuroscience, we 
 
 ## Citation
 
+```
 @misc{syntax-units,
-      title={Different types of syntactic agreement recruit the same units within large language models}, 
+      title={Different types of syntactic agreement recruit the same units within large language models},
       author={Daria Kryvosheieva and Andrea de Varda and Evelina Fedorenko and Greta Tuckute},
       year={2025},
       eprint={2512.03676},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2512.03676}, 
+      url={https://arxiv.org/abs/2512.03676},
 }
+```
