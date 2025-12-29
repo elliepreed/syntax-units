@@ -104,7 +104,7 @@ def load_model_matrices(
     lang_tgt: str,
     row_order: List[str],
     col_order: List[str],
-    percentage: float,
+    percentage: float = 1.0,
 ) -> Dict[str, pd.DataFrame]:
     prefix = f"cross-overlap_{lang_src}_{lang_tgt}_"
     suffix = "%.csv"
@@ -180,3 +180,4 @@ CATEGORY_COLORS = {
         "#BF9D8F",  # brown         wh-fronting
     ],
 }
+
