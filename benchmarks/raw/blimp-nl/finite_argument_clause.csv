@@ -1,0 +1,601 @@
+sentence_good,sentence_bad,linguistic_phenomenon,paradigm,item_id,critical_word,cue_word
+Teun zegt dat zijn schoonbroer ziek is van het eten.,Teun zegt zijn schoonbroer ziek is van het eten.,Finite Argument Clause,complementizer,301,is,
+Tineke weet dat die familie arm is na het faillissement,Tineke weet die familie arm is na het faillissement,Finite Argument Clause,complementizer,302,is,
+Vincent vertelt dat zijn broer bang is na de spooktocht.,Vincent vertelt zijn broer bang is na de spooktocht.,Finite Argument Clause,complementizer,303,is,
+Vanessa vermoedt dat haar overbuurman beroemd is door de fotografen.,Vanessa vermoedt haar overbuurman beroemd is door de fotografen.,Finite Argument Clause,complementizer,304,is,
+Walter denkt dat de man dronken is door dat spelletje.,Walter denkt de man dronken is door dat spelletje.,Finite Argument Clause,complementizer,305,is,
+Wendy zegt dat de soep flauw is tegen haar moeder.,Wendy zegt de soep flauw is tegen haar moeder.,Finite Argument Clause,complementizer,306,is,
+Yannick vermoedt dat de lunch gezond is bij dat evenement.,Yannick vermoedt de lunch gezond is bij dat evenement.,Finite Argument Clause,complementizer,307,is,
+Yolanthe vertelt dat de kleding goedkoop is in die winkel.,Yolanthe vertelt de kleding goedkoop is in die winkel.,Finite Argument Clause,complementizer,308,is,
+Robert weet dat het eten lekker is in dat restaurant.,Robert weet het eten lekker is in dat restaurant.,Finite Argument Clause,complementizer,309,is,
+Renate denkt dat de toets moeilijk is van die cursus.,Renate denkt de toets moeilijk is van die cursus.,Finite Argument Clause,complementizer,310,is,
+Jan zegt dat zijn vriendin blij is met het cadeau.,Jan zegt zijn vriendin blij is met het cadeau.,Finite Argument Clause,complementizer,3541,is,
+Marieke weet dat haar zus geslaagd is voor het examen.,Marieke weet haar zus geslaagd is voor het examen.,Finite Argument Clause,complementizer,3542,is,
+Erik vertelt dat zijn collega jarig is vandaag.,Erik vertelt zijn collega jarig is vandaag.,Finite Argument Clause,complementizer,3543,is,
+Annelies vermoedt dat haar kat verdwaald is in de buurt.,Annelies vermoedt haar kat verdwaald is in de buurt.,Finite Argument Clause,complementizer,3544,is,
+Richard denkt dat zijn buurman verhuisd is naar een andere stad.,Richard denkt zijn buurman verhuisd is naar een andere stad.,Finite Argument Clause,complementizer,3545,is,
+Linda zegt dat de film spannend is volgens de recensies.,Linda zegt de film spannend is volgens de recensies.,Finite Argument Clause,complementizer,3546,is,
+Joost weet dat zijn broer betrokken is bij het ongeluk.,Joost weet zijn broer betrokken is bij het ongeluk.,Finite Argument Clause,complementizer,3547,is,
+Ilse vermoedt dat haar vriendin jaloers is op haar succes.,Ilse vermoedt haar vriendin jaloers is op haar succes.,Finite Argument Clause,complementizer,3548,is,
+Maarten vertelt dat de vergadering is verplaatst naar volgende week.,Maarten vertelt de vergadering is verplaatst naar volgende week.,Finite Argument Clause,complementizer,3549,is,
+Sanne denkt dat haar hond ziek is door het vreemde gedrag.,Sanne denkt haar hond ziek is door het vreemde gedrag.,Finite Argument Clause,complementizer,3550,is,
+Pieter zegt dat zijn vrienden enthousiast zijn over het plan.,Pieter zegt zijn vrienden enthousiast zijn over het plan.,Finite Argument Clause,complementizer,3551,zijn,
+Esther weet dat haar buurvrouw verhuisd is naar het buitenland.,Esther weet haar buurvrouw verhuisd is naar het buitenland.,Finite Argument Clause,complementizer,3552,is,
+Thomas vertelt dat zijn zus de loterij heeft gewonnen.,Thomas vertelt zijn zus de loterij heeft gewonnen.,Finite Argument Clause,complementizer,3553,heeft,
+Sophie vermoedt dat haar vriend stiekem heeft gerookt.,Sophie vermoedt haar vriend stiekem heeft gerookt.,Finite Argument Clause,complementizer,3554,heeft,
+Lars denkt dat zijn collega kritisch is over het voorstel.,Lars denkt zijn collega kritisch is over het voorstel.,Finite Argument Clause,complementizer,3555,is,
+Anouk zegt dat haar ouders trots zijn op haar prestaties.,Anouk zegt haar ouders trots zijn op haar prestaties.,Finite Argument Clause,complementizer,3556,zijn,
+Ruben weet dat zijn vriendin geschrokken is van het nieuws.,Ruben weet zijn vriendin geschrokken is van het nieuws.,Finite Argument Clause,complementizer,3557,is,
+Lisa vermoedt dat haar broer verbaasd zal zijn over de verrassing.,Lisa vermoedt haar broer verbaasd zal zijn over de verrassing.,Finite Argument Clause,complementizer,3558,zal,
+Kevin beweert dat zijn team de competitie heeft gewonnen.,Kevin beweert zijn team de competitie heeft gewonnen.,Finite Argument Clause,complementizer,3559,heeft,
+Melissa zegt dat haar vriendje boos is zonder reden.,Melissa zegt haar vriendje boos is zonder reden.,Finite Argument Clause,complementizer,3560,is,
+Dennis weet dat zijn ouders op vakantie zijn in Azië.,Dennis weet zijn ouders op vakantie zijn in Azië.,Finite Argument Clause,complementizer,3561,zijn,
+Laura vertelt dat haar vriendin heeft deelgenomen aan de wedstrijd.,Laura vertelt haar vriendin heeft deelgenomen aan de wedstrijd.,Finite Argument Clause,complementizer,3562,heeft,
+Bram denkt dat zijn hond blij is met het nieuwe speelgoed.,Bram denkt zijn hond blij is met het nieuwe speelgoed.,Finite Argument Clause,complementizer,3563,is,
+Anneke vermoedt dat haar broertje geïnteresseerd is in technologie.,Anneke vermoedt haar broertje geïnteresseerd is in technologie.,Finite Argument Clause,complementizer,3564,is,
+Timo beweert dat zijn buurjongen de sleutels heeft gevonden.,Timo beweert zijn buurjongen de sleutels heeft gevonden.,Finite Argument Clause,complementizer,3565,heeft,
+Linda weet dat haar vriend heeft meegedaan aan het experiment.,Linda weet haar vriend heeft meegedaan aan het experiment.,Finite Argument Clause,complementizer,3566,heeft,
+Jasper vertelt dat zijn collega verbaasd was over de resultaten.,Jasper vertelt zijn collega verbaasd was over de resultaten.,Finite Argument Clause,complementizer,3567,was,
+Emma denkt dat haar zus teleurgesteld zal zijn door het nieuws.,Emma denkt haar zus teleurgesteld zal zijn door het nieuws.,Finite Argument Clause,complementizer,3568,zal,
+Max zegt dat zijn ouders blij zijn met het nieuwe huis.,Max zegt zijn ouders blij zijn met het nieuwe huis.,Finite Argument Clause,complementizer,3569,zijn,
+Julia weet dat haar vriendin heeft gereageerd op de uitnodiging.,Julia weet haar vriendin heeft gereageerd op de uitnodiging.,Finite Argument Clause,complementizer,3570,heeft,
+Thijs vermoedt dat zijn vrienden geïnteresseerd zijn in kunst.,Thijs vermoedt zijn vrienden geïnteresseerd zijn in kunst.,Finite Argument Clause,complementizer,3571,zijn,
+ris beweert dat haar collega de vergadering heeft gemist.,Iris beweert haar collega de vergadering heeft gemist.,Finite Argument Clause,complementizer,3572,heeft,
+Sanne zegt dat haar broer blij is met het cadeau.,Sanne zegt haar broer blij is met het cadeau.,Finite Argument Clause,complementizer,3573,is,
+Daan weet dat zijn vriendin verdrietig is door het verlies.,Daan weet zijn vriendin verdrietig is door het verlies.,Finite Argument Clause,complementizer,3574,is,
+Sophie vertelt dat haar vriend is gaan studeren in het buitenland.,Sophie vertelt haar vriend is gaan studeren in het buitenland.,Finite Argument Clause,complementizer,3575,is,
+Rick denkt dat zijn buurvrouw de sleutels heeft verloren.,Rick denkt zijn buurvrouw de sleutels heeft verloren.,Finite Argument Clause,complementizer,3576,heeft,
+Ilse beweert dat haar hond bang is voor onweer.,Ilse beweert haar hond bang is voor onweer.,Finite Argument Clause,complementizer,3577,is,
+Jasper zegt dat zijn zus enthousiast is over de vakantie.,Jasper zegt zijn zus enthousiast is over de vakantie.,Finite Argument Clause,complementizer,3578,is,
+Naomi weet dat haar vriendje heeft meegewerkt aan het project.,Naomi weet haar vriendje heeft meegewerkt aan het project.,Finite Argument Clause,complementizer,3579,heeft,
+Lars vermoedt dat zijn vrienden verrast zullen zijn door het nieuws.,Lars vermoedt zijn vrienden verrast zullen zijn door het nieuws.,Finite Argument Clause,complementizer,3580,zijn,
+Lisa denkt dat haar broertje blij is met de nieuwe fiets.,Lisa denkt haar broertje blij is met de nieuwe fiets.,Finite Argument Clause,complementizer,3581,is,
+Tim beweert dat zijn collega te laat is voor de vergadering.,Tim beweert zijn collega te laat is voor de vergadering.,Finite Argument Clause,complementizer,3582,is,
+Anouk weet dat haar vriendin verliefd is op haar beste vriend.,Anouk weet haar vriendin verliefd is op haar beste vriend.,Finite Argument Clause,complementizer,3583,is,
+Ruben vermoedt dat zijn buurman boos is over het lawaai.,Ruben vermoedt zijn buurman boos is over het lawaai.,Finite Argument Clause,complementizer,3584,is,
+Thomas vertelt dat zijn collega kritisch is over het voorstel.,Thomas vertelt zijn collega kritisch is over het voorstel.,Finite Argument Clause,complementizer,3585,is,
+Laura weet dat haar broer heeft deelgenomen aan de wedstrijd.,Laura weet haar broer heeft deelgenomen aan de wedstrijd.,Finite Argument Clause,complementizer,3586,heeft,
+Anneke vermoedt dat haar zus verbaasd zal zijn door het nieuws.,Anneke vermoedt haar zus verbaasd zal zijn door het nieuws.,Finite Argument Clause,complementizer,3587,zal,
+Lisa zegt dat haar vriendin enthousiast is over de reis.,Lisa zegt haar vriendin enthousiast is over de reis.,Finite Argument Clause,complementizer,3588,is,
+Niels weet dat zijn broer betrokken is bij het project.,Niels weet zijn broer betrokken is bij het project,Finite Argument Clause,complementizer,3589,is,
+Jasper vertelt dat zijn vriendin verrast was door het cadeau.,Jasper vertelt zijn vriendin verrast was door het cadeau.,Finite Argument Clause,complementizer,3590,was,
+Lotte realiseert zich dat haar hond verdwaald is in het park.,Lotte realiseert zich haar hond verdwaald is in het park.,Finite Argument Clause,complementizer,3591,is,
+Timo vermoedt dat zijn zus blij is met de nieuwe baan.,Timo vermoedt zijn zus blij is met de nieuwe baan.,Finite Argument Clause,complementizer,3592,is,
+Marit denkt dat haar vriend teleurgesteld zal zijn door de beslissing.,Marit denkt haar vriend teleurgesteld zal zijn door de beslissing.,Finite Argument Clause,complementizer,3593,zal,
+Daan zegt dat zijn ouders trots zijn op zijn prestaties.,Daan zegt zijn ouders trots zijn op zijn prestaties.,Finite Argument Clause,complementizer,3594,zijn,
+Sanne weet dat haar vriendje meedoet aan de talentenjacht.,Sanne weet haar vriendje meedoet aan de talentenjacht.,Finite Argument Clause,complementizer,3595,meedoet,
+Lars beweert dat zijn zus de wedstrijd heeft gewonnen.,Lars beweert zijn zus de wedstrijd heeft gewonnen.,Finite Argument Clause,complementizer,3596,heeft,
+Anouk vertelt dat haar collega verbaasd was over de resultaten.,Anouk vertelt haar collega verbaasd was over de resultaten.,Finite Argument Clause,complementizer,3597,was,
+Bram realiseert zich dat zijn vrienden kritisch zijn over het plan.,Bram realiseert zich zijn vrienden kritisch zijn over het plan.,Finite Argument Clause,complementizer,3598,zijn,
+Emma weet dat haar broertje verliefd is op haar beste vriendin.,Emma weet haar broertje verliefd is op haar beste vriendin.,Finite Argument Clause,complementizer,3599,is,
+Lisa zegt dat haar vriendin geschrokken is van het nieuws.,Lisa zegt haar vriendin geschrokken is van het nieuws.,Finite Argument Clause,complementizer,3600,is,
+Timo vermoedt dat zijn collega betrokken is bij het incident.,Timo vermoedt zijn collega betrokken is bij het incident.,Finite Argument Clause,complementizer,3601,is,
+Jasper denkt dat zijn vrienden verrast zullen zijn door de verandering.,Jasper denkt zijn vrienden verrast zullen zijn door de verandering.,Finite Argument Clause,complementizer,3602,zullen,
+Thijs weet dat zijn buurvrouw de sleutels heeft gevonden.,Thijs weet zijn buurvrouw de sleutels heeft gevonden.,Finite Argument Clause,complementizer,3603,heeft,
+Max realiseert zich dat zijn vriendin boos is zonder reden.,Max realiseert zich zijn vriendin boos is zonder reden.,Finite Argument Clause,complementizer,3604,is,
+Lisa weet dat haar vriendin deelneemt aan de wedstrijd.,Lisa weet haar vriendin deelneemt aan de wedstrijd.,Finite Argument Clause,complementizer,3605,deelneemt,
+Bram vertelt dat zijn hond blij is met het nieuwe speelgoed.,Bram vertelt zijn hond blij is met het nieuwe speelgoed.,Finite Argument Clause,complementizer,3606,is,
+Julia weet dat haar broer enthousiast is over de vakantie.,Julia weet haar broer enthousiast is over de vakantie.,Finite Argument Clause,complementizer,3607,is,
+Anneke beweert dat haar zus geïnteresseerd is in kunst.,Anneke beweert haar zus geïnteresseerd is in kunst.,Finite Argument Clause,complementizer,3608,is,
+Timo zegt dat zijn vriendin blij is met de nieuwe baan.,Timo zegt zijn vriendin blij is met de nieuwe baan.,Finite Argument Clause,complementizer,3609,is,
+Emma weet dat haar vriendin geschrokken is van het nieuws.,Emma weet haar vriendin geschrokken is van het nieuws.,Finite Argument Clause,complementizer,3610,is,
+Max realiseert zich dat zijn ouders blij zijn met zijn keuze.,Max realiseert zich zijn ouders blij zijn met zijn keuze.,Finite Argument Clause,complementizer,3611,zijn,
+Anouk beweert dat haar broertje enthousiast is over de nieuwe auto.,Anouk beweert haar broertje enthousiast is over de nieuwe auto.,Finite Argument Clause,complementizer,3612,is,
+Emma vermoedt dat haar vriendin boos is vanwege het misverstand.,Emma vermoedt haar vriendin boos is vanwege het misverstand.,Finite Argument Clause,complementizer,3613,is,
+Timo denkt dat zijn ouders teleurgesteld zijn door de verandering.,Timo denkt zijn ouders teleurgesteld zijn door de verandering.,Finite Argument Clause,complementizer,3614,zijn,
+Emma vermoedt dat haar vriend verrast zal zijn door de plannen.,Emma vermoedt haar vriend verrast zal zijn door de plannen.,Finite Argument Clause,complementizer,3615,zal,
+Anneke zegt dat haar zus betrokken is bij het goede doel.,Anneke zegt haar zus betrokken is bij het goede doel.,Finite Argument Clause,complementizer,3616,is,
+Tim weet dat zijn buurvrouw tevreden is met de nieuwe buren.,Tim weet zijn buurvrouw tevreden is met de nieuwe buren.,Finite Argument Clause,complementizer,3617,is,
+Rosalie denkt dat de presentatie saai is zonder interactie.,Rosalie denkt de presentatie saai is zonder interactie.,Finite Argument Clause,complementizer,3618,is,
+Rianne weet dat haar collega gestrest is door de deadlines.,Rianne weet haar collega gestrest is door de deadlines.,Finite Argument Clause,complementizer,3619,is,
+Ramona zegt dat de film spannend is volgens de recensies.,Ramona zegt de film spannend is volgens de recensies.,Finite Argument Clause,complementizer,3620,is,
+Rosanne gelooft dat haar buurman een nieuwe auto heeft.,Rosanne gelooft haar buurman een nieuwe auto heeft.,Finite Argument Clause,complementizer,3621,heeft,
+Remy realiseert zich dat zijn portemonnee weg is na het winkelen.,Remy realiseert zich zijn portemonnee weg is na het winkelen.,Finite Argument Clause,complementizer,3622,is,
+Rachel weet dat de leraar streng is tijdens de examens.,Rachel weet de leraar streng is tijdens de examens.,Finite Argument Clause,complementizer,3623,is,
+Ruben denkt dat het boek interessant is na de eerste hoofdstukken.,Ruben denkt het boek interessant is na de eerste hoofdstukken.,Finite Argument Clause,complementizer,3624,is,
+Ruud vertelt dat de computer traag is vanwege de oude hardware.,Ruud vertelt de computer traag is vanwege de oude hardware.,Finite Argument Clause,complementizer,3625,is,
+Rosalinde beseft dat haar planten dorst hebben na de vakantie.,Rosalinde beseft haar planten dorst hebben na de vakantie.,Finite Argument Clause,complementizer,3626,hebben,
+Renzo zegt dat de taart lekker is volgens de bakker.,Renzo zegt de taart lekker is volgens de bakker.,Finite Argument Clause,complementizer,3627,is,
+Renske vermoedt dat haar telefoon kwijt is na het feestje.,Renske vermoedt haar telefoon kwijt is na het feestje.,Finite Argument Clause,complementizer,3628,is,
+Ramon realiseert zich dat zijn horloge kapot is na de val.,Ramon realiseert zich zijn horloge kapot is na de val.,Finite Argument Clause,complementizer,3629,is,
+Rianne zegt dat de trein vertraagd is volgens de omroeper.,Rianne zegt de trein vertraagd is volgens de omroeper.,Finite Argument Clause,complementizer,3630,is,
+De bewoner zag onmiddellijk dat de vogel binnenvloog.,De bewoner keek onmiddellijk dat de vogel binnenvloog.,Finite Argument Clause,perception_dat,311,dat,zag
+De man hoorde regelmatig dat de deur dichtviel. ,De man luisterde regelmatig dat de deur dichtviel. ,Finite Argument Clause,perception_dat,312,dat,hoorde
+De vriendin zag plotseling dat de jurk doorscheen.,De vriendin keek plotseling dat de jurk doorscheen.,Finite Argument Clause,perception_dat,313,dat,zag
+De baas hoorde regelmatig dat het contract klaarlag.,De baas luisterde regelmatig dat het contract klaarlag.,Finite Argument Clause,perception_dat,314,dat,hoorde
+De chauffeur zag snel dat de passagier instapte.,De chauffeur keek snel dat de passagier instapte.,Finite Argument Clause,perception_dat,315,dat,zag
+De wandelaar zag plotseling dat het huis leegstond.,De wandelaar keek plotseling dat het huis leegstond.,Finite Argument Clause,perception_dat,316,dat,zag
+De kok hoorde plots dat het vlees aanbrandde.,De kok luisterde plots dat het vlees aanbrandde.,Finite Argument Clause,perception_dat,317,dat,hoorde
+De dokter zag ineens dat het oor dichtzat.,De dokter keek ineens dat het oor dichtzat.,Finite Argument Clause,perception_dat,318,dat,zag
+De vrouw hoorde snel dat de misdadiger gevangenzat.,De vrouw luisterde snel dat de misdadiger gevangenzat.,Finite Argument Clause,perception_dat,319,dat,hoorde
+De ontwerper hoorde onmiddellijk dat de mouw losscheurde.,De ontwerper luisterde onmiddellijk dat de mouw losscheurde.,Finite Argument Clause,perception_dat,320,dat,hoorde
+De ridder zag op dat de vijand naderde.,De ridder keek dat de vijand naderde.,Finite Argument Clause,perception_dat,3631,dat,zag
+De koning hoorde dat zijn kroon verdwenen was.,De koning luisterde dat zijn kroon verdwenen was.,Finite Argument Clause,perception_dat,3632,dat,hoorde
+De boer zag dat de gewassen gedijden.,De boer keek dat de gewassen gedijden.,Finite Argument Clause,perception_dat,3633,dat,zag
+De pelgrim hoorde dat de weg gevaarlijk was.,De pelgrim luisterde dat de weg gevaarlijk was.,Finite Argument Clause,perception_dat,3634,dat,hoorde
+De monnik zag dat de kaars flakkerde.,De monnik keek dat de kaars flakkerde.,Finite Argument Clause,perception_dat,3635,dat,zag
+De koopman vernam dat de prijzen stegen.,De koopman keek dat de prijzen stegen.,Finite Argument Clause,perception_dat,3636,dat,vernam
+De smid zag dat het vuur doofde.,De smid keek dat het vuur doofde.,Finite Argument Clause,perception_dat,3637,dat,zag
+De man zag dat de hofnar grappen maakte.,De man keek dat de hofnar grappen maakte.,Finite Argument Clause,perception_dat,3638,dat,zag
+De edelman zag dat zijn zwaard bot was.,De edelman keek dat zijn zwaard bot was.,Finite Argument Clause,perception_dat,3639,dat,zag
+De troubadour hoorde op dat het publiek lachte.,De troubadour luisterde dat het publiek lachte.,Finite Argument Clause,perception_dat,3640,dat,hoorde
+De bakker zag dat het deeg rees.,De bakker keek dat het deeg rees.,Finite Argument Clause,perception_dat,3641,dat,zag
+De alchemist zag dat het elixer bubbels vertoonde.,De alchemist keek dat het elixer bubbels vertoonde.,Finite Argument Clause,perception_dat,3642,dat,zag
+De minstreel hoorde dat zijn stem krachtig klonk.,De minstreel luisterde dat zijn stem krachtig klonk.,Finite Argument Clause,perception_dat,3643,dat,hoorde
+De beul hoorde dat de veroordeelde berouw toonde.,De beul luisterde dat de veroordeelde berouw toonde.,Finite Argument Clause,perception_dat,3644,dat,hoorde
+De koopvrouw zag dat haar waren werden gestolen.,De koopvrouw keek dat haar waren werden gestolen.,Finite Argument Clause,perception_dat,3645,dat,zag
+De soldaten hoorden dat de vijand naderde.,De soldaten luisterden dat de vijand naderde.,Finite Argument Clause,perception_dat,3646,dat,hoorden
+De keizer zag dat zijn rijk uitbreidde.,De keizer keek dat zijn rijk uitbreidde.,Finite Argument Clause,perception_dat,3647,dat,zag
+De gladiator zag dat zijn tegenstander zwak was.,De gladiator keek dat zijn tegenstander zwak was.,Finite Argument Clause,perception_dat,3648,dat,zag
+De senator zag dat de wet werd aangenomen.,De senator keek dat de wet werd aangenomen.,Finite Argument Clause,perception_dat,3649,dat,zag
+De architect hoorde dat de zuil instortte.,De architect luisterde dat de zuil instortte.,Finite Argument Clause,perception_dat,3650,dat,hoorde
+De handelaar zag dat de prijzen stegen.,De handelaar keek dat de prijzen stegen.,Finite Argument Clause,perception_dat,3651,dat,zag
+De dichter hoorde dat zijn woorden werden gewaardeerd.,De dichter luisterde dat zijn woorden werden gewaardeerd.,Finite Argument Clause,perception_dat,3652,dat,hoorde
+De schrijver hoorde dat zijn werk werd gelezen.,De schrijver luisterde dat zijn werk werd gelezen.,Finite Argument Clause,perception_dat,3653,dat,hoorde
+De filosoof hoorde dat de wereld veranderde.,De filosoof luisterde dat de wereld veranderde.,Finite Argument Clause,perception_dat,3654,dat,hoorde
+De gladiator zag dat het publiek genoot.,De gladiator keek dat het publiek genoot.,Finite Argument Clause,perception_dat,3655,dat,zag
+De handelaar zag dat zijn waren werden verhandeld.,De handelaar keek dat zijn waren werden verhandeld.,Finite Argument Clause,perception_dat,3656,dat,zag
+De keizer zag dat zijn macht afnam.,De keizer keek dat zijn macht afnam.,Finite Argument Clause,perception_dat,3657,dat,zag
+De architect zag dat de fundamenten zwak waren.,De architect keek dat de fundamenten zwak waren.,Finite Argument Clause,perception_dat,3658,dat,zag
+De senator zag dat het volk ontevreden was.,De senator keek dat het volk ontevreden was.,Finite Argument Clause,perception_dat,3659,dat,zag
+De dichter hoorde dat zijn gedichten werden geroemd.,De dichter luisterde dat zijn gedichten werden geroemd.,Finite Argument Clause,perception_dat,3660,dat,hoorde
+De gladiator zag dat zijn tegenstander strategisch vocht.,De gladiator keek dat zijn tegenstander strategisch vocht.,Finite Argument Clause,perception_dat,3661,dat,zag
+De handelaar hoorde dat de markt drukker werd.,De handelaar luisterde dat de markt drukker werd.,Finite Argument Clause,perception_dat,3662,dat,hoorde
+De keizer hoorde dat zijn troepen zich terugtrokken.,De keizer luisterde dat zijn troepen zich terugtrokken.,Finite Argument Clause,perception_dat,3663,dat,hoorde
+De filosoof hoorde dat de ideeën verspreidden.,De filosoof luisterde dat de ideeën verspreidden.,Finite Argument Clause,perception_dat,3664,dat,hoorde
+De architect zag dat het bouwwerk instabiel was.,De architect hoorde dat het bouwwerk instabiel was.,Finite Argument Clause,perception_dat,3665,dat,zag
+De senator zag dat zijn voorstel werd gesteund.,De senator keek dat zijn voorstel werd gesteund.,Finite Argument Clause,perception_dat,3666,dat,zag
+De dichter hoorde dat zijn verzen werden begrepen.,De dichter luisterde dat zijn verzen werden begrepen.,Finite Argument Clause,perception_dat,3667,dat,hoorde
+De gladiator zag dat de arena vol was.,De gladiator keek dat de arena vol was.,Finite Argument Clause,perception_dat,3668,dat,zag
+De handelaar hoorde op dat de handel bloeide.,De handelaar luisterde dat de handel bloeide.,Finite Argument Clause,perception_dat,3669,dat,hoorde
+De keizer zag dat zijn rijk verzwakte.,De keizer keek dat zijn rijk verzwakte.,Finite Argument Clause,perception_dat,3670,dat,zag
+De filosoof hoorde dat zijn theorieën werden verspreid.,De filosoof luisterde dat zijn theorieën werden verspreid.,Finite Argument Clause,perception_dat,3671,dat,hoorde
+De architect zag dat het aquaduct lekte.,De architect keek dat het aquaduct lekte.,Finite Argument Clause,perception_dat,3672,dat,zag
+De senator zag dat zijn invloed afnam.,De senator keek dat zijn invloed afnam.,Finite Argument Clause,perception_dat,3673,dat,zag
+De dichter hoorde dat zijn gedichten emotie opriepen.,De dichter luisterde dat zijn gedichten emotie opriepen.,Finite Argument Clause,perception_dat,3674,dat,hoorde
+De gladiator zag dat zijn tegenstander vermoeid was.,De gladiator keek dat zijn tegenstander vermoeid was.,Finite Argument Clause,perception_dat,3675,dat,zag
+De soldaat merkte op dat het kanon geladen was.,De soldaat keek dat het kanon geladen was.,Finite Argument Clause,perception_dat,3676,dat,merkte
+De muzikant hoorde niet dat de melodie veranderd was.,De muzikant luisterde niet dat de melodie veranderd was.,Finite Argument Clause,perception_dat,3677,dat,hoorde
+De spion zag dat de vijand naderde.,De spion keek dat de vijand naderde.,Finite Argument Clause,perception_dat,3678,dat,zag
+De boer hoorde dat de oogst verloren was.,De boer luisterde dat de oogst verloren was.,Finite Argument Clause,perception_dat,3679,dat,hoorde
+De danseres zag dat haar schoen losraakte.,De danseres keek dat haar schoen losraakte.,Finite Argument Clause,perception_dat,3680,dat,zag
+De leraar hoorde dat de leerling de opdracht niet begreep.,De leraar luisterde dat de leerling de opdracht niet begreep.,Finite Argument Clause,perception_dat,3681,dat,hoorde
+De huisvrouw zag dat het eten verbrand was.,De huisvrouw keek dat het eten verbrand was.,Finite Argument Clause,perception_dat,3682,dat,zag
+De detective hoorde dat het alibi vals was.,De detective luisterde dat het alibi vals was.,Finite Argument Clause,perception_dat,3683,dat,hoorde
+De arts zag dat de patiënt koorts had.,De arts keek dat de patiënt koorts had.,Finite Argument Clause,perception_dat,3684,dat,zag
+De onderzoeker hoorde dat de formule incorrect was.,De onderzoeker luisterde dat de formule incorrect was.,Finite Argument Clause,perception_dat,3685,dat,hoorde
+De schrijver hoorde dat het einde van het verhaal onverwacht was.,De schrijver luisterde dat het einde van het verhaal onverwacht was.,Finite Argument Clause,perception_dat,3686,dat,hoorde
+De piloot merkte op dat de brandstof bijna op was.,De piloot keek dat de brandstof bijna op was.,Finite Argument Clause,perception_dat,3687,dat,merkte
+De zeeman zag dat er een lek in de boot zat.,De zeeman luisterde dat er een lek in de boot zat.,Finite Argument Clause,perception_dat,3688,dat,zag
+De chef zag dat het recept niet klopte.,De chef keek dat het recept niet klopte.,Finite Argument Clause,perception_dat,3689,dat,zag
+De actrice hoorde dat haar stem trilde van emotie.,De actrice luisterde dat haar stem trilde van emotie.,Finite Argument Clause,perception_dat,3690,dat,hoorde
+De monteur zag dat de motor defect was.,De monteur keek dat de motor defect was.,Finite Argument Clause,perception_dat,3691,dat,zag
+De kapitein hoorde dat de storm naderde.,De kapitein luisterde dat de storm naderde.,Finite Argument Clause,perception_dat,3692,dat,hoorde
+De kunstenaar zag dat de verf was uitgelopen.,De kunstenaar keek dat de verf was uitgelopen.,Finite Argument Clause,perception_dat,3693,dat,zag
+De speler hoorde dat de tegenstander vals speelde.,De speler luisterde dat de tegenstander vals speelde.,Finite Argument Clause,perception_dat,3694,dat,hoorde
+De kok zag dat er te veel zout in het gerecht zat.,De kok keek dat er te veel zout in het gerecht zat.,Finite Argument Clause,perception_dat,3695,dat,zag
+De wetenschapper zag dat de hypothese fout was.,De wetenschapper keek dat de hypothese fout was.,Finite Argument Clause,perception_dat,3696,dat,zag
+De fotograaf zag dat het licht veranderde.,De fotograaf keek dat het licht veranderde.,Finite Argument Clause,perception_dat,3697,dat,zag
+De verpleegster hoorde dat de patiënt onrustig werd.,De verpleegster luisterde dat de patiënt onrustig werd.,Finite Argument Clause,perception_dat,3698,dat,hoorde
+De schilder zag dat het perspectief niet klopte.,De schilder keek dat het perspectief niet klopte.,Finite Argument Clause,perception_dat,3699,dat,zag
+De ontdekkingsreiziger zag dat hij verdwaald was.,De ontdekkingsreiziger keek dat hij verdwaald was.,Finite Argument Clause,perception_dat,3700,dat,zag
+De politicus hoorde dat zijn toespraak impact had.,De politicus luisterde dat zijn toespraak impact had.,Finite Argument Clause,perception_dat,3701,dat,hoorde
+De lerares hoorde dat haar leerling afwezig was.,De lerares luisterde dat haar leerling afwezig was.,Finite Argument Clause,perception_dat,3702,dat,hoorde
+De pianist hoorde zich dat hij een fout had gemaakt.,De pianist luisterde dat hij een fout had gemaakt.,Finite Argument Clause,perception_dat,3703,dat,hoorde
+De ingenieur zag dat het ontwerp niet voldeed.,De ingenieur keek dat het ontwerp niet voldeed.,Finite Argument Clause,perception_dat,3704,dat,zag
+De kok hoorde dat het gerecht niet op smaak was.,De kok luisterde dat het gerecht niet op smaak was.,Finite Argument Clause,perception_dat,3705,dat,hoorde
+De tuinman zag dat de planten verwelkten.,De tuinman keek dat de planten verwelkten.,Finite Argument Clause,perception_dat,3706,dat,zag
+De hobbyist zag dat de bloemen bloeiden.,De hobbyist keek dat de bloemen bloeiden.,Finite Argument Clause,perception_dat,3707,dat,zag
+De tuinier hoorde dat de grond vruchtbaar was.,De tuinier luisterde dat de grond vruchtbaar was.,Finite Argument Clause,perception_dat,3708,dat,hoorde
+De hovenier zag dat de struiken gesnoeid moesten worden.,De hovenier keek dat de struiken gesnoeid moesten worden.,Finite Argument Clause,perception_dat,3709,dat,zag
+De plantenkweker zag dat de bodem vochtig genoeg was.,De plantenkweker keek dat de bodem vochtig genoeg was.,Finite Argument Clause,perception_dat,3710,dat,zag
+De tuinliefhebber hoorde dat de zon fel scheen.,De tuinliefhebber luisterde dat de zon fel scheen.,Finite Argument Clause,perception_dat,3711,dat,hoorde
+De landschapsarchitect zag dat het gras groeide.,De landschapsarchitect keek dat het gras groeide.,Finite Argument Clause,perception_dat,3712,dat,zag
+De tuinontwerper hoorde dat de bloembollen geplant moesten worden.,De tuinontwerper luisterde dat de bloembollen geplant moesten worden.,Finite Argument Clause,perception_dat,3713,dat,hoorde
+De bloemist hoorde dat de rozen verwelkten.,De bloemist luisterde dat de rozen verwelkten.,Finite Argument Clause,perception_dat,3714,dat,hoorde
+De plantenverzorger zag dat de planten dorst hadden.,De plantenverzorger keek dat de planten dorst hadden.,Finite Argument Clause,perception_dat,3715,dat,zag
+De botanicus zag zich dat de boom ziek was.,De botanicus keek dat de boom ziek was.,Finite Argument Clause,perception_dat,3716,dat,zag
+De tuinarchitect hoorde dat de heg geknipt moest worden.,De tuinarchitect luisterde dat de heg geknipt moest worden.,Finite Argument Clause,perception_dat,3717,dat,hoorde
+De tuinadviseur zag dat de grond bemest moest worden.,De tuinadviseur keek dat de grond bemest moest worden.,Finite Argument Clause,perception_dat,3718,dat,zag
+De boomkweker hoorde dat de takken te zwaar waren.,De boomkweker luisterde dat de takken te zwaar waren.,Finite Argument Clause,perception_dat,3719,dat,hoorde
+De landschapsontwerper zag dat de vijver vervuild was.,De landschapsontwerper keek dat de vijver vervuild was.,Finite Argument Clause,perception_dat,3720,dat,zag
+De bewoner keek onmiddellijk of de vogel binnenvloog.,De bewoner zag onmiddellijk of de vogel binnenvloog.,Finite Argument Clause,perception_of,321,of,keek
+De man luisterde regelmatig of de deur dichtviel. ,De man hoorde regelmatig of de deur dichtviel. ,Finite Argument Clause,perception_of,322,of,luisterde
+De vriendin keek plotseling of de jurk doorscheen.,De vriendin zag plotseling of de jurk doorscheen.,Finite Argument Clause,perception_of,323,of,keek
+De baas luisterde regelmatig of het contract klaarlag.,De baas hoorde regelmatig of het contract klaarlag.,Finite Argument Clause,perception_of,324,of,luisterde
+De chauffeur keek snel of de passagier instapte.,De chauffeur zag snel of de passagier instapte.,Finite Argument Clause,perception_of,325,of,keek
+De wandelaar keek plotseling of het huis leegstond.,De wandelaar zag plotseling of het huis leegstond.,Finite Argument Clause,perception_of,326,of,keek
+De kok luisterde voorzichtig of het vlees aanbrandde.,De kok hoorde voorzichtig of het vlees aanbrandde.,Finite Argument Clause,perception_of,327,of,luisterde
+De dokter keek voorzichtig of het oor dichtzat.,De dokter zag voorzichtig of het oor dichtzat.,Finite Argument Clause,perception_of,328,of,keek
+De vrouw luisterde snel of de misdadiger gevangenzat.,De vrouw hoorde snel of de misdadiger gevangenzat.,Finite Argument Clause,perception_of,329,of,luisterde
+De ontwerper luisterde onmiddellijk of de mouw losscheurde.,De ontwerper hoorde onmiddellijk of de mouw losscheurde.,Finite Argument Clause,perception_of,330,of,luisterde
+De leraar luisterde zorgvuldig of de leerlingen de instructies volgden.,De leraar hoorde zorgvuldig of de leerlingen de instructies volgden.,Finite Argument Clause,perception_of,3721,of,luisterde
+De tuinman keek nauwlettend of de planten voldoende water kregen.,De tuinman zag nauwlettend of de planten voldoende water kregen.,Finite Argument Clause,perception_of,3722,of,keek
+De receptionist luisterde attent of de telefoon overging.,De receptionist hoorde attent of de telefoon overging.,Finite Argument Clause,perception_of,3723,of,luisterde
+De fotograaf keek kritisch of de foto goed belicht was.,De fotograaf zag kritisch of de foto goed belicht was.,Finite Argument Clause,perception_of,3724,of,keek
+De student luisterde geconcentreerd of de professor de vraag beantwoordde.,De student hoorde geconcentreerd of de professor de vraag beantwoordde.,Finite Argument Clause,perception_of,3725,of,luisterde
+De ober keek snel of de gasten tevreden waren.,De ober zag snel of de gasten tevreden waren.,Finite Argument Clause,perception_of,3726,of,keek
+De programmeur luisterde aandachtig of de code correct werd uitgevoerd.,De programmeur hoorde aandachtig of de code correct werd uitgevoerd.,Finite Argument Clause,perception_of,3727,of,luisterde
+De politieagent keek alert of de verdachte verdachte bewegingen maakte.,De politieagent zag alert of de verdachte verdachte bewegingen maakte.,Finite Argument Clause,perception_of,3728,of,keek
+De secretaresse luisterde scherp of de vergadering op tijd begon.,De secretaresse hoorde scherp of de vergadering op tijd begon.,Finite Argument Clause,perception_of,3729,of,luisterde
+De onderzoeker keek kritisch of de resultaten consistent waren.,De onderzoeker zag kritisch of de resultaten consistent waren.,Finite Argument Clause,perception_of,3730,of,keek
+De schrijver keek zorgvuldig of de zinnen goed waren gestructureerd.,De schrijver zag zorgvuldig of de zinnen goed waren gestructureerd.,Finite Argument Clause,perception_of,3731,of,keek
+De muzikant luisterde kritisch of de melodie harmonieus klonk.,De muzikant hoorde kritisch of de melodie harmonieus klonk.,Finite Argument Clause,perception_of,3732,of,luisterde
+De ingenieur keek aandachtig of de machine correct functioneerde.,De ingenieur zag aandachtig of de machine correct functioneerde.,Finite Argument Clause,perception_of,3733,of,keek
+De verpleegster luisterde goed of de patiënt ademde.,De verpleegster hoorde goed of de patiënt ademde.,Finite Argument Clause,perception_of,3734,of,luisterde
+De reiziger keek angstig of de trein op tijd vertrok.,De reiziger zag angstig of de trein op tijd vertrok.,Finite Argument Clause,perception_of,3735,of,keek
+De wetenschapper luisterde aandachtig of de reactie plaatsvond.,De wetenschapper hoorde aandachtig of de reactie plaatsvond.,Finite Argument Clause,perception_of,3736,of,luisterde
+De schilder keek nauwlettend of de kleuren goed mengden.,De schilder zag nauwlettend of de kleuren goed mengden.,Finite Argument Clause,perception_of,3737,of,keek
+De atleet luisterde scherp of het startschot klonk.,De atleet hoorde scherp of het startschot klonk.,Finite Argument Clause,perception_of,3738,of,luisterde
+De docent keek kritisch of de studenten de opdracht begrepen.,De docent zag kritisch of de studenten de opdracht begrepen.,Finite Argument Clause,perception_of,3739,of,keek
+De chef-kok keek voorzichtig of de saus de juiste consistentie had.,De chef-kok zag voorzichtig of de saus de juiste consistentie had.,Finite Argument Clause,perception_of,3740,of,keek
+De astronaut keek verwonderd of de raket de atmosfeer bereikte.,De astronaut zag verwonderd of de raket de atmosfeer bereikte.,Finite Argument Clause,perception_of,3741,of,keek
+De fotograaf luisterde nauwkeurig of de camera correct was ingesteld.,De fotograaf hoorde nauwkeurig of de camera correct was ingesteld.,Finite Argument Clause,perception_of,3742,of,luisterde
+De historicus keek geduldig of de documenten goed bewaard waren.,De historicus zag geduldig of de documenten goed bewaard waren.,Finite Argument Clause,perception_of,3743,of,keek
+De zangeres luisterde lang of haar stem zuiver klonk.,De zangeres hoorde lang of haar stem zuiver klonk.,Finite Argument Clause,perception_of,3744,of,luisterde
+De avonturier keek gespannen of het pad veilig was.,De avonturier zag gespannen of het pad veilig was.,Finite Argument Clause,perception_of,3745,of,keek
+De advocaat luisterde aandachtig of de getuige de waarheid sprak.,De advocaat hoorde aandachtig of de getuige de waarheid sprak.,Finite Argument Clause,perception_of,3746,of,luisterde
+De ontdekkingsreiziger keek verbaasd of het landschap onbekend was.,De ontdekkingsreiziger zag verbaasd of het landschap onbekend was.,Finite Argument Clause,perception_of,3747,of,keek
+De manager keek kritisch of de cijfers correct waren.,De manager zag kritisch of de cijfers correct waren.,Finite Argument Clause,perception_of,3748,of,keek
+De archeoloog luisterde voorzichtig of de artefacten intact waren.,De archeoloog hoorde voorzichtig of de artefacten intact waren.,Finite Argument Clause,perception_of,3749,of,luisterde
+De luchtverkeersleider keek gespannen of de vliegtuigen veilig landden.,De luchtverkeersleider zag gespannen of de vliegtuigen veilig landden.,Finite Argument Clause,perception_of,3750,of,keek
+De modeontwerper keek kritisch of de stoffen goed samen pasten.,De modeontwerper zag kritisch of de stoffen goed samen pasten.,Finite Argument Clause,perception_of,3751,of,keek
+De bioloog keek nieuwsgierig of de organismen in hun natuurlijke habitat waren.,De bioloog zag nieuwsgierig of de organismen in hun natuurlijke habitat waren.,Finite Argument Clause,perception_of,3752,of,keek
+De pianist luisterde aandachtig of de toonladder vloeiend werd gespeeld.,De pianist hoorde aandachtig of de toonladder vloeiend werd gespeeld.,Finite Argument Clause,perception_of,3753,of,luisterde
+De journalist keek kritisch of het artikel goed was geschreven.,De journalist zag kritisch of het artikel goed was geschreven.,Finite Argument Clause,perception_of,3754,of,keek
+De trainer luisterde zorgvuldig of de spelers de tactiek begrepen.,De trainer hoorde zorgvuldig of de spelers de tactiek begrepen.,Finite Argument Clause,perception_of,3755,of,luisterde
+De meteoroloog keek nauwlettend of de weersvoorspelling accuraat was.,De meteoroloog zag nauwlettend of de weersvoorspelling accuraat was.,Finite Argument Clause,perception_of,3756,of,keek
+De receptioniste luisterde alert of de telefoon overging.,De receptioniste hoorde alert of de telefoon overging.,Finite Argument Clause,perception_of,3757,of,luisterde
+De wetenschapper luisterde aandachtig of de machine correct functioneerde.,De wetenschapper hoorde aandachtig of de machine correct functioneerde.,Finite Argument Clause,perception_of,3758,of,luisterde
+De verpleegster luisterde geduldig of de patiënt zijn klachten uitlegde.,De verpleegster hoorde geduldig of de patiënt zijn klachten uitlegde.,Finite Argument Clause,perception_of,3759,of,luisterde
+De ontdekkingsreiziger luisterde angstvallig of er geluiden waren in de jungle.,De ontdekkingsreiziger hoorde angstvallig of er geluiden waren in de jungle.,Finite Argument Clause,perception_of,3760,of,luisterde
+De architect keek secuur of de lijnen van het ontwerp recht liepen.,De architect zag secuur of de lijnen van het ontwerp recht liepen.,Finite Argument Clause,perception_of,3761,of,keek
+De klant luisterde kritisch of de verkoper alle functies uitlegde.,De klant hoorde kritisch of de verkoper alle functies uitlegde.,Finite Argument Clause,perception_of,3762,of,luisterde
+De docent keek vragend of de studenten de lesstof begrepen.,De docent zag vragend of de studenten de lesstof begrepen.,Finite Argument Clause,perception_of,3763,of,keek
+De astronoom luisterde aandachtig of de telescopen goed waren afgesteld.,De astronoom hoorde aandachtig of de telescopen goed waren afgesteld.,Finite Argument Clause,perception_of,3764,of,luisterde
+De brandweerman keek alert of er rook uit het gebouw kwam.,De brandweerman zag alert of er rook uit het gebouw kwam.,Finite Argument Clause,perception_of,3765,of,keek
+De bibliothecaris keek intensief of de boeken op de juiste plek stonden.,De bibliothecaris zag intensief of de boeken op de juiste plek stonden.,Finite Argument Clause,perception_of,3766,of,keek
+De journalist luisterde geïnteresseerd of de getuige een duidelijk verhaal had.,De journalist hoorde geïnteresseerd of de getuige een duidelijk verhaal had.,Finite Argument Clause,perception_of,3767,of,luisterde
+De reiziger keek verbaasd of de trein al vertrokken was.,De reiziger zag verbaasd of de trein al vertrokken was.,Finite Argument Clause,perception_of,3768,of,keek
+De fotograaf keek gespannen of het model goed poseerde.,De fotograaf zag gespannen of het model goed poseerde.,Finite Argument Clause,perception_of,3769,of,keek
+De manager keek bedenkelijk of het project op schema lag.,De manager zag bedenkelijk of het project op schema lag.,Finite Argument Clause,perception_of,3770,of,keek
+De student luisterde aandachtig of de professor de vragen beantwoordde.,De student hoorde aandachtig of de professor de vragen beantwoordde.,Finite Argument Clause,perception_of,3771,of,luisterde
+De politieagent keek argwanend of de verdachte zich verdacht gedroeg.,De politieagent zag argwanend of de verdachte zich verdacht gedroeg.,Finite Argument Clause,perception_of,3772,of,keek
+De ober keek snel of de bestelling correct was genoteerd.,De ober zag snel of de bestelling correct was genoteerd.,Finite Argument Clause,perception_of,3773,of,keek
+De programmeur keek kritisch of de code fouten bevatte.,De programmeur zag kritisch of de code fouten bevatte.,Finite Argument Clause,perception_of,3774,of,keek
+De astronoom keek door de telescoop of de sterren helder waren.,De astronoom zag door de telescoop of de sterren helder waren.,Finite Argument Clause,perception_of,3775,de,keek
+De bioloog keek nauwlettend of de planten voldoende zonlicht kregen.,De bioloog zag nauwlettend of de planten voldoende zonlicht kregen.,Finite Argument Clause,perception_of,3776,of,keek
+De bibliothecaris keek zorgvuldig of de boeken op de juiste plank stonden.,De bibliothecaris zag zorgvuldig of de boeken op de juiste plank stonden.,Finite Argument Clause,perception_of,3777,of,keek
+De onderhandelaar luisterde kritisch of de voorwaarden acceptabel waren.,De onderhandelaar hoorde kritisch of de voorwaarden acceptabel waren.,Finite Argument Clause,perception_of,3778,of,luisterde
+De toerist keek verwonderd of het uitzicht vanaf de berg adembenemend was.,De toerist zag verwonderd of het uitzicht vanaf de berg adembenemend was.,Finite Argument Clause,perception_of,3779,of,keek
+De beeldhouwer keek kritisch of de vorm van het beeld goed tot uiting kwam.,De beeldhouwer zag kritisch of de vorm van het beeld goed tot uiting kwam.,Finite Argument Clause,perception_of,3780,of,keek
+De conducteur keek snel of alle passagiers de trein hadden verlaten.,De conducteur zag snel of alle passagiers de trein hadden verlaten.,Finite Argument Clause,perception_of,3781,of,keek
+De detective luisterde aandachtig of er verdachte geluiden in het huis waren.,De detective hoorde aandachtig of er verdachte geluiden in het huis waren.,Finite Argument Clause,perception_of,3782,of,luisterde
+De IT-specialist keek nauwlettend of de computer correct functioneerde.,De IT-specialist zag nauwlettend of de computer correct functioneerde.,Finite Argument Clause,perception_of,3783,of,keek
+De kunstenaar keek kritisch of de verfkleuren op het doek harmonieus waren.,De kunstenaar zag kritisch of de verfkleuren op het doek harmonieus waren.,Finite Argument Clause,perception_of,3784,of,keek
+De politieagent luisterde aandachtig of de sirene klonk.,De politieagent hoorde aandachtig of de sirene klonk.,Finite Argument Clause,perception_of,3785,of,luisterde
+De ober keek onmiddellijk of het glas brak.,De ober zag onmiddellijk of het glas brak.,Finite Argument Clause,perception_of,3786,of,keek
+De studente keek snel of haar naam werd genoemd.,De studente zag snel of haar naam werd genoemd.,Finite Argument Clause,perception_of,3787,of,keek
+De receptioniste keek snel of de gasten arriveerden.,De receptioniste zag snel of de gasten arriveerden.,Finite Argument Clause,perception_of,3788,of,keek
+De ober keek snel of het bestek schoon was.,De ober zag snel of het bestek schoon was.,Finite Argument Clause,perception_of,3789,of,keek
+De dierenarts keek snel of de hond gezond was.,De dierenarts zag snel of de hond gezond was.,Finite Argument Clause,perception_of,3790,of,keek
+De atleet keek onmiddellijk of de startblokken stevig stonden.,De atleet zag onmiddellijk of de startblokken stevig stonden.,Finite Argument Clause,perception_of,3791,of,keek
+De onderzoeker keek snel of de resultaten klopten.,De onderzoeker zag snel of de resultaten klopten.,Finite Argument Clause,perception_of,3792,of,keek
+De modeontwerper keek onmiddellijk of de stof kreukvrij was.,De modeontwerper zag onmiddellijk of de stof kreukvrij was.,Finite Argument Clause,perception_of,3793,of,keek
+De zwemmer luisterde zorgvuldig of het startschot klonk.,De zwemmer hoorde zorgvuldig of het startschot klonk.,Finite Argument Clause,perception_of,3794,of,luisterde
+De monteur luisterde aandachtig of de motor startte.,De monteur hoorde aandachtig of de motor startte.,Finite Argument Clause,perception_of,3795,of,luisterde
+De acteur keek plotseling of het publiek applaudisseerde.,De acteur zag plotseling of het publiek applaudisseerde.,Finite Argument Clause,perception_of,3796,of,keek
+De chef de cuisine keek plotseling of de saus niet aanbrandde.,De chef de cuisine zag plotseling of de saus niet aanbrandde.,Finite Argument Clause,perception_of,3797,keek,keek
+De fotografe keek snel of het licht perfect was.,De fotografe zag snel of het licht perfect was.,Finite Argument Clause,perception_of,3798,of,keek
+De surfer keek snel of de golven hoog genoeg waren.,De surfer zag snel of de golven hoog genoeg waren.,Finite Argument Clause,perception_of,3799,of,keek
+De piloot luisterde nauwkeurig of de motoren zoemden.,De piloot hoorde nauwkeurig of de motoren zoemden.,Finite Argument Clause,perception_of,3800,of,luisterde
+De biograaf keek snel of het boek goed verkocht werd.,De biograaf zag snel of het boek goed verkocht werd.,Finite Argument Clause,perception_of,3801,of,keek
+De vogelaar keek door de verrekijker of de zeldzame vogel te spotten was.,De vogelaar zag door de verrekijker of de zeldzame vogel te spotten was.,Finite Argument Clause,perception_of,3802,de,keek
+De advocaat keek onmiddellijk of de getuige geloofwaardig was.,De advocaat zag onmiddellijk of de getuige geloofwaardig was.,Finite Argument Clause,perception_of,3803,of,keek
+De winkelier keek snel of de voorraad was aangevuld.,De winkelier zag snel of de voorraad was aangevuld.,Finite Argument Clause,perception_of,3804,of,keek
+De presentator keek onmiddellijk of de microfoon werkte.,De presentator zag onmiddellijk of de microfoon werkte.,Finite Argument Clause,perception_of,3805,of,keek
+De onderzoeker keek nauwkeurig of de resultaten statistisch significant waren.,De onderzoeker zag nauwkeurig of de resultaten statistisch significant waren.,Finite Argument Clause,perception_of,3806,of,keek
+De bergbeklimmer keek angstig of de afgrond diep was.,De bergbeklimmer zag angstig of de afgrond diep was.,Finite Argument Clause,perception_of,3807,of,keek
+De historicus keek gefascineerd of het document echt uit de middeleeuwen kwam.,De historicus zag gefascineerd of het document echt uit de middeleeuwen kwam.,Finite Argument Clause,perception_of,3808,of,keek
+De barista keek nauwlettend of het melkschuim perfect was.,De barista zag nauwlettend of het melkschuim perfect was.,Finite Argument Clause,perception_of,3809,of,keek
+De schrijver keek dromerig of de woorden zijn verhaal tot leven brachten.,De schrijver zag dromerig of de woorden zijn verhaal tot leven brachten.,Finite Argument Clause,perception_of,3810,of,keek
+Sem heeft zijn moeder verteld dat hij de toets heeft gehaald gisteren.,Sem heeft zijn moeder gisteren dat hij de toets heeft gehaald verteld.,Finite Argument Clause,position,331,hij,verteld
+Mason heeft zijn vader verzekerd dat hij de lessen heeft gevolgd eergisteren.,Mason heeft zijn vader duidelijk dat hij de lessen heeft gevolgd verzekerd.,Finite Argument Clause,position,332,hij,verzekerd
+Jesse heeft zijn tante gezegd dat hij de aflevering heeft gekeken gisteravond.,Jesse heeft zijn tante eerlijk dat hij de aflevering heeft gekeken gezegd.,Finite Argument Clause,position,333,hij,gezegd
+Olivier heeft zijn schoonmoeder gemeld dat hij de ring heeft gekocht gisteren.,Olivier heeft zijn schoonmoeder gisteren dat hij de ring heeft gekocht gemeld.,Finite Argument Clause,position,334,hij,gemeld
+Thijs heeft zijn neefje verraden dat hij de chocolade heeft gegeten gistermiddag.,Thijs heeft zijn neefje helaas dat hij de chocolade heeft gegeten verraden.,Finite Argument Clause,position,335,hij,verraden
+Mats heeft zijn nichtje verteld dat hij de reis heeft geboekt eergisteren.,Mats heeft zijn nichtje eerlijk dat hij de reis heeft geboekt verteld.,Finite Argument Clause,position,336,hij,verteld
+Jens heeft zijn schoonzus verzekerd dat hij het kind heeft opgehaald gisteren.,Jens heeft zijn schoonzus gisteren dat hij het kind heeft opgehaald verzekerd.,Finite Argument Clause,position,337,hij,verzekerd
+Jack heeft zijn oom gezegd dat hij de route heeft gewandeld gistermiddag.,Jack heeft zijn oom gisteren dat hij de route heeft gewandeld gezegd.,Finite Argument Clause,position,338,hij,gezegd
+Vince heeft zijn man gemeld dat hij de baan heeft gekregen gisteren.,Vince heeft zijn man gisteren dat hij de baan heeft gekregen gemeld.,Finite Argument Clause,position,339,hij,gemeld
+Joep heeft zijn vrouw verraden dat hij het cadeau heeft verstopt gisteravond.,Joep heeft zijn vrouw helaas dat hij het cadeau heeft verstopt verraden.,Finite Argument Clause,position,340,hij,verraden
+Ruben heeft zijn vriend verteld dat hij het boek heeft gelezen gisteren.,Ruben heeft zijn vriend gisteren dat hij het boek heeft gelezen verteld.,Finite Argument Clause,position,3811,hij,verteld
+Luna heeft haar broer verzekerd dat ze de taak heeft voltooid eergisteren.,Luna heeft haar broer eergisteren dat ze de taak heeft voltooid verzekerd.,Finite Argument Clause,position,3812,ze,verzekerd
+Nina heeft haar zus gezegd dat ze de film heeft bekeken gisteravond.,Nina heeft haar zus gisteravond dat ze de film heeft bekeken gezegd.,Finite Argument Clause,position,3813,ze,gezegd
+Daan heeft zijn collega gemeld dat hij de presentatie heeft voorbereid gistermiddag.,Daan heeft zijn collega gistermiddag dat hij de presentatie heeft voorbereid gemeld.,Finite Argument Clause,position,3814,hij,gemeld
+Mila heeft haar vriendin verraden dat ze de verrassing heeft georganiseerd gisteren.,Mila heeft haar vriendin gisteren dat ze de verrassing heeft georganiseerd verraden.,Finite Argument Clause,position,3815,ze,verraden
+Sam heeft zijn klasgenoot verteld dat hij de opdracht heeft afgerond eergisteren.,Sam heeft zijn klasgenoot eergisteren dat hij de opdracht heeft afgerond verteld.,Finite Argument Clause,position,3816,hij,verteld
+Eva heeft haar buurman verzekerd dat ze de boodschappen heeft gehaald gisteren.,Eva heeft haar buurman gisteren dat ze de boodschappen heeft gehaald verzekerd.,Finite Argument Clause,position,3817,ze,verzekerd
+Lars heeft zijn vriendin gezegd dat hij de auto heeft gewassen gistermiddag.,Lars heeft zijn vriendin gistermiddag dat hij de auto heeft gewassen gezegd.,Finite Argument Clause,position,3818,hij,gezegd
+Lisa heeft haar broer verzekerd dat ze de popcorn heeft gekocht eergisteren.,Lisa heeft haar broer eergisteren dat ze de popcorn heeft gekocht verzekerd.,Finite Argument Clause,position,3819,ze,verzekerd
+Tim heeft zijn zus gezegd dat hij de tickets heeft gereserveerd gisteravond.,Tim heeft zijn zus gisteravond dat hij de tickets heeft gereserveerd gezegd.,Finite Argument Clause,position,3820,hij,gezegd
+Nina heeft haar vriendin verraden dat ze de acteur heeft bewonderd gistermiddag.,Nina heeft haar vriendin gistermiddag dat ze de acteur heeft bewonderd verraden.,Finite Argument Clause,position,3821,ze,verraden
+Sophie heeft haar vriend gemeld dat ze de stoelen heeft uitgekozen eergisteren.,Sophie heeft haar vriend eergisteren dat ze de stoelen heeft uitgekozen gemeld.,Finite Argument Clause,position,3822,ze,gemeld
+Bram heeft zijn klasgenoot verteld dat hij de recensies heeft gelezen gisteren.,Bram heeft zijn klasgenoot gisteren dat hij de recensies heeft gelezen verteld.,Finite Argument Clause,position,3823,hij,verteld
+Mila heeft haar vriendin verzekerd dat ze de kaartjes heeft ontvangen gistermiddag.,Mila heeft haar vriendin gistermiddag dat ze de kaartjes heeft ontvangen verzekerd.,Finite Argument Clause,position,3824,ze,verzekerd
+Ruben heeft zijn zus gezegd dat hij de film heeft uitgekozen gisteravond.,Ruben heeft zijn zus gisteravond dat hij de film heeft uitgekozen gezegd.,Finite Argument Clause,position,3825,hij,gezegd
+Hugo heeft zijn vriendin verzekerd dat hij de afspraak is nagekomen.,Hugo heeft zijn vriendin dat hij de afspraak is nagekomen verzekerd.,Finite Argument Clause,position,3826,hij,verzekerd
+Lotte heeft haar broer verteld dat ze de boodschappen heeft gedaan.,Lotte heeft haar broer dat ze de boodschappen heeft gedaan verteld.,Finite Argument Clause,position,3827,ze,verteld
+Sam heeft zijn collega gemeld dat hij de presentatie heeft voorbereid.,Sam heeft zijn collega dat hij de presentatie heeft voorbereid gemeld.,Finite Argument Clause,position,3828,hij,gemeld
+Sanne heeft haar buurman gezegd dat ze het gras heeft gemaaid.,Sanne heeft haar buurman dat ze het gras heeft gemaaid gezegd.,Finite Argument Clause,position,3829,ze,gezegd
+Julia heeft haar vriend gerustgesteld dat ze de medicijnen heeft ingenomen.,Julia heeft haar vriend dat ze de medicijnen heeft ingenomen gerustgesteld.,Finite Argument Clause,position,3830,ze,gerustgesteld
+Thomas heeft zijn oma verteld dat hij de boeken heeft teruggebracht naar de bibliotheek.,Thomas heeft zijn oma dat hij de boeken heeft teruggebracht naar de bibliotheek verteld.,Finite Argument Clause,position,3831,hij,verteld
+Nina heeft haar buurman verzekerd dat ze de planten heeft watergegeven.,Nina heeft haar buurman dat ze de planten heeft watergegeven verzekerd.,Finite Argument Clause,position,3832,ze,verzekerd
+Sven heeft zijn nichtje verraden dat hij de koekjes heeft opgegeten.,Sven heeft zijn nichtje dat hij de koekjes heeft opgegeten verraden.,Finite Argument Clause,position,3833,hij,verraden
+Jasmijn heeft haar schoonvader gemeld dat ze de rekening heeft betaald.,Jasmijn heeft haar schoonvader dat ze de rekening heeft betaald gemeld.,Finite Argument Clause,position,3834,ze,gemeld
+Hector heeft zijn vader gerustgesteld dat hij de strategie heeft bedacht voor de komende veldslag.,Hector heeft zijn vader dat hij de strategie heeft bedacht voor de komende veldslag gerustgesteld.,Finite Argument Clause,position,3835,hij,gerustgesteld
+Cleopatra heeft haar dienares verteld dat ze de onderhandelingen heeft gevoerd met de Romeinse gezant.,Cleopatra heeft haar dienares dat ze de onderhandelingen heeft gevoerd met de Romeinse gezant verteld.,Finite Argument Clause,position,3836,ze,dienares
+Odysseus heeft zijn zoon gemeld dat hij de list heeft bedacht om de cycloop te slim af te zijn.,Odysseus heeft zijn zoon dat hij de list heeft bedacht om de cycloop te slim af te zijn gemeld.,Finite Argument Clause,position,3837,hij,gemeld
+Aeneas heeft zijn medesoldaten verraden dat hij de route heeft gekozen om de vijand te ontwijken.,Aeneas heeft zijn medesoldaten dat hij de route heeft gekozen om de vijand te ontwijken verraden.,Finite Argument Clause,position,3838,hij,verraden
+Socrates heeft zijn leerlingen verzekerd dat hij de filosofische dialoog heeft geïnitieerd.,Socrates heeft zijn leerlingen dat hij de filosofische dialoog heeft geïnitieerd verzekerd.,Finite Argument Clause,position,3839,hij,verzekerd
+Xerxes heeft zijn generaals verteld dat hij de aanval heeft geleid tijdens de historische veldslag.,Xerxes heeft zijn generaals dat hij de aanval heeft geleid tijdens de historische veldslag verteld.,Finite Argument Clause,position,3840,hij,verteld
+Achilles heeft zijn moeder gerustgesteld dat hij de goden gunstig heeft gestemd voor de komende strijd.,Achilles heeft zijn moeder dat hij de goden gunstig heeft gestemd voor de komende strijd gerustgesteld.,Finite Argument Clause,position,3841,hij,gerustgesteld
+Vergilius heeft zijn redenaars uitgelegd dat hij de epische verzen heeft geschreven voor het grote publiek.,Vergilius heeft zijn redenaars dat hij de epische verzen heeft geschreven voor het grote publiek uitgelegd.,Finite Argument Clause,position,3842,hij,uitgelegd
+Penthesilea heeft haar amazones verraden dat ze de bondgenootschappen heeft gesmeed voor de komende alliantie.,Penthesilea heeft haar amazones dat ze de bondgenootschappen heeft gesmeed voor de komende alliantie verraden.,Finite Argument Clause,position,3843,ze,verraden
+Ajax heeft zijn vader duidelijk gemaakt dat hij de strijd heeft gewonnen voor de glorie van zijn naam.,Ajax heeft zijn vader dat hij de strijd heeft gewonnen voor de glorie van zijn naam duidelijk gemaakt.,Finite Argument Clause,position,3844,hij,gemaakt
+Helena heeft haar broer laten weten dat zij de prins heeft afgewezen voor haar eigen vrijheid.,Helena heeft haar broer dat zij de prins heeft afgewezen voor haar eigen vrijheid laten weten.,Finite Argument Clause,position,3845,zij,weten
+Achilles heeft zijn metgezellen laten doorschemeren dat hij de goden heeft gesmeekt om onoverwinnelijkheid.,Achilles heeft zijn metgezellen dat hij de goden heeft gesmeekt om onoverwinnelijkheid laten doorschemeren.,Finite Argument Clause,position,3846,hij,doorschemeren
+Pericles heeft zijn adviseurs op de hoogte gebracht dat hij de democratie heeft bevorderd voor het welzijn van Athene.,Pericles heeft zijn adviseurs dat hij de democratie heeft bevorderd voor het welzijn van Athene op de hoogte gebracht.,Finite Argument Clause,position,3847,hij,gebracht
+Antigone heeft haar zus laten merken dat zij de wetten heeft getrotseerd voor gerechtigheid.,Antigone heeft haar zus dat zij de wetten heeft getrotseerd voor gerechtigheid laten merken.,Finite Argument Clause,position,3848,zij,merken
+Dido heeft haar raadsheren laten beseffen dat zij de stad heeft gesticht als toevluchtsoord voor de vluchtelingen.,Dido heeft haar raadsheren dat zij de stad heeft gesticht als toevluchtsoord voor de vluchtelingen laten beseffen.,Finite Argument Clause,position,3849,zij,beseffen
+Hannibal heeft zijn generaals doen realiseren dat hij de tactiek heeft bedacht om de Romeinse legioenen te slim af te zijn.,Hannibal heeft zijn generaals dat hij de tactiek heeft bedacht om de Romeinse legioenen te slim af te zijn doen realiseren.,Finite Argument Clause,position,3850,hij,realiseren
+Aspasia heeft haar intellectuelen doen beseffen dat zij de filosofische discussie heeft aangewakkerd voor de ontwikkeling van ideeën.,Aspasia heeft haar intellectuelen dat zij de filosofische discussie heeft aangewakkerd voor de ontwikkeling van ideeën doen beseffen.,Finite Argument Clause,position,3851,zij,beseffen
+Ridder Johan heeft zijn schildknaap laten weten dat hij de draak heeft verslagen voor het welzijn van het koninkrijk.,Ridder Johan heeft zijn schildknaap dat hij de draak heeft verslagen voor het welzijn van het koninkrijk laten weten.,Finite Argument Clause,position,3852,hij,weten
+Kasteelheer Gerard heeft zijn hofdame ingelicht dat hij het toernooi heeft gewonnen voor de eer van het kasteel.,Kasteelheer Gerard heeft zijn hofdame dat hij het toernooi heeft gewonnen voor de eer van het kasteel ingelicht.,Finite Argument Clause,position,3853,hij,ingelicht
+Prinses Isabella heeft haar dienstmeid laten doorschemeren dat zij de ridder heeft verkozen voor haar hart.,Prinses Isabella heeft haar dienstmeid dat zij de ridder heeft verkozen voor haar hart laten doorschemeren.,Finite Argument Clause,position,3854,zij,doorschemeren
+De koning heeft zijn nar gerustgesteld dat hij het volk heeft vermaakt voor de vreugde van het rijk.,De koning heeft zijn nar dat hij het volk heeft vermaakt voor de vreugde van het rijk gerustgesteld.,Finite Argument Clause,position,3855,hij,gerustgesteld
+De troubadour heeft zijn publiek laten beseffen dat hij de liederen heeft gezongen voor de liefde van het hof.,De troubadour heeft zijn publiek dat hij de liederen heeft gezongen voor de liefde van het hof laten beseffen.,Finite Argument Clause,position,3856,hij,beseffen
+Middeleeuwse koopman Evert heeft zijn handelaar verteld dat hij de lading heeft verkocht voor een goede winst.,Middeleeuwse koopman Evert heeft zijn handelaar dat hij de lading heeft verkocht voor een goede winst verteld.,Finite Argument Clause,position,3857,hij,verteld
+Tovenaar Geralt heeft zijn tovenaressen laten weten dat hij de spreuk heeft uitgesproken voor de bescherming van het rijk.,Tovenaar Geralt heeft zijn tovenaressen dat hij de spreuk heeft uitgesproken voor de bescherming van het rijk laten weten.,Finite Argument Clause,position,3858,hij,weten
+Herbergierster Els heeft haar klanten gerustgesteld dat zij het bier heeft getapt voor de gezelligheid van de herberg.,Herbergierster Els heeft haar klanten dat zij het bier heeft getapt voor de gezelligheid van de herberg gerustgesteld.,Finite Argument Clause,position,3859,zij,gerustgesteld
+Boogschutter Arjen heeft zijn dame laten beseffen dat hij de roos heeft geschoten voor haar bewondering.,Boogschutter Arjen heeft zijn dame dat hij de roos heeft geschoten voor haar bewondering laten beseffen.,Finite Argument Clause,position,3860,hij,beseffen
+Ridder Reinout heeft zijn schildknaap doen inzien dat hij de draak heeft verslagen voor het welzijn van het koninkrijk.,Ridder Reinout heeft zijn schildknaap dat hij de draak heeft verslagen voor het welzijn van het koninkrijk doen inzien.,Finite Argument Clause,position,3861,hij,inzien
+Ingenieur Lisa heeft haar collega's laten weten dat zij de duurzame technologie heeft ontwikkeld voor de vooruitgang van de energietransitie.,Ingenieur Lisa heeft haar collega's dat zij de duurzame technologie heeft ontwikkeld voor de vooruitgang van de energietransitie laten weten.,Finite Argument Clause,position,3862,zij,weten
+Duurzaamheidsadviseur Marco heeft zijn klanten gerustgesteld dat hij het groene project heeft geleid voor de verduurzaming van de wijk.,Duurzaamheidsadviseur Marco heeft zijn klanten dat hij het groene project heeft geleid voor de verduurzaming van de wijk gerustgesteld.,Finite Argument Clause,position,3863,hij,gerustgesteld
+Windturbine-expert Julia heeft haar team laten weten dat zij de efficiëntie heeft verbeterd voor de optimalisatie van windenergie.,Windturbine-expert Julia heeft haar team dat zij de efficiëntie heeft verbeterd voor de optimalisatie van windenergie laten weten.,Finite Argument Clause,position,3864,zij,weten
+Elektrisch mobiliteitsingenieur Nora heeft haar team gerustgesteld dat zij het laadinfrastructuurproject heeft beheerd voor de bevordering van elektrisch transport.,Elektrisch mobiliteitsingenieur Nora heeft haar team dat zij het laadinfrastructuurproject heeft beheerd voor de bevordering van elektrisch transport gerustgesteld.,Finite Argument Clause,position,3865,zij,gerustgesteld
+Dierenverzorger Dylan heeft zijn bezoekers laten beseffen dat hij de pinguïns heeft geobserveerd voor het behoud van hun natuurlijk gedrag.,Dierenverzorger Dylan heeft zijn bezoekers dat hij de pinguïns heeft geobserveerd voor het behoud van hun natuurlijk gedrag laten beseffen.,Finite Argument Clause,position,3866,hij,beseffen
+Vogelkenner Ingrid heeft haar publiek gerustgesteld dat zij de roofvogels heeft verzorgd voor hun gezondheid.,Vogelkenner Ingrid heeft haar publiek dat zij de roofvogels heeft verzorgd voor hun gezondheid gerustgesteld.,Finite Argument Clause,position,3867,zij,gerustgesteld
+Reptielendeskundige Thijs heeft zijn team laten weten dat hij het terrarium heeft schoongemaakt voor het comfort van de reptielen.,Reptielendeskundige Thijs heeft zijn team dat hij het terrarium heeft schoongemaakt voor het comfort van de reptielen laten weten.,Finite Argument Clause,position,3868,hij,weten
+Dierentuindirecteur Eva heeft haar medewerkers gerustgesteld dat zij het renovatieproject heeft geleid voor een verbeterde leefomgeving.,Dierentuindirecteur Eva heeft haar medewerkers dat zij het renovatieproject heeft geleid voor een verbeterde leefomgeving gerustgesteld.,Finite Argument Clause,position,3869,zij,gerustgesteld
+Olifantenverzorger Noa heeft de bezoekers gerustgesteld dat zij de olifanten heeft voorzien van verrijkingsmateriaal voor hun plezier.,Olifantenverzorger Noa heeft de bezoekers dat zij de olifanten heeft voorzien van verrijkingsmateriaal voor hun plezier gerustgesteld.,Finite Argument Clause,position,3870,zij,gerustgesteld
+Zeehondenverzorgster Jesse heeft haar team laten weten dat zij de zeehonden heeft getraind voor hun fysieke conditie.,Zeehondenverzorgster Jesse heeft haar team dat zij de zeehonden heeft getraind voor hun fysieke conditie laten weten.,Finite Argument Clause,position,3871,zij,weten
+Dierentuinontwerper Zoë heeft haar opdrachtgevers gerustgesteld dat zij het verblijf heeft ontworpen voor de natuurlijke habitat van de dieren.,Dierentuinontwerper Zoë heeft haar opdrachtgevers dat zij het verblijf heeft ontworpen voor de natuurlijke habitat van de dieren gerustgesteld.,Finite Argument Clause,position,3872,zij,gerustgesteld
+Dierentuinmanager Aya heeft haar personeel gerustgesteld dat zij het voedingsprogramma heeft geoptimaliseerd voor een gebalanceerd dieet.,Dierentuinmanager Aya heeft haar personeel dat zij het voedingsprogramma heeft geoptimaliseerd voor een gebalanceerd dieet gerustgesteld.,Finite Argument Clause,position,3873,zij,gerustgesteld
+Dierentuineigenaar Freek heeft zijn bezoekers laten weten dat hij het educatieve programma heeft uitgebreid voor meer bewustwording.,Dierentuineigenaar Freek heeft zijn bezoekers dat hij het educatieve programma heeft uitgebreid voor meer bewustwording laten weten.,Finite Argument Clause,position,3874,hij,weten
+Kunstenaar Leonardo heeft zijn leerlingen laten weten dat hij het meesterwerk heeft geschilderd voor de vernieuwing van de renaissancekunst.,Kunstenaar Leonardo heeft zijn leerlingen dat hij het meesterwerk heeft geschilderd voor de vernieuwing van de renaissancekunst laten weten.,Finite Argument Clause,position,3875,hij,weten
+Wetenschapper Galileo heeft zijn collega's gerustgesteld dat hij de waarnemingen heeft gedaan voor de vooruitgang van de renaissancenatuurkunde.,Wetenschapper Galileo heeft zijn collega's dat hij de waarnemingen heeft gedaan voor de vooruitgang van de renaissancenatuurkunde gerustgesteld.,Finite Argument Clause,position,3876,hij,gerustgesteld
+Filosoof Sophia heeft haar studenten laten weten dat zij de dialogen heeft geschreven voor de verspreiding van de renaissance-ideeën.,Filosoof Sophia heeft haar studenten dat zij de dialogen heeft geschreven voor de verspreiding van de renaissance-ideeën laten weten.,Finite Argument Clause,position,3877,zij,weten
+Architect Raphael heeft zijn team gerustgesteld dat hij het ontwerp heeft gemaakt voor de verfraaiing van de renaissancegebouwen.,Architect Raphael heeft zijn team dat hij het ontwerp heeft gemaakt voor de verfraaiing van de renaissancegebouwen gerustgesteld.,Finite Argument Clause,position,3878,hij,gerustgesteld
+Componist Antonio heeft zijn muzikanten laten weten dat hij de symfonie heeft gecomponeerd voor de bloei van de renaissancemuziek.,Componist Antonio heeft zijn muzikanten dat hij de symfonie heeft gecomponeerd voor de bloei van de renaissancemuziek laten weten.,Finite Argument Clause,position,3879,hij,weten
+Bram heeft zijn grootvader beloofd dat hij het schilderij heeft gerestaureerd.,Bram heeft zijn grootvader dat hij het schilderij heeft gerestaureerd beloofd.,Finite Argument Clause,position,3880,hij,beloofd
+Lisa heeft haar oom verteld dat ze het glas-in-loodraam heeft gerepareerd.,Lisa heeft haar oom dat ze het glas-in-loodraam heeft gerepareerd verteld.,Finite Argument Clause,position,3881,ze,verteld
+Fleur heeft haar schoonvader verzekerd dat ze het altaar heeft gedecoreerd.,Fleur heeft haar schoonvader dat ze het altaar heeft gedecoreerd verzekerd.,Finite Argument Clause,position,3882,ze,verzekerd
+David heeft zijn nichtje gezegd dat hij de kerkbanken heeft gepolijst.,David heeft zijn nichtje dat hij de kerkbanken heeft gepolijst gezegd.,Finite Argument Clause,position,3883,hij,gezegd
+Laura heeft haar schoonzus gemeld dat ze de kaarsen heeft aangestoken.,Laura heeft haar schoonzus dat ze de kaarsen heeft aangestoken gemeld.,Finite Argument Clause,position,3884,ze,gemeld
+Rob heeft zijn tante verraden dat hij de klok heeft gerepareerd.,Rob heeft zijn tante dat hij de klok heeft gerepareerd verraden.,Finite Argument Clause,position,3885,hij,verraden
+Sophie heeft haar broer verteld dat ze het orgel heeft gestemd.,Sophie heeft haar broer dat ze het orgel heeft gestemd verteld.,Finite Argument Clause,position,3886,ze,verteld
+Tim heeft zijn grootmoeder verzekerd dat hij het liturgisch kleed heeft genaaid.,Tim heeft zijn grootmoeder dat hij het liturgisch kleed heeft genaaid verzekerd.,Finite Argument Clause,position,3887,hij,verzekerd
+Nick heeft zijn schoonmoeder gemeld dat hij het beeld heeft gereinigd.,Nick heeft zijn schoonmoeder dat hij het beeld heeft gereinigd gemeld.,Finite Argument Clause,position,3888,hij,gemeld
+Luna heeft haar oom verraden dat ze de kerststal heeft opgezet.,Luna heeft haar oom dat ze de kerststal heeft opgezet verraden.,Finite Argument Clause,position,3889,ze,verraden
+Sem heeft zijn moeder verteld dat hij het doopvont heeft versierd.,Sem heeft zijn moeder dat hij het doopvont heeft versierd verteld.,Finite Argument Clause,position,3890,hij,verteld
+Liam heeft zijn stamoudste beloofd dat hij het vuur heeft ontdekt.,Liam heeft zijn stamoudste dat hij het vuur heeft ontdekt beloofd.,Finite Argument Clause,position,3891,hij,beloofd
+Ayla heeft haar jager verzekerd dat ze de mammoet heeft gevangen.,Ayla heeft haar jager dat ze de mammoet heeft gevangen verzekerd.,Finite Argument Clause,position,3892,ze,verzekerd
+Kai heeft zijn grotgenoot verteld dat hij de speer heeft gesneden.,Kai heeft zijn grotgenoot dat hij de speer heeft gesneden verteld.,Finite Argument Clause,position,3893,hij,verteld
+Zara heeft haar stamoudste gemeld dat ze het hol heeft verstevigd.,Zara heeft haar stamoudste dat ze het hol heeft verstevigd gemeld.,Finite Argument Clause,position,3894,ze,gemeld
+Constantijn heeft de keizer beloofd dat hij het mozaïek heeft voltooid.,Constantijn heeft de keizer dat hij het mozaïek heeft voltooid beloofd.,Finite Argument Clause,position,3895,hij,beloofd
+Theodora heeft de hofdame verzekerd dat ze de icoon heeft gerestaureerd.,Theodora heeft de hofdame dat ze de icoon heeft gerestaureerd verzekerd.,Finite Argument Clause,position,3896,ze,verzekerd
+Alexios heeft de hofdignitaris verteld dat hij de koepel heeft gerepareerd.,Alexios heeft de hofdignitaris dat hij de koepel heeft gerepareerd verteld.,Finite Argument Clause,position,3897,hij,verteld
+Irene heeft de bisschop gemeld dat ze de fresco's heeft geschilderd.,Irene heeft de bisschop dat ze de fresco's heeft geschilderd gemeld.,Finite Argument Clause,position,3898,ze,gemeld
+Niketas heeft de hofarchitect verraden dat hij het paleis heeft uitgebreid.,Niketas heeft de hofarchitect dat hij het paleis heeft uitgebreid verraden.,Finite Argument Clause,position,3899,hij,verraden
+Basilios heeft de hofdame verzekerd dat hij de iconostase heeft ontworpen.,Basilios heeft de hofdame dat hij de iconostase heeft ontworpen verzekerd.,Finite Argument Clause,position,3900,hij,verzekerd
+Het meisje heeft iets gekocht en jij verstond volgens mij wat in ons gesprek.,Het meisje heeft iets gekocht en jij suggereerde volgens mij wat in ons gesprek.,Finite Argument Clause,sluicing_1,341,wat,verstond
+De arts heeft iets genezen en jij begrijpt volgens mij wat door je achtergrond.,De arts heeft iets genezen en jij verklaart volgens mij wat door je achtergrond.,Finite Argument Clause,sluicing_1,342,wat,begrijpt
+De loopjongen heeft iets gehaald en jij weet volgens mij wat door de bestelling.,De loopjongen heeft iets gehaald en jij beweert volgens mij wat door de bestelling.,Finite Argument Clause,sluicing_1,343,wat,weet
+De huisvrouw heeft iets hergebruikt en jij begreep volgens mij wat uit betrouwbare bron.,De huisvrouw heeft iets hergebruikt en jij beweerde volgens mij wat uit betrouwbare bron.,Finite Argument Clause,sluicing_1,344,wat,begreep
+De docente heeft iets herhaald en jij verstond volgens mij wat in de les.,De docente heeft iets herhaald en jij suggereerde volgens mij wat in de les.,Finite Argument Clause,sluicing_1,345,wat,verstond
+De grootmoeder heeft iets herkend en jij weet volgens mij wat door haar verhaal.,De grootmoeder heeft iets herkend en jij beweert volgens mij wat door haar verhaal.,Finite Argument Clause,sluicing_1,346,wat,weet
+De eigenaar heeft iets heropend en jij verstond volgens mij wat in het nieuws.,De eigenaar heeft iets heropend en jij suggereerde volgens mij wat in het nieuws.,Finite Argument Clause,sluicing_1,347,wat,verstond
+De elektricien heeft iets hersteld en jij begrijpt volgens mij wat door zijn verslag.,De elektricien heeft iets hersteld en jij verklaart volgens mij wat door zijn verslag.,Finite Argument Clause,sluicing_1,348,wat,begrijpt
+De tiener heeft iets aangetrokken en jij weet volgens mij wat door de foto.,De tiener heeft iets aangetrokken en jij suggereert volgens mij wat door de foto.,Finite Argument Clause,sluicing_1,349,wat,weet
+De kok heeft iets fijngemalen en jij begreep volgens mij wat door de menukaart.,De kok heeft iets fijngemalen en jij verklaarde volgens mij wat voor de menukaart.,Finite Argument Clause,sluicing_1,350,wat,begreep
+De onderzoeker heeft iets ontdekt en jij begrijpt volgens mij wat door jouw analyse.,De onderzoeker heeft iets ontdekt en jij beweert volgens mij wat door jouw analyse.,Finite Argument Clause,sluicing_1,3901,wat,begrijpt
+De student heeft iets bestudeerd en zij weten volgens mij wat door hun onderzoek.,De student heeft iets bestudeerd en zij verklaren volgens mij wat door hun onderzoek.,Finite Argument Clause,sluicing_1,3902,wat,weten
+De lerares heeft iets uitgelegd en wij verstaan volgens mij wat tijdens haar presentatie.,De lerares heeft iets uitgelegd en wij suggereren volgens mij wat tijdens haar presentatie.,Finite Argument Clause,sluicing_1,3903,wat,verstaan
+De loodgieter heeft iets gerepareerd en jullie begrijpen volgens mij wat door jullie ervaring.,De loodgieter heeft iets gerepareerd en jullie beweren volgens mij wat door jullie ervaring.,Finite Argument Clause,sluicing_1,3904,wat,begrijpen
+De monteur heeft iets geïnstalleerd en ik weet volgens mij wat door mijn training.,De monteur heeft iets geïnstalleerd en ik verklaar volgens mij wat door mijn training.,Finite Argument Clause,sluicing_1,3905,wat,weet
+De architect heeft iets ontworpen en zij verstaan volgens mij wat over de intercom.,De architect heeft iets ontworpen en zij suggereren volgens mij wat over de intercom.,Finite Argument Clause,sluicing_1,3906,wat,verstaan
+De rechter heeft iets beslist en wij begrijpen volgens mij wat door het vonnis.,De rechter heeft iets beslist en wij beweren volgens mij wat door het vonnis.,Finite Argument Clause,sluicing_1,3907,wat,begrijpen
+De klant heeft iets gekocht en zij weten volgens mij wat door de bon.,De klant heeft iets gekocht en zij verklaren volgens mij wat door de bon.,Finite Argument Clause,sluicing_1,3908,wat,weten
+De serveerster heeft iets geserveerd en hij begrijpt volgens mij wat dankzij de uitleg.,De serveerster heeft iets geserveerd en hij suggereert volgens mij wat dankzij de uitleg.,Finite Argument Clause,sluicing_1,3909,wat,begrijpt
+De programmeur heeft iets ontwikkeld en jij weet volgens mij wat door jouw expertise.,De programmeur heeft iets ontwikkeld en jij beweert volgens mij wat door jouw expertise.,Finite Argument Clause,sluicing_1,3910,wat,weet
+De coach heeft iets bedacht en wij verstaan volgens mij wat door zijn instructie.,De coach heeft iets bedacht en wij suggereren volgens mij wat door zijn instructie.,Finite Argument Clause,sluicing_1,3911,wat,verstaan
+De tuinman heeft iets geplant en zij begrijpt volgens mij wat dankzij haar onderzoek.,De tuinman heeft iets geplant en zij beweert volgens mij wat dankzij haar onderzoek.,Finite Argument Clause,sluicing_1,3912,wat,begrijpt
+De politieagent heeft iets onderzocht en jullie weten volgens mij wat volgens jullie dossier.,De politieagent heeft iets onderzocht en jullie verklaren volgens mij wat volgens jullie dossier.,Finite Argument Clause,sluicing_1,3913,wat,weten
+De manager heeft iets besloten en zij begrijpen volgens mij wat door haar memo.,De manager heeft iets besloten en zij suggereren volgens mij wat door haar memo.,Finite Argument Clause,sluicing_1,3914,wat,begrijpen
+De advocaat heeft iets gepleit en wij verstaan volgens mij wat tijdens zijn argumentatie.,De advocaat heeft iets gepleit en wij beweren volgens mij wat tijdens zijn argumentatie.,Finite Argument Clause,sluicing_1,3915,wat,verstaan
+De chef-kok heeft iets bereid en ik weet volgens mij wat door het recept.,De chef-kok heeft iets bereid en ik verklaar volgens mij wat door het recept.,Finite Argument Clause,sluicing_1,3916,wat,weet
+De verkoper heeft iets aanbevolen en zij begrijpen volgens mij wat tijdens de demonstratie.,De verkoper heeft iets aanbevolen en zij beweren volgens mij wat tijdens de demonstratie.,Finite Argument Clause,sluicing_1,3917,wat,begrijpen
+De ingenieur heeft iets ontwikkeld en jij verstaat volgens mij wat dankzij haar pitch.,De ingenieur heeft iets ontwikkeld en jij suggereert volgens mij wat dankzij haar pitch.,Finite Argument Clause,sluicing_1,3918,wat,verstaat
+De psycholoog heeft iets geanalyseerd en wij weten volgens mij wat door onze observatie.,De psycholoog heeft iets geanalyseerd en wij beweren volgens mij wat door onze observatie.,Finite Argument Clause,sluicing_1,3919,wat,weten
+De muzikant heeft iets gecomponeerd en wij begrijpen volgens mij wat dankzij de partituur.,De muzikant heeft iets gecomponeerd en wij verklaren volgens mij wat dankzij de partituur.,Finite Argument Clause,sluicing_1,3920,wat,begrijpen
+De schrijver heeft iets bedacht en zij weten volgens mij wat door de samenvatting.,De schrijver heeft iets bedacht en zij suggereren volgens mij wat door de samenvatting.,Finite Argument Clause,sluicing_1,3921,wat,weten
+De consultant heeft iets geadviseerd en wij weten volgens mij wat door onze expertise.,De consultant heeft iets geadviseerd en wij beweren volgens mij wat door onze expertise.,Finite Argument Clause,sluicing_1,3922,wat,weten
+De klantenservicemedewerker heeft iets opgelost en zij begrijpen volgens mij wat door de review.,De klantenservicemedewerker heeft iets opgelost en zij verklaren volgens mij wat door de review.,Finite Argument Clause,sluicing_1,3923,wat,begrijpen
+De wetenschapper heeft iets geobserveerd en zij wisten volgens mij wat door hun data.,De wetenschapper heeft iets geobserveerd en zij suggereerden volgens mij wat door hun data.,Finite Argument Clause,sluicing_1,3924,wat,wisten
+De journalist heeft iets gerapporteerd en wij wisten volgens mij wat door het artikel.,De journalist heeft iets gerapporteerd en wij beweerden volgens mij wat door het artikel.,Finite Argument Clause,sluicing_1,3925,wat,wisten
+De leraar heeft iets getoetst en zij begrijpen volgens mij wat dankzij de feedback.,De leraar heeft iets getoetst en zij verklaren volgens mij wat dankzij de feedback.,Finite Argument Clause,sluicing_1,3926,wat,begrijpen
+De verpleegkundige heeft iets verzorgd en jij verstond volgens mij wat tijdens het telefoongesprek.,De verpleegkundige heeft iets verzorgd en jij suggereerde volgens mij wat tijdens het telefoongesprek.,Finite Argument Clause,sluicing_1,3927,wat,verstond
+De docent heeft iets beoordeeld en wij weten volgens mij wat door de criteria.,De docent heeft iets beoordeeld en wij suggereren volgens mij wat door de criteria.,Finite Argument Clause,sluicing_1,3928,wat,weten
+De ondernemer heeft iets gelanceerd en jij weet volgens mij wat door jouw analyse.,De ondernemer heeft iets gelanceerd en jij verklaart volgens mij wat door jouw analyse.,Finite Argument Clause,sluicing_1,3929,wat,weet
+De reiziger heeft iets verkend en zij weten volgens mij wat door hun kaart.,De reiziger heeft iets verkend en zij verklaren volgens mij wat door hun kaart.,Finite Argument Clause,sluicing_1,3930,wat,weten
+De gids heeft iets uitgelegd en wij verstonden volgens mij wat tijdens de excursie.,De gids heeft iets uitgelegd en wij suggereerden volgens mij wat tijdens de excursie.,Finite Argument Clause,sluicing_1,3931,wat,verstonden
+De avonturier heeft iets beleefd en jij begrijpt volgens mij wat door jouw ervaring.,De avonturier heeft iets beleefd en jij beweert volgens mij wat door jouw ervaring.,Finite Argument Clause,sluicing_1,3932,wat,begrijpt
+De vakantieganger heeft iets gemist en ik weet volgens mij wat door het reisverslag.,De vakantieganger heeft iets gemist en ik verklaar volgens mij wat door het reisverslag.,Finite Argument Clause,sluicing_1,3933,wat,weet
+De duiker heeft iets gecommuniceerd en wij begrijpen volgens mij wat door de instructies.,De duiker heeft iets gecommuniceerd en wij beweren volgens mij wat door de instructies.,Finite Argument Clause,sluicing_1,3934,wat,begrijpen
+De toerist heeft iets gefotografeerd en zij weten volgens mij wat door zijn uitroep.,De toerist heeft iets gefotografeerd en zij verklaren volgens mij wat door zijn uitroep.,Finite Argument Clause,sluicing_1,3935,wat,weten
+De reisleider heeft iets aangeraden en ik begrijp volgens mij wat door mijn kennis.,De reisleider heeft iets aangeraden en ik suggereer volgens mij wat door mijn kennis.,Finite Argument Clause,sluicing_1,3936,wat,begrijp
+De toerist heeft iets bezocht en ik weet volgens mij wat door het schema.,De toerist heeft iets bezocht en ik verklaar volgens mij wat door het schema.,Finite Argument Clause,sluicing_1,3937,wat,weet
+De ridder heeft iets ontdekt en ik begrijp volgens mij wat uit zijn brief.,De ridder heeft iets ontdekt en ik beweer volgens mij wat uit zijn brief.,Finite Argument Clause,sluicing_1,3938,wat,begrijp
+De koningin heeft iets bevolen en zij weten volgens mij wat door haar decreet.,De koningin heeft iets bevolen en zij suggereren volgens mij wat door haar decreet.,Finite Argument Clause,sluicing_1,3939,wat,weten
+De nar heeft iets gefluisterd en wij verstaan volgens mij wat tijdens zijn optreden.,De nar heeft iets gefluisterd en wij verklaren volgens mij wat tijdens zijn optreden.,Finite Argument Clause,sluicing_1,3940,wat,verstaan
+De troubadour heeft iets gezongen en zij begrepen volgens mij wat in zijn lied.,De troubadour heeft iets gezongen en zij beweerden volgens mij wat in zijn lied.,Finite Argument Clause,sluicing_1,3941,wat,begrepen
+De monnik heeft iets verteld en zij weet volgens mij wat dankzij het manuscript.,De monnik heeft iets verteld en zij verklaart volgens mij wat dankzij het manuscript.,Finite Argument Clause,sluicing_1,3942,wat,weet
+De koopman heeft iets verkocht en zij begrepen volgens mij wat uit zijn woorden.,De koopman heeft iets verkocht en zij beweerden volgens mij wat uit zijn woorden.,Finite Argument Clause,sluicing_1,3943,wat,begrepen
+De schildknaap heeft iets gezien en zij verstaat volgens mij wat vanuit het bos.,De schildknaap heeft iets gezien en zij verklaart volgens mij wat vanuit het bos.,Finite Argument Clause,sluicing_1,3944,wat,verstaat
+De edelman heeft iets geschonken en ik begrijp volgens mij wat door zijn gebaar.,De edelman heeft iets geschonken en ik beweer volgens mij wat door zijn gebaar.,Finite Argument Clause,sluicing_1,3945,wat,begrijp
+De jonkvrouw heeft iets gelezen en jullie weten volgens mij wat uit haar boek.,De jonkvrouw heeft iets gelezen en jullie suggereren volgens mij wat uit haar boek.,Finite Argument Clause,sluicing_1,3946,wat,weten
+De nar heeft iets gefluisterd en wij verstonden volgens mij wat tijdens het banket.,De nar heeft iets gefluisterd en wij beweerden volgens mij wat tijdens het banket.,Finite Argument Clause,sluicing_1,3947,wat,verstonden
+De hofdame heeft iets gefluisterd en wij begrijpen volgens mij wat tijdens de audiëntie.,De hofdame heeft iets gefluisterd en wij verklaren volgens mij wat tijdens de audiëntie.,Finite Argument Clause,sluicing_1,3948,wat,begrijpen
+De koning heeft iets bevolen en zij weten volgens mij wat door zijn decreet.,De koning heeft iets bevolen en zij beweren volgens mij wat door zijn decreet.,Finite Argument Clause,sluicing_1,3949,wat,weten
+De jonkvrouw heeft iets beleefd en wij begrijpen volgens mij wat uit haar geschrift.,De jonkvrouw heeft iets beleefd en wij beweren volgens mij wat uit haar geschrift.,Finite Argument Clause,sluicing_1,3950,wat,begrijpen
+De schildknaap heeft iets gezien en ik versta volgens mij wat uit zijn verslag.,De schildknaap heeft iets gezien en ik verklaar volgens mij wat uit zijn verslag.,Finite Argument Clause,sluicing_1,3951,wat,versta
+De alchemist heeft iets gemengd en jij begrijpt volgens mij wat dankzij de geur.,De alchemist heeft iets gemengd en jij beweert volgens mij wat dankzij de geur.,Finite Argument Clause,sluicing_1,3952,wat,begrijpt
+Mijn vader heeft iets gevonden en ik begrijp volgens mij wat op de kaart.,Mijn vader heeft iets gevonden en ik beweer volgens mij wat op de kaart.,Finite Argument Clause,sluicing_1,3953,wat,begrijp
+Mijn zus heeft iets ontdekt en zij weten volgens mij wat door hun observatie.,Mijn zus heeft iets ontdekt en zij suggereren volgens mij wat door hun observatie.,Finite Argument Clause,sluicing_1,3954,wat,weten
+Mijn moeder heeft iets waargenomen en zij begrepen volgens mij wat tijdens de tocht.,Mijn moeder heeft iets waargenomen en zij beweerden volgens mij wat tijdens de tocht.,Finite Argument Clause,sluicing_1,3955,wat,begrepen
+Onze oom heeft iets gevonden en hij weet volgens mij wat door zijn ervaring.,Onze oom heeft iets gevonden en hij verklaart volgens mij wat door zijn ervaring.,Finite Argument Clause,sluicing_1,3956,wat,weet
+Mijn tante heeft iets voorgesteld en wij verstaan volgens mij wat uit haar suggestie.,Mijn tante heeft iets voorgesteld en wij verklaren volgens mij wat uit haar suggestie.,Finite Argument Clause,sluicing_1,3957,wat,verstaan
+Mijn grootouders hebben iets besloten en hij begrijpt volgens mij wat uit hun overleg.,Mijn grootouders hebben iets besloten en hij begrijpt volgens mij wat uit hun overleg.,Finite Argument Clause,sluicing_1,3958,wat,begrijpt
+Mijn moeder heeft iets geobserveerd en zij begrepen volgens mij wat tijdens de wandeling.,Mijn moeder heeft iets geobserveerd en zij beweerden volgens mij wat tijdens de wandeling.,Finite Argument Clause,sluicing_1,3959,wat,begrepen
+Onze oom heeft iets gezien en zij weet volgens mij wat door haar ervaring.,Onze oom heeft iets gezien en zij verklaart volgens mij wat door haar ervaring.,Finite Argument Clause,sluicing_1,3960,wat,weet
+De skiër is iets vergeten en jij begreep volgens mij wat door zijn reactie.,De skiër is iets vergeten en jij beweerde volgens mij wat door zijn reactie.,Finite Argument Clause,sluicing_1,3961,wat,begreep
+De snowboarder heeft iets geleerd en zij wisten volgens mij wat door de instructies.,De snowboarder heeft iets geleerd en zij suggereerden volgens mij wat door de instructies.,Finite Argument Clause,sluicing_1,3962,wat,wisten
+De schaatser heeft iets aangetrokken en jij verstond volgens mij wat tijdens de demonstratie.,De schaatser heeft iets aangetrokken en jij verklaarde volgens mij wat tijdens de demonstratie.,Finite Argument Clause,sluicing_1,3963,wat,verstond
+De snowboarder heeft iets geprobeerd en wij begrepen volgens mij wat door zijn gebaren,De snowboarder heeft iets geprobeerd en wij beweerden volgens mij wat door zijn gebaren.,Finite Argument Clause,sluicing_1,3964,wat,begrepen
+Het skiteam heeft iets gewonnen en jullie wisten volgens mij wat door hun training.,Het skiteam heeft iets gewonnen en jullie suggereerden volgens mij wat door hun training.,Finite Argument Clause,sluicing_1,3965,wat,wisten
+De instructeur heeft iets uitgelegd en zij begrepen volgens mij wat door zijn voorbeeld.,De instructeur heeft iets uitgelegd en zij beweerden volgens mij wat door zijn voorbeeld.,Finite Argument Clause,sluicing_1,3966,wat,begrepen
+De skiër heeft iets ontdekt en ik verstond volgens mij wat door zijn opwinding.,De skiër heeft iets ontdekt en ik verklaarde volgens mij wat door zijn opwinding.,Finite Argument Clause,sluicing_1,3967,wat,verstond
+Het skiteam heeft iets gepland en wij begrepen volgens mij wat door hun strategie.,Het skiteam heeft iets gepland en wij suggereerden volgens mij wat door hun strategie.,Finite Argument Clause,sluicing_1,3968,wat,begrepen
+De snowboarder heeft iets geobserveerd en ik verstond volgens mij wat door mijn expertise.,De snowboarder heeft iets geobserveerd en ik verklaarde volgens mij wat door mijn expertise.,Finite Argument Clause,sluicing_1,3969,wat,verstond
+De schaatser heeft iets bekritiseerd en jullie begrepen volgens mij wat door zijn analyse.,De schaatser heeft iets bekritiseerd en jullie suggereerden volgens mij wat door zijn analyse.,Finite Argument Clause,sluicing_1,3970,wat,begrepen
+Het skiteam heeft iets besloten en wij wisten volgens mij wat door het overleg.,Het skiteam heeft iets besloten en wij suggereerden volgens mij wat door het overleg.,Finite Argument Clause,sluicing_1,3971,wat,wisten
+De verpleegster heeft iets toegediend en jij begreep volgens mij wat door zijn training.,De verpleegster heeft iets toegediend en jij verklaarde volgens mij wat door zijn training.,Finite Argument Clause,sluicing_1,3972,wat,begreep
+De dokter heeft iets gediagnosticeerd en jullie begrepen volgens mij wat door haar uitleg.,De dokter heeft iets gediagnosticeerd en jullie suggereerden volgens mij wat door haar uitleg.,Finite Argument Clause,sluicing_1,3973,wat,begrepen
+De verpleegster heeft iets geïnjecteerd en jij wist volgens mij wat dankzij de reacties.,De verpleegster heeft iets geïnjecteerd en jij suggereerde volgens mij wat dankzij de reacties.,Finite Argument Clause,sluicing_1,3974,wat,wist
+De anesthesist heeft iets toegediend en jij begreep volgens mij wat door de effecten.,De anesthesist heeft iets toegediend en jij beweerde volgens mij wat door de effecten.,Finite Argument Clause,sluicing_1,3975,wat,begreep
+De arts heeft iets voorgeschreven en jij verstond volgens mij wat tijdens het ziekteproces.,De arts heeft iets voorgeschreven en jij verklaarde volgens mij wat tijdens het ziekteproces.,Finite Argument Clause,sluicing_1,3976,wat,verstond
+De laborant heeft iets geanalyseerd en jullie begrepen volgens mij wat dankzij de interpretatie.,De laborant heeft iets geanalyseerd en jullie beweerden volgens mij wat dankzij de interpretatie.,Finite Argument Clause,sluicing_1,3977,wat,begrepen
+De cardioloog heeft iets gedetecteerd en jij wist volgens mij wat door zijn uitleg.,De cardioloog heeft iets gedetecteerd en jij suggereerde volgens mij wat door zijn uitleg.,Finite Argument Clause,sluicing_1,3978,wat,wist
+De radioloog heeft iets geïnterpreteerd en jij wist volgens mij wat tijdens het onderzoek.,De radioloog heeft iets geïnterpreteerd en jij beweerde volgens mij wat tijdens het onderzoek.,Finite Argument Clause,sluicing_1,3979,wat,wist
+De verpleegkundige heeft iets gerapporteerd en jullie begrepen volgens mij wat uit het verslag.,De verpleegkundige heeft iets gerapporteerd en jullie begrepen volgens mij wat uit het verslag.,Finite Argument Clause,sluicing_1,3980,wat,begrepen
+De neuroloog heeft iets geobserveerd en jullie wisten volgens mij wat tijdens het consult.,De neuroloog heeft iets geobserveerd en jullie beweerden volgens mij wat tijdens het consult.,Finite Argument Clause,sluicing_1,3981,wat,wisten
+De spoedarts heeft iets gediagnosticeerd en jij verstond volgens mij wat gedurende die situatie.,De spoedarts heeft iets gediagnosticeerd en jij verklaarde volgens mij wat gedurende die situatie.,Finite Argument Clause,sluicing_1,3982,wat,verstond
+De psychiater heeft iets geanalyseerd en jullie begrepen volgens mij wat tijdens de sessie.,De psychiater heeft iets geanalyseerd en jullie beweerden volgens mij wat tijdens de sessie.,Finite Argument Clause,sluicing_1,3983,wat,begrepen
+De tandarts heeft iets behandeld en jij wist volgens mij wat tijdens de afspraak.,De tandarts heeft iets behandeld en jij suggereerde volgens mij wat tijdens de afspraak.,Finite Argument Clause,sluicing_1,3984,wat,wist
+De apotheker heeft iets voorgeschreven en jullie wisten volgens mij wat tijdens de uitleg.,De apotheker heeft iets voorgeschreven en jullie suggereerden volgens mij wat tijdens de uitleg.,Finite Argument Clause,sluicing_1,3985,wat,wisten
+De gynaecoloog heeft iets onderzocht en jij begreep volgens mij wat dankzij het gesprek.,De gynaecoloog heeft iets onderzocht en jij beweerde volgens mij wat dankzij het gesprek.,Finite Argument Clause,sluicing_1,3986,wat,begreep
+De chirurg heeft iets geopereerd en jij wist volgens mij wat tijdens de voorlichting.,De chirurg heeft iets geopereerd en jij suggereerde volgens mij wat tijdens de voorlichting.,Finite Argument Clause,sluicing_1,3987,wat,wist
+De kerstman heeft iets onder de boom gelegd en jullie wisten volgens mij wat in de ochtend.,De kerstman heeft iets onder de boom gelegd en jullie beweerden volgens mij wat in de ochtend.,Finite Argument Clause,sluicing_1,3988,wat,gelegd
+De tante heeft iets voor het kerstdiner gemaakt en wij weten volgens mij wat dankzij de traditie.,De tante heeft iets voor het kerstdiner gemaakt en wij suggereren volgens mij wat dankzij de traditie.,Finite Argument Clause,sluicing_1,3989,wat,gemaakt
+De kerstman bracht iets mee en jij verstond volgens mij wat door de belletjes.,De kerstman bracht iets mee en jij beweerde volgens mij wat door de belletjes.,Finite Argument Clause,sluicing_1,3990,wat,verstond
+Het meisje heeft iets gekocht en ik denk dat jij weet wat over een paar dagen.,Het meisje heeft iets gekocht en ik denk dat jij wat weet over een paar dagen.,Finite Argument Clause,sluicing_2,351,weet wat,
+De arts heeft iets genezen en ik vermoed dat jij begrijpt wat over een paar dagen.,De arts heeft iets genezen en ik vermoed dat jij wat begrijpt over een paar dagen.,Finite Argument Clause,sluicing_2,352,begrijpt wat,
+De loopjongen heeft iets gehaald en ik geloof dat jij doorhebt wat over een paar dagen.,De loopjongen heeft iets gehaald en ik geloof dat jij wat doorhebt over een paar dagen.,Finite Argument Clause,sluicing_2,353,doorhebt wat,
+De huisvrouw heeft iets hergebruikt en ik verwacht dat jij doorhebt wat over een paar dagen.,De huisvrouw heeft iets hergebruikt en ik verwacht dat jij wat doorhebt over een paar dagen.,Finite Argument Clause,sluicing_2,354,doorhebt wat,
+De docente heeft iets herhaald en ik denk dat jij weet wat over een paar dagen.,De docente heeft iets herhaald en ik denk dat jij wat weet over een paar dagen.,Finite Argument Clause,sluicing_2,355,weet wat,
+De grootmoeder heeft iets herkend en ik geloof dat jij inziet wat over een paar dagen.,De grootmoeder heeft iets herkend en ik geloof dat jij wat inziet over een paar dagen.,Finite Argument Clause,sluicing_2,356,inziet wat,
+De eigenaar heeft iets heropend en ik vermoed dat jij doorhebt wat over een paar dagen.,De eigenaar heeft iets heropend en ik vermoed dat jij wat doorhebt over een paar dagen.,Finite Argument Clause,sluicing_2,357,doorhebt wat,
+De elektricien heeft iets hersteld en ik verwacht dat jij weet wat over een paar dagen.,De elektricien heeft iets hersteld en ik verwacht dat jij wat weet over een paar dagen.,Finite Argument Clause,sluicing_2,358,weet wat,
+De tiener heeft iets aangetrokken en ik denk dat jij begrijpt wat over een paar dagen.,De tiener heeft iets aangetrokken en ik denk dat jij wat begrijpt over een paar dagen.,Finite Argument Clause,sluicing_2,359,begrijpt wat,
+De kok heeft iets fijngemalen en ik verwacht dat jij inziet wat over een paar dagen.,De kok heeft iets fijngemalen en ik verwacht dat jij wat inziet over een paar dagen.,Finite Argument Clause,sluicing_2,360,inziet wat,
+De timmerman heeft iets getimmerd en ik geloof dat jij begrijpt wat volgende week.,De timmerman heeft iets getimmerd en ik geloof dat jij wat begrijpt volgende week.,Finite Argument Clause,sluicing_2,3991,begrijpt wat,
+De astronaut heeft iets ontdekt en ik denk dat jij weet wat volgende week.,De astronaut heeft iets ontdekt en ik denk dat jij wat weet volgende week.,Finite Argument Clause,sluicing_2,3992,weet wat,
+De boer heeft iets geplant en ik vermoed dat jij ziet wat volgende week.,De boer heeft iets geplant en ik vermoed dat jij wat ziet volgende week.,Finite Argument Clause,sluicing_2,3993,ziet wat,
+De politieagent heeft iets onderzocht en ik verwacht dat jij doorhebt wat volgende week.,De politieagent heeft iets onderzocht en ik verwacht dat jij wat doorhebt volgende week.,Finite Argument Clause,sluicing_2,3994,doorhebt wat,
+De chef heeft iets bereid en ik vermoed dat jij proeft wat vanavond.,De chef heeft iets bereid en ik vermoed dat jij wat proeft vanavond.,Finite Argument Clause,sluicing_2,3995,proeft wat,
+De advocaat heeft iets verdedigd en ik vermoed dat jij hoort wat vanavond.,De advocaat heeft iets verdedigd en ik vermoed dat jij wat hoort vanavond.,Finite Argument Clause,sluicing_2,3996,hoort wat,
+De loodgieter heeft iets gerepareerd en ik vermoed dat jij weet wat vanavond.,De loodgieter heeft iets gerepareerd en ik vermoed dat jij wat weet vanavond.,Finite Argument Clause,sluicing_2,3997,weet wat,
+De musicus heeft iets gecomponeerd en ik verwacht dat jij begrijpt wat vanavond.,De musicus heeft iets gecomponeerd en ik verwacht dat jij wat begrijpt vanavond.,Finite Argument Clause,sluicing_2,3998,begrijpt wat,
+De atleet heeft iets gepresteerd en ik vermoed dat jij weet wat vanavond.,De atleet heeft iets gepresteerd en ik vermoed dat jij wat weet vanavond.,Finite Argument Clause,sluicing_2,3999,weet wat,
+De vriend heeft iets geheim gehouden en ik vermoed dat jij begrijpt wat spoedig.,De vriend heeft iets geheim gehouden en ik vermoed dat jij wat begrijpt spoedig.,Finite Argument Clause,sluicing_2,4000,begrijpt wat,
+De kinderen hebben iets gevonden en ik denk dat jullie weten wat nu.,De kinderen hebben iets gevonden en ik denk dat jullie wat weten nu.,Finite Argument Clause,sluicing_2,4001,weten wat,
+De buren hebben iets gevierd en ik vermoed dat jullie weten wat vanavond.,De buren hebben iets gevierd en ik vermoed dat jullie wat weten vanavond.,Finite Argument Clause,sluicing_2,4002,weten wat,
+De student heeft iets geleerd en ik geloof dat jullie weten wat binnenkort.,De student heeft iets geleerd en ik geloof dat jullie wat weten binnenkort.,Finite Argument Clause,sluicing_2,4003,weten wat,
+Het gezin heeft iets georganiseerd en ik geloof dat jullie doorhebben wat vanavond.,Het gezin heeft iets georganiseerd en ik geloof dat jullie wat doorhebben vanavond.,Finite Argument Clause,sluicing_2,4004,doorhebben wat,
+De leerlingen hebben iets bedacht en ik vermoed dat jij inziet wat binnenkort.,De leerlingen hebben iets bedacht en ik vermoed dat jij wat inziet binnenkort.,Finite Argument Clause,sluicing_2,4005,inziet wat,
+De buurvrouw heeft iets gebakken en ik vermoed dat Tim ontdekt wat vanavond.,De buurvrouw heeft iets gebakken en ik vermoed dat Tim wat ontdekt vanavond.,Finite Argument Clause,sluicing_2,4006,ontdekt wat,
+De vrienden hebben iets besloten en ik denk dat Lisa ziet wat morgen.,De vrienden hebben iets besloten en ik denk dat Lisa wat ziet morgen.,Finite Argument Clause,sluicing_2,4007,ziet wat,
+De atleet heeft iets gepresteerd en ik verwacht dat de coach begrijpt wat nu.,De atleet heeft iets gepresteerd en ik verwacht dat de coach wat begrijpt nu.,Finite Argument Clause,sluicing_2,4008,begrijpt wat,
+De ouders hebben iets georganiseerd en ik denk dat de kinderen begrijpen wat binnenkort.,De ouders hebben iets georganiseerd en ik denk dat de kinderen wat begrijpen binnenkort.,Finite Argument Clause,sluicing_2,4009,begrijpen wat,
+De kunstenaar heeft iets geschilderd en ik vermoed dat de juryleden inzien wat over een week.,De kunstenaar heeft iets geschilderd en ik vermoed dat de juryleden wat inzien over een week.,Finite Argument Clause,sluicing_2,4010,inzien wat,
+De coach heeft iets geleerd en ik denk dat de spelers begrijpen wat nu.,De coach heeft iets geleerd en ik denk dat de spelers wat begrijpen nu.,Finite Argument Clause,sluicing_2,4011,begrijpen wat,
+De broers hebben iets uitgevonden en ik geloof dat de zusjes begrijpen wat straks.,De broers hebben iets uitgevonden en ik geloof dat de zusjes wat begrijpen straks.,Finite Argument Clause,sluicing_2,4012,begrijpen wat,
+De muzikant heeft iets gecomponeerd en ik denk dat de luisteraars horen wat morgen.,De muzikant heeft iets gecomponeerd en ik denk dat de luisteraars wat horen morgen.,Finite Argument Clause,sluicing_2,4013,horen wat,
+De grootvader heeft iets geplant en ik denk dat de kleinzoon weet wat volgend jaar.,De grootvader heeft iets geplant en ik denk dat de kleinzoon wat weet volgend jaar.,Finite Argument Clause,sluicing_2,4014,weet wat,
+De heks heeft iets voorspeld en ik verwacht dat de dorpsbewoners weten wat morgen.,De heks heeft iets voorspeld en ik verwacht dat de dorpsbewoners wat weten morgen.,Finite Argument Clause,sluicing_2,4015,weten wat,
+De smid heeft iets gesmeed en ik denk dat de dorpelingen begrijpen wat straks.,De smid heeft iets gesmeed en ik denk dat de dorpelingen wat begrijpen straks.,Finite Argument Clause,sluicing_2,4016,begrijpen wat,
+De reiziger heeft iets gevonden en ik vermoed dat Maria ontdekt wat binnenkort.,De reiziger heeft iets gevonden en ik vermoed dat Maria wat ontdekt binnenkort.,Finite Argument Clause,sluicing_2,4017,ontdekt wat,
+De aap heeft iets gevangen en ik denk dat David begrijpt wat straks.,De aap heeft iets gevangen en ik denk dat David wat begrijpt straks.,Finite Argument Clause,sluicing_2,4018,begrijpt wat,
+De slang heeft iets gegrepen en ik vermoed dat Thomas doorheeft wat vanavond.,De slang heeft iets gegrepen en ik vermoed dat Thomas wat doorheeft vanavond.,Finite Argument Clause,sluicing_2,4019,doorheeft wat,
+De rivier heeft iets meegesleurd en ik geloof dat Julia ziet wat binnenkort.,De rivier heeft iets meegesleurd en ik geloof dat Julia wat ziet binnenkort.,Finite Argument Clause,sluicing_2,4020,ziet wat,
+De olifanten hebben iets vernield en ik denk dat Emma weet wat sinds gisteren.,De olifanten hebben iets vernield en ik denk dat Emma wat weet sinds gisteren.,Finite Argument Clause,sluicing_2,4021,weet wat,
+De apen hebben iets gestolen en ik vermoed dat Lucas doorheeft wat sinds vorige week.,De apen hebben iets gestolen en ik vermoed dat Lucas wat doorheeft sinds vorige week.,Finite Argument Clause,sluicing_2,4022,doorheeft wat,
+De regen heeft iets verwoest en ik geloof dat Sara inziet wat sinds vanochtend.,De regen heeft iets verwoest en ik geloof dat Sara wat inziet sinds vanochtend.,Finite Argument Clause,sluicing_2,4023,inziet wat,
+De matrozen hebben iets gerepareerd en ik vermoed dat Jonas doorheeft wat sinds gisteren.,De matrozen hebben iets gerepareerd en ik vermoed dat Jonas wat doorheeft sinds gisteren.,Finite Argument Clause,sluicing_2,4024,doorheeft wat,
+De zeemeeuwen hebben iets gestolen en ik geloof dat Eline inziet wat sinds kort.,De zeemeeuwen hebben iets gestolen en ik geloof dat Eline wat inziet sinds kort.,Finite Argument Clause,sluicing_2,4025,inziet wat,
+De bemanning heeft iets ontdekt en ik denk dat Marit begrijpt wat sinds vanmiddag.,De bemanning heeft iets ontdekt en ik denk dat Marit wat begrijpt sinds vanmiddag.,Finite Argument Clause,sluicing_2,4026,begrijpt wat,
+De zeelieden hebben iets gezien en ik geloof dat jij begrijpt wat sinds gisteren.,De zeelieden hebben iets gezien en ik geloof dat jij wat begrijpt sinds gisteren.,Finite Argument Clause,sluicing_2,4027,begrijpt wat,
+De filosoof heeft iets bedacht en ik vermoed dat jullie weten wat over een week.,De filosoof heeft iets bedacht en ik vermoed dat jullie wat weten over een week.,Finite Argument Clause,sluicing_2,4028,weten wat,
+De dichter heeft iets geschreven en ik geloof dat jullie inzien wat over een week.,De dichter heeft iets geschreven en ik geloof dat jullie wat inzien over een week.,Finite Argument Clause,sluicing_2,4029,inzien wat,
+De godheid heeft iets geschapen en ik geloof dat jullie inzien wat over een week.,De godheid heeft iets geschapen en ik geloof dat jullie wat inzien over een week.,Finite Argument Clause,sluicing_2,4030,inzien wat,
+De wijsgeer heeft iets onthuld en ik verwacht dat jullie inzien wat over een week.,De wijsgeer heeft iets onthuld en ik verwacht dat jullie wat inzien over een week.,Finite Argument Clause,sluicing_2,4031,inzien wat,
+Het orakel heeft iets voorspeld en ik verwacht dat jij doorhebt wat over een week.,Het orakel heeft iets voorspeld en ik verwacht dat jij wat doorhebt over een week.,Finite Argument Clause,sluicing_2,4032,doorhebt wat,
+De keizer heeft iets besloten en ik vermoed dat jullie weten wat over een maand.,De keizer heeft iets besloten en ik vermoed dat jullie wat weten over een maand.,Finite Argument Clause,sluicing_2,4033,weten wat,
+De filosoof heeft iets overwogen en ik verwacht dat jij doorhebt wat over een maand.,De filosoof heeft iets overwogen en ik verwacht dat jij wat doorhebt over een maand.,Finite Argument Clause,sluicing_2,4034,doorhebt wat,
+De senator heeft iets besproken en ik denk dat jij begrijpt wat morgen.,De senator heeft iets besproken en ik denk dat jij wat begrijpt morgen.,Finite Argument Clause,sluicing_2,4035,begrijpt wat,
+De consul heeft iets verkondigd en ik vermoed dat jullie weten wat nu.,De consul heeft iets verkondigd en ik vermoed dat jullie wat weten nu.,Finite Argument Clause,sluicing_2,4036,weten wat,
+De senatoren hebben iets besproken en ik verwacht dat jij doorhebt wat morgen.,De senatoren hebben iets besproken en ik verwacht dat jij wat doorhebt morgen.,Finite Argument Clause,sluicing_2,4037,doorhebt wat,
+De burgers hebben iets gewaardeerd en ik denk dat jij begrijpt wat overmorgen.,De burgers hebben iets gewaardeerd en ik denk dat jij wat begrijpt overmorgen.,Finite Argument Clause,sluicing_2,4038,begrijpt wat,
+De keizer heeft iets bevolen en ik verwacht dat jij doorhebt wat binnenkort.,De keizer heeft iets bevolen en ik verwacht dat jij wat doorhebt binnenkort.,Finite Argument Clause,sluicing_2,4039,doorhebt wat,
+De burgers hebben iets gevierd en ik geloof dat jullie inzien wat morgenavond.,De burgers hebben iets gevierd en ik geloof dat jullie wat inzien morgenavond.,Finite Argument Clause,sluicing_2,4040,inzien wat,
+De duiker heeft iets verkend en ik vermoed dat jullie weten wat morgen.,De duiker heeft iets verkend en ik vermoed dat jullie wat weten morgen.,Finite Argument Clause,sluicing_2,4041,weten wat,
+De strandganger heeft iets gevonden en ik geloof dat jullie inzien wat vandaag.,De strandganger heeft iets gevonden en ik geloof dat jullie wat inzien vandaag.,Finite Argument Clause,sluicing_2,4042,inzien wat,
+De snorkelaars hebben iets ontdekt en ik geloof dat jullie inzien wat morgen.,De snorkelaars hebben iets ontdekt en ik geloof dat jullie wat inzien morgen.,Finite Argument Clause,sluicing_2,4043,inzien wat,
+De monnik heeft iets geschreven en ik vermoed dat jullie weten wat binnenkort.,De monnik heeft iets geschreven en ik vermoed dat jullie wat weten binnenkort.,Finite Argument Clause,sluicing_2,4044,weten wat,
+De boer heeft iets geoogst en ik denk dat jij begrijpt wat binnenkort.,De boer heeft iets geoogst en ik denk dat jij wat begrijpt binnenkort.,Finite Argument Clause,sluicing_2,4045,begrijpt wat,
+De edelman heeft iets geërfd en ik vermoed dat jullie weten wat morgenochtend.,De edelman heeft iets geërfd en ik vermoed dat jullie wat weten morgenochtend.,Finite Argument Clause,sluicing_2,4046,weten wat,
+De hertog heeft iets beslist en ik geloof dat jullie ontdekken wat binnenkort.,De hertog heeft iets beslist en ik geloof dat jullie wat ontdekken binnenkort.,Finite Argument Clause,sluicing_2,4047,ontdekken wat,
+De boerin heeft iets gemaakt en ik verwacht dat jij doorhebt wat vandaag.,De boerin heeft iets gemaakt en ik verwacht dat jij wat doorhebt vandaag.,Finite Argument Clause,sluicing_2,4048,doorhebt wat,
+De barones heeft iets georganiseerd en ik geloof dat jullie inzien wat vandaag.,De barones heeft iets georganiseerd en ik geloof dat jullie wat inzien vandaag.,Finite Argument Clause,sluicing_2,4049,inzien wat,
+De schildknaap heeft iets geleerd en ik verwacht dat jij doorhebt wat sinds gisteren.,De schildknaap heeft iets geleerd en ik verwacht dat jij wat doorhebt sinds gisteren.,Finite Argument Clause,sluicing_2,4050,doorhebt wat,
+De koopman heeft iets verkocht en ik verwacht dat jij doorhebt wat vandaag.,De koopman heeft iets verkocht en ik verwacht dat jij wat doorhebt vandaag.,Finite Argument Clause,sluicing_2,4051,doorhebt wat,
+De nar heeft iets verteld en ik verwacht dat jij doorhebt wat morgenochtend.,De nar heeft iets verteld en ik verwacht dat jij wat doorhebt morgenochtend.,Finite Argument Clause,sluicing_2,4052,doorhebt wat,
+De geit heeft iets gegeten en ik geloof dat Laila begrijpt wat straks.,De geit heeft iets gegeten en ik geloof dat Laila wat begrijpt straks.,Finite Argument Clause,sluicing_2,4053,begrijpt wat,
+De biggetjes hebben iets geknord en ik vermoed dat Nina inziet wat sinds kort.,De biggetjes hebben iets geknord en ik vermoed dat Nina wat inziet sinds kort.,Finite Argument Clause,sluicing_2,4054,inziet wat,
+De veearts heeft iets gecontroleerd en ik vermoed dat Tijn weet wat sinds gisteren.,De veearts heeft iets gecontroleerd en ik vermoed dat Tijn wat weet sinds gisteren.,Finite Argument Clause,sluicing_2,4055,weet wat,
+De gids heeft iets uitgelegd en ik vermoed dat Anton begrijpt wat deze ochtend.,De gids heeft iets uitgelegd en ik vermoed dat Anton wat begrijpt deze ochtend.,Finite Argument Clause,sluicing_2,4056,begrijpt wat,
+De fotograaf heeft iets vastgelegd en ik denk dat Amir inziet wat straks.,De fotograaf heeft iets vastgelegd en ik denk dat Amir wat inziet straks.,Finite Argument Clause,sluicing_2,4057,inziet wat,
+De acteur heeft iets geïmproviseerd en ik vermoed dat Samira weet wat nu.,De acteur heeft iets geïmproviseerd en ik vermoed dat Samira wat weet nu.,Finite Argument Clause,sluicing_2,4058,weet wat,
+De choreograaf heeft iets bedacht en ik vermoed dat Yara inziet wat deze ochtend.,De choreograaf heeft iets bedacht en ik vermoed dat Yara wat inziet deze ochtend.,Finite Argument Clause,sluicing_2,4059,inziet wat,
+De toneelmeester heeft iets geregeld en ik verwacht dat Sasha begrijpt wat volgende week.,De toneelmeester heeft iets geregeld en ik verwacht dat Sasha wat begrijpt volgende week.,Finite Argument Clause,sluicing_2,4060,begrijpt wat,
+De actrice heeft iets verzonnen en ik vermoed dat Luuk begrijpt wat sinds vorige maand.,De actrice heeft iets verzonnen en ik vermoed dat Luuk wat begrijpt sinds vorige maand.,Finite Argument Clause,sluicing_2,4061,begrijpt wat,
+De sneeuwstorm heeft iets veroorzaakt en ik geloof dat jij weet wat sinds vorig jaar.,De sneeuwstorm heeft iets veroorzaakt en ik geloof dat jij wat weet sinds vorig jaar.,Finite Argument Clause,sluicing_2,4062,weet wat,
+De walrus heeft iets gedaan en ik geloof dat jij doorhebt wat vandaag.,De walrus heeft iets gedaan en ik geloof dat jij wat doorhebt vandaag.,Finite Argument Clause,sluicing_2,4063,doorhebt wat,
+De receptionist heeft iets geregeld en ik denk dat jij begrijpt wat morgenochtend.,De receptionist heeft iets geregeld en ik denk dat jij wat begrijpt morgenochtend.,Finite Argument Clause,sluicing_2,4064,begrijpt wat,
+De kok heeft iets bereid en ik verwacht dat jullie weten wat vanavond.,De kok heeft iets bereid en ik verwacht dat jullie wat weten vanavond.,Finite Argument Clause,sluicing_2,4065,weten wat,
+De gast heeft iets gevraagd en ik vermoed dat jullie doorhadden wat eerder vandaag.,De gast heeft iets gevraagd en ik vermoed dat jullie wat doorhadden eerder vandaag.,Finite Argument Clause,sluicing_2,4066,doorhadden wat,
+De portier heeft iets gedaan en ik geloof dat jij ontdekt wat over een paar uur.,De portier heeft iets gedaan en ik geloof dat jij wat ontdekt over een paar uur.,Finite Argument Clause,sluicing_2,4067,ontdekt wat,
+De roomservice heeft iets gebracht en ik denk dat jij weet wat zo meteen.,De roomservice heeft iets gebracht en ik denk dat jij wat weet zo meteen.,Finite Argument Clause,sluicing_2,4068,weet wat,
+De rechercheur heeft iets onderzocht en ik denk dat jij begreep wat eerder deze week.,De rechercheur heeft iets onderzocht en ik denk dat jij wat begreep eerder deze week.,Finite Argument Clause,sluicing_2,4069,begreep wat,
+De verdachte heeft iets verzwegen en ik geloof dat jij wist wat vanmiddag.,De verdachte heeft iets verzwegen en ik geloof dat jij wat wist vanmiddag.,Finite Argument Clause,sluicing_2,4070,wist wat,
+De getuige heeft iets gezien en ik vermoed dat jullie doorhadden wat vanavond.,De getuige heeft iets gezien en ik vermoed dat jullie wat doorhadden vanavond.,Finite Argument Clause,sluicing_2,4071,doorhadden wat,
+De moordenaar heeft iets achtergelaten en ik verwacht dat jullie wisten wat sinds vorige week.,De moordenaar heeft iets achtergelaten en ik verwacht dat jullie wat wisten sinds vorige week.,Finite Argument Clause,sluicing_2,4072,wisten wat,
+De spion heeft iets onthuld en ik denk dat jij begrijpt wat later deze maand.,De spion heeft iets onthuld en ik denk dat jij wat begrijpt later deze maand.,Finite Argument Clause,sluicing_2,4073,begrijpt wat,
+De detective heeft iets opgelost en ik geloof dat jij weet wat volgende week.,De detective heeft iets opgelost en ik geloof dat jij wat weet volgende week.,Finite Argument Clause,sluicing_2,4074,weet wat,
+De crimineel heeft iets gestolen en ik denk dat jij wist wat sinds een paar uur geleden.,De crimineel heeft iets gestolen en ik denk dat jij wat wist sinds een paar uur geleden.,Finite Argument Clause,sluicing_2,4075,wist wat,
+De advocaat heeft iets betoogd en ik denk dat jij begreep wat eerder deze week.,De advocaat heeft iets betoogd en ik denk dat jij wat begreep eerder deze week.,Finite Argument Clause,sluicing_2,4076,begreep wat,
+De jury heeft iets overwogen en ik geloof dat jij weet wat straks.,De jury heeft iets overwogen en ik geloof dat jij wat weet straks.,Finite Argument Clause,sluicing_2,4077,weet wat,
+De aanklager heeft iets ingediend en ik vermoed dat jullie weten wat later deze week.,De aanklager heeft iets ingediend en ik vermoed dat jullie wat weten later deze week.,Finite Argument Clause,sluicing_2,4078,weten wat,
+De rechter heeft iets geoordeeld en ik geloof dat jij weet wat nu.,De rechter heeft iets geoordeeld en ik geloof dat jij wat weet nu.,Finite Argument Clause,sluicing_2,4079,weet wat,
+De jager heeft iets gevangen en ik denk dat jij ontdekte wat eerder deze week.,De jager heeft iets gevangen en ik denk dat jij wat ontdekte eerder deze week.,Finite Argument Clause,sluicing_2,4080,ontdekte wat,

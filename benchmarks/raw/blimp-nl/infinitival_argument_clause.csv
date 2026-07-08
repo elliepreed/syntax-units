@@ -1,0 +1,901 @@
+sentence_good,sentence_bad,linguistic_phenomenon,paradigm,item_id,critical_word,cue_word
+Ik laat de diervriendelijke man de hond aaien.,Ik laat dat de diervriendelijke man de hond aait.,Infinitival Argument Clause,verb_type,211,de hond,
+Jij laat de handige vrouw een ruimte aanbouwen.,Jij laat dat de handige vrouw een ruimte aanbouwt.,Infinitival Argument Clause,verb_type,212,een ruimte,
+Hij laat de technische medewerker het account activeren.,Hij laat dat de technische medewerker het account activeert.,Infinitival Argument Clause,verb_type,213,het account,
+Zij laat de creatieve leerling het thema bedenken. ,Zij laat dat de creatieve leerling het thema bedenkt. ,Infinitival Argument Clause,verb_type,214,het thema,
+Ik laat het avontuurlijke meisje de dieren fotograferen.,Ik laat dat het avontuurlijke meisje de dieren fotografeert.,Infinitival Argument Clause,verb_type,215,de dieren,
+Jij laat de rijke meneer het evenement financieren.,Jij laat dat de rijke meneer het evenement financiert.,Infinitival Argument Clause,verb_type,216,het evenement,
+Hij laat de actieve stagiair de groenten fijnsnijden. ,Hij laat dat de actieve stagiair de groenten fijnsnijdt. ,Infinitival Argument Clause,verb_type,217,de groenten,
+Zij laat de sterke jongen het decor afbreken.,Zij laat dat de sterke jongen het decor afbreekt.,Infinitival Argument Clause,verb_type,218,het decor,
+Jij laat de zwijgzame student de cijfers geheimhouden.,Jij laat dat de zwijgzame student de cijfers geheimhoudt.,Infinitival Argument Clause,verb_type,219,de cijfers,
+Ik laat de lieve assistente het concert afblazen.,Ik laat dat de lieve assistente het concert afblaast.,Infinitival Argument Clause,verb_type,220,het concert,
+Jij laat de getalenteerde schilder het portret voltooien.,Jij laat dat de getalenteerde schilder het portret voltooit.,Infinitival Argument Clause,verb_type,2731,het portret,
+Hij laat de ervaren kok het menu samenstellen.,Hij laat dat de ervaren kok het menu samenstelt.,Infinitival Argument Clause,verb_type,2732,het menu,
+Zij laat de behulpzame buurman de lekkage repareren.,Zij laat dat de behulpzame buurman de lekkage repareert.,Infinitival Argument Clause,verb_type,2733,de lekkage,
+Ik laat de vrolijke kinderen de taart versieren.,Ik laat dat de vrolijke kinderen de taart versieren.,Infinitival Argument Clause,verb_type,2734,de taart,
+Jij laat de slimme wetenschapper het experiment uitvoeren.,Jij laat dat de slimme wetenschapper het experiment uitvoert.,Infinitival Argument Clause,verb_type,2735,het experiment,
+Hij laat de enthousiaste student de presentatie geven.,Hij laat dat de enthousiaste student de presentatie geeft.,Infinitival Argument Clause,verb_type,2736,de presentatie,
+Zij laat de professionele tuinman de bloemen planten.,Zij laat dat de professionele tuinman de bloemen plant.,Infinitival Argument Clause,verb_type,2737,de bloemen,
+Jij laat de geduldige leraar de les uitleggen.,Jij laat dat de geduldige leraar de les uitlegt.,Infinitival Argument Clause,verb_type,2738,de les,
+Ik laat de toegewijde vrijwilliger de documenten organiseren.,Ik laat dat de toegewijde vrijwilliger de documenten organiseert.,Infinitival Argument Clause,verb_type,2739,de documenten,
+Jij laat de energieke atleet de wedstrijd winnen.,Jij laat dat de energieke atleet de wedstrijd wint.,Infinitival Argument Clause,verb_type,2740,de wedstrijd,
+Hij laat de bekwame pianist het lied spelen.,Hij laat dat de bekwame pianist het lied speelt.,Infinitival Argument Clause,verb_type,2741,het lied,
+Zij laat de vriendelijke ober de bestelling opnemen.,Zij laat dat de vriendelijke ober de bestelling opneemt.,Infinitival Argument Clause,verb_type,2742,de bestelling,
+Ik laat de handige klusser de kapotte deur repareren.,Ik laat dat de handige klusser de kapotte deur repareert.,Infinitival Argument Clause,verb_type,2743,de kapotte deur,
+Jij laat de gepassioneerde schrijver het verhaal schrijven.,Jij laat dat de gepassioneerde schrijver het verhaal schrijft.,Infinitival Argument Clause,verb_type,2744,het verhaal,
+Hij laat de verantwoordelijke medewerker de vergadering leiden.,Hij laat dat de verantwoordelijke medewerker de vergadering leidt.,Infinitival Argument Clause,verb_type,2745,de vergadering,
+Zij laat de artistieke vriendin de kamer decoreren.,Zij laat dat de artistieke vriendin de kamer decoreert.,Infinitival Argument Clause,verb_type,2746,de kamer,
+Jij laat de behulpzame buurvrouw de boodschappen meenemen.,Jij laat dat de behulpzame buurvrouw de boodschappen meeneemt.,Infinitival Argument Clause,verb_type,2747,de boodschappen,
+Ik laat de ervaren gids de route bepalen.,Ik laat dat de ervaren gids de route bepaalt.,Infinitival Argument Clause,verb_type,2748,de route,
+Jij laat de getalenteerde danseres de choreografie bedenken.,Jij laat dat de getalenteerde danseres de choreografie bedenkt.,Infinitival Argument Clause,verb_type,2749,de choreografie,
+Hij laat de betrouwbare monteur de auto repareren.,Hij laat dat de betrouwbare monteur de auto repareert.,Infinitival Argument Clause,verb_type,2750,de auto,
+Zij laat de gedisciplineerde soldaat de opdracht uitvoeren.,Zij laat dat de gedisciplineerde soldaat de opdracht uitvoert.,Infinitival Argument Clause,verb_type,2751,de opdracht,
+Ik laat de vriendelijke buurjongen de hond uitlaten.,Ik laat dat de vriendelijke buurjongen de hond uitlaat.,Infinitival Argument Clause,verb_type,2752,de hond,
+Jij laat de deskundige adviseur het plan opstellen.,Jij laat dat de deskundige adviseur het plan opstelt.,Infinitival Argument Clause,verb_type,2753,het plan,
+Hij laat de gepassioneerde zangeres het nummer zingen.,Hij laat dat de gepassioneerde zangeres het nummer zingt.,Infinitival Argument Clause,verb_type,2754,het nummer,
+Zij laat de behendige acrobaat de truc uitvoeren.,Zij laat dat de behendige acrobaat de truc uitvoert.,Infinitival Argument Clause,verb_type,2755,de truc,
+Jij laat de ervaren fotograaf de foto's maken.,Jij laat dat de ervaren fotograaf de foto's maakt.,Infinitival Argument Clause,verb_type,2756,de foto's,
+Ik laat de toegewijde verpleegster de patiënt verzorgen.,Ik laat dat de toegewijde verpleegster de patiënt verzorgt.,Infinitival Argument Clause,verb_type,2757,de patiënt,
+Jij laat de getalenteerde ontwerper de kleding ontwerpen.,Jij laat dat de getalenteerde ontwerper de kleding ontwerpt.,Infinitival Argument Clause,verb_type,2758,de kleding,
+Hij laat de behulpzame buurjongen de boekenkast monteren.,Hij laat dat de behulpzame buurjongen de boekenkast monteert.,Infinitival Argument Clause,verb_type,2759,de boekenkast,
+Zij laat de gedreven advocaat de zaak pleiten.,Zij laat dat de gedreven advocaat de zaak pleit.,Infinitival Argument Clause,verb_type,2760,de zaak,
+Ik laat de vindingrijke ingenieur het prototype bouwen.,Ik laat dat de vindingrijke ingenieur het prototype bouwt.,Infinitival Argument Clause,verb_type,2761,het prototype,
+Jij laat de vriendelijke caissière de aankoop afrekenen.,Jij laat dat de vriendelijke caissière de aankoop afrekent.,Infinitival Argument Clause,verb_type,2762,de aankoop,
+Hij laat de ervaren trainer het team coachen.,Hij laat dat de ervaren trainer het team coacht.,Infinitival Argument Clause,verb_type,2763,het team,
+Zij laat de bekwame masseur de massage geven.,Zij laat dat de bekwame masseur de massage geeft.,Infinitival Argument Clause,verb_type,2764,de massage,
+Ik laat de creatieve kunstenaar het kunstwerk creëren.,Ik laat dat de creatieve kunstenaar het kunstwerk creëert.,Infinitival Argument Clause,verb_type,2765,het kunstwerk,
+Jij laat de gepassioneerde chef-kok het gerecht bereiden.,Jij laat dat de gepassioneerde chef-kok het gerecht bereidt.,Infinitival Argument Clause,verb_type,2766,het gerecht,
+Hij laat de behulpzame collega de presentatie voorbereiden.,Hij laat dat de behulpzame collega de presentatie voorbereidt.,Infinitival Argument Clause,verb_type,2767,de presentatie,
+Zij laat de ervaren loodgieter de lekkage verhelpen.,Zij laat dat de ervaren loodgieter de lekkage verhelpt.,Infinitival Argument Clause,verb_type,2768,de lekkage,
+Ik laat de getalenteerde acteur de rol vertolken.,Ik laat dat de getalenteerde acteur de rol vertolkt.,Infinitival Argument Clause,verb_type,2769,de rol,
+Jij laat de enthousiaste vrijwilliger de activiteit organiseren.,Jij laat dat de enthousiaste vrijwilliger de activiteit organiseert.,Infinitival Argument Clause,verb_type,2770,de activiteit,
+Hij laat de bekwame elektricien de bedrading repareren.,Hij laat dat de bekwame elektricien de bedrading repareert.,Infinitival Argument Clause,verb_type,2771,de bedrading,
+Zij laat de vriendelijke ober de tafel dekken.,Zij laat dat de vriendelijke ober de tafel dekt.,Infinitival Argument Clause,verb_type,2772,de tafel,
+Ik laat de ervaren gids de groep rondleiden.,Ik laat dat de ervaren gids de groep rondleidt.,Infinitival Argument Clause,verb_type,2773,de groep,
+Jij laat de gedreven ondernemer het bedrijf leiden.,Jij laat dat de gedreven ondernemer het bedrijf leidt.,Infinitival Argument Clause,verb_type,2774,het bedrijf,
+Zij laat de gepassioneerde docent de les geven.,Zij laat dat de gepassioneerde docent de les geeft.,Infinitival Argument Clause,verb_type,2775,de les,
+Ik laat de betrouwbare klusjesman het probleem oplossen.,Ik laat dat de betrouwbare klusjesman het probleem oplost.,Infinitival Argument Clause,verb_type,2776,het probleem,
+Jij laat de geduldige coach de strategie bepalen.,Jij laat dat de geduldige coach de strategie bepaalt.,Infinitival Argument Clause,verb_type,2777,de strategie,
+Hij laat de getalenteerde pianist het concert geven.,Hij laat dat de getalenteerde pianist het concert geeft.,Infinitival Argument Clause,verb_type,2778,het concert,
+Zij laat de ervaren trainer het team motiveren.,Zij laat dat de ervaren trainer het team motiveert.,Infinitival Argument Clause,verb_type,2779,het team,
+Jij laat de getalenteerde fotograaf de foto's nemen.,Jij laat dat de getalenteerde fotograaf de foto's neemt.,Infinitival Argument Clause,verb_type,2780,de foto's,
+Ik laat de vrolijke kinderen de ballonnen opblazen.,Ik laat dat de vrolijke kinderen de ballonnen opblazen.,Infinitival Argument Clause,verb_type,2781,de ballonnen,
+Jij laat de slimme wetenschapper het onderzoek uitvoeren.,Jij laat dat de slimme wetenschapper het onderzoek uitvoert.,Infinitival Argument Clause,verb_type,2782,het onderzoek,
+Jij laat de geduldige leraar de opdracht uitleggen.,Jij laat dat de geduldige leraar de opdracht uitlegt.,Infinitival Argument Clause,verb_type,2783,de opdracht,
+Jij laat de energieke atleet de training leiden.,Jij laat dat de energieke atleet de training leidt.,Infinitival Argument Clause,verb_type,2784,de training,
+Ik laat de handige klusser de kapotte stoel repareren.,Ik laat dat de handige klusser de kapotte stoel repareert.,Infinitival Argument Clause,verb_type,2785,de kapotte stoel,
+Jij laat de gepassioneerde schrijver het verhaal schrijven.,Jij laat dat de gepassioneerde schrijver het verhaal schrijft.,Infinitival Argument Clause,verb_type,2786,het verhaal,
+Hij laat de verantwoordelijke manager de beslissing nemen.,Hij laat dat de verantwoordelijke manager de beslissing neemt.,Infinitival Argument Clause,verb_type,2787,de beslissing,
+Zij laat de artistieke vriendin de kamer versieren.,Zij laat dat de artistieke vriendin de kamer versiert.,Infinitival Argument Clause,verb_type,2788,de kamer,
+Jij laat de behulpzame buurman de auto repareren.,Jij laat dat de behulpzame buurman de auto repareert.,Infinitival Argument Clause,verb_type,2789,de auto,
+Ik laat de ervaren gids de wandeltocht leiden.,Ik laat dat de ervaren gids de wandeltocht leidt.,Infinitival Argument Clause,verb_type,2790,de wandeltocht,
+Jij laat de getalenteerde danseres de choreografie instuderen.,Jij laat dat de getalenteerde danseres de choreografie instudeert.,Infinitival Argument Clause,verb_type,2791,de choreografie,
+Hij laat de betrouwbare monteur de machine repareren.,Hij laat dat de betrouwbare monteur de machine repareert.,Infinitival Argument Clause,verb_type,2792,de machine,
+Zij laat de gedisciplineerde atleet de oefening doen.,Zij laat dat de gedisciplineerde atleet de oefening doet.,Infinitival Argument Clause,verb_type,2793,de oefening,
+Ik laat de vriendelijke buurjongen de boodschappen dragen.,Ik laat dat de vriendelijke buurjongen de boodschappen draagt.,Infinitival Argument Clause,verb_type,2794,de boodschappen,
+Jij laat de deskundige adviseur het plan uitwerken.,Jij laat dat de deskundige adviseur het plan uitwerkt.,Infinitival Argument Clause,verb_type,2795,het plan,
+Ik laat de toegewijde verpleegster de patiënten verzorgen.,Ik laat dat de toegewijde verpleegster de patiënten verzorgt.,Infinitival Argument Clause,verb_type,2796,de patiënten,
+Jij laat de getalenteerde ontwerper de modecollectie ontwerpen.,Jij laat dat de getalenteerde ontwerper de modecollectie ontwerpt.,Infinitival Argument Clause,verb_type,2797,de modecollectie,
+Zij laat de gedreven advocaat de zaak verdedigen.,Zij laat dat de gedreven advocaat de zaak verdedigt.,Infinitival Argument Clause,verb_type,2798,de zaak,
+Ik laat de vindingrijke ingenieur het prototype ontwerpen.,Ik laat dat de vindingrijke ingenieur het prototype ontwerpt.,Infinitival Argument Clause,verb_type,2799,het prototype,
+Jij laat de vriendelijke caissière de betaling verwerken.,Jij laat dat de vriendelijke caissière de betaling verwerkt.,Infinitival Argument Clause,verb_type,2800,de betaling,
+Hij laat de ervaren trainer het team coachen.,Hij laat dat de ervaren trainer het team coacht.,Infinitival Argument Clause,verb_type,2801,het team,
+Jij laat de gedreven ondernemer het bedrijf runnen.,Jij laat dat de gedreven ondernemer het bedrijf runt.,Infinitival Argument Clause,verb_type,2802,het bedrijf,
+Hij laat de ervaren muzikant het nummer componeren.,Hij laat dat de ervaren muzikant het nummer componeert.,Infinitival Argument Clause,verb_type,2803,het nummer,
+Jij laat de slimme student de formule afleiden.,Jij laat dat de slimme student de formule afleidt.,Infinitival Argument Clause,verb_type,2804,de formule,
+Hij laat de betrouwbare monteur de auto inspecteren.,Hij laat dat de betrouwbare monteur de auto inspecteert.,Infinitival Argument Clause,verb_type,2805,de auto,
+Jij laat de behulpzame vriendin de boeken organiseren.,Jij laat dat de behulpzame vriendin de boeken organiseert.,Infinitival Argument Clause,verb_type,2806,de boeken,
+Zij laat de getalenteerde ontwerper het logo ontwerpen.,Zij laat dat de getalenteerde ontwerper het logo ontwerpt.,Infinitival Argument Clause,verb_type,2807,het logo,
+Jij laat de getalenteerde bakker het brood bakken.,Jij laat dat de getalenteerde bakker het brood bakt.,Infinitival Argument Clause,verb_type,2808,het brood,
+Hij laat de ervaren leraar het vak uitleggen.,Hij laat dat de ervaren leraar het vak uitlegt.,Infinitival Argument Clause,verb_type,2809,het vak,
+Zij laat de behulpzame buurjongen haar computer repareren.,Zij laat dat de behulpzame buurjongen haar computer repareert.,Infinitival Argument Clause,verb_type,2810,haar computer,
+Ik laat de handige klusser de kast monteren.,Ik laat dat de handige klusser de kast monteert.,Infinitival Argument Clause,verb_type,2811,de kast,
+Jij laat de gedisciplineerde atleet de training leiden.,Jij laat dat de gedisciplineerde atleet de training leidt.,Infinitival Argument Clause,verb_type,2812,de training,
+Wij laten de enthousiaste kinderen het toneelstuk opvoeren.,Wij laten dat de enthousiaste kinderen het toneelstuk opvoeren.,Infinitival Argument Clause,verb_type,2813,het toneelstuk,
+Zij laat de jonge artiest het lied componeren.,Zij laat dat de jonge artiest het lied componeert.,Infinitival Argument Clause,verb_type,2814,het lied,
+Jullie laten de gemotiveerde vrijwilligers de tuin onderhouden.,Jullie laten dat de gemotiveerde vrijwilligers de tuin onderhouden.,Infinitival Argument Clause,verb_type,2815,de tuin,
+Hij laat de vriendelijke serveerster de bestelling opnemen.,Hij laat dat de vriendelijke serveerster de bestelling opneemt.,Infinitival Argument Clause,verb_type,2816,de bestelling,
+Wij laten de bekwame ingenieur het ontwerp finaliseren.,Wij laten dat de bekwame ingenieur het ontwerp finaliseert.,Infinitival Argument Clause,verb_type,2817,het ontwerp,
+Ik laat de ervaren timmerman het meubelstuk bouwen.,Ik laat dat de ervaren timmerman het meubelstuk bouwt.,Infinitival Argument Clause,verb_type,2818,het meubelstuk,
+Wij laten de bekwame programmeur de code optimaliseren.,Wij laten dat de bekwame programmeur de code optimaliseert.,Infinitival Argument Clause,verb_type,2819,de code,
+Hij laat de jonge atleet het parcours rennen.,Hij laat dat de jonge atleet het parcours rent.,Infinitival Argument Clause,verb_type,2820,het parcours,
+Hidde weet dat de oude mevrouw de kaart wil sturen.,Hidde weet dat de oude mevrouw wil de kaart sturen.,Infinitival Argument Clause,bare_verb_cluster,221,de kaart wil,
+Rosie denkt dat de gespierde man het pakket kan dragen.,Rosie denkt dat de gespierde man kan het pakket dragen.,Infinitival Argument Clause,bare_verb_cluster,222,het pakket kan,
+Noud verwacht dat de voormalige president een autobiografie zal schrijven.,Noud verwacht dat de voormalige president zal een autobiografie schrijven.,Infinitival Argument Clause,bare_verb_cluster,223,een autobiografie zal,
+Merel hoopt dat de nieuwe winkel zijn deuren mag openen.,Merel hoopt dat de nieuwe winkel mag zijn deuren openen.,Infinitival Argument Clause,bare_verb_cluster,224,zijn deuren mag,
+Naomi hoort dat de andere medewerker de televisie zal installeren.,Naomi hoort dat de andere medewerker zal de televisie installeren.,Infinitival Argument Clause,bare_verb_cluster,225,de televisie zal,
+Samuel hoorde dat de technische dienst het systeem moest sluiten.,Samuel hoorde dat de technische dienst moest het systeem sluiten.,Infinitival Argument Clause,bare_verb_cluster,226,het systeem moest,
+Ruben dacht dat de slimme deelnemer het spel kon winnen.,Ruben dacht dat de slimme deelnemer kon het spel winnen.,Infinitival Argument Clause,bare_verb_cluster,227,het spel kon,
+Isabella wist dat de andere medeplichtige het bewijsmateriaal wilde vernietigen.,Isabella wist dat de andere medeplichtige wilde het bewijsmateriaal vernietigen.,Infinitival Argument Clause,bare_verb_cluster,228,het bewijsmateriaal wilde,
+Benjamin verwachtte dat de luie conciërge het schoolplein moest opruimen.,Benjamin verwachtte dat de luie conciërge moest het schoolplein opruimen.,Infinitival Argument Clause,bare_verb_cluster,229,het schoolplein moest,
+Charlotte hoopte dat de nieuwsgierige student de schat mocht zoeken.,Charlotte hoopte dat de nieuwsgierige student mocht de schat zoeken.,Infinitival Argument Clause,bare_verb_cluster,230,de schat mocht,
+Ze hoopt dat Martijn de kraan kan repareren.,Ze hoopt dat Martijn kan de kraan repareren.,Infinitival Argument Clause,bare_verb_cluster,2821,de kraan kan,
+Pieter vertelde dat hij dit vak moest halen.,Pieter vertelde dat hij moest dit vak halen.,Infinitival Argument Clause,bare_verb_cluster,2822,dit vak moest,
+Floor vertelt dat ze hun huis gaan verbouwen.,Floor vertelt dat ze gaan hun huis verbouwen.,Infinitival Argument Clause,bare_verb_cluster,2823,hun huis gaan,
+Lucas vroeg of hij haar telefoonnummer mocht hebben.,Lucas vroeg of hij mocht haar telefoonnummer hebben.,Infinitival Argument Clause,bare_verb_cluster,2824,haar telefoonnummer mocht,
+Emma vroeg aan haar vader of ze zijn auto mocht lenen.,Emma vroeg aan haar vader of ze mocht zijn auto lenen.,Infinitival Argument Clause,bare_verb_cluster,2825,zijn auto mocht,
+De solist had liever gehad dat het koor dit deel zou zingen.,De solist had liever gehad dat het koor zou dit deel zingen.,Infinitival Argument Clause,bare_verb_cluster,2826,dit deel zou,
+Pieter vindt dat zijn zus een verjaardagskaart moet sturen.,Pieter vindt dat zijn zus moet een verjaardagskaart sturen.,Infinitival Argument Clause,bare_verb_cluster,2827,een verjaardagskaart moet,
+Mijn docent zegt dat ik de introductie moet herschrijven.,Mijn docent zegt dat ik moet de introductie herschrijven.,Infinitival Argument Clause,bare_verb_cluster,2828,de introductie moet,
+Noor zegt dat haar vader de e-mail heeft verwijderd.,Noor zegt dat haar vader heeft de e-mail verwijderd.,Infinitival Argument Clause,bare_verb_cluster,2829,de e-mail heeft,
+De manager eiste dat de werknemers hun prestaties zouden verbeteren.,De manager eiste dat de werknemers zouden hun prestaties verbeteren.,Infinitival Argument Clause,bare_verb_cluster,2830,hun prestaties zouden,
+De dokter adviseert dat Tim medicijnen moet nemen.,De dokter adviseert dat Tim moet medicijnen nemen.,Infinitival Argument Clause,bare_verb_cluster,2831,medicijnen moet,
+De chef-kok heeft aangegeven dat zijn restaurant nieuwe gerechten zal introduceren.,De chef-kok heeft aangegeven dat zijn restaurant zal nieuwe gerechten introduceren.,Infinitival Argument Clause,bare_verb_cluster,2832,nieuwe gerechten zal,
+De lerares zegt dat alle studenten extra oefeningen moeten doen.,De lerares zegt dat alle studenten moeten extra oefeningen doen.,Infinitival Argument Clause,bare_verb_cluster,2833,extra oefeningen moeten,
+Mia wist niet dat hij haar kon verstaan.,Mia wist niet dat hij kon haar verstaan.,Infinitival Argument Clause,bare_verb_cluster,2834,haar kon,
+Jij zei dat ik die kast mocht verschuiven.,Jij zei dat ik mocht die kast verschuiven.,Infinitival Argument Clause,bare_verb_cluster,2835,die kast mocht,
+Ik vind dat iedereen dit boek moet lezen.,Ik vind dat iedereen moet dit boek lezen.,Infinitival Argument Clause,bare_verb_cluster,2836,dit boek moet,
+Max geeft aan dat hij de taart wil bakken.,Max geeft aan dat hij wil de taart bakken.,Infinitival Argument Clause,bare_verb_cluster,2837,de taart wil,
+De trainer denkt dat het team de concurrentie kan verslaan.,De trainer denkt dat het team kan de concurrentie verslaan.,Infinitival Argument Clause,bare_verb_cluster,2838,de concurrentie kan,
+Hij denkt dat zijn collega's het probleem kunnen oplossen.,Hij denkt dat zijn collega's kunnen het probleem oplossen.,Infinitival Argument Clause,bare_verb_cluster,2839,het probleem kunnen,
+De wetenschapper geloofde dat de nieuwe methode zijn resultaten zou verbeteren.,De wetenschapper geloofde dat de nieuwe methode zou zijn resultaten verbeteren.,Infinitival Argument Clause,bare_verb_cluster,2840,zijn resultaten zou,
+Ik dacht dat ik een rekenmachine mocht gebruiken.,Ik dacht dat ik mocht een rekenmachine gebruiken.,Infinitival Argument Clause,bare_verb_cluster,2841,een rekenmachine mocht,
+De muzikant dacht dat de kerk het orgel zou stemmen.,De muzikant dacht dat de kerk zou het orgel stemmen.,Infinitival Argument Clause,bare_verb_cluster,2842,het orgel zou,
+Ik hoop dat mijn vriendin mij zal vergezellen.,Ik hoop dat mijn vriendin zal mij vergezellen.,Infinitival Argument Clause,bare_verb_cluster,2843,mij zal,
+Ik wist dat de vertaler een fout had gemaakt.,Ik wist dat de vertaler had een fout gemaakt.,Infinitival Argument Clause,bare_verb_cluster,2844,een fout had,
+Hij hoopte dat de huisarts een pijnstiller kon voorschrijven.,Hij hoopte dat de huisarts kon een pijnstiller voorschrijven.,Infinitival Argument Clause,bare_verb_cluster,2845,een pijnstiller kon,
+De ondernemer verwachtte dat het nieuwe product de markt zou veroveren.,De ondernemer verwachtte dat het nieuwe product zou de markt veroveren.,Infinitival Argument Clause,bare_verb_cluster,2846,de markt zou,
+De auteur hoopte dat zijn boek lezers zou inspireren.,De auteur hoopte dat zijn boek zou lezers inspireren.,Infinitival Argument Clause,bare_verb_cluster,2847,lezers zou,
+Ze hoopte dat haar hond de truc kon leren.,Ze hoopte dat haar hond kon de truc leren.,Infinitival Argument Clause,bare_verb_cluster,2848,de truc kon,
+De arts geloofde dat deze behandeling de man kon helpen.,De arts geloofde dat deze behandeling kon de man helpen.,Infinitival Argument Clause,bare_verb_cluster,2849,de man kon,
+Ik wist dat zij mijn computer kon doorverkopen.,Ik wist dat zij kon mijn computer doorverkopen.,Infinitival Argument Clause,bare_verb_cluster,2850,mijn computer kon,
+Erin had gelezen dat de snoepjes niet konden bederven.,Erin had gelezen dat de snoepjes konden niet bederven.,Infinitival Argument Clause,bare_verb_cluster,2851,niet konden,
+Saar schreef aan haar vriend dat ze de acteur had ontmoet.,Saar schreef aan haar vriend dat ze had de acteur ontmoet.,Infinitival Argument Clause,bare_verb_cluster,2852,de acteur had,
+Joost las in de krant dat Duitsland een wet moest aannemen.,Joost las in de krant dat Duitsland moest een wet aannemen.,Infinitival Argument Clause,bare_verb_cluster,2853,een wet moest,
+Ik had graag gehad dat het hotel mijn handdoek zou vervangen.,Ik had graag gehad dat het hotel zou mijn handdoek vervangen.,Infinitival Argument Clause,bare_verb_cluster,2854,mijn handdoek zou,
+De leraar geloofde dat de studenten de opdracht zouden begrijpen.,De leraar geloofde dat de studenten zouden de opdracht begrijpen.,Infinitival Argument Clause,bare_verb_cluster,2855,de opdracht zouden,
+Ze dacht dat haar oma haar zou willen bezoeken.,Ze dacht dat haar oma zou haar willen bezoeken.,Infinitival Argument Clause,bare_verb_cluster,2856,haar zou willen,
+De chef wist dat de chef-kok het nieuwe recept zou goedkeuren.,De chef wist dat de chef-kok zou het nieuwe recept goedkeuren.,Infinitival Argument Clause,bare_verb_cluster,2857,het nieuwe recept zou,
+Wij geloven dat Denemarken de wedstrijd zal winnen.,Wij geloven dat Denemarken zal de wedstrijd winnen.,Infinitival Argument Clause,bare_verb_cluster,2858,de wedstrijd zal,
+Hij hoopte dat zijn suggesties het project zouden verbeteren.,Hij hoopte dat zijn suggesties zouden het project verbeteren.,Infinitival Argument Clause,bare_verb_cluster,2859,het project zouden,
+Mijn vriendin dacht dat ik haar cadeau zou waarderen.,Mijn vriendin dacht dat ik zou haar cadeau waarderen.,Infinitival Argument Clause,bare_verb_cluster,2860,haar cadeau zou,
+Hij realiseerde zich dat de storm de plannen zou verstoren.,Hij realiseerde zich dat de storm zou de plannen verstoren.,Infinitival Argument Clause,bare_verb_cluster,2861,de plannen zou,
+Ik besefte dat het nieuws haar zou shockeren.,Ik besefte dat het nieuws zou haar shockeren.,Infinitival Argument Clause,bare_verb_cluster,2862,haar zou,
+We hoopten dat de maatregelen het probleem zouden oplossen.,We hoopten dat de maatregelen zouden het probleem oplossen.,Infinitival Argument Clause,bare_verb_cluster,2863,het probleem zouden,
+We denken dat het experiment nieuwe inzichten zal opleveren.,We denken dat het experiment zal nieuwe inzichten opleveren.,Infinitival Argument Clause,bare_verb_cluster,2864,nieuwe inzichten zal,
+De ingenieurs verwachten dat de technologie het werk zal vergemakkelijken.,De ingenieurs verwachten dat de technologie zal het werk vergemakkelijken.,Infinitival Argument Clause,bare_verb_cluster,2865,het werk zal,
+Ik dacht dat de presentatie de klanten zou overtuigen.,Ik dacht dat de presentatie zou de klanten overtuigen.,Infinitival Argument Clause,bare_verb_cluster,2866,de klanten zou,
+Marc hoopte dat zijn suggesties het proces zouden versnellen.,Marc hoopte dat zijn suggesties zouden het proces versnellen.,Infinitival Argument Clause,bare_verb_cluster,2867,het proces zouden,
+Zij begreep dat dit bewijsstuk de jury zou beïnvloeden.,Zij begreep dat dit bewijsstuk zou de jury beïnvloeden.,Infinitival Argument Clause,bare_verb_cluster,2868,de jury zou,
+We begrijpen dat dit nieuws de medewerkers kan verrassen.,We begrijpen dat dit nieuws kan de medewerkers verrassen.,Infinitival Argument Clause,bare_verb_cluster,2869,de medewerkers kan,
+Het was op het feest dat haar vrienden haar jurk mochten zien.,Het was op het feest dat haar vrienden mochten haar jurk zien.,Infinitival Argument Clause,bare_verb_cluster,2870,haar jurk mochten,
+De leraar zei dat de studenten hun boeken mogen meenemen naar het examen.,De leraar zei dat de studenten mogen hun boeken meenemen naar het examen.,Infinitival Argument Clause,bare_verb_cluster,2871,hun boeken mogen,
+Lars wist dat mijn vriend me mocht bellen.,Lars wist dat mijn vriend mocht me bellen.,Infinitival Argument Clause,bare_verb_cluster,2872,me mocht bellen,
+Hij vond dat medewerkers hun werktijden mochten bepalen binnen dit bedrijf.,Hij vond dat medewerkers mochten hun werktijden bepalen binnen dit bedrijf.,Infinitival Argument Clause,bare_verb_cluster,2873,hun werktijden mochten,
+Het duurt even voordat het meisje de game mag spelen.,Het duurt even voordat het meisje mag de game spelen.,Infinitival Argument Clause,bare_verb_cluster,2874,de game mag,
+De gids vertelde ons dat we geen flits mochten gebruiken.,De gids vertelde ons dat we mochten geen flits gebruiken.,Infinitival Argument Clause,bare_verb_cluster,2875,geen flits mochten,
+Het idee is dat de kinderen de taart mogen versieren.,Het idee is dat de kinderen mogen de taart versieren.,Infinitival Argument Clause,bare_verb_cluster,2876,de taart mogen,
+Ik zei dat mijn vrienden mijn fiets konden lenen.,Ik zei dat mijn vrienden konden mijn fiets lenen.,Infinitival Argument Clause,bare_verb_cluster,2877,mijn fiets konden,
+De jongen zegt dat ik de hond mag aaien.,De jongen zegt dat ik mag de hond aaien.,Infinitival Argument Clause,bare_verb_cluster,2878,de hond mag,
+Ze dacht dat Nina haar laptop mocht gebruiken.,Ze dacht dat Nina mocht haar laptop gebruiken.,Infinitival Argument Clause,bare_verb_cluster,2879,haar laptop mocht,
+Hij verwacht dat de atleet een trainingsprogramma zal samenstellen.,Hij verwacht dat de atleet zal een trainingsprogramma samenstellen.,Infinitival Argument Clause,bare_verb_cluster,2880,een trainingsprogramma zal,
+De docente vertelde ons dat we twee experimenten moesten uitvoeren.,De docente vertelde ons dat we moesten twee experimenten uitvoeren.,Infinitival Argument Clause,bare_verb_cluster,2881,twee experimenten moesten,
+Ze vond dat haar vriendinnen haar recept mochten leren.,Ze vond dat haar vriendinnen mochten haar recept leren.,Infinitival Argument Clause,bare_verb_cluster,2882,haar recept mochten,
+Op het feestje vertelde ze ons dat we de verkleedkleren konden lenen.,Op het feestje vertelde ze ons dat we konden de verkleedkleren lenen.,Infinitival Argument Clause,bare_verb_cluster,2883,de verkleedkleren konden,
+Zij vond dat haar broer haar auto zou gebruiken. ,Zij vond dat haar broer zou haar auto gebruiken. ,Infinitival Argument Clause,bare_verb_cluster,2884,haar auto zou,
+Het was niet zo dat deelnemers de route mochten kiezen.,Het was niet zo dat deelnemers mochten de route kiezen.,Infinitival Argument Clause,bare_verb_cluster,2885,de route mochten,
+Ze wist niet dat haar zus haar make-up zou lenen.,Ze wist niet dat haar zus zou haar make-up lenen.,Infinitival Argument Clause,bare_verb_cluster,2886,haar make-up zou,
+De gids zei dat we de dieren konden observeren vanuit de auto.,De gids zei dat we konden de dieren observeren vanuit de auto.,Infinitival Argument Clause,bare_verb_cluster,2887,de dieren konden,
+Ik zei dat mijn collega mijn muis mocht lenen.,Ik zei dat mijn collega mocht mijn muis lenen.,Infinitival Argument Clause,bare_verb_cluster,2888,mijn muis mocht,
+De jongen zegt dat ik de muziek mag kiezen.,De jongen zegt dat ik mag de muziek kiezen.,Infinitival Argument Clause,bare_verb_cluster,2889,de muziek mag,
+Hij zei nu dat we de nieuwe technologie mochten testen.,Hij zei nu dat we mochten de nieuwe technologie testen.,Infinitival Argument Clause,bare_verb_cluster,2890,de nieuwe technologie mochten,
+Op het evenement vertelde ze ons dat we haar kunstwerk konden bewonderen.,Op het evenement vertelde ze ons dat we konden haar kunstwerk bewonderen.,Infinitival Argument Clause,bare_verb_cluster,2891,haar kunstwerk konden,
+Ik denk dat mijn vrienden mijn hulp kunnen gebruiken.,Ik denk dat mijn vrienden kunnen mijn hulp gebruiken.,Infinitival Argument Clause,bare_verb_cluster,2892,mijn hulp kunnen,
+Hij legde uit dat de studenten deze software moeten begrijpen.,Hij legde uit dat de studenten moeten deze software begrijpen.,Infinitival Argument Clause,bare_verb_cluster,2893,deze software moeten,
+Anne schrijft op haar blog dat iedereen het recept moet proberen.,Anne schrijft op haar blog dat iedereen moet het recept proberen.,Infinitival Argument Clause,bare_verb_cluster,2894,het recept moet,
+Ze verwacht dat Tamara het geheim kan bewaren.,Ze verwacht dat Tamara kan het geheim bewaren.,Infinitival Argument Clause,bare_verb_cluster,2895,het geheim kan,
+De journalist vond dat politici hun fouten moeten erkennen.,De journalist vond dat politici moeten hun fouten erkennen.,Infinitival Argument Clause,bare_verb_cluster,2896,hun fouten moeten,
+Hij gelooft niet dat de robot de taak kan voltooien.,Hij gelooft niet dat de robot kan de taak voltooien.,Infinitival Argument Clause,bare_verb_cluster,2897,de taak kan,
+We hoopten ze we het bruidspaar konden feliciteren tijdens de bruiloft.,We hoopten ze we konden het bruidspaar feliciteren tijdens de bruiloft.,Infinitival Argument Clause,bare_verb_cluster,2898,het bruidspaar konden,
+De gids vertelt ons dat we de berg moeten beklimmen voor het beste uitzicht.,De gids vertelt ons dat we moeten de berg beklimmen voor het beste uitzicht.,Infinitival Argument Clause,bare_verb_cluster,2899,de berg moeten,
+Zij denkt dat haar vriendin de rekening gaat betalen.,Zij denkt dat haar vriendin gaat de rekening betalen.,Infinitival Argument Clause,bare_verb_cluster,2900,de rekening gaat,
+Op het feest hoopten ze dat de gasten nieuwe dansmoves zouden proberen.,Op het feest hoopten ze dat de gasten zouden nieuwe dansmoves proberen.,Infinitival Argument Clause,bare_verb_cluster,2901,nieuwe dansmoves zouden,
+Hij denkt dat Barbara de weg moet vragen.,Hij denkt dat Barbara moet de weg vragen.,Infinitival Argument Clause,bare_verb_cluster,2902,de weg moet,
+Op het seminar legde de spreker uit dat we nieuwe strategieën moeten overwegen.,Op het seminar legde de spreker uit dat we moeten nieuwe strategieën overwegen.,Infinitival Argument Clause,bare_verb_cluster,2903,nieuwe strategieën moeten,
+Alex vind dat de kinderen het avontuur moeten ervaren.,Alex vind dat de kinderen moeten het avontuur ervaren.,Infinitival Argument Clause,bare_verb_cluster,2904,het avontuur moeten,
+Yvet wist dat haar vriend de waarheid zou vertellen.,Yvet wist dat haar vriend zou de waarheid vertellen.,Infinitival Argument Clause,bare_verb_cluster,2905,de waarheid zou,
+Zij realiseerde zich dat de rebelse jongeren de regels zullen overtreden.,Zij realiseerde zich dat de rebelse jongeren zullen de regels overtreden.,Infinitival Argument Clause,bare_verb_cluster,2906,de regels zullen,
+De consultant zei eerst dat de klanten de nieuwe functies moeten evalueren.,De consultant zei eerst dat de klanten moeten de nieuwe functies evalueren.,Infinitival Argument Clause,bare_verb_cluster,2907,de nieuwe functies moeten,
+Tijdens de reis vertelde Aila ons dat we lokale gerechten moeten proeven.,Tijdens de reis vertelde Aila ons dat we moeten lokale gerechten proeven.,Infinitival Argument Clause,bare_verb_cluster,2908,lokale gerechten moeten,
+De organisator zag dat we de kostuums wilden bewonderen.,De organisator zag dat we wilden de kostuums bewonderen.,Infinitival Argument Clause,bare_verb_cluster,2909,de kostuums wilden,
+Hij dacht niet dat de oude mensen die muziek zouden luisteren.,Hij dacht niet dat de oude mensen zouden die muziek luisteren.,Infinitival Argument Clause,bare_verb_cluster,2910,die muziek zouden,
+Jurre weet dat de baas hem het contract zag ondertekenen voor zijn nieuwe baan.,Jurre weet dat de baas gisteren het contract zag ondertekenen voor zijn nieuwe baan.,Infinitival Argument Clause,bare_verb_type_1,231,ondertekenen,hem
+Feline verwacht dat de verloofde haar een plekje hoorde reserveren in dat lekkere restaurant.,Feline verwacht dat de verloofde vanavond een plekje hoorde reserveren in dat lekkere restaurant.,Infinitival Argument Clause,bare_verb_type_1,232,reserveren,haar
+Kai denkt dat de klasgenoot hem een reis hoorde plannen voor de gehele groep.,Kai denkt dat de klasgenoot eergisteren een reis hoorde plannen voor de gehele groep.,Infinitival Argument Clause,bare_verb_type_1,233,plannen,hem
+Floor weet dat de juffrouw haar de klas ziet uitnodigen voor het grote feest.,Floor weet dat de juffrouw zo meteen de klas ziet uitnodigen voor het grote feest.,Infinitival Argument Clause,bare_verb_type_1,234,uitnodigen,haar
+Hugo verwacht dat de directeur hem de docenten hoort evalueren voor de jaarlijkse controle.,Hugo verwacht dat de directeur morgenochtend de docenten hoort evalueren voor de jaarlijkse controle.,Infinitival Argument Clause,bare_verb_type_1,235,evalueren,hem
+Chloë verwacht dat de investeerder haar het complex ziet beheren het hele aankomende jaar.,Chloë verwacht dat de investeerder vervolgens het complex ziet beheren het hele aankomende jaar.,Infinitival Argument Clause,bare_verb_type_1,236,beheren,haar
+Nathan denkt dat de trainer hem de regels hoorde aanpassen tijdens de training.,Nathan denkt dat de trainer daarnet de regels hoorde aanpassen tijdens de training.,Infinitival Argument Clause,bare_verb_type_1,237,aanpassen,hem
+Hannah denkt dat het stijlicoon haar de kledinglijn zag ontwerpen tijdens de drukke workshop.,Hannah denkt dat het stijlicoon zojuist de kledinglijn zag ontwerpen tijdens de drukke workshop.,Infinitival Argument Clause,bare_verb_type_1,238,ontwerpen,haar
+Tobias denkt dat de groep hem het idee hoort presenteren tijdens de les.,Tobias denkt dat de groep direct het idee hoort presenteren tijdens de les.,Infinitival Argument Clause,bare_verb_type_1,239,presenteren,hem
+Mara weet dat de professor haar de diersoort zag onderzoeken in het lab. ,Mara weet dat de professor trots de diersoort zag onderzoeken in het lab. ,Infinitival Argument Clause,bare_verb_type_1,240,onderzoeken,haar
+Tim weet dat de klant hem het contract ziet ondertekenen voor zijn nieuwe project.,Tim weet dat de klant morgen het contract ziet ondertekenen voor zijn nieuwe project.,Infinitival Argument Clause,bare_verb_type_1,2911,ondertekenen,hem
+Zoë weet dat haar collega haar de presentatie hoort voorbereiden voor de belangrijke vergadering.,Zoë weet dat haar collega morgen de presentatie hoort voorbereiden voor de belangrijke vergadering.,Infinitival Argument Clause,bare_verb_type_1,2912,voorbereiden,haar
+Lars denkt dat de lerares hem de oplossing ziet vinden tijdens de les van morgen.,Lars denkt dat de lerares telkens de oplossing ziet vinden tijdens de les van morgen.,Infinitival Argument Clause,bare_verb_type_1,2913,vinden,hem
+Max verwacht dat zijn baas hem de nieuwe takenlijst ziet voltooien voor het einde van de week.,Max verwacht dat zijn baas straks de nieuwe takenlijst ziet voltooien voor het einde van de week.,Infinitival Argument Clause,bare_verb_type_1,2914,voltooien,hem
+Tom weet dat de serveerster hem de rekening ziet brengen aan het einde van de maaltijd.,Tom weet dat de serveerster straks de rekening ziet brengen aan het einde van de maaltijd.,Infinitival Argument Clause,bare_verb_type_1,2915,brengen,hem
+Jasper denkt dat de ober hem het dagmenu hoorde voorlezen voor de lunch.,Jasper denkt dat de ober gisteren het dagmenu hoorde voorlezen voor de lunch.,Infinitival Argument Clause,bare_verb_type_1,2916,voorlezen,hem
+Alyssa dacht dat de ober haar het dessert zag bestellen na het diner.,Alyssa dacht dat de ober gisteren het dessert zag bestellen na het diner.,Infinitival Argument Clause,bare_verb_type_1,2917,bestellen,haar
+Lisa weet dat de chef-kok haar de keuken ziet bezoeken na afloop van de maaltijd.,Lisa weet dat de chef-kok morgen de keuken ziet bezoeken na afloop van de maaltijd.,Infinitival Argument Clause,bare_verb_type_1,2918,bezoeken,haar
+Eva verwacht dat de cashier haar de bestelling ziet opnemen aan de kassa.,Eva verwacht dat de cashier direct de bestelling ziet opnemen aan de kassa.,Infinitival Argument Clause,bare_verb_type_1,2919,opnemen,haar
+Tom wist dat de medewerker hem de frietjes zag inpakken voor de take-out.,Tom wist dat de medewerker daarnet de frietjes zag inpakken voor de take-out.,Infinitival Argument Clause,bare_verb_type_1,2920,inpakken,hem
+Niels weet dat de kok hem de bestelling ziet klaarmaken achter de balie.,Niels weet dat de kok trots de bestelling ziet klaarmaken achter de balie.,Infinitival Argument Clause,bare_verb_type_1,2921,klaarmaken,hem
+Sanne denkt dat de barman haar het drankje ziet inschenken op het zonnige terras.,Sanne denkt dat de barman straks het drankje ziet inschenken op het zonnige terras.,Infinitival Argument Clause,bare_verb_type_1,2922,inschenken,haar
+Julia denkt dat de collega haar de specialiteit van de dag hoorde aanprijzen op het terras.,Julia denkt dat de collega daarnet de specialiteit van de dag hoorde aanprijzen op het terras.,Infinitival Argument Clause,bare_verb_type_1,2923,aanprijzen,haar
+Luuk verwacht dat de barista hem de koffie hoorde bereiden op het buitenterras.,Luuk verwacht dat de barista zojuist de koffie hoorde bereiden op het buitenterras.,Infinitival Argument Clause,bare_verb_type_1,2924,bereiden,hem
+Tom weet dat de serveerster hem het drankje ziet brengen naar zijn tafel.,Tom weet dat de serveerster zo meteen het drankje ziet brengen naar zijn tafel.,Infinitival Argument Clause,bare_verb_type_1,2925,brengen,hem
+Joep weet dat zijn vriendin hem de waarheid hoorde vertellen over het incident.,Joep weet dat zijn vriendin gisteravond de waarheid hoorde vertellen over het incident.,Infinitival Argument Clause,bare_verb_type_1,2926,vertellen,hem
+Eline denkt dat haar broer haar de route hoorde uitleggen naar het nieuwe huis.,Eline denkt dat haar broer vanmiddag de route hoorde uitleggen naar het nieuwe huis.,Infinitival Argument Clause,bare_verb_type_1,2927,uitleggen,haar
+Timo verwacht dat zijn vriend hem het nieuws zag vertellen over de promotie.,Timo verwacht dat zijn vriend vanavond het nieuws zag vertellen over de promotie.,Infinitival Argument Clause,bare_verb_type_1,2928,vertellen,hem
+Joris denkt dat zijn vriend hem het advies hoorde geven over de situatie.,Joris denkt dat zijn vriend vanochtend het advies hoorde geven over de situatie.,Infinitival Argument Clause,bare_verb_type_1,2929,geven,hem
+Laura vermoedt dat haar vriend haar de aanwijzing zag geven voor het raadsel.,Laura vermoedt dat haar vriend vanmiddag de aanwijzing zag geven voor het raadsel.,Infinitival Argument Clause,bare_verb_type_1,2930,geven,haar
+Kim dacht dat haar leraar haar het huiswerk zag maken voor volgende week.,Kim dacht dat haar leraar gisteren het huiswerk zag maken voor volgende week.,Infinitival Argument Clause,bare_verb_type_1,2931,maken,haar
+Sarah wist dat haar vader haar het geld zag pinnen voor de nieuwe telefoon.,Sarah wist dat haar vader eergisteren het geld zag pinnen voor de nieuwe telefoon.,Infinitival Argument Clause,bare_verb_type_1,2932,pinnen,haar
+Feline zei dat haar vriend haar de skilift zag nemen naar de top van de berg.,Feline zei dat haar vriend vanochtend de skilift zag nemen naar de top van de berg.,Infinitival Argument Clause,bare_verb_type_1,2933,nemen,haar
+Sterre hoopt dat haar instructeur haar de veiligheidsinstructies ziet volgen tijdens het snowboarden.,Sterre hoopt dat haar instructeur straks de veiligheidsinstructies ziet volgen voor het snowboarden.,Infinitival Argument Clause,bare_verb_type_1,2934,volgen,haar
+Fien vermoedde dat haar vader haar de gevorderde skipiste zag betreden.,Fien vermoedde dat haar vader vanmiddag de gevorderde skipiste zag betreden.,Infinitival Argument Clause,bare_verb_type_1,2935,betreden,haar
+Mirthe wist dat haar collega haar de veiligheidsinstructies hoorde geven voor het snowboarden.,Mirthe wist dat haar collega gisteren de veiligheidsinstructies hoorde geven voor het snowboarden.,Infinitival Argument Clause,bare_verb_type_1,2936,geven,haar
+Rens denkt dat zijn broer hem de skiles zag volgen op de blauwe piste.,Rens denkt dat zijn broer laatst de skiles zag volgen op de blauwe piste.,Infinitival Argument Clause,bare_verb_type_1,2937,volgen,hem
+Gijs verwacht dat zijn vriendin hem de skiles ziet geven op de beginnerspiste.,Gijs verwacht dat zijn vriendin straks de skiles ziet geven op de beginnerspiste.,Infinitival Argument Clause,bare_verb_type_1,2938,geven,hem
+Roos vermoedt dat haar moeder haar de skiles hoort geven op de kinderpiste.,Roos vermoedt dat haar moeder vanochtend de skiles hoort geven op de kinderpiste.,Infinitival Argument Clause,bare_verb_type_1,2939,geven,haar
+Floor dacht dat haar oom haar de skibril zag opzetten voor de tocht.,Floor dacht dat haar oom trots de skibril zag opzetten voor de tocht.,Infinitival Argument Clause,bare_verb_type_1,2940,opzetten,haar
+Koen weet dat zijn tante hem de sneeuwscooter hoort parkeren.,Koen weet dat zijn tante zojuist de sneeuwscooter hoort parkeren.,Infinitival Argument Clause,bare_verb_type_1,2941,parkeren,hem
+Piet denkt dat zijn vrienden hem de schaatsbewegingen horen oefenen op het ijs.,Piet denkt dat zijn vrienden morgen de schaatsbewegingen horen oefenen op het ijs.,Infinitival Argument Clause,bare_verb_type_1,2942,oefenen,hem
+Juul verwacht dat haar teamgenoten haar de nieuwe schaatsen zagen passen voor de wedstrijd.,Juul verwacht dat haar teamgenoten gisteren de nieuwe schaatsen zagen passen voor de wedstrijd.,Infinitival Argument Clause,bare_verb_type_1,2943,passen,haar
+Jasmijn weet dat haar coach haar de schaatskunsten zag perfectioneren tijdens de training.,Jasmijn weet dat haar coach snel de schaatskunsten zag perfectioneren tijdens de training.,Infinitival Argument Clause,bare_verb_type_1,2944,perfectioneren,haar
+Thomas denkt dat zijn trainer hem de schaatsbewegingen zag filmen tijdens de training.,Thomas denkt dat zijn trainer vaak de schaatsbewegingen zag filmen tijdens de training.,Infinitival Argument Clause,bare_verb_type_1,2945,filmen,hem
+Niek verwacht dat zijn ouders hem de schaatsles zien volgen op de baan.,Niek verwacht dat zijn ouders vandaag de schaatsles zien volgen op de baan.,Infinitival Argument Clause,bare_verb_type_1,2946,volgen,hem
+Maarten weet dat zijn zusjes hem de valpartij zagen maken tijdens het schaatsen.,Maarten weet dat zijn zusjes zojuist de valpartij zagen maken tijdens het schaatsen.,Infinitival Argument Clause,bare_verb_type_1,2947,maken,hem
+Lucas vreest dat de gids hem de gorilla ziet voeren tijdens de rondleiding.,Lucas vreest dat de gids zo meteen de gorilla ziet voeren tijdens de rondleiding.,Infinitival Argument Clause,bare_verb_type_1,2948,voeren,hem
+Lotte verwacht dat de kinderen haar de aapjes zien voeren tijdens de voedertijd.,Lotte verwacht dat de kinderen eerder de aapjes zien voeren tijdens de voedertijd.,Infinitival Argument Clause,bare_verb_type_1,2949,voeren,haar
+Ruben denkt dat de toeristen hem de zeehonden zagen voeren tijdens de demonstratie.,Ruben denkt dat de toeristen onlangs de zeehonden zagen voeren tijdens de demonstratie.,Infinitival Argument Clause,bare_verb_type_1,2950,voeren,hem
+Laura weet dat de bezoeker haar de giraffen zag bekijken tijdens de show.,Laura weet dat de bezoeker vanochtend de giraffen zag bekijken tijdens de show.,Infinitival Argument Clause,bare_verb_type_1,2951,bekijken,haar
+Sara weet dat de oppasser haar de neushoorns zag verzorgen in het verblijf.,Sara weet dat de oppasser vanmorgen de neushoorns zag verzorgen in het verblijf.,Infinitival Argument Clause,bare_verb_type_1,2952,verzorgen,haar
+Jaap verwacht dat de kinderen hem de konijntjes zien aaien tijdens het knuffeluurtje.,Jaap verwacht dat de kinderen straks de konijntjes zien aaien tijdens het knuffeluurtje.,Infinitival Argument Clause,bare_verb_type_1,2953,aaien,hem
+Bas zorgt dat de bezoekers hem de schapen zien scheren in de stal.,Bas zorgt dat de bezoekers zo meteen de schapen zien scheren in de stal.,Infinitival Argument Clause,bare_verb_type_1,2954,scheren,hem
+Nina weet dat de boer haar de varkentjes zag voeren in het veld.,Nina weet dat de boer onlangs de varkentjes zag voeren in het veld.,Infinitival Argument Clause,bare_verb_type_1,2955,voeren,haar
+Merel verwacht dat de kinderen haar de ganzen horen wegjagen van het terras.,Merel verwacht dat de kinderen steeds de ganzen horen wegjagen van het terras.,Infinitival Argument Clause,bare_verb_type_1,2956,wegjagen,haar
+Milan weet dat de boer hem de staldeuren hoorde dichtdoen aan het einde van dag.,Milan weet dat de boer altijd de staldeuren hoorde dichtdoen aan het einde van dag.,Infinitival Argument Clause,bare_verb_type_1,2957,dichtdoen,hem
+Pepijn verwacht dat de bezoeker hem de pony's hoort borstelen vanuit de stal.,Pepijn verwacht dat de bezoeker telkens de pony's hoort borstelen vanuit de stal.,Infinitival Argument Clause,bare_verb_type_1,2958,borstelen,hem
+Jasper weet dat de medewerker hem de koeien zag melken tijdens de ochtendroutine.,Jasper weet dat de medewerker plotseling de koeien zag melken tijdens de ochtendroutine.,Infinitival Argument Clause,bare_verb_type_1,2959,melken,hem
+Willem gelooft dat de monnik hem het gebed zag reciteren in de kloosterkerk.,Willem gelooft dat de monnik vanmorgen het gebed zag reciteren in de kloosterkerk.,Infinitival Argument Clause,bare_verb_type_1,2960,reciteren,hem
+Anna weet dat de graaf haar de grond zag bewerken op het landgoed.,Anna weet dat de graaf vroeger de grond zag bewerken op het landgoed.,Infinitival Argument Clause,bare_verb_type_1,2961,bewerken,haar
+Pieter vermoedt dat de koopman hem de waren zag verkopen op de markt.,Pieter vermoedt dat de koopman gisteren de waren zag verkopen op de markt.,Infinitival Argument Clause,bare_verb_type_1,2962,verkopen,hem
+Margaretha denkt dat de troubadour haar het liefdesliedje zag zingen voor het hof.,Margaretha denkt dat de troubadour laatst het liefdesliedje zag zingen voor het hof.,Infinitival Argument Clause,bare_verb_type_1,2963,zingen,haar
+Hendrik weet dat de smid hem het zwaard zag smeden in de werkplaats.,Hendrik weet dat de smid gisteren het zwaard zag smeden in de werkplaats.,Infinitival Argument Clause,bare_verb_type_1,2964,smeden,hem
+Isabella verwacht dat de bisschop haar de zegen zag ontvangen tijdens de ceremonie.,Isabella verwacht dat de bisschop vanmiddag de zegen zag ontvangen tijdens de ceremonie.,Infinitival Argument Clause,bare_verb_type_1,2965,ontvangen,haar
+Gertrude vermoedt dat de baron haar de hofdame hoorde benoemen voor het kasteel.,Gertrude vermoedt dat de baron eerder de hofdame hoorde benoemen voor het kasteel.,Infinitival Argument Clause,bare_verb_type_1,2966,benoemen,haar
+Reinoud weet dat de boer hem de oogst zag binnenhalen op het veld.,Reinoud weet dat de boer vroeger de oogst zag binnenhalen op het veld.,Infinitival Argument Clause,bare_verb_type_1,2967,binnenhalen,hem
+Cornelis verwacht dat de hertog hem de ridder zal zien verslaan in het toernooi.,Cornelis verwacht dat de hertog vandaag de ridder zal zien verslaan in het toernooi.,Infinitival Argument Clause,bare_verb_type_1,2968,verslaan,hem
+Agnes weet dat de koster haar de biecht zag afnemen in de kerk.,Agnes weet dat de koster onlangs de biecht zag afnemen in de kerk.,Infinitival Argument Clause,bare_verb_type_1,2969,afnemen,haar
+Frederik weet dat de hofdame hem de brief zag bezorgen van de koningin.,Frederik weet dat de hofdame vandaag de brief zag bezorgen van de koningin.,Infinitival Argument Clause,bare_verb_type_1,2970,bezorgen,hem
+Clara gelooft dat de koopman haar de stoffen zag weven in het wevershuis.,Clara gelooft dat de koopman laatst de stoffen zag weven in het wevershuis.,Infinitival Argument Clause,bare_verb_type_1,2971,weven,haar
+Liesbeth verwacht dat de kasteelheer haar de kasteelpoort zag openen voor de gasten.,Liesbeth verwacht dat de kasteelheer eergisteren de kasteelpoort zag openen voor de gasten.,Infinitival Argument Clause,bare_verb_type_1,2972,openen,haar
+Peter gelooft dat de wachter hem de boodschap hoorde brengen aan de koning.,Pieter gelooft dat de wachter vanmorgen de boodschap hoorde brengen aan de koning.,Infinitival Argument Clause,bare_verb_type_1,2973,brengen,hem
+Catharina weet dat de molenaar haar het verhaal hoorde vertellen aan het hof.,Catharina weet dat de molenaar zojuist het verhaal hoorde vertellen aan het hof.,Infinitival Argument Clause,bare_verb_type_1,2974,vertellen,haar
+Johannes weet dat de hofmeester hem het paard ziet zadelen voor de lange reis.,Johannes weet dat de hofmeester morgen het paard ziet zadelen voor de lange reis.,Infinitival Argument Clause,bare_verb_type_1,2975,zadelen,hem
+Willemijn denkt dat de koopman haar de linnen ziet weven in de weverij.,Willemijn denkt dat de koopman direct de linnen ziet weven in de weverij.,Infinitival Argument Clause,bare_verb_type_1,2976,weven,haar
+Beatrix verwacht dat de prinsessen haar de nieuwe kruiden zien planten in de kloostertuin.,Beatrix verwacht dat de prinsessen vanmorgen de nieuwe kruiden zien planten in de kloostertuin.,Infinitival Argument Clause,bare_verb_type_1,2977,planten,haar
+Floris verwacht dat de ridder hem de strategie hoort uitleggen voor de veldslag.,Floris verwacht dat de ridder telkens de strategie hoort uitleggen voor de veldslag.,Infinitival Argument Clause,bare_verb_type_1,2978,uitleggen,hem
+Hendrik denkt dat de baron hem de dans ziet leiden tijdens het bal.,Hendrik denkt dat de baron trots de dans ziet leiden tijdens het bal.,Infinitival Argument Clause,bare_verb_type_1,2979,leiden,hem
+Frans vreest dat de edelman hem de geheimen zag vertellen van het hof.,Frans vermoedt dat de edelman onlangs de geheimen zag vertellen van het hof.,Infinitival Argument Clause,bare_verb_type_1,2980,vertellen,hem
+Emily verwacht dat de monteur haar de instructies zag geven voor het repareren van de motor.,Emily verwacht dat de monteur daarnet de instructies zag geven voor het repareren van de motor.,Infinitival Argument Clause,bare_verb_type_1,2981,geven,haar
+Bibi weet dat de piloot haar de computer zag bedienen in het controlecentrum.,Bibi weet dat de piloot gisteren de computer zag bedienen in het controlecentrum.,Infinitival Argument Clause,bare_verb_type_1,2982,bedienen,haar
+Olivia verwacht dat haar baas haar de experimenten zag uitvoeren in het laboratorium.,Olivia verwacht dat haar baas vanmiddag de experimenten zag uitvoeren in het laboratorium.,Infinitival Argument Clause,bare_verb_type_1,2983,uitvoeren,haar
+Ethan weet dat de monteurs hem de motoren hoorden controleren in de machinekamer.,Ethan weet dat de monteurs zojuist de motoren hoorden controleren in de machinekamer.,Infinitival Argument Clause,bare_verb_type_1,2984,controleren,hem
+Benjamin weet dat de officier hem de boodschap hoort verzenden naar het ruimtestation.,Benjamin weet dat de officier straks de boodschap hoort verzenden naar het ruimtestation.,Infinitival Argument Clause,bare_verb_type_1,2985,verzenden,hem
+Nora verwacht dat de boswachter haar de geheime paden zag ontdekken in het sprookjesbos.,Nora verwacht dat de boswachter gisteravond de geheime paden zag ontdekken in het sprookjesbos.,Infinitival Argument Clause,bare_verb_type_1,2986,ontdekken,haar
+Finn denkt dat de kabouter hem de magische kruiden ziet plukken voor de toverdrank.,Finn denkt dat de kabouter vandaag de magische kruiden ziet plukken voor de toverdrank.,Infinitival Argument Clause,bare_verb_type_1,2987,plukken,hem
+Liam vermoedt dat de eenhoorn hem de weg ziet wijzen naar de verborgen schat.,Liam vermoedt dat de eenhoorn daarnet de weg ziet wijzen naar de verborgen schat.,Infinitival Argument Clause,bare_verb_type_1,2988,wijzen,hem
+Ava verwacht dat de elfen haar de dans zagen leren voor het midzomernachtfeest.,Ava verwacht dat de elfen vannacht de dans zagen leren voor het midzomernachtfeest.,Infinitival Argument Clause,bare_verb_type_1,2989,leren,haar
+Boris denkt dat de draak hem de weg zag versperren naar de schatkist.,Boris denkt dat de draak laatst de weg zag versperren naar de schatkist.,Infinitival Argument Clause,bare_verb_type_1,2990,versperren,hem
+Thijmen vermoedt dat de zeemeermin hem de parels zag vinden op de bodem van de zee.,Thijmen vermoedt dat de zeemeermin vanavond de parels zag vinden op de bodem van de zee.,Infinitival Argument Clause,bare_verb_type_1,2991,vinden,hem
+Elsa weet dat de schelpenverzamelaar haar de kleurrijke schelpen zag pakken op het strand.,Elsa weet dat de schelpenverzamelaar gisteren de kleurrijke schelpen zag pakken op het strand.,Infinitival Argument Clause,bare_verb_type_1,2992,pakken,haar
+Sam denkt dat de strandverkoper hem de frisse drankjes ziet weggeven aan de strandgasten.,Sam denkt dat de strandverkoper dadelijk de frisse drankjes ziet weggeven aan de strandgasten.,Infinitival Argument Clause,bare_verb_type_1,2993,weggeven,hem
+Julia weet dat de zwemmer haar de reddingsboei ziet toewerpen tijdens de training.,Julia weet dat de zwemmer zo meteen de reddingsboei ziet toewerpen tijdens de training.,Infinitival Argument Clause,bare_verb_type_1,2994,toewerpen,haar
+Onno verwacht dat de strandwacht hem de veiligheidsregels hoorde uitleggen voor het zwemmen.,Onno verwacht dat de strandwacht eerder de veiligheidsregels hoorde uitleggen voor het zwemmen.,Infinitival Argument Clause,bare_verb_type_1,2995,uitleggen,hem
+Frank verwacht dat zijn zusje hem een ijsje hoort halen bij de strandbar.,Frank verwacht dat zijn zusje straks een ijsje hoort halen bij de strandbar.,Infinitival Argument Clause,bare_verb_type_1,2996,halen,hem
+Anna weet dat haar broertje haar de golven ziet trotseren op haar surfplank.,Anna weet dat haar broertje plotseling de golven ziet trotseren op haar surfplank.,Infinitival Argument Clause,bare_verb_type_1,2997,trotseren,haar
+Fatima weet dat de strandwacht haar de waarschuwing hoort geven over de sterke stroming.,Fatima weet dat de strandwacht zojuist de waarschuwing hoort geven over de sterke stroming.,Infinitival Argument Clause,bare_verb_type_1,2998,geven,haar
+Amira denkt dat haar vrienden haar de strandstoel hoorden uitklappen voor een ontspannen dag.,Amira denkt dat haar vrienden vanmiddag de strandstoel hoorden uitklappen voor een ontspannen dag.,Infinitival Argument Clause,bare_verb_type_1,2999,uitklappen,haar
+Sophie weet dat haar tante haar de golven zag bewonderen vanaf de strandstoel.,Sophie weet dat haar tante plotseling de golven zag bewonderen vanaf de strandstoel.,Infinitival Argument Clause,bare_verb_type_1,3000,bewonderen,haar
+Dit liedje laat zichzelf gemakkelijk zingen.,Dit liedje voelt zichzelf gemakkelijk zingen.,Infinitival Argument Clause,bare_verb_type_2,241,gemakkelijk,laat
+Deze tekst laat zichzelf moeilijk interpreteren.,Deze tekst ziet zichzelf moeilijk interpreteren.,Infinitival Argument Clause,bare_verb_type_2,242,moeilijk,laat
+Deze foto's laten zichzelf automatisch ontwikkelen.,Deze foto's proeven zichzelf automatisch ontwikkelen.,Infinitival Argument Clause,bare_verb_type_2,243,automatisch,laten
+Dit mechanisme laat zichzelf zelden activeren.,Dit mechanisme voelt zichzelf zelden activeren.,Infinitival Argument Clause,bare_verb_type_2,244,zelden,laat
+Deze machine laat zichzelf moeilijk repareren.,Deze machine ziet zichzelf moeilijk repareren.,Infinitival Argument Clause,bare_verb_type_2,245,moeilijk,laat
+Deze stofzuiger laat zichzelf gemakkelijk opbergen.,Deze stofzuiger ziet zichzelf gemakkelijk opbergen.,Infinitival Argument Clause,bare_verb_type_2,246,gemakkelijk,laat
+Dit programma laat zichzelf vaak updaten.,Dit programma proeft zichzelf vaak updaten.,Infinitival Argument Clause,bare_verb_type_2,247,vaak,laat
+Deze computer laat zichzelf moeilijk opstarten.,Deze computer proeft zichzelf moeilijk opstarten.,Infinitival Argument Clause,bare_verb_type_2,248,moeilijk,laat
+Deze keuze laat zichzelf gemakkelijk verklaren.,Deze keuze ziet zichzelf gemakkelijk verklaren.,Infinitival Argument Clause,bare_verb_type_2,249,gemakkelijk,laat
+Dit raam laat zichzelf lastig sluiten.,Dit raam voelt zichzelf lastig sluiten.,Infinitival Argument Clause,bare_verb_type_2,250,lastig,laat
+Deze puzzel laat zichzelf eenvoudig oplossen.,Deze puzzel hoort zichzelf eenvoudig oplossen.,Infinitival Argument Clause,bare_verb_type_2,3001,eenvoudig,laat
+Deze weg laat zichzelf gevaarlijk oversteken.,Deze weg ruikt zichzelf gevaarlijk oversteken.,Infinitival Argument Clause,bare_verb_type_2,3002,gevaarlijk,laat
+Dit probleem laat zichzelf snel oplossen.,Dit probleem proeft zichzelf snel oplossen.,Infinitival Argument Clause,bare_verb_type_2,3003,snel,laat
+Deze film laat zichzelf lang herinneren.,Deze film proeft zichzelf lang herinneren.,Infinitival Argument Clause,bare_verb_type_2,3004,lang,laat
+Deze woorden laten zichzelf duidelijk uitspreken.,Deze woorden ruiken zichzelf duidelijk uitspreken.,Infinitival Argument Clause,bare_verb_type_2,3005,duidelijk,laten
+Deze traditie laat zichzelf jaarlijks herhalen.,Deze traditie voelt zichzelf jaarlijks herhalen.,Infinitival Argument Clause,bare_verb_type_2,3006,jaarlijks,laat
+Deze regels laten zichzelf makkelijk volgen.,Deze regels horen zichzelf makkelijk volgen.,Infinitival Argument Clause,bare_verb_type_2,3007,makkelijk,laten
+Dit recept laat zichzelf heerlijk bereiden.,Dit recept proeft zichzelf heerlijk bereiden.,Infinitival Argument Clause,bare_verb_type_2,3008,heerlijk,laat
+Deze kleding laat zichzelf comfortabel dragen.,Deze kleding ruikt zichzelf comfortabel dragen.,Infinitival Argument Clause,bare_verb_type_2,3009,comfortabel,laat
+Deze planten laten zichzelf snel groeien.,Deze planten voelen zichzelf snel groeien.,Infinitival Argument Clause,bare_verb_type_2,3010,snel,laten
+Deze taal laat zichzelf vlot aanleren.,Deze taal proeft zichzelf vlot aanleren.,Infinitival Argument Clause,bare_verb_type_2,3011,vlot,laat
+Dit experiment laat zichzelf eenvoudig herhalen.,Dit experiment ruikt zichzelf eenvoudig herhalen.,Infinitival Argument Clause,bare_verb_type_2,3012,eenvoudig,laat
+Deze sport laat zichzelf intens beoefenen.,Deze sport proeft zichzelf intens beoefenen.,Infinitival Argument Clause,bare_verb_type_2,3013,intens,laat
+Dit verhaal laat zichzelf moeilijk samenvatten.,Dit verhaal voelt zichzelf moeilijk samenvatten.,Infinitival Argument Clause,bare_verb_type_2,3014,moeilijk,laat
+Deze plant laat zichzelf goed gedijen.,Deze plant proeft zichzelf goed gedijen.,Infinitival Argument Clause,bare_verb_type_2,3015,goed,laat
+Deze taak laat zichzelf snel voltooien.,Deze taak hoort zichzelf snel voltooien.,Infinitival Argument Clause,bare_verb_type_2,3016,snel,laat
+Dit gedicht laat zichzelf makkelijk lezen.,Dit gedicht ruikt zichzelf makkelijk lezen.,Infinitival Argument Clause,bare_verb_type_2,3017,makkelijk,laat
+Deze gebeurtenis laat zichzelf duidelijk herinneren.,Deze gebeurtenis proeft zichzelf duidelijk herinneren.,Infinitival Argument Clause,bare_verb_type_2,3018,duidelijk,laat
+Deze gerechten laten zichzelf heerlijk smaken.,Deze gerechten voelen zichzelf heerlijk smaken.,Infinitival Argument Clause,bare_verb_type_2,3019,heerlijk,laten
+Dit avontuur laat zichzelf avontuurlijk beleven.,Dit avontuur ruikt zichzelf avontuurlijk beleven.,Infinitival Argument Clause,bare_verb_type_2,3020,avontuurlijk,laat
+Deze technologie laat zichzelf snel evolueren.,Deze technologie proeft zichzelf snel evolueren.,Infinitival Argument Clause,bare_verb_type_2,3021,snel,laat
+Deze opdracht laat zichzelf gemakkelijk begrijpen.,Deze opdracht ruikt zichzelf gemakkelijk begrijpen.,Infinitival Argument Clause,bare_verb_type_2,3022,gemakkelijk,laat
+Dit fenomeen laat zichzelf lastig verklaren.,Dit fenomeen hoort zichzelf lastig verklaren.,Infinitival Argument Clause,bare_verb_type_2,3023,lastig,laat
+Deze ideeën laten zichzelf creatief ontwikkelen.,Deze ideeën proeven zichzelf creatief ontwikkelen.,Infinitival Argument Clause,bare_verb_type_2,3024,creatief,laten
+Deze oefeningen laten zichzelf soepel uitvoeren.,Deze oefeningen voelen zichzelf soepel uitvoeren.,Infinitival Argument Clause,bare_verb_type_2,3025,soepel,laten
+Deze trend laat zichzelf snel verspreiden.,Deze trend ruikt zichzelf snel verspreiden.,Infinitival Argument Clause,bare_verb_type_2,3026,snel,laat
+Dit doel laat zichzelf helder formuleren.,Dit doel proeft zichzelf helder formuleren.,Infinitival Argument Clause,bare_verb_type_2,3027,helder,laat
+Deze reis laat zichzelf avontuurlijk ontvouwen.,Deze reis voelt zichzelf avontuurlijk ontvouwen.,Infinitival Argument Clause,bare_verb_type_2,3028,avontuurlijk,laat
+Deze instructies laten zichzelf eenvoudig opvolgen.,Deze instructies proeven zichzelf eenvoudig opvolgen.,Infinitival Argument Clause,bare_verb_type_2,3029,eenvoudig,laten
+Dit concept laat zichzelf helder uitleggen.,Dit concept voelt zichzelf helder uitleggen.,Infinitival Argument Clause,bare_verb_type_2,3030,helder,laat
+Deze gadget laat zichzelf intuïtief bedienen.,Deze gadget proeft zichzelf intuïtief bedienen.,Infinitival Argument Clause,bare_verb_type_2,3031,intuïtief,laat
+Deze formules laten zichzelf gemakkelijk afleiden.,Deze formules voelen zichzelf gemakkelijk afleiden.,Infinitival Argument Clause,bare_verb_type_2,3032,gemakkelijk,laten
+Deze kunst laat zichzelf diep interpreteren.,Deze kunst ruikt zichzelf diep interpreteren.,Infinitival Argument Clause,bare_verb_type_2,3033,diep,laat
+Dit instrument laat zichzelf melodisch bespelen.,Dit instrument voelt zichzelf melodisch bespelen.,Infinitival Argument Clause,bare_verb_type_2,3034,melodisch,laat
+Deze kennis laat zichzelf breed toepassen.,Deze kennis proeft zichzelf breed toepassen.,Infinitival Argument Clause,bare_verb_type_2,3035,breed,laat
+Dit verlies laat zichzelf moeilijk accepteren.,Dit verlies voelt zichzelf moeilijk accepteren.,Infinitival Argument Clause,bare_verb_type_2,3036,moeilijk,laat
+Deze uitvindingen laten zichzelf innovatief noemen.,Deze uitvindingen proeven zichzelf innovatief noemen.,Infinitival Argument Clause,bare_verb_type_2,3037,innovatief,laten
+Dit materiaal laat zichzelf gemakkelijk buigen.,Dit materiaal ruikt zichzelf gemakkelijk buigen.,Infinitival Argument Clause,bare_verb_type_2,3038,gemakkelijk,laat
+Deze taak laat zichzelf efficiënt uitvoeren.,Deze taak proeft zichzelf efficiënt uitvoeren.,Infinitival Argument Clause,bare_verb_type_2,3039,efficiënt,laat
+Dit fenomeen laat zichzelf wetenschappelijk verklaren.,Dit fenomeen voelt zichzelf wetenschappelijk verklaren.,Infinitival Argument Clause,bare_verb_type_2,3040,wetenschappelijk,laat
+Deze veranderingen laten zichzelf langzaam doorzetten.,Deze veranderingen proeven zichzelf langzaam doorzetten.,Infinitival Argument Clause,bare_verb_type_2,3041,langzaam,laten
+Deze methode laat zichzelf goed documenteren.,Deze methode ruikt zichzelf goed documenteren.,Infinitival Argument Clause,bare_verb_type_2,3042,goed,laat
+Deze ontwikkelingen laten zichzelf snel voltrekken.,Deze ontwikkelingen voelen zichzelf snel voltrekken.,Infinitival Argument Clause,bare_verb_type_2,3043,snel,laten
+Dit model laat zichzelf duidelijk presenteren.,Dit model proeft zichzelf duidelijk presenteren.,Infinitival Argument Clause,bare_verb_type_2,3044,duidelijk,laat
+Deze concepten laten zichzelf creatief uitbreiden.,Deze concepten voelen zichzelf creatief uitbreiden.,Infinitival Argument Clause,bare_verb_type_2,3045,creatief,laten
+Deze ideeën laten zichzelf inspirerend werken.,Deze ideeën proeven zichzelf inspirerend werken.,Infinitival Argument Clause,bare_verb_type_2,3046,inspirerend,laten
+Deze processen laten zichzelf efficiënt stromen.,Deze processen voelen zichzelf efficiënt stromen.,Infinitival Argument Clause,bare_verb_type_2,3047,efficiënt,laten
+Dit evenement laat zichzelf grootschalig organiseren.,Dit evenement proeft zichzelf grootschalig organiseren.,Infinitival Argument Clause,bare_verb_type_2,3048,grootschalig,laat
+Deze ervaring laat zichzelf diep inprenten.,Deze ervaring ruikt zichzelf diep inprenten.,Infinitival Argument Clause,bare_verb_type_2,3049,diep,laat
+Dit onderzoek laat zichzelf grondig uitvoeren.,Dit onderzoek hoort zichzelf grondig uitvoeren.,Infinitival Argument Clause,bare_verb_type_2,3050,grondig,laat
+Deze machine laat zichzelf automatisch bedienen.,Deze machine voelt zichzelf automatisch bedienen.,Infinitival Argument Clause,bare_verb_type_2,3051,automatisch,laat
+Dit fenomeen laat zichzelf wereldwijd observeren.,Dit fenomeen proeft zichzelf wereldwijd observeren.,Infinitival Argument Clause,bare_verb_type_2,3052,wereldwijd,laat
+Deze ontdekkingen laten zichzelf historisch noemen.,Deze ontdekkingen proeven zichzelf historisch noemen.,Infinitival Argument Clause,bare_verb_type_2,3053,historisch,laten
+Dit systeem laat zichzelf naadloos integreren.,Dit systeem ruikt zichzelf naadloos integreren.,Infinitival Argument Clause,bare_verb_type_2,3054,naadloos,laat
+Deze strategie laat zichzelf slim toepassen.,Deze strategie proeft zichzelf slim toepassen.,Infinitival Argument Clause,bare_verb_type_2,3055,slim,laat
+Dit scenario laat zichzelf realistisch ontvouwen.,Dit scenario voelt zichzelf realistisch ontvouwen.,Infinitival Argument Clause,bare_verb_type_2,3056,realistisch,laat
+Deze regels laten zichzelf makkelijk volgen.,Deze regels proeven zichzelf makkelijk volgen.,Infinitival Argument Clause,bare_verb_type_2,3057,makkelijk,laten
+Dit instrument laat zichzelf aangenaam bespelen.,Dit instrument ruikt zichzelf aangenaam bespelen.,Infinitival Argument Clause,bare_verb_type_2,3058,aangenaam,laat
+Deze route laat zichzelf prachtig verkennen.,Deze route voelt zichzelf prachtig verkennen.,Infinitival Argument Clause,bare_verb_type_2,3059,prachtig,laat
+Dit idee laat zichzelf innovatief uitwerken.,Dit idee proeft zichzelf innovatief uitwerken.,Infinitival Argument Clause,bare_verb_type_2,3060,innovatief,laat
+Deze woorden laten zichzelf krachtig uitspreken.,Deze woorden proeven zichzelf krachtig uitspreken.,Infinitival Argument Clause,bare_verb_type_2,3061,krachtig,laten
+Deze stappen laten zichzelf logisch volgen.,Deze stappen voelen zichzelf logisch volgen.,Infinitival Argument Clause,bare_verb_type_2,3062,logisch,laten
+Dit proces laat zichzelf geleidelijk ontvouwen.,Dit proces proeft zichzelf geleidelijk ontvouwen.,Infinitival Argument Clause,bare_verb_type_2,3063,geleidelijk,laat
+Deze signalen laten zichzelf duidelijk herkennen.,Deze signalen proeven zichzelf duidelijk herkennen.,Infinitival Argument Clause,bare_verb_type_2,3064,duidelijk,laten
+Dit document laat zichzelf gemakkelijk begrijpen.,Dit document proeft zichzelf gemakkelijk begrijpen.,Infinitival Argument Clause,bare_verb_type_2,3065,gemakkelijk,laat
+Deze missie laat zichzelf succesvol uitvoeren.,Deze missie voelt zichzelf succesvol uitvoeren.,Infinitival Argument Clause,bare_verb_type_2,3066,succesvol,laat
+Deze code laat zichzelf foutloos compileren.,Deze code ziet zichzelf foutloos compileren.,Infinitival Argument Clause,bare_verb_type_2,3067,foutloos,laat
+Dit argument laat zichzelf overtuigend presenteren.,Dit argument proeft zichzelf overtuigend presenteren.,Infinitival Argument Clause,bare_verb_type_2,3068,overtuigend,laat
+Deze wiskunde laat zichzelf logisch afleiden.,Deze wiskunde proeft zichzelf logisch afleiden.,Infinitival Argument Clause,bare_verb_type_2,3069,logisch,laat
+Dit project laat zichzelf gestaag vorderen.,Dit project voelt zichzelf gestaag vorderen.,Infinitival Argument Clause,bare_verb_type_2,3070,gestaag,laat
+Deze taal laat zichzelf vloeiend spreken.,Deze taal proeft zichzelf vloeiend spreken.,Infinitival Argument Clause,bare_verb_type_2,3071,vloeiend,laat
+Deze beelden laten zichzelf indrukwekkend tonen.,Deze beelden proeven zichzelf indrukwekkend tonen.,Infinitival Argument Clause,bare_verb_type_2,3072,indrukwekkend,laten
+Deze oplossing laat zichzelf efficiënt implementeren.,Deze oplossing proeft zichzelf efficiënt implementeren.,Infinitival Argument Clause,bare_verb_type_2,3073,efficiënt,laat
+Deze formules laten zichzelf wiskundig bewijzen.,Deze formules proeven zichzelf wiskundig bewijzen.,Infinitival Argument Clause,bare_verb_type_2,3074,wiskundig,laten
+Dit verhaal laat zichzelf boeiend vertellen.,Dit verhaal proeft zichzelf boeiend vertellen.,Infinitival Argument Clause,bare_verb_type_2,3075,boeiend,laat
+Deze ontmoeting laat zichzelf hartelijk voelen.,Deze ontmoeting hoort zichzelf hartelijk voelen.,Infinitival Argument Clause,bare_verb_type_2,3076,hartelijk,laat
+Deze techniek laat zichzelf geavanceerd toepassen.,Deze techniek ziet zichzelf geavanceerd toepassen.,Infinitival Argument Clause,bare_verb_type_2,3077,geavanceerd,laat
+Dit proces laat zichzelf natuurlijk verlopen.,Dit proces voelt zichzelf natuurlijk verlopen.,Infinitival Argument Clause,bare_verb_type_2,3078,natuurlijk,laat
+Deze methode laat zichzelf systematisch toepassen.,Deze methode ziet zichzelf systematisch toepassen.,Infinitival Argument Clause,bare_verb_type_2,3079,systematisch,laat
+Deze strategie laat zichzelf effectief implementeren.,Deze strategie ziet zichzelf effectief implementeren.,Infinitival Argument Clause,bare_verb_type_2,3080,effectief,laat
+Deze sfeer laat zichzelf ontspannen aanvoelen.,Deze sfeer voelt zichzelf ontspannen aanvoelen.,Infinitival Argument Clause,bare_verb_type_2,3081,ontspannen,laat
+Dit ontwerp laat zichzelf creatief uitdrukken.,Dit ontwerp voelt zichzelf creatief uitdrukken.,Infinitival Argument Clause,bare_verb_type_2,3082,creatief,laat
+Deze eigenschappen laten zichzelf uniek manifesteren.,Deze eigenschappen voelen zichzelf uniek manifesteren.,Infinitival Argument Clause,bare_verb_type_2,3083,uniek,laten
+Dit concept laat zichzelf helder communiceren.,Dit concept ziet zichzelf helder communiceren.,Infinitival Argument Clause,bare_verb_type_2,3084,helder,laat
+Deze melodie laat zichzelf makkelijk herinneren.,Deze melodie ziet zichzelf makkelijk herinneren.,Infinitival Argument Clause,bare_verb_type_2,3085,makkelijk,laat
+Dit materiaal laat zichzelf duurzaam produceren.,Dit materiaal voelt zichzelf duurzaam produceren.,Infinitival Argument Clause,bare_verb_type_2,3086,duurzaam,laat
+Deze gedachtegang laat zichzelf logisch opbouwen.,Deze gedachtegang ziet zichzelf logisch opbouwen.,Infinitival Argument Clause,bare_verb_type_2,3087,logisch,laat
+Deze kleuren laten zichzelf harmonieus combineren.,Deze kleuren zien zichzelf harmonieus combineren.,Infinitival Argument Clause,bare_verb_type_2,3088,harmonieus,laten
+Deze traditie laat zichzelf ceremonieel voortzetten.,Deze traditie voelt zichzelf ceremonieel voortzetten.,Infinitival Argument Clause,bare_verb_type_2,3089,ceremonieel,laat
+Deze route laat zichzelf schilderachtig bewandelen.,Deze route ziet zichzelf schilderachtig bewandelen.,Infinitival Argument Clause,bare_verb_type_2,3090,schilderachtig,laat
+De atleet zag de zon opkomen tijdens zijn wandeling.,De atleet keek de zon opkomen tijdens zijn wandeling.,Infinitival Argument Clause,bare_verb_type_3,251,opkomen,zag
+De dokter hoorde vanmiddag de patiënt klagen tijdens de controle.,De dokter luisterde vanmiddag de patiënt klagen tijdens de controle.,Infinitival Argument Clause,bare_verb_type_3,252,klagen,hoorde
+De politieagent zag de inbreker ontsnappen uit het raam.,De politieagent keek de inbreker ontsnappen uit het raam.,Infinitival Argument Clause,bare_verb_type_3,253,ontsnappen,zag
+De leraar hoorde net de studenten praten bij de uitleg.,De leraar luisterde net de studenten praten bij de uitleg.,Infinitival Argument Clause,bare_verb_type_3,254,praten,hoorde
+De boer zag de koeien grazen op de akker.,De boer keek de koeien grazen op de akker.,Infinitival Argument Clause,bare_verb_type_3,255,grazen,zag
+De architect zag de huizen ontstaan vanuit zijn tekeningen.,De architect keek de huizen ontstaan vanuit zijn tekeningen.,Infinitival Argument Clause,bare_verb_type_3,256,ontstaan,zag
+De politicus hoorde gisteren de opponenten discussiëren in het debat.,De politicus luisterde gisteren de opponenten discussiëren in het debat.,Infinitival Argument Clause,bare_verb_type_3,257,discussiëren,hoorde
+De advocaat hoorde vanochtend de getuige vertellen over de gebeurtenissen.,De advocaat luisterde vanochtend de getuige vertellen over de gebeurtenissen.,Infinitival Argument Clause,bare_verb_type_3,258,vertellen,hoorde
+De kok zag de obers lopen door het restaurant.,De kok keek de obers lopen door het restaurant.,Infinitival Argument Clause,bare_verb_type_3,259,lopen,zag
+De piloot hoorde constant de baby huilen tijdens de vlucht.,De piloot luisterde constant de baby huilen tijdens de vlucht.,Infinitival Argument Clause,bare_verb_type_3,260,huilen,hoorde
+De coach zag zijn team winnen van de tegenstanders.,De coach keek zijn team winnen van de tegenstanders.,Infinitival Argument Clause,bare_verb_type_3,3091,winnen,zag
+De rechter hoorde de verdachte zijn verhaal vertellen.,De rechter luisterde de verdachte zijn verhaal vertellen.,Infinitival Argument Clause,bare_verb_type_3,3092,vertellen,hoorde
+De boswachter zag de vogels vliegen door het bos.,De boswachter keek de vogels vliegen door het bos.,Infinitival Argument Clause,bare_verb_type_3,3093,vliegen,zag
+De dirigent hoorde het orkest spelen met passie.,De dirigent luisterde het orkest spelen met passie.,Infinitival Argument Clause,bare_verb_type_3,3094,spelen,hoorde
+De leraar zag de studenten opstaan om naar huis te gaan.,De leraar keek de studenten opstaan om naar huis te gaan.,Infinitival Argument Clause,bare_verb_type_3,3095,opstaan,zag
+De gids zag de toeristen foto's maken van de bezienswaardigheden.,De gids keek de toeristen foto's maken van de bezienswaardigheden.,Infinitival Argument Clause,bare_verb_type_3,3096,maken,zag
+De chef-kok hoorde de gasten genieten van het diner.,De chef-kok luisterde de gasten genieten van het diner.,Infinitival Argument Clause,bare_verb_type_3,3097,genieten,hoorde
+De architect zag de bouwvakkers werken aan het nieuwe gebouw.,De architect keek de bouwvakkers werken aan het nieuwe gebouw.,Infinitival Argument Clause,bare_verb_type_3,3098,werken,zag
+De docent hoorde de leerlingen vragen stellen tijdens de les.,De docent luisterde de leerlingen vragen stellen tijdens de les.,Infinitival Argument Clause,bare_verb_type_3,3099,vragen stellen,hoorde
+De boer zag de koeien grazen in de wei.,De boer keek de koeien grazen in de wei.,Infinitival Argument Clause,bare_verb_type_3,3100,grazen,zag
+De trainer hoorde de atleten ademen tijdens de marathon.,De trainer luisterde de atleten ademen tijdens de marathon.,Infinitival Argument Clause,bare_verb_type_3,3101,ademen,hoorde
+De politieagent zag de auto's voorbijrijden op de snelweg.,De politieagent keek de auto's voorbijrijden op de snelweg.,Infinitival Argument Clause,bare_verb_type_3,3102,voorbijrijden,zag
+De onderzoeker hoorde de proefpersonen antwoorden op de vragen.,De onderzoeker luisterde de proefpersonen antwoorden op de vragen.,Infinitival Argument Clause,bare_verb_type_3,3103,antwoorden,hoorde
+De ober zag de gasten bestellen van het menu.,De ober keek de gasten bestellen van het menu.,Infinitival Argument Clause,bare_verb_type_3,3104,bestellen,zag
+De schilder hoorde de regen tikken op het raam.,De schilder luisterde de regen tikken op het raam.,Infinitival Argument Clause,bare_verb_type_3,3105,tikken,hoorde
+De manager zag de werknemers vergaderen in de vergaderruimte.,De manager keek de werknemers vergaderen in de vergaderruimte.,Infinitival Argument Clause,bare_verb_type_3,3106,vergaderen,zag
+De verpleegster hoorde de patiënten klagen over de pijn.,De verpleegster luisterde de patiënten klagen over de pijn.,Infinitival Argument Clause,bare_verb_type_3,3107,klagen,hoorde
+De beveiliger zag de indringers binnendringen in het gebouw.,De beveiliger keek de indringers binnendringen in het gebouw.,Infinitival Argument Clause,bare_verb_type_3,3108,binnendringen,zag
+De fotograaf hoorde de camera klikken tijdens de fotoshoot.,De fotograaf luisterde de camera klikken tijdens de fotoshoot.,Infinitival Argument Clause,bare_verb_type_3,3109,klikken,hoorde
+De kapitein zag de zeelieden werken op het dek.,De kapitein keek de zeelieden werken op het dek.,Infinitival Argument Clause,bare_verb_type_3,3110,werken,zag
+De leraar hoorde de leerlingen fluisteren tijdens de toets.,De leraar luisterde de leerlingen fluisteren tijdens de toets.,Infinitival Argument Clause,bare_verb_type_3,3111,fluisteren,hoorde
+De psycholoog zag de patiënten praten over hun problemen.,De psycholoog keek de patiënten praten over hun problemen.,Infinitival Argument Clause,bare_verb_type_3,3112,praten,zag
+De conductor hoorde het publiek klappen na het concert.,De conductor luisterde het publiek klappen na het concert.,Infinitival Argument Clause,bare_verb_type_3,3113,klappen,hoorde
+De barman zag de klanten bestellen aan de bar.,De barman keek de klanten bestellen aan de bar.,Infinitival Argument Clause,bare_verb_type_3,3114,bestellen,zag
+De boswachter hoorde de bladeren ritselen in de wind.,De boswachter luisterde de bladeren ritselen in de wind.,Infinitival Argument Clause,bare_verb_type_3,3115,ritselen,hoorde
+De receptionist zag de gasten inchecken bij de receptie.,De receptionist keek de gasten inchecken bij de receptie.,Infinitival Argument Clause,bare_verb_type_3,3116,inchecken,zag
+De bioloog hoorde de kikkers kwaken bij de vijver.,De bioloog luisterde de kikkers kwaken bij de vijver.,Infinitival Argument Clause,bare_verb_type_3,3117,kwaken,hoorde
+De trainer zag de sporters stretchen voor de wedstrijd.,De trainer keek de sporters stretchen voor de wedstrijd.,Infinitival Argument Clause,bare_verb_type_3,3118,stretchen,zag
+De ober hoorde de bel rinkelen voor een bestelling.,De ober luisterde de bel rinkelen voor een bestelling.,Infinitival Argument Clause,bare_verb_type_3,3119,rinkelen,hoorde 
+De leraar zag de studenten hun opstellen schrijven.,De leraar keek de studenten hun opstellen schrijven.,Infinitival Argument Clause,bare_verb_type_3,3120,schrijven,zag
+De moeder zag haar kinderen rennen door het huis.,De moeder keek haar kinderen rennen door het huis.,Infinitival Argument Clause,bare_verb_type_3,3121,rennen,zag
+De fotograaf zag de modellen poseren voor de camera.,De fotograaf keek de modellen poseren voor de camera.,Infinitival Argument Clause,bare_verb_type_3,3122,poseren,zag
+De chef-kok zag de koks de soep bereiden.,De chef-kok keek de koks de soep bereiden.,Infinitival Argument Clause,bare_verb_type_3,3123,bereiden,zag
+De lerares hoorde de leerlingen vragen stellen over de les.,De lerares luisterde de leerlingen vragen stellen over de les.,Infinitival Argument Clause,bare_verb_type_3,3124,vragen stellen,hoorde
+De wetenschapper zag de proefpersonen de test uitvoeren.,De wetenschapper keek de proefpersonen de test uitvoeren.,Infinitival Argument Clause,bare_verb_type_3,3125,uitvoeren,zag
+De dirigent hoorde de musici de muziek repeteren.,De dirigent luisterde de musici de muziek repeteren.,Infinitival Argument Clause,bare_verb_type_3,3126,repeteren,hoorde
+De schrijver zag de journalisten het nieuws verslaan.,De schrijver keek de journalisten het nieuws verslaan.,Infinitival Argument Clause,bare_verb_type_3,3127,verslaan,zag
+De leraar zag de studenten de opdrachten maken.,De leraar keek de studenten de opdrachten maken.,Infinitival Argument Clause,bare_verb_type_3,3128,maken,zag
+De kunstenaar zag de kinderen tekenen op straat.,De kunstenaar keek de kinderen tekenen op straat.,Infinitival Argument Clause,bare_verb_type_3,3129,straat,zag
+De muzikant hoorde de mensen de melodie neuriën.,De muzikant luisterde de mensen de melodie neuriën.,Infinitival Argument Clause,bare_verb_type_3,3130,neuriën,hoorde
+De gids zag de toeristen foto's maken bij het monument.,De gids keek de toeristen foto's maken bij het monument.,Infinitival Argument Clause,bare_verb_type_3,3131,bij het monument,zag
+De coach zag de spelers de oefeningen uitvoeren.,De coach keek de spelers de oefeningen uitvoeren.,Infinitival Argument Clause,bare_verb_type_3,3132,uitvoeren,zag
+De psycholoog hoorde de patiënten hun angsten uiten.,De psycholoog luisterde de patiënten hun angsten uiten.,Infinitival Argument Clause,bare_verb_type_3,3133,uiten,hoorde
+De docent zag de leerlingen de experimenten uitvoeren.,De docent keek de leerlingen de experimenten uitvoeren.,Infinitival Argument Clause,bare_verb_type_3,3134,uitvoeren,zag
+De rechter zag de juryleden hun beslissing nemen.,De rechter keek de juryleden hun beslissing nemen.,Infinitival Argument Clause,bare_verb_type_3,3135,nemen,zag
+De trainer zag de atleten de sprint voltooien.,De trainer keek de atleten de sprint voltooien.,Infinitival Argument Clause,bare_verb_type_3,3136,voltooien,zag
+De bioloog hoorde de studenten de insecten observeren.,De bioloog luisterde de studenten de insecten observeren.,Infinitival Argument Clause,bare_verb_type_3,3137,observeren,hoorde
+De supervisor zag de werknemers de machines bedienen.,De supervisor keek de werknemers de machines bedienen.,Infinitival Argument Clause,bare_verb_type_3,3138,bedienen,zag
+De dokter zag de patiënten de symptomen beschrijven.,De dokter keek de patiënten de symptomen beschrijven.,Infinitival Argument Clause,bare_verb_type_3,3139,beschrijven,zag
+De leraar zag de leerlingen de tekst analyseren.,De leraar keek de leerlingen de tekst analyseren.,Infinitival Argument Clause,bare_verb_type_3,3140,analyseren,zag
+De dirigent hoorde de koorleden de noten zingen.,De dirigent luisterde de koorleden de noten zingen.,Infinitival Argument Clause,bare_verb_type_3,3141,zingen,hoorde
+De ontdekkingsreiziger zag de inboorlingen hun tradities handhaven.,De ontdekkingsreiziger keek de inboorlingen hun tradities handhaven.,Infinitival Argument Clause,bare_verb_type_3,3142,handhaven,zag
+De arts zag de patiënten de pijn beschrijven.,De arts keek de patiënten de pijn beschrijven.,Infinitival Argument Clause,bare_verb_type_3,3143,beschrijven,zag
+De therapeut zag de cliënten hun emoties uiten.,De therapeut keek de cliënten hun emoties uiten.,Infinitival Argument Clause,bare_verb_type_3,3144,uiten,zag
+De wetenschapper hoorde de assistenten de metingen noteren.,De wetenschapper luisterde de assistenten de metingen noteren.,Infinitival Argument Clause,bare_verb_type_3,3145,noteren,hoorde
+De coach zag de sporters de druk van de competitie ervaren.,De coach keek de sporters de druk van de competitie ervaren.,Infinitival Argument Clause,bare_verb_type_3,3146,van de competitie ervaren,zag
+De lerares zag de leerlingen de vragen beantwoorden.,De lerares keek de leerlingen de vragen beantwoorden.,Infinitival Argument Clause,bare_verb_type_3,3147,beantwoorden,zag
+De chef-kok zag de koks de saus kruiden.,De chef-kok keek de koks de saus kruiden.,Infinitival Argument Clause,bare_verb_type_3,3148,kruiden,zag
+De psycholoog hoorde de patiënten hun dromen bespreken.,De psycholoog luisterde de patiënten hun dromen bespreken.,Infinitival Argument Clause,bare_verb_type_3,3149,bespreken,hoorde
+De journalist zag de politicus praten met de pers.,De journalist keek de politicus praten met de pers.,Infinitival Argument Clause,bare_verb_type_3,3150,praten,zag
+De leerkracht hoorde de studenten zingen in de klas.,De leerkracht luisterde de studenten zingen in de klas.,Infinitival Argument Clause,bare_verb_type_3,3151,zingen,hoorde
+De fotograaf zag de vogels vliegen over het meer.,De fotograaf keek de vogels vliegen over het meer.,Infinitival Argument Clause,bare_verb_type_3,3152,vliegen,zag
+De bioloog zag de slangen kronkelen in zijn handen.,De bioloog keek de slangen kronkelen in zijn handen.,Infinitival Argument Clause,bare_verb_type_3,3153,kronkelen,zag
+De tuinman zag de bloemen bloeien in de lente.,De tuinman keek de bloemen bloeien in de lente.,Infinitival Argument Clause,bare_verb_type_3,3154,bloeien,zag
+De kinderen hoorden de muzikanten spelen op straat.,De kinderen luisterden de muzikanten spelen op straat.,Infinitival Argument Clause,bare_verb_type_3,3155,spelen,hoorden
+De bakker zag de broden rijzen in de oven.,De bakker keek de broden rijzen in de oven.,Infinitival Argument Clause,bare_verb_type_3,3156,rijzen,zag
+De professor hoorde de studenten discussiëren over het onderwerp.,De professor luisterde de studenten discussiëren over het onderwerp.,Infinitival Argument Clause,bare_verb_type_3,3157,discussiëren,hoorde
+De schilder zag de zonsondergang kleuren op het doek.,De schilder keek de zonsondergang kleuren op het doek.,Infinitival Argument Clause,bare_verb_type_3,3158,kleuren,zag
+De ober hoorde de borden trillen op het dienblad.,De ober luisterde de borden trillen op het dienblad.,Infinitival Argument Clause,bare_verb_type_3,3159,trillen,hoorde
+De therapeut zag de patiënt huilen tijdens de sessie.,De therapeut keek de patiënt huilen tijdens de sessie.,Infinitival Argument Clause,bare_verb_type_3,3160,huilen,zag
+De astronaut hoorde de motoren loeien bij het opstijgen.,De astronaut luisterde de motoren loeien bij het opstijgen.,Infinitival Argument Clause,bare_verb_type_3,3161,loeien,hoorde
+De boer zag de kippen scharrelen in de tuin.,De boer keek de kippen scharrelen in de tuin.,Infinitival Argument Clause,bare_verb_type_3,3162,scharrelen,zag
+De leraar hoorde de bel rinkelen aan het einde van de les.,De leraar luisterde de bel rinkelen aan het einde van de les.,Infinitival Argument Clause,bare_verb_type_3,3163,rinkelen,hoorde
+De dirigent zag de muzikanten spelen op het podium.,De dirigent keek de muzikanten spelen op het podium.,Infinitival Argument Clause,bare_verb_type_3,3164,spelen,zag
+De bakker zag het deeg rijzen onder zijn handen.,De bakker keek het deeg rijzen onder zijn handen.,Infinitival Argument Clause,bare_verb_type_3,3165,rijzen,zag
+De chef-kok zag de koks koken in de keuken.,De chef-kok keek de koks koken in de keuken.,Infinitival Argument Clause,bare_verb_type_3,3166,koken,zag
+De beveiliger hoorde de alarmen afgaan in het gebouw.,De beveiliger luisterde de alarmen afgaan in het gebouw.,Infinitival Argument Clause,bare_verb_type_3,3167,afgaan,hoorde
+De advocaat zag de jury overleggen in de rechtszaal.,De advocaat keek de jury overleggen in de rechtszaal.,Infinitival Argument Clause,bare_verb_type_3,3168,overleggen,zag
+De apotheker hoorde de medicijnen trillen in de verpakking.,De apotheker luisterde de medicijnen trillen in de verpakking.,Infinitival Argument Clause,bare_verb_type_3,3169,trillen,hoorde
+De fotograaf zag de sterren fonkelen in de nacht.,De fotograaf keek de sterren fonkelen in de nacht.,Infinitival Argument Clause,bare_verb_type_3,3170,fonkelen,zag
+De trainer hoorde de atleten hijgen na de wedstrijd.,De trainer luisterde de atleten hijgen na de wedstrijd.,Infinitival Argument Clause,bare_verb_type_3,3171,hijgen,hoorde
+De koetsier zag de paarden galopperen door het bos.,De koetsier keek de paarden galopperen door het bos.,Infinitival Argument Clause,bare_verb_type_3,3172,galopperen,zag
+De onderzoeker zag de cellen delen onder de microscoop.,De onderzoeker keek de cellen delen onder de microscoop.,Infinitival Argument Clause,bare_verb_type_3,3173,delen,zag
+De studenten hoorden de professor uitleggen over het onderwerp.,De studenten luisterden de professor uitleggen over het onderwerp.,Infinitival Argument Clause,bare_verb_type_3,3174,uitleggen,hoorden
+De koorddanser zag de mensen applaudisseren na zijn optreden.,De koorddanser keek de mensen applaudisseren na zijn optreden.,Infinitival Argument Clause,bare_verb_type_3,3175,applaudisseren,zag
+De herder zag de schapen grazen op de heuvels.,De herder keek de schapen grazen op de heuvels.,Infinitival Argument Clause,bare_verb_type_3,3176,grazen,zag
+De archeoloog zag de artefacten opgraven uit de grond.,De archeoloog keek de artefacten opgraven uit de grond.,Infinitival Argument Clause,bare_verb_type_3,3177,opgraven,zag
+De schilder hoorde de verf borrelen in het blik.,De schilder luisterde de verf borrelen in het blik.,Infinitival Argument Clause,bare_verb_type_3,3178,borrelen,hoorde
+De architect zag de gebouwen verrijzen in de stad.,De architect keek de gebouwen verrijzen in de stad.,Infinitival Argument Clause,bare_verb_type_3,3179,verrijzen,zag
+De hond hoorde de kat miauwen achter de deur. ,De hond luisterde de kat miauwen achter de deur. ,Infinitival Argument Clause,bare_verb_type_3,3180,miauwen,hoorde
+Ik weet dat Felix een baan schijnt te hebben.,Ik weet dat Felix schijnt een baan te hebben.,Infinitival Argument Clause,te_transparant_split,261,een baan schijnt,
+Jij weet dat Francine een man lijkt te kussen.,Jij weet dat Francine lijkt een man te kussen.,Infinitival Argument Clause,te_transparant_split,262,een man lijkt,
+Wij weten dat Gabriël heel opvliegend blijkt te zijn.,Wij weten dat Gabriël blijkt heel opvliegend te zijn.,Infinitival Argument Clause,te_transparant_split,263,heel opvliegend blijkt,
+Jullie weten dat Gwen weer zwanger schijnt te zijn.,Jullie weten dat Gwen schijnt weer zwanger te zijn.,Infinitival Argument Clause,te_transparant_split,264,weer zwanger schijnt,
+Ik weet dat Hans grote problemen lijkt te zien.,Ik weet dat Hans lijkt grote problemen te zien.,Infinitival Argument Clause,te_transparant_split,265,grote problemen lijkt,
+Jij weet dat Heleen een kleindochter blijkt te verwachten.,Jij weet dat Heleen blijkt een kleindochter te verwachten.,Infinitival Argument Clause,te_transparant_split,266,een kleindochter blijkt,
+Wij weten dat Marcel iets kostbaars schijnt te zoeken.,Wij weten dat Marcel schijnt iets kostbaars te zoeken.,Infinitival Argument Clause,te_transparant_split,267,iets kostbaars schijnt,
+Jullie weten dat Maartje de brug lijkt te ontwerpen.,Jullie weten dat Maartje lijkt de brug te ontwerpen.,Infinitival Argument Clause,te_transparant_split,268,de brug lijkt,
+Ik weet dat Nelson verkeerde medicijnen blijkt te adviseren.,Ik weet dat Nelson blijkt verkeerde medicijnen te adviseren.,Infinitival Argument Clause,te_transparant_split,269,verkeerde medicijnen blijkt,
+Jullie weten dat Nicky belangrijke informatie blijkt te verbergen.,Jullie weten dat Nicky blijkt belangrijke informatie te verbergen.,Infinitival Argument Clause,te_transparant_split,270,belangrijke informatie blijkt,
+Hij weet dat Olivia haar sleutels lijkt te verliezen.,Hij weet dat Olivia lijkt haar sleutels te verliezen.,Infinitival Argument Clause,te_transparant_split,3181,haar sleutels lijkt,
+Zij weten dat Patrick erg moe blijkt te zijn.,Zij weten dat Patrick blijkt erg moe te zijn.,Infinitival Argument Clause,te_transparant_split,3182,erg moe blijkt,
+Wij weten dat Suzanne een nieuwe hobby lijkt te hebben.,Wij weten dat Suzanne lijkt een nieuwe hobby te hebben.,Infinitival Argument Clause,te_transparant_split,3183,een nieuwe hobby lijkt,
+Jij weet dat Boris zijn telefoon lijkt te hebben gevonden.,Jij weet dat Boris lijkt zijn telefoon te hebben gevonden.,Infinitival Argument Clause,te_transparant_split,3184,zijn telefoon lijkt,
+Ik weet dat Carla haar kinderen blijkt te steunen.,Ik weet dat Carla blijkt haar kinderen te steunen.,Infinitival Argument Clause,te_transparant_split,3185,haar kinderen blijkt,
+Jullie weten dat Roberta haar nieuwe huis lijkt te waarderen.,Jullie weten dat Roberta lijkt haar nieuwe huis te waarderen.,Infinitival Argument Clause,te_transparant_split,3186,haar nieuwe huis lijkt,
+Hij weet dat Elise haar fouten lijkt te erkennen.,Hij weet dat Elise lijkt haar fouten te erkennen.,Infinitival Argument Clause,te_transparant_split,3187,haar fouten lijkt,
+ij weten dat Michael vroeg naar huis blijkt te gaan.,Zij weten dat Michael blijkt vroeg naar huis te gaan.,Infinitival Argument Clause,te_transparant_split,3188,vroeg naar huis blijkt,
+Wij weten dat Sabine haar reisplannen lijkt te wijzigen.,Wij weten dat Sabine lijkt haar reisplannen te wijzigen.,Infinitival Argument Clause,te_transparant_split,3189,haar reisplannen lijkt,
+Jullie weten dat Thomas zijn doelen blijkt te bereiken.,Jullie weten dat Thomas blijkt zijn doelen te bereiken.,Infinitival Argument Clause,te_transparant_split,3190,zijn doelen blijkt,
+Zij weten dat Eva haar sleutels lijkt te vergeten.,Zij weten dat Eva lijkt haar sleutels te vergeten.,Infinitival Argument Clause,te_transparant_split,3191,haar sleutels lijkt,
+Wij weten dat Victor een nieuwe taal blijkt te leren.,Wij weten dat Victor blijkt een nieuwe taal te leren.,Infinitival Argument Clause,te_transparant_split,3192,een nieuwe taal blijkt,
+Hij weet dat Alice haar beslissing lijkt te betreuren.,Hij weet dat Alice lijkt haar beslissing te betreuren.,Infinitival Argument Clause,te_transparant_split,3193,haar beslissing lijkt,
+Jullie weten dat Samuel zijn doelen schijnt te bereiken.,Jullie weten dat Samuel schijnt zijn doelen te bereiken.,Infinitival Argument Clause,te_transparant_split,3194,zijn doelen schijnt,
+Ik weet dat Laura haar huiswerk lijkt te voltooien.,Ik weet dat Laura lijkt haar huiswerk te voltooien.,Infinitival Argument Clause,te_transparant_split,3195,haar huiswerk lijkt,
+Zij weten dat Martijn zijn fouten blijkt te herstellen.,Zij weten dat Martijn blijkt zijn fouten te herstellen.,Infinitival Argument Clause,te_transparant_split,3196,zijn fouten blijkt,
+Wij weten dat Sarah haar vrienden schijnt te missen.,Wij weten dat Sarah schijnt haar vrienden te missen.,Infinitival Argument Clause,te_transparant_split,3197,haar vrienden schijnt,
+Jij weet dat Simon zijn afspraken lijkt te vergeten.,Jij weet dat Simon lijkt zijn afspraken te vergeten.,Infinitival Argument Clause,te_transparant_split,3198,zijn afspraken lijkt,
+Hij weet dat Isabella haar dromen blijkt te volgen.,Hij weet dat Isabella blijkt haar dromen te volgen.,Infinitival Argument Clause,te_transparant_split,3199,haar dromen blijkt,
+Jullie weten dat Peter zijn werk schijnt te waarderen.,Jullie weten dat Peter schijnt zijn werk te waarderen.,Infinitival Argument Clause,te_transparant_split,3200,zijn werk schijnt,
+Ik weet dat Olivia haar tijdlijn lijkt te updaten.,Ik weet dat Olivia lijkt haar tijdlijn te updaten.,Infinitival Argument Clause,te_transparant_split,3201,haar tijdlijn lijkt,
+Zij weten dat Arthur zijn excuses blijkt te maken.,Zij weten dat Arthur blijkt zijn excuses te maken.,Infinitival Argument Clause,te_transparant_split,3202,zijn excuses blijkt,
+Wij weten dat Emily haar hobby schijnt te delen.,Wij weten dat Emily schijnt haar hobby te delen.,Infinitival Argument Clause,te_transparant_split,3203,haar hobby schijnt,
+Jij weet dat Michael zijn geheimen lijkt te bewaren.,Jij weet dat Michael lijkt zijn geheimen te bewaren.,Infinitival Argument Clause,te_transparant_split,3204,zijn geheimen lijkt,
+Hij weet dat Iris haar verantwoordelijkheden schijnt te begrijpen.,Hij weet dat Iris schijnt haar verantwoordelijkheden te begrijpen.,Infinitival Argument Clause,te_transparant_split,3205,haar verantwoordelijkheden schijnt,
+Zij weten dat Brian zijn angsten lijkt te overwinnen.,Zij weten dat Brian lijkt zijn angsten te overwinnen.,Infinitival Argument Clause,te_transparant_split,3206,zijn angsten lijkt,
+Wij weten dat Sophie haar kennis schijnt te vergroten.,Wij weten dat Sophie schijnt haar kennis te vergroten.,Infinitival Argument Clause,te_transparant_split,3207,haar kennis schijnt,
+Jullie weten dat Lucas zijn gevoelens lijkt te uiten.,Jullie weten dat Lucas lijkt zijn gevoelens te uiten.,Infinitival Argument Clause,te_transparant_split,3208,zijn gevoelens lijkt,
+Ik weet dat Emma haar plannen schijnt te wijzigen.,Ik weet dat Emma schijnt haar plannen te wijzigen.,Infinitival Argument Clause,te_transparant_split,3209,haar plannen schijnt,
+Jij weet dat Kevin zijn doelen lijkt te bereiken.,Jij weet dat Kevin lijkt zijn doelen te bereiken.,Infinitival Argument Clause,te_transparant_split,3210,zijn doelen lijkt,
+Zij weten dat Thomas zijn advies schijnt te volgen.,Zij weten dat Thomas schijnt zijn advies te volgen.,Infinitival Argument Clause,te_transparant_split,3211,zijn advies schijnt,
+Wij weten dat Isabel haar plannen blijkt te wijzigen.,Wij weten dat Isabel blijkt haar plannen te wijzigen.,Infinitival Argument Clause,te_transparant_split,3212,haar plannen blijkt,
+Hij weet dat Lisanne haar grenzen lijkt te verleggen.,Hij weet dat Lisanne lijkt haar grenzen te verleggen.,Infinitival Argument Clause,te_transparant_split,3213,haar grenzen lijkt,
+Jullie weten dat Daan zijn verantwoordelijkheden schijnt te ontlopen.,Jullie weten dat Daan schijnt zijn verantwoordelijkheden te ontlopen.,Infinitival Argument Clause,te_transparant_split,3214,zijn verantwoordelijkheden schijnt,
+Ik weet dat Marije haar project lijkt te voltooien.,Ik weet dat Marije lijkt haar project te voltooien.,Infinitival Argument Clause,te_transparant_split,3215,haar project lijkt,
+Zij weten dat Jasper zijn excuses schijnt aan te bieden.,Zij weten dat Jasper schijnt zijn excuses aan te bieden.,Infinitival Argument Clause,te_transparant_split,3216,zijn excuses schijnt,
+Wij weten dat Lisa haar vorderingen blijkt te documenteren.,Wij weten dat Lisa blijkt haar vorderingen te documenteren.,Infinitival Argument Clause,te_transparant_split,3217,haar vorderingen blijkt,
+Hij weet dat Inge haar ideeën schijnt te delen.,Hij weet dat Inge schijnt haar ideeën te delen.,Infinitival Argument Clause,te_transparant_split,3218,haar ideeën schijnt,
+Jullie weten dat David zijn talenten lijkt te ontwikkelen.,Jullie weten dat David lijkt zijn talenten te ontwikkelen.,Infinitival Argument Clause,te_transparant_split,3219,zijn talenten lijkt,
+Ik weet dat Ilse haar dromen schijnt na te streven.,Ik weet dat Ilse schijnt haar dromen na te streven.,Infinitival Argument Clause,te_transparant_split,3220,haar dromen schijnt,
+Zij weten dat Ruben zijn twijfels blijkt te uiten.,Zij weten dat Ruben blijkt zijn twijfels te uiten.,Infinitival Argument Clause,te_transparant_split,3221,zijn twijfels blijkt,
+Wij weten dat Esmee haar gedachten lijkt te ordenen.,Wij weten dat Esmee lijkt haar gedachten te ordenen.,Infinitival Argument Clause,te_transparant_split,3222,haar gedachten lijkt,
+Jij weet dat Matthijs zijn zorgen schijnt te delen.,Jij weet dat Matthijs schijnt zijn zorgen te delen.,Infinitival Argument Clause,te_transparant_split,3223,zijn zorgen schijnt,
+Wij weten dat Eline haar fouten lijkt te erkennen.,Wij weten dat Eline lijkt haar fouten te erkennen.,Infinitival Argument Clause,te_transparant_split,3224,haar fouten lijkt,
+Ik weet dat Julia goed tekeningen schijnt te maken.,Ik weet dat Julia schijnt goed tekeningen te maken.,Infinitival Argument Clause,te_transparant_split,3225,goed tekeningen schijnt,
+Jij weet dat Timo vroeg op school blijkt te arriveren.,Jij weet dat Timo blijkt vroeg op school te arriveren.,Infinitival Argument Clause,te_transparant_split,3226,vroeg op school blijkt,
+Wij weten dat Eva moeilijke vragen lijkt te begrijpen.,Wij weten dat Eva lijkt moeilijke vragen te begrijpen.,Infinitival Argument Clause,te_transparant_split,3227,moeilijke vragen lijkt,
+Jullie weten dat Lars interessante boeken schijnt te lezen.,Jullie weten dat Lars schijnt interessante boeken te lezen.,Infinitival Argument Clause,te_transparant_split,3228,interessante boeken schijnt,
+Zij weten dat de nieuwe medewerker vriendelijk blijkt te zijn.,Zij weten dat de nieuwe medewerker blijkt vriendelijk te zijn.,Infinitival Argument Clause,te_transparant_split,3229,vriendelijk blijkt,
+Ik weet dat Anna de route schijnt te kennen.,Ik weet dat Anna schijnt de route te kennen.,Infinitival Argument Clause,te_transparant_split,3230,de route schijnt,
+Jij weet dat Michael goede ideeën blijkt te hebben.,Jij weet dat Michael blijkt goede ideeën te hebben.,Infinitival Argument Clause,te_transparant_split,3231,goede ideeën blijkt,
+Wij weten dat Isabel hard lijkt te werken.,Wij weten dat Isabel lijkt hard te werken.,Infinitival Argument Clause,te_transparant_split,3232,hard lijkt,
+Jullie weten dat Jasper nieuwe technologieën schijnt te begrijpen.,Jullie weten dat Jasper schijnt nieuwe technologieën te begrijpen.,Infinitival Argument Clause,te_transparant_split,3233,nieuwe technologieën schijnt,
+Zij weten dat de kat op de bank blijkt te slapen.,Zij weten dat de kat blijkt op de bank te slapen.,Infinitival Argument Clause,te_transparant_split,3234,op de bank blijkt,
+Ik weet dat Peter de weg schijnt te kunnen vinden.,Ik weet dat Peter schijnt de weg te kunnen vinden.,Infinitival Argument Clause,te_transparant_split,3235,de weg schijnt,
+Jij weet dat Linda snel lijkt te reageren.,Jij weet dat Linda lijkt snel te reageren.,Infinitival Argument Clause,te_transparant_split,3236,snel lijkt,
+Wij weten dat Marco goede cijfers blijkt te halen.,Wij weten dat Marco blijkt goede cijfers te halen.,Infinitival Argument Clause,te_transparant_split,3237,goede cijfers blijkt,
+Jullie weten dat Emma creatieve oplossingen schijnt te bedenken.,Jullie weten dat Emma schijnt creatieve oplossingen te bedenken.,Infinitival Argument Clause,te_transparant_split,3238,creatieve oplossingen schijnt,
+Jij weet dat Lisa gezonde maaltijden schijnt te koken.,Jij weet dat Lisa schijnt gezonde maaltijden te koken.,Infinitival Argument Clause,te_transparant_split,3239,gezonde maaltijden schijnt,
+Jullie weten dat Sarah geduldig blijkt te zijn.,Jullie weten dat Sarah blijkt geduldig te zijn.,Infinitival Argument Clause,te_transparant_split,3240,geduldig blijkt,
+Wij weten dat Emma haar huiswerk schijnt te maken.,Wij weten dat Emma schijnt haar huiswerk te maken.,Infinitival Argument Clause,te_transparant_split,3241,haar huiswerk schijnt,
+Jullie weten dat Tom moeilijke vragen lijkt te beantwoorden.,Jullie weten dat Tom lijkt moeilijke vragen te beantwoorden.,Infinitival Argument Clause,te_transparant_split,3242,moeilijke vragen lijkt,
+Zij weten dat Peter een nieuwe auto lijkt te kopen.,Zij weten dat Peter lijkt een nieuwe auto te kopen.,Infinitival Argument Clause,te_transparant_split,3243,een nieuwe auto lijkt,
+Wij weten dat Eva de documenten blijkt te verbergen.,Wij weten dat Eva blijkt de documenten te verbergen.,Infinitival Argument Clause,te_transparant_split,3244,de documenten blijkt,
+Jullie weten dat Thomas zijn baan lijkt te verliezen.,Jullie weten dat Thomas lijkt zijn baan te verliezen.,Infinitival Argument Clause,te_transparant_split,3245,zijn baan lijkt,
+Hij weet dat Olivia een geheim schijnt te bewaren.,Hij weet dat Olivia schijnt een geheim te bewaren.,Infinitival Argument Clause,te_transparant_split,3246,een geheim schijnt,
+Zij weet dat Arjan een nieuwe auto blijkt te kopen.,Zij weet dat Arjan blijkt een nieuwe auto te kopen.,Infinitival Argument Clause,te_transparant_split,3247,een nieuwe auto blijkt,
+Jullie weten dat Isabel onverwachts schijnt te vertrekken.,Jullie weten dat Isabel schijnt onverwachts te vertrekken.,Infinitival Argument Clause,te_transparant_split,3248,onverwachts schijnt,
+Wij weten dat Jasper ambitieuze plannen lijkt te hebben.,Wij weten dat Jasper lijkt ambitieuze plannen te hebben.,Infinitival Argument Clause,te_transparant_split,3249,ambitieuze plannen lijkt,
+Zij weten dat Naomi de leiding schijnt te nemen.,Zij weten dat Naomi schijnt de leiding te nemen.,Infinitival Argument Clause,te_transparant_split,3250,de leiding schijnt,
+Jij weet dat Victor een fout schijnt te erkennen.,Jij weet dat Victor schijnt een fout te erkennen.,Infinitival Argument Clause,te_transparant_split,3251,een fout schijnt,
+Wij weten dat Sander zijn beloftes schijnt te houden.,Wij weten dat Sander schijnt zijn beloftes te houden.,Infinitival Argument Clause,te_transparant_split,3252,zijn beloftes schijnt,
+Zij weten dat Lisa nieuwe talenten lijkt te ontdekken.,Zij weten dat Lisa lijkt nieuwe talenten te ontdekken.,Infinitival Argument Clause,te_transparant_split,3253,nieuwe talenten lijkt,
+Jij weet dat Alex een gevaarlijk pad schijnt te bewandelen.,Jij weet dat Alex schijnt een gevaarlijk pad te bewandelen.,Infinitival Argument Clause,te_transparant_split,3254,een gevaarlijk pad schijnt,
+Jullie weten dat Elise haar stem schijnt te verheffen.,Jullie weten dat Elise schijnt haar stem te verheffen.,Infinitival Argument Clause,te_transparant_split,3255,haar stem schijnt,
+Hij weet dat Maya een interessant verhaal lijkt te vertellen.,Hij weet dat Maya lijkt een interessant verhaal te vertellen.,Infinitival Argument Clause,te_transparant_split,3256,een interessant verhaal lijkt,
+Zij weten dat Lars de controle schijnt te verliezen.,Zij weten dat Lars schijnt de controle te verliezen.,Infinitival Argument Clause,te_transparant_split,3257,de controle schijnt,
+Jij weet dat Michelle haar angsten lijkt te overwinnen.,Jij weet dat Michelle lijkt haar angsten te overwinnen.,Infinitival Argument Clause,te_transparant_split,3258,haar angsten lijkt,
+Wij weten dat Daan de eerste prijs schijnt te winnen.,Wij weten dat Daan schijnt de eerste prijs te winnen.,Infinitival Argument Clause,te_transparant_split,3259,de eerste prijs schijnt,
+Jullie weten dat Roos haar tijdlijn lijkt te organiseren.,Jullie weten dat Roos lijkt haar tijdlijn te organiseren.,Infinitival Argument Clause,te_transparant_split,3260,haar tijdlijn lijkt,
+Ik weet dat Timo nieuwe technologieën schijnt te omarmen.,Ik weet dat Timo schijnt nieuwe technologieën te omarmen.,Infinitival Argument Clause,te_transparant_split,3261,nieuwe technologieën schijnt,
+Zij weten dat Laura onbekende talenten lijkt te ontwikkelen.,Zij weten dat Laura lijkt onbekende talenten te ontwikkelen.,Infinitival Argument Clause,te_transparant_split,3262,onbekende talenten lijkt,
+Wij weten dat Mila een ongebruikelijke route lijkt te kiezen.,Wij weten dat Mila lijkt een ongebruikelijke route te kiezen.,Infinitival Argument Clause,te_transparant_split,3263,een ongebruikelijke route lijkt,
+Hij weet dat Emma haar beslissingen lijkt te heroverwegen.,Hij weet dat Emma lijkt haar beslissingen te heroverwegen.,Infinitival Argument Clause,te_transparant_split,3264,haar beslissingen lijkt,
+Wij weten dat Fleur een onbekend liedje lijkt te zingen.,Wij weten dat Fleur lijkt een onbekend liedje te zingen.,Infinitival Argument Clause,te_transparant_split,3265,een onbekend liedje lijkt,
+Wij weten dat Luna onverwachte gasten schijnt te verwelkomen.,Wij weten dat Luna schijnt onverwachte gasten te verwelkomen.,Infinitival Argument Clause,te_transparant_split,3266,onverwachte gasten schijnt,
+Jullie weten dat Olivier een indrukwekkende prestatie lijkt te leveren.,Jullie weten dat Olivier lijkt een indrukwekkende prestatie te leveren.,Infinitival Argument Clause,te_transparant_split,3267,een indrukwekkende prestatie lijkt,
+Zij weten dat Hugo een oude traditie lijkt te eren.,Zij weten dat Hugo lijkt een oude traditie te eren.,Infinitival Argument Clause,te_transparant_split,3268,een oude traditie lijkt,
+Hij weet dat Eline haar verlies schijnt te accepteren.,Hij weet dat Eline schijnt haar verlies te accepteren.,Infinitival Argument Clause,te_transparant_split,3269,haar verlies schijnt,
+Wij weten dat Esmee een originele benadering schijnt te kiezen.,Wij weten dat Esmee schijnt een originele benadering te kiezen.,Infinitival Argument Clause,te_transparant_split,3270,een originele benadering schijnt,
+Oscar zag dat jouw neef besloot om te stretchen voor het sporten.,Oscar zag dat jouw neef om te stretchen besloot voor het sporten.,Infinitival Argument Clause,om+te,271,besloot om te stretchen,
+Paula hoorde dat jouw nicht besliste om te toeteren naar de bestuurder.,Paula hoorde dat jouw nicht om te toeteren besliste naar de bestuurder.,Infinitival Argument Clause,om+te,272,besliste om te toeteren,
+Pepijn zag dat jouw moeder verlangde om te volleyballen op het strand.,Pepijn zag dat jouw moeder om te volleyballen verlangde op het strand.,Infinitival Argument Clause,om+te,273,verlangde om te volleyballen,
+Rachel hoorde dat jouw broer besloot om te gymmen na zijn werk.,Rachel hoorde dat jouw broer om te gymmen besloot na zijn werk.,Infinitival Argument Clause,om+te,274,besloot om te gymmen,
+Quinn zag dat jouw vriend besloot om te spelen tegen de professional.,Quinn zag dat jouw vriend om te spelen besloot tegen de professional.,Infinitival Argument Clause,om+te,275,besloot om te spelen,
+Rebecca hoorde dat jouw vader besliste om te fietsen in de ochtend.,Rebecca hoorde dat jouw vader om te fietsen besliste in de ochtend.,Infinitival Argument Clause,om+te,276,besliste om te fietsen,
+Remco zag dat jouw zus besliste om te klauteren in het rek.,Remco zag dat jouw zus om te klauteren besliste in het rek.,Infinitival Argument Clause,om+te,277,besliste om te klauteren,
+Sabien zag dat jouw vriendin verlangde om te keepen tijdens de voetbalwedstrijd.,Sabien zag dat jouw vriendin om te keepen verlangde tijdens de voetbalwedstrijd.,Infinitival Argument Clause,om+te,278,verlangde om te keepen,
+Sander hoorde dat jouw oma verlangde om te kwebbelen met haar vriendinnen.,Sander hoorde dat jouw oma om te kwebbelen verlangde met haar vriendinnen.,Infinitival Argument Clause,om+te,279,verlangde om te kwebbelen,
+Tara hoorde dat jouw zusje besloot om te waterfietsen tijdens de vakantie.,Tara hoorde dat jouw zusje om te waterfietsen besloot tijdens de vakantie.,Infinitival Argument Clause,om+te,280,besloot om te waterfietsen,
+Ik merk dat Nina vergeet om te reageren tijdens de meeting.,Ik merk dat Nina om te reageren vergeet tijdens de meeting.,Infinitival Argument Clause,om+te,3271,vergeet om te reageren,
+De vrouw zag dat ik vergat om te antwoorden.,De vrouw zag dat ik om te antwoorden vergat.,Infinitival Argument Clause,om+te,3272,vergat om te antwoorden,
+Merel zei vanmiddag dat ze vergat om te ontbijten.,Merel zei vanmiddag dat ze om te ontbijten vergat.,Infinitival Argument Clause,om+te,3273,vergat om te ontbijten,
+Lina merkte dat haar nieuwe hond weigerde om te wandelen.,Lina merkte dat haar nieuwe hond om te wandelen weigerde.,Infinitival Argument Clause,om+te,3274,weigerde om te wandelen,
+Ronald hoorde dat de baby weigert om te drinken.,Ronald hoorde dat de baby om te drinken weigert.,Infinitival Argument Clause,om+te,3275,weigert om te drinken,
+Ze had gehoord dat Jelle weigerde om te verhuizen.,Ze had gehoord dat Jelle om te verhuizen weigerde.,Infinitival Argument Clause,om+te,3276,weigerde om te verhuizen,
+Eric zag dat de man probeerde om te spreken.,Eric zag dat de man om te spreken probeerde.,Infinitival Argument Clause,om+te,3277,probeerde om te spreken,
+Fay merkt dat Pieter probeert om te bewegen.,Fay merkt dat Pieter om te bewegen probeert.,Infinitival Argument Clause,om+te,3278,probeert om te bewegen,
+Elise hoorde dat haar ouders besloten om te trouwen.,Elise hoorde dat haar ouders om te trouwen besloten.,Infinitival Argument Clause,om+te,3279,besloten om te trouwen,
+Ik hoor in zijn muziek dat Jonah durft om te experimenteren.,Ik hoor in zijn muziek dat Jonah om te experimenteren durft.,Infinitival Argument Clause,om+te,3280,durft om te experimenteren,
+Hanna vindt het goed dat hij durft om te presenteren op zijn werk.,Hanna vindt het goed dat hij om te presenteren durft op zijn werk.,Infinitival Argument Clause,om+te,3281,durft om te presenteren,
+Tijdens het concert hoorde ik hoe de zangeres probeerde om te improviseren.,Tijdens het concert hoorde ik hoe de zangeres om te improviseren probeerde.,Infinitival Argument Clause,om+te,3282,probeerde om te improviseren,
+Het is inmiddels zo laat dat Julia besluit om te vertrekken.,Het is inmiddels zo laat dat Julia om te vertrekken besluit.,Infinitival Argument Clause,om+te,3283,besluit om te vertrekken,
+Nathan wist niet dat ik verlangde om te verhuizen.,Nathan wist niet dat ik om te verhuizen verlangde.,Infinitival Argument Clause,om+te,3284,verlangde om te verhuizen,
+David zag hoe de professor poogde om te tijdreizen in de film.,David zag hoe de professor om te tijdreizen poogde in de film.,Infinitival Argument Clause,om+te,3285,poogde om te tijdreizen,
+Mijn broertje vertelde hoe hij verlangde om te schaatsen deze winter.,Mijn broertje vertelde hoe hij om te schaatsen verlangde deze winter.,Infinitival Argument Clause,om+te,3286,verlangde om te schaatsen,
+Het was op de middelbare school dat ik leerde om te jongleren.,Het was op de middelbare school dat ik om te jongleren leerde.,Infinitival Argument Clause,om+te,3287,leerde om te jongleren,
+Marloes had gehoord dat haar neefje leert om te zeilen.,Marloes had gehoord dat haar neefje om te zeilen leert.,Infinitival Argument Clause,om+te,3288,leert om te zeilen,
+De juf zei dat de kinderen leerden om te schilderen.,De juf zei dat de kinderen om te schilderen leerden.,Infinitival Argument Clause,om+te,3289,leerden om te schilderen,
+Steven zegt dat hij leerde om te breien in de vakantie.,Steven zegt dat hij om te breien leerde in de vakantie.,Infinitival Argument Clause,om+te,3290,leerde om te breien,
+Tijdens het evenement merkte ze op dat de deelnemers aarzelden om te dansen.,Tijdens het evenement merkte ze op dat de deelnemers om te dansen aarzelden.,Infinitival Argument Clause,om+te,3291,aarzelden om te dansen,
+Ik vond het goed dat mijn vader weigerde om te liegen.,Ik vond het goed dat mijn vader om te liegen weigerde.,Infinitival Argument Clause,om+te,3292,weigerde om te liegen,
+Het is zo warm dat ik eindelijk besluit om te zwemmen.,Het is zo warm dat ik eindelijk om te zwemmen besluit.,Infinitival Argument Clause,om+te,3293,besluit om te zwemmen,
+Renate is zo verlegen dat ze weigert om te zingen.,Renate is zo verlegen dat ze om te zingen weigert.,Infinitival Argument Clause,om+te,3294,weigert om te zingen,
+Ze merkte op dat de studenten tijdens de les aarzelen om te vragen.,Ze merkte op dat de studenten tijdens de les om te vragen aarzelen.,Infinitival Argument Clause,om+te,3295,aarzelen om te vragen,
+Het was op die vakantie dat ik overwoog om te skiën.,Het was op die vakantie dat ik om te skiën overwoog.,Infinitival Argument Clause,om+te,3296,overwoog om te skiën,
+Tijdens de picknick vertelden ze ons dat ze besloten om te barbecueën.,Tijdens de picknick vertelden ze ons dat ze om te barbecueën besloten.,Infinitival Argument Clause,om+te,3297,besloten om te barbecueën,
+Zij zei dat haar vriendinnen weigeren om te kamperen.,Zij zei dat haar vriendinnen om te kamperen weigeren.,Infinitival Argument Clause,om+te,3298,weigeren om te kamperen,
+Meike wist dat haar broer probeert om te skateboarden.,Meike wist dat haar broer om te skateboarden probeert.,Infinitival Argument Clause,om+te,3299,probeert om te skateboarden,
+We zeiden tegen de docent dat we leren om te surfen.,We zeiden tegen de docent dat we om te surfen leren.,Infinitival Argument Clause,om+te,3300,leren om te surfen,
+Tijdens de vergadering merkte hij op dat sommige deelnemers vergaten om te luisteren.,Tijdens de vergadering merkte hij op dat sommige deelnemers om te luisteren vergaten.,Infinitival Argument Clause,om+te,3301,vergaten om te luisteren,
+Ze vond het vreemd dat haar vriend aarzelde om te antwoorden.,Ze vond het vreemd dat haar vriend om te antwoorden aarzelde.,Infinitival Argument Clause,om+te,3302,aarzelde om te antwoorden,
+Het was zo druk dat ik besloot om te ontsnappen.,Het was zo druk dat ik om te ontsnappen besloot.,Infinitival Argument Clause,om+te,3303,besloot om te ontsnappen,
+Mark is zo avontuurlijk dat hij weigert om te settelen.,Mark is zo avontuurlijk dat hij om te settelen weigert.,Infinitival Argument Clause,om+te,3304,weigert om te settelen,
+Ze wil voorkomen dat de leerlingen aarzelen om te participeren.,Ze wil voorkomen dat de leerlingen om te participeren aarzelen.,Infinitival Argument Clause,om+te,3305,aarzelen om te participeren,
+Bob is zo verlegen dat hij weigert om te spreken.,Bob is zo verlegen dat hij om te spreken weigert.,Infinitival Argument Clause,om+te,3306,weigert om te spreken,
+Hij merkte op dat de jonge kinderen weigeren om te delen.,Hij merkte op dat de jonge kinderen om te delen weigeren.,Infinitival Argument Clause,om+te,3307,weigeren om te delen,
+Hij vond het interessant dat zijn oudere collega's aarzelden om te innoveren.,Hij vond het interessant dat zijn oudere collega's om te innoveren aarzelden.,Infinitival Argument Clause,om+te,3308,aarzelden om te innoveren,
+Het was zo heet dat we besloten om te vertrekken.,Het was zo heet dat we om te vertrekken besloten.,Infinitival Argument Clause,om+te,3309,besloten om te vertrekken,
+De chef vond het vreemd dat de koks aarzelden om te experimenteren.,De chef vond het vreemd dat de koks om te experimenteren aarzelden.,Infinitival Argument Clause,om+te,3310,aarzelden om te experimenteren,
+Tijdens de les merkte ik op dat veel studenten aarzelden om te discussiëren.,Tijdens de les merkte ik op dat veel studenten om te discussiëren aarzelden.,Infinitival Argument Clause,om+te,3311,aarzelden om te discussiëren,
+De gids zag dat de toeristen aarzelden om te fotograferen tijdens de rit.,De gids zag dat de toeristen om te fotograferen aarzelden tijdens de rit.,Infinitival Argument Clause,om+te,3312,aarzelden om te fotograferen,
+De kunstenaar merkte op dat de kinderen aarzelden om te schilderen op het grote doek.,De kunstenaar merkte op dat de kinderen om te schilderen aarzelden op het grote doek.,Infinitival Argument Clause,om+te,3313,aarzelden om te schilderen,
+Ze weet dat leerlingen aarzelen om te presenteren in haar klas.,Ze weet dat leerlingen om te presenteren aarzelen in haar klas.,Infinitival Argument Clause,om+te,3314,aarzelen om te presenteren,
+Marc dacht niet dat politici aarzelden om te discussiëren over het controversiële onderwerp.,Marc dacht niet dat politici om te discussiëren aarzelden over het controversiële onderwerp.,Infinitival Argument Clause,om+te,3315,aarzelden om te discussiëren,
+De ontwerper merkte op dat zijn klanten aarzelden om te experimenteren met nieuwe stijlen.,De ontwerper merkte op dat zijn klanten om te experimenteren aarzelden met nieuwe stijlen.,Infinitival Argument Clause,om+te,3316,aarzelden om te experimenteren,
+Het is vaak zo dat de deelnemers aarzelen om te bungeejumpen.,Het is vaak zo dat de deelnemers om te bungeejumpen aarzelen.,Infinitival Argument Clause,om+te,3317,aarzelen om te bungeejumpen,
+De dag was zo inspirerend dat ik besloot om te schrijven.,De dag was zo inspirerend dat ik om te schrijven besloot.,Infinitival Argument Clause,om+te,3318,besloot om te schrijven,
+De fotograaf hoorde dat de modellen aarzelden om te poseren met wilde dieren.,De fotograaf hoorde dat de modellen om te poseren aarzelden met wilde dieren.,Infinitival Argument Clause,om+te,3319,aarzelden om te poseren,
+De ingenieur merkte dat studenten aarzelden om te werken met nieuwe technologieën.,De ingenieur merkte dat studenten om te werken aarzelden met nieuwe technologieën.,Infinitival Argument Clause,om+te,3320,aarzelden om te werken,
+Het was tijdens de saaie wandeling dat de gids besloot om te liegen.,Het was tijdens de saaie wandeling dat de gids om te liegen besloot.,Infinitival Argument Clause,om+te,3321,besloot om te liegen,
+Hij zag dat de jongens weigerden om te zwemmen in de wilde rivier.,Hij zag dat de jongens om te zwemmen weigerden in de wilde rivier.,Infinitival Argument Clause,om+te,3322,weigerden om te zwemmen,
+Ze merkte op dat Tristan aarzelt om te abseilen vanaf de hoge klif.,Ze merkte op dat Tristan om te abseilen aarzelt vanaf de hoge klif.,Infinitival Argument Clause,om+te,3323,aarzelt om te abseilen,
+Tijdens de excursie vertelden de vrouwen ons dat ze overwogen om te kamperen.,Tijdens de excursie vertelden de vrouwen ons dat ze om te kamperen overwogen.,Infinitival Argument Clause,om+te,3324,overwogen om te kamperen,
+Hannah vindt het vreemd dat haar broers aarzelen om te reageren.,Hannah vindt het vreemd dat haar broers om te reageren aarzelen.,Infinitival Argument Clause,om+te,3325,aarzelen om te reageren,
+Dat meisje is zo nieuwsgierig dat ze weigert om te wachten.,Dat meisje is zo nieuwsgierig dat ze om te wachten weigert.,Infinitival Argument Clause,om+te,3326,weigert om te wachten,
+Het is een feit dat kunstenaars aarzelen om te programmeren.,Het is een feit dat kunstenaars om te programmeren aarzelen.,Infinitival Argument Clause,om+te,3327,aarzelen om te programmeren,
+Tijdens het eten zei hij dat hij en zijn vrouw overwogen om te verhuizen.,Tijdens het eten zei hij dat hij en zijn vrouw om te verhuizen overwogen.,Infinitival Argument Clause,om+te,3328,overwogen om te verhuizen,
+Florian wou niet dat zijn vrienden overwogen om te zwijgen.,Florian wou niet dat zijn vrienden om te zwijgen overwogen.,Infinitival Argument Clause,om+te,3329,overwogen om te zwijgen,
+Ik heb het zo warm dat ik overwoog om te zwemmen.,Ik heb het zo warm dat ik om te zwemmen overwoog.,Infinitival Argument Clause,om+te,3330,overwoog om te zwemmen,
+Robert is zo nieuwsgierig naar het onderwerp dat hij overweegt om te gaan promoveren.,Robert is zo nieuwsgierig naar het onderwerp dat hij om te gaan promoveren overweegt.,Infinitival Argument Clause,om+te,3331,overweegt om te gaan promoveren,
+Lisa zei dat ze overweegt om te reizen.,Lisa zei dat ze om te reizen overweegt.,Infinitival Argument Clause,om+te,3332,overweegt om te reizen,
+Ze wist dat meerdere leerlingen overwegen om te stoppen.,Ze wist dat meerdere leerlingen om te stoppen overwegen.,Infinitival Argument Clause,om+te,3333,overwegen om te stoppen,
+Richard verveelt zich zo dat hij overweegt om te drinken.,Richard verveelt zich zo dat hij om te drinken overweegt.,Infinitival Argument Clause,om+te,3334,overweegt om te drinken,
+Na het feestje zeggen ze dat ze overwegen om te dansen.,Na het feestje zeggen ze dat ze om te dansen overwegen.,Infinitival Argument Clause,om+te,3335,overwegen om te dansen,
+Hij vond het interessant dat zijn collega's overwogen om te innoveren.,Hij vond het interessant dat zijn collega's om te innoveren overwogen.,Infinitival Argument Clause,om+te,3336,overwogen om te innoveren,
+Mijn moeder zei dat ze overweegt om te tuinieren deze zomer.,Mijn moeder zei dat ze om te tuinieren overweegt deze zomer.,Infinitival Argument Clause,om+te,3337,overweegt om te tuinieren,
+De leraar suggereert dat de slimme student overweegt om te studeren.,De leraar suggereert dat de slimme student om te studeren overweegt.,Infinitival Argument Clause,om+te,3338,overweegt om te studeren,
+De adviseur suggereert dat het bedrijf overweegt om te herstructureren.,De adviseur suggereert dat het bedrijf om te herstructureren overweegt.,Infinitival Argument Clause,om+te,3339,overweegt om te herstructureren,
+Ze suggereert dat de jongere studenten leren om te presenteren.,Ze suggereert dat de jongere studenten om te presenteren leren.,Infinitival Argument Clause,om+te,3340,leren om te presenteren,
+Hij suggereert dat Boris leert om te investeren.,Hij suggereert dat Boris om te investeren leert.,Infinitival Argument Clause,om+te,3341,leert om te investeren,
+De professor suggereert dat de onderzoekers proberen om te publiceren.,De professor suggereert dat de onderzoekers om te publiceren proberen.,Infinitival Argument Clause,om+te,3342,proberen om te publiceren,
+De mentor suggereert dat de studenten overwegen om te specialiseren.,De mentor suggereert dat de studenten om te specialiseren overwegen.,Infinitival Argument Clause,om+te,3343,overwegen om te specialiseren,
+Dit suggereert dat de artiesten overwegen om te stoppen na deze tour.,Dit suggereert dat de artiesten om te stoppen overwegen na deze tour.,Infinitival Argument Clause,om+te,3344,overwegen om te stoppen,
+Norman suggereert dat de schrijver overweegt om te publiceren.,Norman suggereert dat de schrijver om te publiceren overweegt.,Infinitival Argument Clause,om+te,3345,overweegt om te publiceren,
+De consultant suggereert dat het team probeert om te vernieuwen.,De consultant suggereert dat het team om te vernieuwen probeert.,Infinitival Argument Clause,om+te,3346,probeert om te vernieuwen,
+Het panel suggereert dat de deelnemers leren om te debatteren.,Het panel suggereert dat de deelnemers om te debatteren leren.,Infinitival Argument Clause,om+te,3347,leren om te debatteren,
+Ze suggereert dat het gezin overweegt om te reizen.,Ze suggereert dat het gezin om te reizen overweegt.,Infinitival Argument Clause,om+te,3348,overweegt om te reizen,
+Maurits zei dat hij leerde om te typen.,Maurits zei dat hij om te typen leerde.,Infinitival Argument Clause,om+te,3349,leerde om te typen,
+Tijdens de schilderworkshop suggereerde de instructeur dat de deelnemers leerden om te boetseren.,Tijdens de schilderworkshop suggereerde de instructeur dat de deelnemers om te boetseren leerden.,Infinitival Argument Clause,om+te,3350,leerden om te boetseren,
+Het was op het feestje dat Julie leerde om te dansen.,Het was op het feestje dat Julie om te dansen leerde.,Infinitival Argument Clause,om+te,3351,leerde om te dansen,
+Hij suggereerde dat de muzikanten leerden om te improviseren.,Hij suggereerde dat de muzikanten om te improviseren leerden.,Infinitival Argument Clause,om+te,3352,leerden om te improviseren,
+De docent zei dat de studenten leren om te coderen.,De docent zei dat de studenten om te coderen leren.,Infinitival Argument Clause,om+te,3353,leren om te coderen,
+Ze vertelde dat ze leert om te fotograferen.,Ze vertelde dat ze om te fotograferen leert.,Infinitival Argument Clause,om+te,3354,leert om te fotograferen,
+Paula suggereerde dat de schrijver leert om te redigeren.,Paula suggereerde dat de schrijver om te redigeren leert.,Infinitival Argument Clause,om+te,3355,leert om te redigeren,
+Ze ontdekte dat haar vrienden leerden om te kajakken.,Ze ontdekte dat haar vrienden om te kajakken leerden.,Infinitival Argument Clause,om+te,3356,leerden om te kajakken,
+De advocaat benadrukte dat de verdachte weigerde om te betalen.,De advocaat benadrukte dat de verdachte om te betalen weigerde.,Infinitival Argument Clause,om+te,3357,weigerde om te betalen,
+Hera benadrukte dat haar oudste dochter weigerde om te eten.,Hera benadrukte dat haar oudste dochter om te eten weigerde.,Infinitival Argument Clause,om+te,3358,weigerde om te eten,
+De man liet zien dat zijn computer weigerde om te starten.,De man liet zien dat zijn computer om te starten weigerde.,Infinitival Argument Clause,om+te,3359,weigerde om te starten,
+Ik dacht dat Marloes weigerde om te vliegen.,Ik dacht dat Marloes om te vliegen weigerde.,Infinitival Argument Clause,om+te,3360,weigerde om te vliegen,
+De vriend beweert het tijdschrift al te lezen.,De vriend belooft het tijdschrift al te lezen.,Infinitival Argument Clause,te_om+te_difference_1,281,al,beweert
+De vrouw beweert het geheim al te weten.,De vrouw belooft het geheim al te weten.,Infinitival Argument Clause,te_om+te_difference_1,282,al,beweert
+De goochelaar denkt de trucjes al te leren.,De goochelaar besluit de trucjes al te leren.,Infinitival Argument Clause,te_om+te_difference_1,283,al,denkt
+De voetballer zegt de regels al te kennen.,De voetballer belooft de regels al te kennen.,Infinitival Argument Clause,te_om+te_difference_1,284,al,zegt
+De vluchteling denkt de taal al te beheersen.,De vluchteling probeert de taal al te beheersen.,Infinitival Argument Clause,te_om+te_difference_1,285,al,denkt
+De buurvrouw zegt de omwonenden al te waarschuwen.,De buurvrouw besluit de omwonenden al te waarschuwen.,Infinitival Argument Clause,te_om+te_difference_1,286,al,zegt
+De winkel beweert de klanten al te informeren.,De winkel probeert de klanten al te informeren.,Infinitival Argument Clause,te_om+te_difference_1,287,al,beweert
+De leerling denkt de formules al te begrijpen.,De leerling belooft de formules al te begrijpen.,Infinitival Argument Clause,te_om+te_difference_1,288,al,denkt
+De medewerker beweert de wijzigingen al te melden.,De medewerker besluit de wijzigingen al te melden.,Infinitival Argument Clause,te_om+te_difference_1,289,al,beweert
+De buurman zegt de hulpdienst al te alarmeren.,De buurman probeert de hulpdienst al te alarmeren.,Infinitival Argument Clause,te_om+te_difference_1,290,al,zegt
+De vrouw beweert het geheim al te weten.,De vrouw belooft het geheim al te weten.,Infinitival Argument Clause,te_om+te_difference_1,3361,al,beweert
+De jongleur denkt de trucjes al te leren.,De jongleur besluit de trucjes al te leren.,Infinitival Argument Clause,te_om+te_difference_1,3362,al,denkt
+De voetballer zegt de regels al te kennen.,De voetballer belooft de regels al te kennen.,Infinitival Argument Clause,te_om+te_difference_1,3363,al,zegt
+De vluchteling denkt de taal al te beheersen.,De vluchteling probeert de taal al te beheersen.,Infinitival Argument Clause,te_om+te_difference_1,3364,al,denkt
+De student beweert de formule al te begrijpen.,De student belooft de formule al te begrijpen.,Infinitival Argument Clause,te_om+te_difference_1,3365,al,beweert
+De onderzoeker denkt de resultaten al te hebben geanalyseerd.,De onderzoeker probeert de resultaten al te hebben geanalyseerd.,Infinitival Argument Clause,te_om+te_difference_1,3366,al,denkt
+De chef zegt het recept al te hebben geprobeerd.,De chef besluit het recept al te hebben geprobeerd.,Infinitival Argument Clause,te_om+te_difference_1,3367,al,zegt
+De leraar beweert de lesstof al te hebben voorbereid.,De leraar probeert de lesstof al te hebben voorbereid.,Infinitival Argument Clause,te_om+te_difference_1,3368,al,beweert
+De ingenieur denkt de fouten al te hebben opgelost.,De ingenieur probeert de fouten al te hebben opgelost.,Infinitival Argument Clause,te_om+te_difference_1,3369,al,denkt
+De arts zegt de diagnose al te hebben gesteld.,De arts besluit de diagnose al te hebben gesteld.,Infinitival Argument Clause,te_om+te_difference_1,3370,al,zegt
+De schrijver beweert het plot al te hebben bedacht.,De schrijver probeert het plot al te hebben bedacht.,Infinitival Argument Clause,te_om+te_difference_1,3371,al,beweert
+De accountant denkt de balans al te hebben gecontroleerd.,De accountant probeert de balans al te hebben gecontroleerd.,Infinitival Argument Clause,te_om+te_difference_1,3372,al,denkt
+De kok beweert het gerecht al te hebben bereid.,De kok belooft het gerecht al te hebben bereid.,Infinitival Argument Clause,te_om+te_difference_1,3373,al,beweert
+De student zegt de opdracht al te hebben voltooid.,De student besluit de opdracht al te hebben voltooid.,Infinitival Argument Clause,te_om+te_difference_1,3374,al,zegt
+De manager beweert de presentatie al te hebben gegeven.,De manager probeert de presentatie al te hebben gegeven.,Infinitival Argument Clause,te_om+te_difference_1,3375,al,beweert
+De wetenschapper beweert de ontdekking al te hebben gedaan.,De wetenschapper probeert de ontdekking al te hebben gedaan.,Infinitival Argument Clause,te_om+te_difference_1,3376,al,beweert
+De schrijver denkt het boek al te hebben geschreven.,De schrijver besluit het boek al te hebben geschreven.,Infinitival Argument Clause,te_om+te_difference_1,3377,al,denkt
+De dokter zegt de diagnose al te hebben gesteld.,De dokter belooft de diagnose al te hebben gesteld.,Infinitival Argument Clause,te_om+te_difference_1,3378,al,zegt
+De kok beweert het gerecht al te hebben bereid.,De kok probeert het gerecht al te hebben bereid.,Infinitival Argument Clause,te_om+te_difference_1,3379,al,beweert
+De leraar denkt de les al te hebben gegeven.,De leraar besluit de les al te hebben gegeven.,Infinitival Argument Clause,te_om+te_difference_1,3380,al,denkt
+De advocaat zegt de zaak al te hebben voorbereid.,De advocaat probeert de zaak al te hebben voorbereid.,Infinitival Argument Clause,te_om+te_difference_1,3381,al,zegt
+De manager beweert het project al te hebben afgerond.,De manager besluit het project al te hebben afgerond.,Infinitival Argument Clause,te_om+te_difference_1,3382,al,beweert
+De fotograaf denkt de foto al te hebben genomen.,De fotograaf belooft de foto al te hebben genomen.,Infinitival Argument Clause,te_om+te_difference_1,3383,al,denkt
+De expert zegt het probleem al te hebben opgelost.,De expert probeert het probleem al te hebben opgelost.,Infinitival Argument Clause,te_om+te_difference_1,3384,al,zegt
+De monteur beweert de reparatie al te hebben voltooid.,De monteur besluit de reparatie al te hebben voltooid.,Infinitival Argument Clause,te_om+te_difference_1,3385,al,beweert
+De trainer denkt de tactiek al te hebben bedacht.,De trainer probeert de tactiek al te hebben bedacht.,Infinitival Argument Clause,te_om+te_difference_1,3386,al,denkt
+De politicus zegt het beleid al te hebben opgesteld.,De politicus belooft het beleid al te hebben opgesteld.,Infinitival Argument Clause,te_om+te_difference_1,3387,al,zegt
+De student beweert de opdracht al te hebben ingeleverd.,De student probeert de opdracht al te hebben ingeleverd.,Infinitival Argument Clause,te_om+te_difference_1,3388,al,beweert
+De ontwerper denkt het concept al te hebben ontwikkeld.,De ontwerper besluit het concept al te hebben ontwikkeld.,Infinitival Argument Clause,te_om+te_difference_1,3389,al,denkt
+De reiziger beweert de route al te hebben gepland.,De reiziger probeert de route al te hebben gepland.,Infinitival Argument Clause,te_om+te_difference_1,3390,al,beweert
+De wetenschapper beweert de theorie al te hebben verfijnd.,De wetenschapper probeert de theorie al te hebben verfijnd.,Infinitival Argument Clause,te_om+te_difference_1,3391,al,beweert
+De monteur zegt de motor al te hebben gerepareerd.,De monteur belooft de motor al te hebben gerepareerd.,Infinitival Argument Clause,te_om+te_difference_1,3392,al,zegt
+De leerling beweert de opgaven al opgelost te hebben.,De leerling probeert de opgaven al opgelost te hebben.,Infinitival Argument Clause,te_om+te_difference_1,3393,al,beweert
+De journalist zegt het nieuws al te hebben verslagen.,De journalist belooft het nieuws al te hebben verslagen.,Infinitival Argument Clause,te_om+te_difference_1,3394,al,zegt
+De fotograaf beweert de foto's al te hebben ontwikkeld.,De fotograaf probeert de foto's al te hebben ontwikkeld.,Infinitival Argument Clause,te_om+te_difference_1,3395,al,beweert
+De arts zegt de diagnose al te hebben gesteld.,De arts belooft de diagnose al te hebben gesteld.,Infinitival Argument Clause,te_om+te_difference_1,3396,al,zegt
+De hovenier beweert de tuin al te hebben onderhouden.,De hovenier probeert de tuin al te hebben onderhouden.,Infinitival Argument Clause,te_om+te_difference_1,3397,al,beweert
+De kapper zegt het kapsel al te hebben geknipt.,De kapper belooft het kapsel al te hebben geknipt.,Infinitival Argument Clause,te_om+te_difference_1,3398,al,zegt
+De politicus beweert de wet al te hebben opgesteld.,De politicus probeert de wet al te hebben opgesteld.,Infinitival Argument Clause,te_om+te_difference_1,3399,al,beweert
+De bakker zegt het brood al te hebben gebakken.,De bakker belooft het brood al te hebben gebakken.,Infinitival Argument Clause,te_om+te_difference_1,3400,al,zegt
+De accountant beweert de boekhouding al te hebben afgerond.,De accountant probeert de boekhouding al te hebben afgerond.,Infinitival Argument Clause,te_om+te_difference_1,3401,al,beweert
+De leraar zegt de lesstof al te hebben uitgelegd.,De leraar belooft de lesstof al te hebben uitgelegd.,Infinitival Argument Clause,te_om+te_difference_1,3402,al,zegt
+De architect beweert het ontwerp al te hebben voltooid.,De architect probeert het ontwerp al te hebben voltooid.,Infinitival Argument Clause,te_om+te_difference_1,3403,al,beweert
+De trainer zegt de tactieken al te hebben besproken.,De trainer belooft de tactieken al te hebben besproken.,Infinitival Argument Clause,te_om+te_difference_1,3404,al,zegt
+De muzikant beweert de partituur al te hebben ingestudeerd.,De muzikant probeert de partituur al te hebben ingestudeerd.,Infinitival Argument Clause,te_om+te_difference_1,3405,al,beweert
+De boer zegt de oogst al te hebben binnengehaald.,De boer belooft de oogst al te hebben binnengehaald.,Infinitival Argument Clause,te_om+te_difference_1,3406,al,zegt
+De student beweert het examen al te hebben afgelegd.,De student probeert het examen al te hebben afgelegd.,Infinitival Argument Clause,te_om+te_difference_1,3407,al,beweert
+De verkoper zegt de deal al te hebben gesloten.,De verkoper belooft de deal al te hebben gesloten.,Infinitival Argument Clause,te_om+te_difference_1,3408,al,zegt
+De kok beweert de maaltijd al te hebben bereid.,De kok probeert de maaltijd al te hebben bereid.,Infinitival Argument Clause,te_om+te_difference_1,3409,al,beweert
+De acteur zegt de rol al te hebben vertolkt.,De acteur belooft de rol al te hebben vertolkt.,Infinitival Argument Clause,te_om+te_difference_1,3410,al,zegt
+De timmerman beweert het meubelstuk al te hebben gemaakt.,De timmerman probeert het meubelstuk al te hebben gemaakt.,Infinitival Argument Clause,te_om+te_difference_1,3411,al,beweert
+De rechter zegt het vonnis al te hebben uitgesproken.,De rechter belooft het vonnis al te hebben uitgesproken.,Infinitival Argument Clause,te_om+te_difference_1,3412,al,zegt
+De coach beweert het team al te hebben getraind.,De coach probeert het team al te hebben getraind.,Infinitival Argument Clause,te_om+te_difference_1,3413,al,beweert
+De piloot zegt de vlucht al te hebben voltooid.,De piloot belooft de vlucht al te hebben voltooid.,Infinitival Argument Clause,te_om+te_difference_1,3414,al,zegt
+De schrijver beweert het verhaal al te hebben geschreven.,De schrijver probeert het verhaal al te hebben geschreven.,Infinitival Argument Clause,te_om+te_difference_1,3415,al,beweert
+De beeldhouwer zegt het beeldhouwwerk al te hebben gebeeldhouwd.,De beeldhouwer belooft het beeldhouwwerk al te hebben gebeeldhouwd.,Infinitival Argument Clause,te_om+te_difference_1,3416,al,zegt
+De CEO beweert de strategie al te hebben bepaald.,De CEO probeert de strategie al te hebben bepaald.,Infinitival Argument Clause,te_om+te_difference_1,3417,al,beweert
+De verpleegkundige zegt de patiënt al te hebben verzorgd.,De verpleegkundige belooft de patiënt al te hebben verzorgd.,Infinitival Argument Clause,te_om+te_difference_1,3418,al,zegt
+De surfer beweert de golf al te hebben bedwongen.,De surfer probeert de golf al te hebben bedwongen.,Infinitival Argument Clause,te_om+te_difference_1,3419,al,beweert
+De kunstenaar zegt het kunstwerk al te hebben voltooid.,De kunstenaar belooft het kunstwerk al te hebben voltooid.,Infinitival Argument Clause,te_om+te_difference_1,3420,al,zegt
+De nar beweert de grap al te hebben gemaakt.,De nar probeert de grap al te hebben gemaakt.,Infinitival Argument Clause,te_om+te_difference_1,3421,al,beweert
+De docent beweert de studenten al te beoordelen.,De docent besluit de studenten al te beoordelen.,Infinitival Argument Clause,te_om+te_difference_1,3422,al,beweert
+De chef zegt de gerechten al te proeven.,De chef probeert de gerechten al te proeven.,Infinitival Argument Clause,te_om+te_difference_1,3423,al,zegt
+De schrijver denkt het einde al te bedenken.,De schrijver belooft het einde al te bedenken.,Infinitival Argument Clause,te_om+te_difference_1,3424,al,denkt
+De manager beweert de strategie al te plannen.,De manager besluit de strategie al te plannen.,Infinitival Argument Clause,te_om+te_difference_1,3425,al,beweert
+De musicus zegt de melodieën al te componeren.,De musicus probeert de melodieën al te componeren.,Infinitival Argument Clause,te_om+te_difference_1,3426,al,zegt
+De reiziger denkt de route al te kennen.,De reiziger belooft de route al te kennen.,Infinitival Argument Clause,te_om+te_difference_1,3427,al,denkt
+De architect beweert het ontwerp al te voltooien.,De architect besluit het ontwerp al te voltooien.,Infinitival Argument Clause,te_om+te_difference_1,3428,al,beweert
+De patiënt zegt de symptomen al te herkennen.,De patiënt probeert de symptomen al te herkennen.,Infinitival Argument Clause,te_om+te_difference_1,3429,al,zegt
+De leraar beweert de lesstof al te behandelen.,De leraar besluit de lesstof al te behandelen.,Infinitival Argument Clause,te_om+te_difference_1,3430,al,beweert
+De advocaat beweert de zaak al te bestuderen.,De advocaat belooft de zaak al te bestuderen.,Infinitival Argument Clause,te_om+te_difference_1,3431,al,beweert
+De programmeur zegt de code al te schrijven.,De programmeur probeert de code al te schrijven.,Infinitival Argument Clause,te_om+te_difference_1,3432,al,zegt
+De atleet beweert de techniek al te perfectioneren.,De atleet belooft de techniek al te perfectioneren.,Infinitival Argument Clause,te_om+te_difference_1,3433,al,beweert
+De wetenschapper zegt de hypothese al te testen.,De wetenschapper besluit de hypothese al te testen.,Infinitival Argument Clause,te_om+te_difference_1,3434,al,zegt
+De chauffeur beweert de route al te kennen.,De chauffeur probeert de route al te kennen.,Infinitival Argument Clause,te_om+te_difference_1,3435,al,beweert
+De journalist zegt het nieuws al te verslaan.,De journalist belooft het nieuws al te verslaan.,Infinitival Argument Clause,te_om+te_difference_1,3436,al,zegt
+De monteur beweert het probleem al te identificeren.,De monteur besluit het probleem al te identificeren.,Infinitival Argument Clause,te_om+te_difference_1,3437,al,beweert
+De ondernemer zegt de markttrends al te volgen.,De ondernemer probeert de markttrends al te volgen.,Infinitival Argument Clause,te_om+te_difference_1,3438,al,zegt
+De beveiliger zegt de veiligheidsprotocollen al te volgen.,De beveiliger probeert de veiligheidsprotocollen al te volgen.,Infinitival Argument Clause,te_om+te_difference_1,3439,al,zegt
+De ridder beweert de draak al te verslaan.,De ridder belooft de draak al te verslaan.,Infinitival Argument Clause,te_om+te_difference_1,3440,al,beweert
+De monnik denkt de psalmen al te reciteren.,De monnik besluit de psalmen al te reciteren.,Infinitival Argument Clause,te_om+te_difference_1,3441,al,denkt
+De koopman zegt de handelswaar al te verkopen.,De koopman probeert de handelswaar al te verkopen.,Infinitival Argument Clause,te_om+te_difference_1,3442,al,zegt
+De troubadour denkt de liederen al te zingen.,De troubadour besluit de liederen al te zingen.,Infinitival Argument Clause,te_om+te_difference_1,3443,al,denkt
+De koning zegt de wetten al te bepalen.,De koning belooft de wetten al te bepalen.,Infinitival Argument Clause,te_om+te_difference_1,3444,al,zegt
+De hofdame beweert de etiquette al te kennen.,De hofdame probeert de etiquette al te kennen.,Infinitival Argument Clause,te_om+te_difference_1,3445,al,beweert
+De kasteelheer denkt de verdediging al te organiseren.,De kasteelheer besluit de verdediging al te organiseren.,Infinitival Argument Clause,te_om+te_difference_1,3446,al,denkt
+De pelgrim zegt de bedevaart al te volbrengen.,De pelgrim probeert de bedevaart al te volbrengen.,Infinitival Argument Clause,te_om+te_difference_1,3447,al,zegt
+De baron beweert de belastingen al te innen.,De baron belooft de belastingen al te innen.,Infinitival Argument Clause,te_om+te_difference_1,3448,al,beweert
+De schildknaap denkt de ridder al te dienen.,De schildknaap besluit de ridder al te dienen.,Infinitival Argument Clause,te_om+te_difference_1,3449,al,denkt
+De herbergier beweert de gasten al te verwelkomen.,De herbergier belooft de gasten al te verwelkomen.,Infinitival Argument Clause,te_om+te_difference_1,3450,al,beweert
+De vriend beweert het tijdschrift te willen lezen.,De vriend belooft het tijdschrift te willen lezen.,Infinitival Argument Clause,te_om+te_difference_2,291,willen,beweert
+De vrouw beweert het geheim te willen weten.,De vrouw belooft het geheim te willen weten.,Infinitival Argument Clause,te_om+te_difference_2,292,willen,beweert
+De goochelaar denkt de trucjes te kunnen leren.,De goochelaar besluit de trucjes te kunnen leren.,Infinitival Argument Clause,te_om+te_difference_2,293,kunnen,denkt
+De voetballer zegt de regels te willen kennen.,De voetballer belooft de regels te willen kennen.,Infinitival Argument Clause,te_om+te_difference_2,294,willen,zegt
+De vluchteling denkt de taal te kunnen beheersen.,De vluchteling probeert de taal te kunnen beheersen.,Infinitival Argument Clause,te_om+te_difference_2,295,kunnen,denkt
+De buurvrouw zegt de omwonenden te kunnen waarschuwen.,De buurvrouw besluit de omwonenden te kunnen waarschuwen.,Infinitival Argument Clause,te_om+te_difference_2,296,kunnen,zegt
+De winkel beweert de klanten te willen informeren.,De winkel probeert de klanten te willen informeren.,Infinitival Argument Clause,te_om+te_difference_2,297,willen,beweert
+De leerling denkt de formules te kunnen begrijpen.,De leerling belooft de formules te kunnen begrijpen.,Infinitival Argument Clause,te_om+te_difference_2,298,kunnen,denkt
+De medewerker beweert de wijzigingen te kunnen melden.,De medewerker besluit de wijzigingen te kunnen melden.,Infinitival Argument Clause,te_om+te_difference_2,299,kunnen,beweert
+De buurman zegt de hulpdienst te willen alarmeren.,De buurman probeert de hulpdienst te willen alarmeren.,Infinitival Argument Clause,te_om+te_difference_2,300,willen,zegt
+De leraar beweert de leerlingen te kunnen motiveren.,De leraar probeert de leerlingen te kunnen motiveren.,Infinitival Argument Clause,te_om+te_difference_2,3451,kunnen,beweert
+De chef zegt het recept te willen perfectioneren.,De chef besluit het recept te willen perfectioneren.,Infinitival Argument Clause,te_om+te_difference_2,3452,willen,zegt
+De wetenschapper denkt de theorie te kunnen bewijzen.,De wetenschapper probeert de theorie te kunnen bewijzen.,Infinitival Argument Clause,te_om+te_difference_2,3453,kunnen,denkt
+De musicus beweert de noten te kunnen lezen.,De musicus probeert de noten te kunnen lezen.,Infinitival Argument Clause,te_om+te_difference_2,3454,kunnen,beweert
+De schrijver denkt het verhaal te kunnen voltooien.,De schrijver belooft het verhaal te kunnen voltooien.,Infinitival Argument Clause,te_om+te_difference_2,3455,kunnen,denkt
+De student zegt de opdracht te willen volbrengen.,De student besluit de opdracht te willen volbrengen.,Infinitival Argument Clause,te_om+te_difference_2,3456,willen,zegt
+De monteur schijnt het probleem te willen oplossen.,De monteur weigert het probleem te willen oplossen.,Infinitival Argument Clause,te_om+te_difference_2,3457,willen,schijnt
+De kapper schijnt dat boek te willen kopen.,De kapper weigert dat boek te willen kopen.,Infinitival Argument Clause,te_om+te_difference_2,3458,willen,schijnt
+De schilder beweert het kunstwerk te kunnen voltooien.,De schilder probeert het kunstwerk te kunnen voltooien.,Infinitival Argument Clause,te_om+te_difference_2,3459,kunnen,beweert
+De advocaat denkt de zaak te kunnen winnen.,De advocaat probeert de zaak te kunnen winnen.,Infinitival Argument Clause,te_om+te_difference_2,3460,kunnen,denkt
+De presentator zegt de boodschap te willen overbrengen.,De presentator besluit de boodschap te willen overbrengen.,Infinitival Argument Clause,te_om+te_difference_2,3461,willen,zegt
+De ingenieurs beweren het ontwerp te kunnen optimaliseren.,De ingenieurs proberen het ontwerp te kunnen optimaliseren.,Infinitival Argument Clause,te_om+te_difference_2,3462,kunnen,beweren
+De onderzoekers denken het fenomeen te kunnen verklaren.,De onderzoekers proberen het fenomeen te kunnen verklaren.,Infinitival Argument Clause,te_om+te_difference_2,3463,kunnen,denken
+De reizigers zeggen de bestemming te willen verkennen.,De reizigers besluiten de bestemming te willen verkennen.,Infinitival Argument Clause,te_om+te_difference_2,3464,willen,zeggen
+De kunstenaars beweren het kunstwerk te kunnen creëren.,De kunstenaars besluiten het kunstwerk te kunnen creëren.,Infinitival Argument Clause,te_om+te_difference_2,3465,kunnen,beweren
+De atleten denken de wedstrijd te kunnen winnen.,De atleten beloven de wedstrijd te kunnen winnen.,Infinitival Argument Clause,te_om+te_difference_2,3466,kunnen,denken
+De architecten zeggen het ontwerp te willen verbeteren.,De architecten besluiten het ontwerp te willen verbeteren.,Infinitival Argument Clause,te_om+te_difference_2,3467,willen,zeggen
+De programmeurs beweren de code te kunnen optimaliseren.,De programmeurs proberen de code te kunnen optimaliseren.,Infinitival Argument Clause,te_om+te_difference_2,3468,kunnen,beweren
+De tuinmannen denken de planten te kunnen verzorgen.,De tuinmannen proberen de planten te kunnen verzorgen.,Infinitival Argument Clause,te_om+te_difference_2,3469,kunnen,denken
+De beleggers zeggen de strategie te willen veranderen.,De beleggers besluiten de strategie te willen veranderen.,Infinitival Argument Clause,te_om+te_difference_2,3470,willen,zeggen
+De docenten beweren de studenten te kunnen inspireren.,De docenten proberen de studenten te kunnen inspireren.,Infinitival Argument Clause,te_om+te_difference_2,3471,kunnen,beweren
+De ontwerpers denken het concept te kunnen ontwikkelen.,De ontwerpers beloven het concept te kunnen ontwikkelen.,Infinitival Argument Clause,te_om+te_difference_2,3472,kunnen,denken
+De consultants zeggen de oplossing te willen vinden.,De consultants besluiten de oplossing te willen vinden.,Infinitival Argument Clause,te_om+te_difference_2,3473,willen,zeggen
+De fotografen beweren het moment te kunnen vastleggen.,De fotografen proberen het moment te kunnen vastleggen.,Infinitival Argument Clause,te_om+te_difference_2,3474,kunnen,beweren
+De leraren denken de lesstof te kunnen uitleggen.,De leraren proberen de lesstof te kunnen uitleggen.,Infinitival Argument Clause,te_om+te_difference_2,3475,kunnen,denken
+De journalisten zeggen het recept te willen delen.,De journalisten besluiten het recept te willen delen.,Infinitival Argument Clause,te_om+te_difference_2,3476,willen,zeggen
+De teams denken de strategieën te kunnen verbeteren.,De teams beloven de strategieën te kunnen verbeteren.,Infinitival Argument Clause,te_om+te_difference_2,3477,kunnen,denken
+De coaches beweren de spelers te kunnen inzetten.,De coaches proberen de spelers te kunnen inzetten.,Infinitival Argument Clause,te_om+te_difference_2,3478,kunnen,beweren
+De ploegen beweren de competitie te kunnen domineren.,De ploegen proberen de competitie te kunnen domineren.,Infinitival Argument Clause,te_om+te_difference_2,3479,kunnen,beweren
+De clubs zeggen de ranglijst te willen aanvoeren.,De clubs besluiten de ranglijst te willen aanvoeren.,Infinitival Argument Clause,te_om+te_difference_2,3480,willen,zeggen
+De trainers zeggen de tactieken te willen hervormen.,De trainers besluiten de tactieken te willen hervormen.,Infinitival Argument Clause,te_om+te_difference_2,3481,willen,zeggen
+Het gezin denkt een gelukkig leven te kunnen leiden.,Het gezin belooft een gelukkig leven te kunnen leiden.,Infinitival Argument Clause,te_om+te_difference_2,3482,kunnen,denkt
+Het personeel beweert de klanten te kunnen bedienen.,Het personeel probeert de klanten te kunnen bedienen.,Infinitival Argument Clause,te_om+te_difference_2,3483,kunnen,beweert
+Het management denkt de doelstellingen te kunnen behalen.,Het management belooft de doelstellingen te kunnen behalen.,Infinitival Argument Clause,te_om+te_difference_2,3484,kunnen,denkt
+Het gezelschap beweert een onvergetelijke avond te kunnen bezorgen.,Het gezelschap probeert een onvergetelijke avond te kunnen bezorgen.,Infinitival Argument Clause,te_om+te_difference_2,3485,kunnen,beweert
+Het koppel beweert samen oud te kunnen worden.,Het koppel belooft samen oud te kunnen worden.,Infinitival Argument Clause,te_om+te_difference_2,3486,kunnen,beweert
+Het bestuur denkt het verschil te kunnen maken.,Het bestuur probeert het verschil te kunnen maken.,Infinitival Argument Clause,te_om+te_difference_2,3487,kunnen,denkt
+Het bedrijf denkt een betrouwbare service te kunnen bieden.,Het bedrijf belooft een betrouwbare service te kunnen bieden.,Infinitival Argument Clause,te_om+te_difference_2,3488,kunnen,denkt
+Het team schijnt succesvolle resultaten te willen behalen.,Het team weigert succesvolle resultaten te willen behalen.,Infinitival Argument Clause,te_om+te_difference_2,3489,willen,schijnt
+Het planbureau denkt een duurzame toekomst te kunnen garanderen.,Het planbureau belooft een duurzame toekomst te kunnen garanderen.,Infinitival Argument Clause,te_om+te_difference_2,3490,kunnen,denkt
+Het kind zegt de taart te willen eten.,Het kind besluit de taart te willen eten.,Infinitival Argument Clause,te_om+te_difference_2,3491,willen,zegt
+Het jongetje denkt de puzzel te kunnen oplossen.,Het jongetje belooft de puzzel te kunnen oplossen.,Infinitival Argument Clause,te_om+te_difference_2,3492,kunnen,denkt
+Het echtpaar zegt de verhuizing te willen regelen.,Het echtpaar probeert de verhuizing te willen regelen.,Infinitival Argument Clause,te_om+te_difference_2,3493,willen,zegt
+Het meisje zegt de reis te willen plannen.,Het meisje besluit de reis te willen plannen.,Infinitival Argument Clause,te_om+te_difference_2,3494,willen,zegt
+Het duo beweert het recept te willen volgen.,Het duo weigert het recept te willen volgen.,Infinitival Argument Clause,te_om+te_difference_2,3495,willen,beweert
+Het kind schijnt de tekening te willen maken.,Het kind belooft de tekening te willen maken.,Infinitival Argument Clause,te_om+te_difference_2,3496,willen,schijnt
+De kok denkt de recepten te kunnen verbeteren.,De kok weigert de recepten te kunnen verbeteren.,Infinitival Argument Clause,te_om+te_difference_2,3497,kunnen,denkt
+De zanger beweert de liedjes te willen zingen.,De zanger probeert de liedjes te willen zingen.,Infinitival Argument Clause,te_om+te_difference_2,3498,willen,beweert
+De loodgieter beweert de lekkages te willen verhelpen.,De loodgieter weigert de lekkages te willen verhelpen.,Infinitival Argument Clause,te_om+te_difference_2,3499,willen,beweert
+De ridders beweerden de vijanden te willen verslaan.,De ridders probeerden de vijanden te willen verslaan.,Infinitival Argument Clause,te_om+te_difference_2,3500,willen,beweerden
+De monniken zeiden de manuscripten te willen kopiëren.,De monniken besloten de manuscripten te willen kopiëren.,Infinitival Argument Clause,te_om+te_difference_2,3501,willen,zeiden
+De boeren dachten de oogst te kunnen binnenhalen.,De boeren beloofden de oogst te kunnen binnenhalen.,Infinitival Argument Clause,te_om+te_difference_2,3502,kunnen,dachten
+De kooplui beweerden de handelsroutes te willen bewaken.,De kooplui probeerden de handelsroutes te willen bewaken.,Infinitival Argument Clause,te_om+te_difference_2,3503,willen,beweerden
+De handelaren zeggen de markten te willen bezoeken.,De handelaren besluiten de markten te willen bezoeken.,Infinitival Argument Clause,te_om+te_difference_2,3504,willen,zeggen
+De kooplieden zeggen de goederen te willen verhandelen.,De kooplieden weigeren de goederen te willen verhandelen.,Infinitival Argument Clause,te_om+te_difference_2,3505,willen,zeggen
+De pelgrims denken de heilige plaatsen te kunnen bereiken.,De pelgrims beloven de heilige plaatsen te kunnen bereiken.,Infinitival Argument Clause,te_om+te_difference_2,3506,kunnen,denken
+De edelen beweren de grenzen te willen verdedigen.,De edelen proberen de grenzen te willen verdedigen.,Infinitival Argument Clause,te_om+te_difference_2,3507,willen,beweren
+De astronauten beweren de missie te willen voltooien.,De astronauten besluiten de missie te willen voltooien.,Infinitival Argument Clause,te_om+te_difference_2,3508,willen,beweren
+De bemanning denkt de koers te kunnen wijzigen.,De bemanning belooft de koers te kunnen wijzigen.,Infinitival Argument Clause,te_om+te_difference_2,3509,kunnen,denkt
+De kapitein zegt de navigatie te willen bijwerken.,De kapitein weigert de navigatie te willen bijwerken.,Infinitival Argument Clause,te_om+te_difference_2,3510,willen,zegt
+De piloot schijnt de communicatie te willen herstellen.,De piloot besluit de communicatie te willen herstellen.,Infinitival Argument Clause,te_om+te_difference_2,3511,willen,schijnt
+De bemanning denkt de brand te kunnen blussen.,De bemanning belooft de brand te kunnen blussen.,Infinitival Argument Clause,te_om+te_difference_2,3512,kunnen,denkt
+De passagiers zeggen de voorraden te willen controleren.,De passagiers besluiten de voorraden te willen controleren.,Infinitival Argument Clause,te_om+te_difference_2,3513,willen,zeggen
+De scheidsrechters denken de regels te willen handhaven.,De scheidsrechters weigeren de regels te willen handhaven.,Infinitival Argument Clause,te_om+te_difference_2,3514,willen,denken
+De supporters zeggen de sporters te kunnen aanmoedigen.,De supporters besluiten de sporters te kunnen aanmoedigen.,Infinitival Argument Clause,te_om+te_difference_2,3515,kunnen,zeggen
+De filosoof beweerde de waarheid te willen ontdekken.,De filosoof probeerde de waarheid te willen ontdekken.,Infinitival Argument Clause,te_om+te_difference_2,3516,willen,beweerde
+De keizer zei de legioenen te willen leiden.,De keizer besloot de legioenen te willen leiden.,Infinitival Argument Clause,te_om+te_difference_2,3517,willen,zei
+De dichter dacht de lofzang te willen schrijven.,De dichter weigerde de lofzang te willen schrijven.,Infinitival Argument Clause,te_om+te_difference_2,3518,willen,dacht
+De architect dacht het bouwwerk te kunnen ontwerpen.,De architect beloofde het bouwwerk te kunnen ontwerpen.,Infinitival Argument Clause,te_om+te_difference_2,3519,kunnen,dacht
+De gladiator beweerde de arena te willen betreden.,De gladiator besloot de arena te willen betreden.,Infinitival Argument Clause,te_om+te_difference_2,3520,willen,beweerde
+De krijger zegt de troepen te willen leiden in de strijd.,De krijger besluit de troepen te willen leiden in de strijd.,Infinitival Argument Clause,te_om+te_difference_2,3521,willen,zegt
+De gouverneur zegt de stad te willen besturen.,De gouverneur belooft de stad te willen besturen.,Infinitival Argument Clause,te_om+te_difference_2,3522,willen,zegt
+De handelaar schijnt de rijkdommen te willen vergaren.,De handelaar probeert de rijkdommen te willen vergaren.,Infinitival Argument Clause,te_om+te_difference_2,3523,willen,schijnt
+De atleet zegt de records te willen verbreken.,De atleet besluit de records te willen verbreken.,Infinitival Argument Clause,te_om+te_difference_2,3524,willen,zegt
+De astronoom denkt de geheimen van het universum te kunnen ontrafelen.,De astronoom belooft de geheimen van het universum te kunnen ontrafelen.,Infinitival Argument Clause,te_om+te_difference_2,3525,kunnen,denkt
+De stiefmoeder zegt de taken te willen delegeren.,De stiefmoeder belooft de taken te willen delegeren.,Infinitival Argument Clause,te_om+te_difference_2,3526,willen,zegt
+De fee beweert de wens te willen vervullen.,De fee probeert de wens te willen vervullen.,Infinitival Argument Clause,te_om+te_difference_2,3527,willen,beweert
+De tovenaar zegt de toverstaf te kunnen zwaaien.,De tovenaar besluit de toverstaf te kunnen zwaaien.,Infinitival Argument Clause,te_om+te_difference_2,3528,kunnen,zegt
+De zeemeermin beweert de prins te willen redden.,De zeemeermin probeert de prins te willen redden.,Infinitival Argument Clause,te_om+te_difference_2,3529,willen,beweert
+De moeder zegt de barbecue te willen aansteken.,De moeder besluit de barbecue te willen aansteken.,Infinitival Argument Clause,te_om+te_difference_2,3530,willen,zegt
+De broer zegt de drankjes te willen serveren.,De broer belooft de drankjes te willen serveren.,Infinitival Argument Clause,te_om+te_difference_2,3531,willen,zegt
+De buurvrouw denkt de salades te kunnen bereiden.,De buurvrouw probeert de salades te kunnen bereiden.,Infinitival Argument Clause,te_om+te_difference_2,3532,kunnen,denkt
+Het buurmeisje denkt de spelletjes te willen organiseren.,Het buurmeisje weigert de spelletjes te willen organiseren.,Infinitival Argument Clause,te_om+te_difference_2,3533,willen,denkt
+De oom schijnt de foto's te willen maken.,De oom belooft de foto's te willen maken.,Infinitival Argument Clause,te_om+te_difference_2,3534,willen,schijnt
+De buurman beweert de versieringen te willen ophangen.,De buurman probeert de versieringen te willen ophangen.,Infinitival Argument Clause,te_om+te_difference_2,3535,willen,beweert
+De klasgenoot zegt de snacks te willen uitdelen.,De klasgenoot weigert de snacks te willen uitdelen.,Infinitival Argument Clause,te_om+te_difference_2,3536,willen,zegt
+De deelnemer zegt de yogamat te willen uitrollen.,De deelnemer probeert de yogamat te willen uitrollen.,Infinitival Argument Clause,te_om+te_difference_2,3537,willen,zegt
+De instructeur beweert de zwemdiploma's te kunnen uitreiken.,De instructeur belooft de zwemdiploma's te kunnen uitreiken.,Infinitival Argument Clause,te_om+te_difference_2,3538,kunnen,beweert
+Het kind denkt de watertemperatuur te kunnen trotseren.,Het kind probeert de watertemperatuur te kunnen trotseren.,Infinitival Argument Clause,te_om+te_difference_2,3539,kunnen,denkt
+De leerling zegt de zwembril te willen opzetten.,De leerling weigert de zwembril te willen opzetten.,Infinitival Argument Clause,te_om+te_difference_2,3540,willen,zegt

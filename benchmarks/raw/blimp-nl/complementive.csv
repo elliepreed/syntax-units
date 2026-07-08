@@ -1,0 +1,501 @@
+sentence_good,sentence_bad,linguistic_phenomenon,paradigm,item_id,critical_word,cue_word
+Aaron hoorde dat het leger de stad nogmaals plat bombardeert vanuit kleine vliegtuigen.,Aaron hoorde dat het leger de stad nogmaals bombardeert plat vanuit kleine vliegtuigen.,Complementive,position_verb,121,plat bombardeert,
+Aafke zag dat de crimineel de hond plots dood sloeg in dat steegje.,Aafke zag dat de crimineel de hond plots sloeg dood in dat steegje.,Complementive,position_verb,122,dood sloeg,
+Bart voorspelt dat de tiener zijn haar opnieuw zwart verft bij de kapper.,Bart voorspelt dat de tiener zijn haar opnieuw verft zwart bij de kapper.,Complementive,position_verb,123,zwart verft,
+Babette zei dat de kunstenaar het werk onlangs klaar maakte voor de tentoonstelling.,Babette zei dat de kunstenaar het werk onlangs maakte klaar voor de tentoonstelling.,Complementive,position_verb,124,klaar maakte,
+Carlo ziet dat zijn moeder de aardappelen uiteraard gaar kookt voor het avondeten.,Carlo ziet dat zijn moeder de aardappelen uiteraard kookt gaar voor het avondeten.,Complementive,position_verb,125,gaar kookt,
+Carmen hoorde dat de terrorist het ziekenhuis blijkbaar plat bombardeerde met een explosief.,Carmen hoorde dat de terrorist het ziekenhuis blijkbaar bombardeerde plat met een explosief.,Complementive,position_verb,126,plat bombardeerde,
+Dirk zei dat de man de minnaar meteen dood sloeg in het café.,Dirk zei dat de man de minnaar meteen sloeg dood in het café.,Complementive,position_verb,127,dood sloeg,
+Daniek denkt dat de vrouw de muur toch groen verft tijdens de verbouwing.,Daniek denkt dat de vrouw de muur toch verft groen tijdens de verbouwing.,Complementive,position_verb,128,groen verft,
+Emiel voorspelt dat de schilder het huis inderdaad klaar maakt voor de verhuizing.,Emiel voorspelt dat de schilder het huis inderdaad maakt klaar voor de verhuizing.,Complementive,position_verb,129,klaar maakt,
+Eefje denkt dat de kok het eten weer gaar kookt voor de gasten.,Eefje denkt dat de kok het eten weer kookt gaar voor de gasten.,Complementive,position_verb,130,gaar kookt,
+Gerda merkt dat de tuinman het gras netjes kort maait elke week.,Gerda merkt dat de tuinman het gras netjes maait kort elke week.,Complementive,position_verb,1921,kort maait,
+Hendrik vreest dat de schoonmaker de decoratie plotseling kapot maakt tijdens zijn vakantie.,Hendrik vreest dat de schoonmaker de decoratie plotseling maakt kapot tijdens zijn vakantie.,Complementive,position_verb,1922,kapot maakt,
+Iris ziet dat de smid de deuk helemaal glad smeedt met het vuur.,Iris ziet dat de smid de deuk helemaal smeedt glad met het vuur.,Complementive,position_verb,1923,glad smeedt,
+Jaap vond dat de kok de uien goed bruin bakte voor het diner.,Jaap vond dat de kok de uien goed bakte bruin voor het diner.,Complementive,position_verb,1924,bruin bakte,
+Karin merkte dat de klusser de planken volledig egaal schuurde met een machine.,Karin merkte dat de klusser de planken volledig schuurde egaal met een machine.,Complementive,position_verb,1925,egaal schuurde,
+Luuk hoorde dat de jury de inzending zeker af keurde voor de competitie.,Luuk hoorde dat de jury de inzending zeker keurde af voor de competitie.,Complementive,position_verb,1926,af keurde,
+Olivia waardeerde dat de bakker de toast telkens bruin bakte voor het ontbijt.,Olivia waardeerde dat de bakker de toast telkens bakte bruin voor het ontbijt.,Complementive,position_verb,1927,bruin bakte,
+Pieter merkte dat de kleermaker de stof elegant rond naaide voor de jurk.,Pieter merkte dat de kleermaker de stof elegant naaide rond voor de jurk.,Complementive,position_verb,1928,rond naaide,
+Sandra ziet dat de assistent de ramen helemaal droog wrijft na de wasbeurt.,Sandra ziet dat de assistent de ramen helemaal wrijft droog na de wasbeurt.,Complementive,position_verb,1929,droog wrijft,
+Lars vreest dat de peuter het bord onbedoeld stuk gooit tijdens de maaltijd.,Lars vreest dat de peuter het bord onbedoeld gooit stuk tijdens de maaltijd.,Complementive,position_verb,1930,stuk gooit,
+Bram hoort dat zijn moeder het terras grondig schoon spuit met de hogedrukreiniger.,Bram hoort dat zijn moeder het terras grondig spuit schoon met de hogedrukreiniger.,Complementive,position_verb,1931,schoon spuit,
+Linda zag dat de patissier het deeg volledig plat drukte voor de taartbodem.,Linda zag dat de patissier het deeg volledig drukte plat voor de taartbodem.,Complementive,position_verb,1932,plat drukte,
+Lotte hoorde dat de scheidsrechter de spelers luid terug floot tijdens de wedstrijd.,Lotte hoorde dat de scheidsrechter de spelers luid floot terug tijdens de wedstrijd.,Complementive,position_verb,1933,terug floot,
+Thijs waardeerde dat de reisleider de groep tijdig terug riep in het museum.,Thijs waardeerde dat de reisleider de groep tijdig riep terug in het museum.,Complementive,position_verb,1934,terug riep,
+Lisa vreest dat de douane haar meteen terug stuurt met haar bagage.,Lisa vreest dat de douane haar meteen stuurt terug met haar bagage.,Complementive,position_verb,1935,terug stuurt,
+Geert ziet dat de monteur de onderdelen netjes samen voegt met het gereedschap.,Geert ziet dat de monteur de onderdelen netjes voegt samen met het gereedschap.,Complementive,position_verb,1936,samen voegt,
+Tessa vreest dat de dieven de kluis zeker leeg roven tijdens de overval.,Tessa vreest dat de dieven de kluis zeker roven leeg tijdens de overval.,Complementive,position_verb,1937,leeg roven,
+Teun merkt dat zijn broer de zolder goed leeg haalt voor de renovatie.,Teun merkt dat zijn broer de zolder goed haalt leeg voor de renovatie.,Complementive,position_verb,1938,leeg haalt,
+Theo waardeert dat zijn huisgenoot de gordijnen grondig schoon wast voor de bezichtiging.,Theo waardeert dat zijn huisgenoot de gordijnen grondig wast schoon voor de bezichtiging.,Complementive,position_verb,1939,schoon wast,
+Joris vindt dat de goochelaar de kaart knap tevoorschijn haalt tijdens de voorstelling.,Joris vindt dat de goochelaar de kaart knap haalt tevoorschijn tijdens de voorstelling.,Complementive,position_verb,1940,tevoorschijn haalt,
+Judith zag dat de slager het vlees uiteraard fijn maalde voor de paté.,Judith zag dat de slager het vlees uiteraard maalde fijn voor de paté.,Complementive,position_verb,1941,fijn maalde,
+Tamar zei dat de beeldhouwer de klei nogmaals plat rolde tijdens de workshop.,Tamar zei dat de beeldhouwer de klei nogmaals rolde plat tijdens de workshop.,Complementive,position_verb,1942,plat rolde,
+Hilal waardeert dat het bestuur de bonussen inderdaad gelijk trekt vanaf dit kwartaal.,Hilal waardeert dat het bestuur de bonussen inderdaad trekt gelijk vanaf dit kwartaal.,Complementive,position_verb,1943,gelijk trekt,
+Hossein hoort dat de machine de grond luid samen perst op de bouwplaats.,Hossein hoort dat de machine de grond luid perst samen op de bouwplaats.,Complementive,position_verb,1944,samen perst,
+Nora vreesde dat de klasgenoot het geheim stiekem rond vertelde aan de vriendinnen.,Nora vreesde dat de klasgenoot het geheim stiekem vertelde rond aan de vriendinnen.,Complementive,position_verb,1945,rond vertelde,
+Nathan voorspelt dat de timmerman het gat toch dicht maakt na het overleg.,Nathan voorspelt dat de timmerman het gat toch maakt dicht na het overleg.,Complementive,position_verb,1946,dicht maakt,
+Umar dacht dat de meubelmaker de balken opnieuw vast zette in de werkbank.,Umar dacht dat de meubelmaker de balken opnieuw zette vast in de werkbank.,Complementive,position_verb,1947,vast zette,
+Ula vond dat de lasser de staalplaten netjes samen smolt volgens de instructie.,Ula vond dat de lasser de staalplaten netjes smolt samen volgens de instructie.,Complementive,position_verb,1948,samen smolt,
+Wouter voorspelde dat de politie de crimineel alsnog gevangen nam na de vluchtpoging.,Wouter voorspelde dat de politie de crimineel alsnog nam gevangen na de vluchtpoging.,Complementive,position_verb,1949,gevangen nam,
+Wilma hoorde dat de bewakers haar vriend alsnog tegen hielden bij de ingang.,Wilma hoorde dat de bewakers haar vriend alsnog hielden tegen bij de ingang.,Complementive,position_verb,1950,tegen hielden,
+Milan voorspelt dat de detective de schuilplaats uiteindelijk terug vindt via een aanwijzing.,Milan voorspelt dat de detective de schuilplaats uiteindelijk vindt terug via een aanwijzing.,Complementive,position_verb,1951,terug vindt,
+Melissa merkte dat de andere spelers elkaar slim tegen werkten tijdens het spel.,Melissa merkte dat de andere spelers elkaar slim werkten tegen tijdens het spel.,Complementive,position_verb,1952,tegen werkten,
+Omar vertelt dat zijn zus het kromme bestek weer recht buigt met haar handen.,Omar vertelt dat zijn zus het kromme bestek weer buigt recht met haar handen.,Complementive,position_verb,1953,recht buigt,
+Olga waardeerde dat de docent het probleem goed duidelijk maakte tijdens de cursus.,Olga waardeerde dat de docent het probleem goed maakte duidelijk tijdens de cursus.,Complementive,position_verb,1954,duidelijk maakte,
+Rens vertelde dat de overvaller het geld meteen weg nam uit de kassa.,Rens vertelde dat de overvaller het geld meteen nam weg uit de kassa.,Complementive,position_verb,1955,weg nam,
+Rianne vindt dat de kapper haar pony mooi kort knipt zoals besproken.,Rianne vindt dat de kapper haar pony mooi knipt kort zoals besproken.,Complementive,position_verb,1956,kort knipt,
+Maxime denkt dat de penningmeester de begroting zeker rond krijgt dit jaar.,Maxime denkt dat de penningmeester de begroting zeker krijgt rond dit jaar.,Complementive,position_verb,1957,rond krijgt,
+Gerard denkt dat de secretaris de notulen tijdig klaar zet volgende week.,Gerard denkt dat de secretaris de notulen tijdig zet klaar volgende week.,Complementive,position_verb,1958,klaar zet,
+Vera dacht dat de chauffeur de kofferbak helemaal vol laadde voor de reis.,Vera dacht dat de chauffeur de kofferbak helemaal laadde vol voor de reis.,Complementive,position_verb,1959,vol laadde,
+Vincent vreesde dat de boer de planten inderdaad vol sproeide met chemicaliën.,Vincent vreesde dat de boer de planten inderdaad sproeide vol met chemicaliën.,Complementive,position_verb,1960,vol sproeide,
+Izabela zegt dat de vrouw haar boterham uiteraard vol smeert met pindakaas.,Izabela zegt dat de vrouw haar boterham uiteraard smeert vol met pindakaas.,Complementive,position_verb,1961,vol smeert,
+Ivan zei dat de klant het boek alweer terug bracht naar de winkel.,Ivan zei dat de klant het boek alweer bracht terug naar de winkel.,Complementive,position_verb,1962,terug bracht,
+Stijn waardeert dat de winkelier de miskoop blijkbaar terug betaalt binnen de afgesproken termijn.,Stijn waardeert dat de winkelier de miskoop blijkbaar betaalt terug binnen de afgesproken termijn.,Complementive,position_verb,1963,terug betaalt,
+Frank vreest dat de vandalen het bushokje nogmaals plat branden na de waarschuwing.,Frank vreest dat de vandalen het bushokje nogmaals branden plat na de waarschuwing.,Complementive,position_verb,1964,plat branden,
+Zain hoopt dat zijn vriend de afspeellijst weer samen stelt voor het feest.,Zain hoopt dat zijn vriend de afspeellijst weer stelt samen voor het feest.,Complementive,position_verb,1965,samen stelt,
+Mark hoopte dat de buurman zijn weiland keurig kort maaide in de lente.,Mark hoopte dat de buurman zijn weiland keurig maaide kort in de lente.,Complementive,position_verb,1966,kort maaide,
+Laura voorspelde dat haar kat de vaas onbedoeld kapot maakte tijdens haar afwezigheid.,Laura voorspelde dat haar kat de vaas onbedoeld maakte kapot tijdens haar afwezigheid.,Complementive,position_verb,1967,kapot maakte,
+Ellen merkte dat de vakman het ruwe zwaard deskundig glad smeedde in het vuur.,Ellen merkte dat de vakman het ruwe zwaard deskundig smeedde glad in het vuur.,Complementive,position_verb,1968,glad smeedde,
+Tom hoopt dat de buren hun muren fel oranje kleuren bij de renovatie.,Tom hoopt dat de buren hun muren fel kleuren oranje bij de renovatie.,Complementive,position_verb,1969,oranje kleuren,
+Patrick ziet dat de restaurateur de meubelstukken grondig egaal schuurt voor het schilderen.,Patrick ziet dat de restaurateur de meubelstukken grondig schuurt egaal voor het schilderen.,Complementive,position_verb,1970,egaal schuurt,
+Tara hoort dat de voetbalbond de velden toch af keurt vanwege onregelmatigheden.,Tara hoort dat de voetbalbond de velden toch keurt af vanwege onregelmatigheden.,Complementive,position_verb,1971,af keurt,
+Anna zag dat de zonsondergang de lucht prachtig oranje kleurde boven de horizon.,Anna zag dat de zonsondergang de lucht prachtig kleurde oranje boven de horizon.,Complementive,position_verb,1972,oranje kleurde,
+Ayla waardeert dat haar oma de zoom van de rok netjes rond naait met de hand.,Ayla waardeert dat haar oma de zoom van de rok netjes naait rond met de hand.,Complementive,position_verb,1973,rond naait,
+Lukas zorgde dat de afwasser de glazen zorgvuldig droog wreef met een doek.,Lukas zorgde dat de afwasser de glazen zorgvuldig wreef droog met een doek.,Complementive,position_verb,1974,droog wreef,
+Maria hoorde dat de klant het glas boos stuk gooide in het restaurant.,Maria hoorde dat de klant het glas boos gooide stuk in het restaurant.,Complementive,position_verb,1975,stuk gooide,
+Maarten zag dat de tuinman de tuinmeubelen helemaal schoon spoot voordat hij ze opruimde.,Maarten zag dat de tuinman de tuinmeubelen helemaal spoot schoon voordat hij ze opruimde.,Complementive,position_verb,1976,schoon spoot,
+Olivier zegt dat de pizzabakker het deeg eerst plat drukte met zijn vuisten.,Olivier zegt dat de pizzabakker het deeg eerst drukte plat met zijn vuisten.,Complementive,position_verb,1977,plat drukte,
+Odette merkt dat de coach de renners plotseling terug fluit tijdens de training.,Odette merkt dat de coach de renners plotseling fluit terug tijdens de training.,Complementive,position_verb,1978,terug fluit,
+Pjotr hoort dat de juf de kinderen inderdaad terug roept na de pauze.,Pjotr hoort dat de juf de kinderen inderdaad roept terug na de pauze.,Complementive,position_verb,1979,terug roept,
+Petra waardeerde dat de klantenservice het product spoedig terug stuurde na de reparatie.,Petra waardeerde dat de klantenservice het product spoedig stuurde terug na de reparatie.,Complementive,position_verb,1980,terug stuurde,
+Roos zei dat de kok de ingrediënten zorgvuldig samen voegde tijdens het koken.,Roos zei dat de kok de ingrediënten zorgvuldig voegde samen tijdens het koken.,Complementive,position_verb,1981,samen voegde,
+De bewakers hoorden dat de inbreker het pand volledig leeg roofde na sluitingstijd.,De bewakers hoorden dat de inbreker het pand volledig roofde leeg na sluitingstijd.,Complementive,position_verb,1982,leeg roofde,
+De leraren waardeerden dat de leerlingen het klaslokaal samen leeg haalden voor de vakantie.,De leraren waardeerden dat de leerlingen het klaslokaal samen haalden leeg voor de vakantie.,Complementive,position_verb,1983,leeg haalden,
+De huisbaas zorgde dat de huishoudhulp het beddengoed wekelijks schoon waste met wasmiddel.,De huisbaas zorgde dat de huishoudhulp het beddengoed wekelijks waste schoon met wasmiddel.,Complementive,position_verb,1984,schoon waste,
+De kinderen zagen dat de clown de verrassingen spectaculair tevoorschijn haalde tijdens de show.,De kinderen zagen dat de clown de verrassingen spectaculair haalde tevoorschijn tijdens de show.,Complementive,position_verb,1985,tevoorschijn haalde,
+Klaas hoort dat de barista de koffiebonen vers fijn maalt voor zijn espresso.,Klaas hoort dat de barista de koffiebonen vers maalt fijn voor zijn espresso.,Complementive,position_verb,1986,fijn maalt,
+Kirsten ziet dat de banketbakker het deeg steeds plat rolt om de koekjes eruit te snijden.,Kirsten ziet dat de banketbakker het deeg steeds rolt plat om de koekjes eruit te snijden.,Complementive,position_verb,1987,plat rolt,
+De ouders hoorden dat de leraar de kansen graag gelijk trok voor alle leerlingen.,De ouders hoorden dat de leraar de kansen graag trok gelijk voor alle leerlingen.,Complementive,position_verb,1988,gelijk trok,
+Yara zag dat de bouwvakker de zandgrond deskundig samen perste in de tuin.,Yara zag dat de bouwvakker de zandgrond deskundig perste samen in de tuin.,Complementive,position_verb,1989,samen perste,
+Yousef merkt dat de manager het nieuws meteen rond vertelt aan de werknemers.,Yousef merkt dat de manager het nieuws meteen vertelt rond aan de werknemers.,Complementive,position_verb,1990,rond vertelt,
+De bewoner hoorde dat de loodgieter het gat goed dicht maakte om schade te voorkomen.,De bewoner hoorde dat de loodgieter het gat goed maakte dicht om schade te voorkomen.,Complementive,position_verb,1991,dicht maakte,
+De eigenaar zorgt dat de monteur de bouten stevig vast zet aan de machine.,De eigenaar zorgt dat de monteur de bouten stevig zet vast aan de machine.,Complementive,position_verb,1992,vast zet,
+De ontwerper zorgt dat de technicus de onderdelen stevig samen smelt met een soldeerbout.,De ontwerper zorgt dat de technicus de onderdelen stevig smelt samen met een soldeerbout.,Complementive,position_verb,1993,samen smelt,
+De officier waardeert dat de soldaten de vijandelijke commandant uiteindelijk gevangen nemen in het kamp.,De officier waardeert dat de soldaten de vijandelijke commandant uiteindelijk nemen gevangen in het kamp.,Complementive,position_verb,1994,gevangen nemen,
+De omstanders zien dat de politie de relschoppers inderdaad tegen houdt op de weg.,De omstanders zien dat de politie de relschoppers inderdaad houdt tegen op de weg.,Complementive,position_verb,1995,tegen houdt,
+De familie hoopte dat de rechercheur de locatie van de vermiste alsnog terug vond voor het te laat was.,De familie hoopte dat de rechercheur de locatie van de vermiste alsnog vond terug voor het te laat was.,Complementive,position_verb,1996,terug vond,
+De politicus vindt dat zijn tegenstanders hem telkens tegen werken bij de formatie.,De politicus vindt dat zijn tegenstanders hem telkens werken tegen bij de formatie.,Complementive,position_verb,1997,tegen werken,
+De gasten zagen dat de metaalbewerker het vervormde stuk metaal zorgvuldig recht boog vanuit de bankschroef.,De gasten zagen dat de metaalbewerker het vervormde stuk metaal zorgvuldig boog recht vanuit de bankschroef.,Complementive,position_verb,1998,recht boog,
+De deelnemers vinden dat de instructeur de procedure knap duidelijk maakt met zijn uitleg.,De deelnemers vinden dat de instructeur de procedure knap maakt duidelijk met zijn uitleg.,Complementive,position_verb,1999,duidelijk maakt,
+De eigenaar ziet dat de winkeldief de producten vlug weg neemt uit de schappen.,De eigenaar ziet dat de winkeldief de producten vlug neemt weg uit de schappen.,Complementive,position_verb,2000,weg neemt,
+De eigenaar wil dat de stylist de vacht van zijn hond netjes kort knipt voor de zomer.,De eigenaar wil dat de stylist de vacht van zijn hond netjes knipt kort voor de zomer.,Complementive,position_verb,2001,kort knipt,
+De investeerder geloofde dat de ondernemer de financiering onlangs rond kreeg voor de deadline.,De investeerder geloofde dat de ondernemer de financiering onlangs kreeg rond voor de deadline.,Complementive,position_verb,2002,rond kreeg,
+De directeur wil dat de assistent de documenten vlug klaar zet voor de vergadering.,De directeur wil dat de assistent de documenten vlug zet klaar voor de vergadering.,Complementive,position_verb,2003,klaar zet,
+Sofja merkt dat haar vriendinnen de winkelwagen enthousiast vol laden in het warenhuis.,Sofja merkt dat haar vriendinnen de winkelwagen enthousiast laden vol in het warenhuis.,Complementive,position_verb,2004,vol laden,
+Chris gelooft dat de hovenier de bloemen wekelijks vol sproeit met gifstoffen.,Chris gelooft dat de hovenier de bloemen wekelijks sproeit vol met gifstoffen.,Complementive,position_verb,2005,vol sproeit,
+De ouders wilden dat de kinderen hun crackers goed vol smeerden met jam.,De ouders wilden dat de kinderen hun crackers goed smeerden vol met jam.,Complementive,position_verb,2006,vol smeerden,
+De verhuurder wil dat de toeristen de fietsen morgen terug brengen voor sluitingstijd.,De verhuurder wil dat de toeristen de fietsen morgen brengen terug voor sluitingstijd.,Complementive,position_verb,2007,terug brengen,
+De buren geloofden dat de verzekeraar de schade zeker terug betaalde op hun rekening.,De buren geloofden dat de verzekeraar de schade zeker betaalde terug op hun rekening.,Complementive,position_verb,2008,terug betaalde,
+De detective stelde dat de daders het magazijn opzettelijk plat brandden om bewijs te vernietigen.,De detective stelde dat de daders het magazijn opzettelijk brandden plat om bewijs te vernietigen.,Complementive,position_verb,2009,plat brandden,
+De directeur gelooft dat de leraar de lesmaterialen deskundig samen stelt voor de nieuwe module.,De directeur gelooft dat de leraar de lesmaterialen deskundig stelt samen voor de nieuwe module.,Complementive,position_verb,2010,samen stelt,
+Aaron hoorde dat het leger de stad nogmaals plat bombardeert vanuit kleine vliegtuigen.,Aaron hoorde dat het leger de stad plat nogmaals bombardeert vanuit kleine vliegtuigen.,Complementive,position_adverb,131,nogmaals plat,
+Aafke zag dat de crimineel de hond plots dood sloeg in dat steegje.,Aafke zag dat de crimineel de hond dood plots sloeg in dat steegje.,Complementive,position_adverb,132,plots dood,
+Bart voorspelt dat de tiener zijn haar opnieuw zwart verft bij de kapper.,Bart voorspelt dat de tiener zijn haar zwart opnieuw verft bij de kapper.,Complementive,position_adverb,133,opnieuw zwart,
+Babette zei dat de kunstenaar het werk onlangs klaar maakte voor de tentoonstelling.,Babette zei dat de kunstenaar het werk klaar onlangs maakte voor de tentoonstelling.,Complementive,position_adverb,134,onlangs klaar,
+Carlo ziet dat zijn moeder de aardappelen uiteraard gaar kookt voor het avondeten.,Carlo ziet dat zijn moeder de aardappelen gaar uiteraard kookt voor het avondeten.,Complementive,position_adverb,135,uiteraard gaar,
+Carmen hoorde dat de terrorist het ziekenhuis blijkbaar plat bombardeerde met een explosief.,Carmen hoorde dat de terrorist het ziekenhuis plat blijkbaar bombardeerde met een explosief.,Complementive,position_adverb,136,blijkbaar plat,
+Dirk zei dat de man de minnaar meteen dood sloeg in het café.,Dirk zei dat de man de minnaar dood meteen sloeg in het café.,Complementive,position_adverb,137,meteen dood,
+Daniek denkt dat de vrouw de muur toch groen verft tijdens de verbouwing.,Daniek denkt dat de vrouw de muur groen toch verft tijdens de verbouwing.,Complementive,position_adverb,138,toch groen,
+Emiel voorspelt dat de schilder het huis inderdaad klaar maakt voor de verhuizing.,Emiel voorspelt dat de schilder het huis klaar inderdaad maakt voor de verhuizing.,Complementive,position_adverb,139,inderdaad klaar,
+Eefje denkt dat de kok het eten weer gaar kookt voor de gasten.,Eefje denkt dat de kok het eten gaar weer kookt voor de gasten.,Complementive,position_adverb,140,weer gaar,
+Gerda merkt dat de tuinman het gras netjes kort maait elke week.,Gerda merkt dat de tuinman het gras kort netjes maait elke week.,Complementive,position_adverb,2011,netjes kort,
+Hendrik vreest dat de schoonmaker de decoratie plotseling kapot maakt tijdens zijn vakantie.,Hendrik vreest dat de schoonmaker de decoratie kapot plotseling maakt tijdens zijn vakantie.,Complementive,position_adverb,2012,plotseling kapot,
+Iris ziet dat de smid de deuk helemaal glad smeedt met het vuur.,Iris ziet dat de smid de deuk glad helemaal smeedt met het vuur.,Complementive,position_adverb,2013,helemaal glad,
+Jaap vond dat de kok de uien goed bruin bakte voor het diner.,Jaap vond dat de kok de uien bruin goed bakte voor het diner.,Complementive,position_adverb,2014,goed bruin,
+Karin merkte dat de klusser de planken volledig egaal schuurde met een machine.,Karin merkte dat de klusser de planken egaal volledig schuurde met een machine.,Complementive,position_adverb,2015,volledig egaal,
+Luuk hoorde dat de jury de inzending zeker af keurde voor de competitie.,Luuk hoorde dat de jury de inzending af zeker keurde voor de competitie.,Complementive,position_adverb,2016,zeker af,
+Olivia waardeerde dat de bakker de toast telkens bruin bakte voor het ontbijt.,Olivia waardeerde dat de bakker de toast bruin telkens bakte voor het ontbijt.,Complementive,position_adverb,2017,telkens bruin,
+Pieter merkte dat de kleermaker de stof elegant rond naaide voor de jurk.,Pieter merkte dat de kleermaker de stof rond elegant naaide voor de jurk.,Complementive,position_adverb,2018,elegant rond,
+Sandra ziet dat de assistent de ramen helemaal droog wrijft na de wasbeurt.,Sandra ziet dat de assistent de ramen droog helemaal wrijft na de wasbeurt.,Complementive,position_adverb,2019,helemaal droog,
+Lars vreest dat de peuter het bord onbedoeld stuk gooit tijdens de maaltijd.,Lars vreest dat de peuter het bord stuk onbedoeld gooit tijdens de maaltijd.,Complementive,position_adverb,2020,onbedoeld stuk,
+Bram hoort dat zijn moeder het terras grondig schoon spuit met de hogedrukreiniger.,Bram hoort dat zijn moeder het terras schoon grondig spuit met de hogedrukreiniger.,Complementive,position_adverb,2021,grondig schoon,
+Linda zag dat de patissier het deeg volledig plat drukte voor de taartbodem.,Linda zag dat de patissier het deeg plat volledig drukte voor de taartbodem.,Complementive,position_adverb,2022,volledig plat,
+Lotte hoorde dat de scheidsrechter de spelers luid terug floot tijdens de wedstrijd.,Lotte hoorde dat de scheidsrechter de spelers terug luid floot tijdens de wedstrijd.,Complementive,position_adverb,2023,luid terug,
+Thijs waardeerde dat de reisleider de groep tijdig terug riep in het museum.,Thijs waardeerde dat de reisleider de groep terug tijdig riep in het museum.,Complementive,position_adverb,2024,tijdig terug,
+Lisa vreest dat de douane haar meteen terug stuurt met haar bagage.,Lisa vreest dat de douane haar terug meteen stuurt met haar bagage.,Complementive,position_adverb,2025,meteen terug,
+Geert ziet dat de monteur de onderdelen netjes samen voegt met het gereedschap.,Geert ziet dat de monteur de onderdelen samen netjes voegt met het gereedschap.,Complementive,position_adverb,2026,netjes samen,
+Tessa vreest dat de dieven de kluis zeker leeg roven tijdens de overval.,Tessa vreest dat de dieven de kluis leeg zeker roven tijdens de overval.,Complementive,position_adverb,2027,zeker leeg,
+Teun merkt dat zijn broer de zolder goed leeg haalt voor de renovatie.,Teun merkt dat zijn broer de zonder leeg goed haalt voor de renovatie.,Complementive,position_adverb,2028,goed leeg,
+Theo waardeert dat zijn huisgenoot de gordijnen grondig schoon wast voor de bezichtiging.,Theo waardeert dat zijn huisgenoot de gordijnen schoon grondig wast voor de bezichtiging.,Complementive,position_adverb,2029,grondig schoon,
+Joris vindt dat de goochelaar de kaart knap tevoorschijn haalt tijdens de voorstelling.,Joris vindt dat de goochelaar de kaart tevoorschijn knap haalt tijdens de voorstelling.,Complementive,position_adverb,2030,knap tevoorschijn,
+Judith zag dat de slager het vlees uiteraard fijn maalde voor de paté.,Judith zag dat de slager het vlees fijn uiteraard maalde voor de paté.,Complementive,position_adverb,2031,uiteraard fijn,
+Tamar zei dat de beeldhouwer de klei nogmaals plat rolde tijdens de workshop.,Tamar zei dat de beeldhouwer de klei plat nogmaals rolde tijdens de workshop.,Complementive,position_adverb,2032,nogmaals plat,
+Hilal waardeert dat het bestuur de bonussen inderdaad gelijk trekt vanaf dit kwartaal.,Hilal waardeert dat het bestuur de bonussen gelijk inderdaad trekt vanaf dit kwartaal.,Complementive,position_adverb,2033,inderdaad gelijk,
+Hossein hoort dat de machine de grond luid samen perst op de bouwplaats.,Hossein hoort dat de machine de grond samen luid perst op de bouwplaats.,Complementive,position_adverb,2034,luid samen,
+Nora vreesde dat de klasgenoot het geheim stiekem rond vertelde aan de vriendinnen.,Nora vreesde dat de klasgenoot het geheim rond stiekem vertelde aan de vriendinnen.,Complementive,position_adverb,2035,stiekem rond,
+Nathan voorspelt dat de timmerman het gat toch dicht maakt na het overleg.,Nathan voorspelt dat de timmerman het gat dicht toch maakt na het overleg.,Complementive,position_adverb,2036,toch dicht,
+Umar dacht dat de meubelmaker de balken opnieuw vast zette in de werkbank.,Umar dacht dat de meubelmaker de balken vast opnieuw zette in de werkbank.,Complementive,position_adverb,2037,opnieuw vast,
+Ula vond dat de lasser de staalplaten netjes samen smolt volgens de instructie.,Ula vond dat de lasser de staalplaten samen netjes smolt volgens de instructie.,Complementive,position_adverb,2038,netjes samen,
+Wouter voorspelde dat de politie de crimineel alsnog gevangen nam na de vluchtpoging.,Wouter voorspelde dat de politie de crimineel gevangen alsnog nam na de vluchtpoging.,Complementive,position_adverb,2039,alsnog gevangen,
+Wilma hoorde dat de bewakers haar vriend alsnog tegen hielden bij de ingang.,Wilma hoorde dat de bewakers haar vriend tegen alsnog hielden bij de ingang.,Complementive,position_adverb,2040,alsnog tegen,
+Milan voorspelt dat de detective de schuilplaats uiteindelijk terug vindt via een aanwijzing.,Milan voorspelt dat de detective de schuilplaats terug uiteindelijk vindt via een aanwijzing.,Complementive,position_adverb,2041,uiteindelijk terug,
+Melissa merkte dat de andere spelers elkaar slim tegen werkten tijdens het spel.,Melissa merkte dat de andere spelers elkaar tegen slim werkten tijdens het spel.,Complementive,position_adverb,2042,slim tegen,
+Omar vertelt dat zijn zus het kromme bestek weer recht buigt met haar handen.,Omar vertelt dat zijn zus het kromme bestek recht weer buigt met haar handen.,Complementive,position_adverb,2043,weer recht,
+Olga waardeerde dat de docent het probleem goed duidelijk maakte tijdens de cursus.,Olga waardeerde dat de docent het probleem duidelijk goed maakte tijdens de cursus.,Complementive,position_adverb,2044,goed duidelijk,
+Rens vertelde dat de overvaller het geld meteen weg nam uit de kassa.,Rens vertelde dat de overvaller het geld weg meteen nam uit de kassa.,Complementive,position_adverb,2045,meteen weg,
+Rianne vindt dat de kapper haar pony mooi kort knipt zoals besproken.,Rianne vindt dat de kapper haar pony kort mooi knipt zoals besproken.,Complementive,position_adverb,2046,mooi kort,
+Maxime denkt dat de penningmeester de begroting zeker rond krijgt dit jaar.,Maxime denkt dat de penningmeester de begroting rond zeker krijgt dit jaar.,Complementive,position_adverb,2047,zeker rond,
+Gerard denkt dat de secretaris de notulen tijdig klaar zet volgende week.,Gerard denkt dat de secretaris de notulen klaar tijdig zet volgende week.,Complementive,position_adverb,2048,tijdig klaar,
+Vera dacht dat de chauffeur de kofferbak helemaal vol laadde voor de reis.,Vera dacht dat de chauffeur de kofferbak vol helemaal laadde voor de reis.,Complementive,position_adverb,2049,helemaal vol,
+Vincent vreesde dat de boer de planten inderdaad vol sproeide met chemicaliën.,Vincent vreesde dat de boer de planten vol inderdaad sproeide met chemicaliën.,Complementive,position_adverb,2050,inderdaad vol,
+Izabela zegt dat de vrouw haar boterham uiteraard vol smeert met pindakaas.,Izabela zegt dat de vrouw haar boterham vol uiteraard smeert met pindakaas.,Complementive,position_adverb,2051,uiteraard vol,
+Ivan zei dat de klant het boek alweer terug bracht naar de winkel.,Ivan zei dat de klant het boek terug alweer bracht naar de winkel.,Complementive,position_adverb,2052,alweer terug,
+Stijn waardeert dat de winkelier de miskoop blijkbaar terug betaalt binnen de afgesproken termijn.,Stijn waardeert dat de winkelier de miskoop terug blijkbaar betaalt binnen de afgesproken termijn.,Complementive,position_adverb,2053,blijkbaar terug,
+Frank vreest dat de vandalen het bushokje nogmaals plat branden na de waarschuwing.,Frank vreest dat de vandalen het bushokje plat nogmaals branden na de waarschuwing.,Complementive,position_adverb,2054,nogmaals plat,
+Zain hoopt dat zijn vriend de afspeellijst weer samen stelt voor het feest.,Zain hoopt dat zijn vriend de afspeellijst samen weer stelt voor het feest.,Complementive,position_adverb,2055,weer samen,
+Mark hoopte dat de buurman zijn weiland keurig kort maaide in de lente.,Mark hoopte dat de buurman zijn weiland kort keurig maaide in de lente.,Complementive,position_adverb,2056,keurig kort,
+Laura voorspelde dat haar kat de vaas onbedoeld kapot maakte tijdens haar afwezigheid.,Laura voorspelde dat haar kat de vaas kapot onbedoeld maakte tijdens haar afwezigheid.,Complementive,position_adverb,2057,onbedoeld kapot,
+Ellen merkte dat de vakman het ruwe zwaard deskundig glad smeedde in het vuur.,Ellen merkte dat de vakman het ruwe zwaard glad deskundig smeedde in het vuur.,Complementive,position_adverb,2058,deskundig glad,
+Tom hoopt dat de buren hun muren fel oranje kleuren bij de renovatie.,Tom hoopt dat de buren hun muren oranje fel kleuren bij de renovatie.,Complementive,position_adverb,2059,fel oranje,
+Patrick ziet dat de restaurateur de meubelstukken grondig egaal schuurt voor het schilderen.,Patrick ziet dat de restaurateur de meubelstukken egaal grondig schuurt voor het schilderen.,Complementive,position_adverb,2060,grondig egaal,
+Tara hoort dat de voetbalbond de velden toch af keurt vanwege onregelmatigheden.,Tara hoort dat de voetbalbond de velden af toch keurt vanwege onregelmatigheden.,Complementive,position_adverb,2061,toch af,
+Anna zag dat de zonsondergang de lucht prachtig oranje kleurde boven de horizon.,Anna zag dat de zonsondergang de lucht oranje prachtig kleurde boven de horizon.,Complementive,position_adverb,2062,prachtig oranje,
+Ayla waardeert dat haar oma de zoom van de rok netjes rond naait met de hand.,Ayla waardeert dat haar oma de zoom van de rok rond netjes naait met de hand.,Complementive,position_adverb,2063,netjes rond,
+Lukas zorgde dat de afwasser de glazen zorgvuldig droog wreef met een doek.,Lukas zorgde dat de afwasser de glazen droog zorgvuldig wreef met een doek.,Complementive,position_adverb,2064,zorgvuldig droog,
+Maria hoorde dat de klant het glas boos stuk gooide in het restaurant.,Maria hoorde dat de klant het glas stuk boos gooide in het restaurant.,Complementive,position_adverb,2065,boos stuk,
+Maarten zag dat de tuinman de tuinmeubelen helemaal schoon spoot voordat hij ze opruimde.,Maarten zag dat de tuinman de tuinmeubelen schoon helemaal spoot voordat hij ze opruimde.,Complementive,position_adverb,2066,helemaal schoon,
+Olivier zegt dat de pizzabakker het deeg eerst plat drukte met zijn vuisten.,Olivier zegt dat de pizzabakker het deeg plat eerst drukte met zijn vuisten.,Complementive,position_adverb,2067,eerst plat,
+Odette merkt dat de coach de renners plotseling terug fluit tijdens de training.,Odette merkt dat de coach de renners terug plotseling fluit tijdens de training.,Complementive,position_adverb,2068,plotseling terug,
+Pjotr hoort dat de juf de kinderen inderdaad terug roept na de pauze.,Pjotr hoort dat de juf de kinderen terug inderdaad roept na de pauze.,Complementive,position_adverb,2069,inderdaad terug,
+Petra waardeerde dat de klantenservice het product spoedig terug stuurde na de reparatie.,Petra waardeerde dat de klantenservice het product terug spoedig stuurde na de reparatie.,Complementive,position_adverb,2070,spoedig terug,
+Roos zei dat de kok de ingrediënten zorgvuldig samen voegde tijdens het koken.,Roos zei dat de kok de ingrediënten samen zorgvuldig voegde tijdens het koken.,Complementive,position_adverb,2071,zorgvuldig samen,
+De bewakers hoorden dat de inbreker het pand volledig leeg roofde na sluitingstijd.,De bewakers hoorden dat de inbreker het pand leeg volledig roofde na sluitingstijd.,Complementive,position_adverb,2072,volledig leeg,
+De leraren waardeerden dat de leerlingen het klaslokaal samen leeg haalden voor de vakantie.,De leraren waardeerden dat de leerlingen het klaslokaal leeg samen haalden voor de vakantie.,Complementive,position_adverb,2073,samen leeg,
+De huisbaas zorgde dat de huishoudhulp het beddengoed wekelijks schoon waste met wasmiddel.,De huisbaas zorgde dat de huishoudhulp het beddengoed schoon wekelijks waste met wasmiddel.,Complementive,position_adverb,2074,wekelijks schoon,
+De kinderen zagen dat de clown de verrassingen spectaculair tevoorschijn haalde tijdens de show.,De kinderen zagen dat de clown de verrassingen tevoorschijn spectaculair haalde tijdens de show.,Complementive,position_adverb,2075,spectaculair tevoorschijn,
+Klaas hoort dat de barista de koffiebonen vers fijn maalt voor zijn espresso.,Klaas hoort dat de barista de koffiebonen fijn vers maalt voor zijn espresso.,Complementive,position_adverb,2076,vers fijn,
+Kirsten ziet dat de banketbakker het deeg steeds plat rolt om de koekjes eruit te snijden.,Kirsten ziet dat de banketbakker het deeg plat steeds rolt om de koekjes eruit te snijden.,Complementive,position_adverb,2077,steeds plat,
+De ouders hoorden dat de leraar de kansen graag gelijk trok voor alle leerlingen.,De ouders hoorden dat de leraar de kansen gelijk graag trok voor alle leerlingen.,Complementive,position_adverb,2078,graag gelijk,
+Yara zag dat de bouwvakker de zandgrond deskundig samen perste in de tuin.,Yara zag dat de bouwvakker de zandgrond samen deskundig perste in de tuin.,Complementive,position_adverb,2079,deskundig samen,
+Yousef merkt dat de manager het nieuws meteen rond vertelt aan de werknemers.,Yousef merkt dat de manager het nieuws rond meteen vertelt aan de werknemers.,Complementive,position_adverb,2080,meteen rond,
+De bewoner hoorde dat de loodgieter het gat goed dicht maakte om schade te voorkomen.,De bewoner hoorde dat de loodgieter het gat dicht goed maakte om schade te voorkomen.,Complementive,position_adverb,2081,goed dicht,
+De eigenaar zorgt dat de monteur de bouten stevig vast zet aan de machine.,De eigenaar zorgt dat de monteur de bouten vast stevig zet aan de machine.,Complementive,position_adverb,2082,stevig vast,
+De ontwerper zorgt dat de technicus de onderdelen stevig samen smelt met een soldeerbout.,De ontwerper zorgt dat de technicus de onderdelen samen stevig smelt met een soldeerbout.,Complementive,position_adverb,2083,stevig samen,
+De officier waardeert dat de soldaten de vijandelijke commandant uiteindelijk gevangen nemen in het kamp.,De officier waardeert dat de soldaten de vijandelijke commandant gevangen uiteindelijk nemen in het kamp.,Complementive,position_adverb,2084,uiteindelijk gevangen,
+De omstanders zien dat de politie de relschoppers inderdaad tegen houdt op de weg.,De omstanders zien dat de politie de relschoppers tegen inderdaad houdt op de weg.,Complementive,position_adverb,2085,inderdaad tegen,
+De familie hoopte dat de rechercheur de locatie van de vermiste alsnog terug vond voor het te laat was.,De familie hoopte dat de rechercheur de locatie van de vermiste terug alsnog vond voor het te laat was.,Complementive,position_adverb,2086,alsnog terug,
+De politicus vindt dat zijn tegenstanders hem telkens tegen werken bij de formatie.,De politicus vindt dat zijn tegenstanders hem tegen telkens werken bij de formatie.,Complementive,position_adverb,2087,telkens tegen,
+De gasten zagen dat de metaalbewerker het vervormde stuk metaal zorgvuldig recht boog vanuit de bankschroef.,De gasten zagen dat de metaalbewerker het vervormde stuk metaal recht zorgvuldig boog vanuit de bankschroef.,Complementive,position_adverb,2088,zorgvuldig recht,
+De deelnemers vinden dat de instructeur de procedure knap duidelijk maakt met zijn uitleg.,De deelnemers vinden dat de instructeur de procedure duidelijk knap maakt met zijn uitleg.,Complementive,position_adverb,2089,knap duidelijk,
+De eigenaar ziet dat de winkeldief de producten vlug weg neemt uit de schappen.,De eigenaar ziet dat de winkeldief de producten weg vlug neemt uit de schappen.,Complementive,position_adverb,2090,vlug weg,
+De eigenaar wil dat de stylist de vacht van zijn hond netjes kort knipt voor de zomer.,De eigenaar wil dat de stylist de vacht van zijn hond kort netjes knipt voor de zomer.,Complementive,position_adverb,2091,netjes kort,
+De investeerder geloofde dat de ondernemer de financiering onlangs rond kreeg voor de deadline.,De investeerder geloofde dat de ondernemer de financiering rond onlangs kreeg voor de deadline.,Complementive,position_adverb,2092,onlangs rond,
+De directeur wil dat de assistent de documenten vlug klaar zet voor de vergadering.,De directeur wil dat de assistent de documenten klaar vlug zet voor de vergadering.,Complementive,position_adverb,2093,vlug klaar,
+Sofja merkt dat haar vriendinnen de winkelwagen enthousiast vol laden in het warenhuis.,Sofja merkt dat haar vriendinnen de winkelwagen vol enthousiast laden in het warenhuis.,Complementive,position_adverb,2094,enthousiast vol,
+Chris gelooft dat de hovenier de bloemen wekelijks vol sproeit met gifstoffen.,Chris gelooft dat de hovenier de bloemen vol wekelijks sproeit met gifstoffen.,Complementive,position_adverb,2095,wekelijks vol,
+De ouders wilden dat de kinderen hun crackers goed vol smeerden met jam.,De ouders wilden dat de kinderen hun crackers vol goed smeerden met jam.,Complementive,position_adverb,2096,goed vol,
+De verhuurder wil dat de toeristen de fietsen morgen terug brengen voor sluitingstijd.,De verhuurder wil dat de toeristen de fietsen terug morgen brengen voor sluitingstijd.,Complementive,position_adverb,2097,morgen terug,
+De buren geloofden dat de verzekeraar de schade zeker terug betaalde op hun rekening.,De buren geloofden dat de verzekeraar de schade terug zeker betaalde op hun rekening.,Complementive,position_adverb,2098,zeker terug,
+De detective stelde dat de daders het magazijn opzettelijk plat brandden om bewijs te vernietigen.,De detective stelde dat de daders het magazijn plat opzettelijk brandden om bewijs te vernietigen.,Complementive,position_adverb,2099,opzettelijk plat,
+De directeur gelooft dat de leraar de lesmaterialen deskundig samen stelt voor de nieuwe module.,De directeur gelooft dat de leraar de lesmaterialen samen deskundig stelt voor de nieuwe module.,Complementive,position_adverb,2100,deskundig samen,
+Rick huilde zijn ogen echt helemaal rood na dit nieuws.,Rick huilde afgelopen vrijdag echt helemaal rood na dit nieuws.,Complementive,intransitive,141,rood,zijn ogen
+De rechter spreekt de verdachte 's ochtends vrij door het bewijs.,De rechter spreekt volgens mij 's ochtends vrij door het bewijs.,Complementive,intransitive,142,vrij,de verdachte
+De jury praat de beslissing vrijwel altijd goed voor hogere kijkcijfers.,De jury praat zeer onterecht vrijwel altijd goed voor hogere kijkcijfers.,Complementive,intransitive,143,goed,de beslissing
+Veerle werkte de zaak verder alleen af na deze gebeurtenis.,Veerle werkte veel liever verder alleen af na deze gebeurtenis.,Complementive,intransitive,144,af,de zaak
+De sporter liep zijn schoenen echt behoorlijk kapot tijdens de marathon.,De sporter liep afgelopen zaterdag echt behoorlijk kapot tijdens de marathon.,Complementive,intransitive,145,kapot,zijn schoenen
+Sven reed het kind per ongeluk dood met de auto.,Sven reed op straat per ongeluk dood met de auto.,Complementive,intransitive,146,dood,het kind
+De vrouw zwijgt die man vanaf nu dood door zijn gedrag.,De vrouw zwijgt voor altijd vanaf nu dood door zijn gedrag.,Complementive,intransitive,147,dood,die man
+Het kind huilt de juffrouw echt compleet nat na de val.,Het kind huilt geheel terecht echt compleet nat na de val.,Complementive,intransitive,148,nat,de juffrouw
+De hond blaft de postbode nog lang na in de ochtend.,De hond blaft jammer genoeg nog lang na in de ochtend.,Complementive,intransitive,149,na,de postbode
+De menigte jouwde de spreker heel hard uit na zijn optreden.,De menigte jouwde afgelopen zondag heel hard uit na zijn optreden.,Complementive,intransitive,150,uit,de spreker
+Mijn vriendin lachte me hard uit tijdens de komedievoorstelling.,Mijn vriendin lachte gisteravond hard uit tijdens de komedievoorstelling.,Complementive,intransitive,2101,uit,me
+De wind blies de bladeren weg over de straat.,De wind blies vorige herfst weg over de straat.,Complementive,intransitive,2102,weg,de bladeren
+De zangeres zingt het publiek stil met haar mooie stem.,De zangeres zingt voor altijd stil met haar mooie stem.,Complementive,intransitive,2103,stil,het publiek
+De vogels floten de tuin vrolijk wakker bij zonsopgang.,De vogels floten gisteren vrolijk wakker bij zonsopgang.,Complementive,intransitive,2104,wakker,de tuin
+Het kind droomt de kamer vol met fantasieën.,Het kind droomt vorige nacht vol met fantasieën.,Complementive,intransitive,2105,vol,de kamer
+De docent legde de lesstof duidelijk uit tijdens de cursus.,De docent legde vorige dinsdag duidelijk uit tijdens de cursus.,Complementive,intransitive,2106,uit,de lesstof
+De timmerman spijkerde het meubelstuk stevig vast,De timmerman spijkerde vorige week stevig vast.,Complementive,intransitive,2107,vast,het meubelstuk
+De ober bracht de bestelling snel weg naar de tafel.,De ober bracht vanochtend snel weg naar de tafel.,Complementive,intransitive,2108,weg,de bestelling
+De chef kruidde het gerecht goed voor het serveren.,De chef kruidde afgelopen donderdag goed voor het serveren.,Complementive,intransitive,2109,goed,het gerecht
+De schilder verfde het huis wit voor de verkoop.,De schilder verfde afgelopen maandag wit voor de verkoop.,Complementive,intransitive,2110,wit,het huis
+De atleet liep de marathon moeiteloos uit ondanks de regen.,De atleet liep vorig jaar moeiteloos uit ondanks de regen.,Complementive,intransitive,2111,uit,de marathon
+De student begreep de opdracht meteen tijdens de les.,De student begreep vorige maand meteen tijdens de les.,Complementive,intransitive,2112,meteen,de opdracht
+De ober schonk een glas wijn in.,De ober schonk vorige week in.,Complementive,intransitive,2113,in,een glas wijn
+De advocaat pleitte de verdachte vrij met sterke argumenten.,De advocaat pleitte vorige maand vrij met sterke argumenten.,Complementive,intransitive,2114,vrij,de verdachte
+De schrijver maakte het boek eindelijk af na maanden hard werken.,De schrijver maakte geheel terecht eindelijk af na maanden hard werken.,Complementive,intransitive,2115,af,het boek
+De chef bakte de pannenkoeken goudbruin voor het ontbijt.,De chef bakte gisteren goudbruin voor het ontbijt.,Complementive,intransitive,2116,goudbruin,de pannenkoeken
+De danseres voerde de choreografie elegant uit op het podium.,De danseres voerde vorige maand elegant uit op het podium.,Complementive,intransitive,2117,uit,de choreografie
+De fotograaf nam de foto's scherp tijdens het evenement.,De fotograaf nam vorige maand scherp tijdens het evenement.,Complementive,intransitive,2118,scherp,de foto's
+De presentator kondigde de gasten enthousiast aan voor de show.,De presentator kondigde vorige week enthousiast aan voor de show.,Complementive,intransitive,2119,aan,de gasten
+De acteur vertolkte de rol overtuigend op het toneel.,De acteur vertolkte vorige maand overtuigend op het toneel.,Complementive,intransitive,2120,overtuigend,de rol
+De kok bereidde de maaltijd smakelijk voor de gasten.,De kok bereidde vorige week smakelijk voor de gasten.,Complementive,intransitive,2121,smakelijk,de maaltijd
+De onderzoeker bestudeerde de resultaten grondig na het experiment.,De onderzoeker bestudeerde vorige maand grondig na het experiment.,Complementive,intransitive,2122,grondig,de resultaten
+De presentatrice kondigde de winnaar enthousiast aan voor de wedstrijd.,De presentatrice kondigde voor altijd enthousiast aan voor de wedstrijd.,Complementive,intransitive,2123,aan,de winnaar
+De schilder verfde de muur strak wit voor de renovatie.,De schilder verfde vorige maand strak wit voor de renovatie.,Complementive,intransitive,2124,wit,de muur
+De wetenschapper onderzocht de theorie grondig voor het congres.,De wetenschapper onderzocht vorige maand grondig voor het congres.,Complementive,intransitive,2125,grondig,de theorie
+De ober schonk het glas vol met een glimlach voor de gast.,De ober schonk vorige maand vol met een glimlach voor de gast.,Complementive,intransitive,2126,vol,het glas
+De ober serveerde de maaltijd warm aan de gasten.,De ober serveerde vorige maand warm aan de gasten.,Complementive,intransitive,2127,warm,de maaltijd
+De kinderen joelden de clown vrolijk toe tijdens de voorstelling.,De kinderen joelden gisteren vrolijk toe tijdens de voorstelling.,Complementive,intransitive,2128,toe,de clown
+De studenten juichten de professor toe na het college.,De studenten juichten gisteren toe na het college.,Complementive,intransitive,2129,toe,de professor
+De spreker legde zijn argumenten overtuigend voor aan de vergadering.,De spreker legde vorige maand overtuigend voor aan de vergadering.,Complementive,intransitive,2130,voor,zijn argumenten
+Stefan lachte zijn broer uit na de film.,Stefan lachte heel hartelijk uit na de film.,Complementive,intransitive,2131,uit,zijn broer
+De tuinman snoeide de struiken kort voor de zomer.,De tuinman snoeide zeker wel kort voor de zomer.,Complementive,intransitive,2132,kort,de struiken
+De zangeres zong haar stem schor tijdens het concert.,De zangeres zong jammer genoeg schor tijdens het concert.,Complementive,intransitive,2133,schor,haar stem
+De fietsers trapten hun benen moe tijdens de lange tocht.,De fietsers trapten afgelopen zondag moe tijdens de lange tocht.,Complementive,intransitive,2134,moe,hun benen
+De wetenschapper bestudeerde de resultaten nauwkeurig na het experiment.,De wetenschapper bestudeerde zeer beslist nauwkeurig na het experiment.,Complementive,intransitive,2135,nauwkeurig,de resultaten
+De politie loste het conflict snel op na de melding.,De politie loste afgelopen zondag snel op na de melding.,Complementive,intransitive,2136,op,het conflict
+De chef keurde het plan goed tijdens de vergadering.,De chef keurde onverwachts goed tijdens de vergadering.,Complementive,intransitive,2137,goed,het plan
+Lisa lachte haar vriendinnen vrolijk toe na het goede nieuws.,Lisa lachte veel liever vrolijk toe na het goede nieuws.,Complementive,intransitive,2138,toe,haar vriendinnen
+Het team maakte het project efficiënt af na de training.,Het team maakte vorige week efficiënt af na de training.,Complementive,intransitive,2139,af,het project
+De chef bakte de taart heerlijk goudbruin voor het feest.,De chef bakte afgelopen zondag heerlijk goudbruin voor het feest.,Complementive,intransitive,2140,goudbruin,de taart
+De studenten haalden de professor opgelucht op na het behalen van hun diploma.,De studenten haalden vorige maand opgelucht op na het behalen van hun diploma.,Complementive,intransitive,2141,op,de professor
+De pianist speelde het stuk af tijdens het concert.,De acteur speelde afgelopen dinsdag af op het toneel.,Complementive,intransitive,2142,af,zijn rol
+De fietsers fietsten het parcours uit na de lange tocht.,De fietsers fietsten erg opgewekt uit na de lange tocht.,Complementive,intransitive,2143,uit,het parcours
+De chauffeur reed de bus kapot langs de smalle weg na de regen.,De chauffeur reed vorige maand kapot langs de smalle weg na de regen.,Complementive,intransitive,2144,kapot,de bus
+De muzikant speelde de melodie uit tijdens het concert.,De muzikant speelde elke dag uit tijdens het concert.,Complementive,intransitive,2145,uit,de melodie
+De spreker hield het publiek geboeid tijdens zijn presentatie.,De spreker hield vorige week geboeid tijdens zijn presentatie.,Complementive,intransitive,2146,geboeid,het publiek
+De ober serveerde de maaltijd uit tijdens de drukke avond.,De ober serveerde vorige dinsdag uit tijdens de drukke avond.,Complementive,intransitive,2147,uit,de maaltijd
+De kapper knipte het haar kort na de wasbeurt.,De kapper knipte vorige maand kort na de wasbeurt.,Complementive,intransitive,2148,kort,het haar
+De journalist schreef het artikel op na het interview.,De journalist schreef elke dag op na het interview.,Complementive,intransitive,2149,op,het artikel
+De brandweerman bluste het vuur uit na de melding.,De brandweerman bluste vorige maand uit na de melding.,Complementive,intransitive,2150,uit,het vuur
+De pianist speelde de melodie af tijdens het concert.,De pianist speelde vorige vrijdag af tijdens het concert.,Complementive,intransitive,2151,af,de melodie
+De zangeres zong het publiek toe tijdens de repetitie.,De zangeres zong elke dag toe tijdens de repetitie.,Complementive,intransitive,2152,toe,het publiek
+De advocaat bepleitte de zaak overtuigend voor de jury.,De advocaat bepleitte het liefst overtuigend voor de jury.,Complementive,intransitive,2153,overtuigend,de zaak
+De bakker bakte het brood vers na ontvangst van de bestelling.,De bakker bakte gisteren vers na ontvangst van de bestelling.,Complementive,intransitive,2154,vers,het brood
+De tuinman snoeide de planten weg na de bloei.,De tuinman snoeide vorige week weg na de bloei.,Complementive,intransitive,2155,weg,de planten
+De ontwerper tekende het logo strak na overleg.,De ontwerper tekende vorige week strak na overleg.,Complementive,intransitive,2156,strak,het logo
+De kinderen renden de trap op in het huis.,De kinderen renden elke dag op in het huis.,Complementive,intransitive,2157,op,de trap
+De vrouw kraakte hem af tijdens het gesprek.,De vrouw kraakte dagelijks af tijdens het gesprek.,Complementive,intransitive,2158,af,hem
+De klokken luidden de dag in vanuit de klokkentoren.,De klokken luidden erg luid in vanuit de klokkentoren.,Complementive,intransitive,2159,in,de dag
+De fietsers reden het gat dicht in het vlakke landschap.,De fietsers reden vorige maand dicht in het vlakke landschap.,Complementive,intransitive,2160,dicht,het gat
+De kinderen hingen de slingers op aan de bomen,De kinderen hingen elke zaterdag op aan de bomen,Complementive,intransitive,2161,op,de slingers
+Het water kookte de groenten gaar op het fornuis.,Het water kookte gisteren gaar op het fornuis.,Complementive,intransitive,2162,gaar,de groenten
+De kinderen speelden de muziek af in de speeltuin.,De kinderen speelden heel vrolijk af in de speeltuin.,Complementive,intransitive,2163,af,de muziek
+Het vuur brandde de boeken af in de open haard.,Het vuur brandde heel fel af in de open haard.,Complementive,intransitive,2164,af,de boeken
+De rivier stroomde de weg af door het landschap.,De rivier stroomde elke maand af door het landschap.,Complementive,intransitive,2165,af,de weg
+De vogels zongen ons toe bij zonsopgang.,De vogels zongen gisteren toe bij zonsopgang.,Complementive,intransitive,2166,toe,ons
+De machines braken de gebouwen af in de stad.,De machines braken elke week af in de stad.,Complementive,intransitive,2167,af,de gebouwen
+De chef kookt de groenten gaar voor het avondeten.,De chef kookt gisteren gaar voor het avondeten.,Complementive,intransitive,2168,gaar,de groenten
+Het kind droomt de enge dromen weg in bed.,Het kind droomt vreemd genoeg weg in bed.,Complementive,intransitive,2169,weg,de enge dromen
+De politieagent leidt het verkeer weg langs het ongeluk.,De politieagent leidt vorige dinsdag weg langs het ongeluk.,Complementive,intransitive,2170,weg,het verkeer
+Het kind kleurt de horizon roze in haar tekening.,Het kind kleurt vorige maand roze in haar tekening.,Complementive,intransitive,2171,roze,de horizon
+Tijdens de middeleeuwen bloeide het ambachtelijke vakmanschap op.,Tijdens de middeleeuwen bloeide de laatste jaren op.,Complementive,intransitive,2172,op,het ambachtelijke vakmanschap
+Ridders droegen zware harnassen weg tijdens de wedstrijd.,Ridders droegen elke dag weg tijdens de wedstrijd.,Complementive,intransitive,2173,weg,zware harnassen
+Kasteelhouders dienden fazanten op tijdens de maaltijd.,Kastelen dienden lang geleden op tijdens de maaltijd.,Complementive,intransitive,2174,op,fazanten
+Tijdens de wintersport gleed Lisa de berg af.,Tijdens de wintersport gleed Lisa vorige week af.,Complementive,intransitive,2175,af,de berg
+De skiër daalde met hoge snelheid de steile afdaling af tijdens de wintersport.,De skiër daalde met hoge snelheid vorige week af tijdens de wintersport.,Complementive,intransitive,2176,af,de steile afdaling
+De ondernemer staarde de mensen na vanuit zijn kantoor.,De ondernemer staarde soms lang na vanuit zijn kantoor.,Complementive,intransitive,2177,na,de mensen
+De meisjes fluisterde hun moeder toe in de bioscoop.,De meisjes fluisterde elke maand toe in de bioscoop.,Complementive,intransitive,2178,toe,hun moeder
+De klimmers stijgen de berg op met veel bombarie.,De klimmers stijgen vele kilometers op met veel bombarie.,Complementive,intransitive,2179,op,de berg
+De muis sluipt de kamer in terwijl iedereen slaapt.,De muis sluipt elke nacht in terwijl iedereen slaapt.,Complementive,intransitive,2180,in,de kamer
+Iedereen komt zijn afspraken na als dat moet.,Iedereen komt naar verjaardagen na als dat moet.,Complementive,intransitive,2181,na,zijn afspraken
+De klimop groeit de schuur in deze zomer. ,De klimop groeit elke dag in deze zomer. ,Complementive,intransitive,2182,in,de schuur
+De kinderen glijden de glijbaan af in de speeltuin.,De kinderen glijden elke dag af in de speeltuin.,Complementive,intransitive,2183,af,de glijbaan
+De koeriers rijden de weg af op zoek naar een huis.,De koeriers rijden elke dag af op zoek naar een huis.,Complementive,intransitive,2184,af,de weg
+De zon straalt de mensen toe in de middag.,De zon straalt het felst toe in de middag.,Complementive,intransitive,2185,toe,de mensen
+De oude man kucht iets weg in zijn slaap.,De oude man kucht dagelijks weg in zijn slaap.,Complementive,intransitive,2186,weg,iets
+De jongens spetteren hun vrienden nat in het zwembad.,De jongens spetteren volgende week nat in het zwembad.,Complementive,intransitive,2187,nat,hun vrienden
+De man bromt zijn kinderen toe na het uitje.,De man bromt elke maandag toe na het uitje.,Complementive,intransitive,2188,toe,zijn kinderen
+Lisette tuurt het strand af op zondag.,Lisette tuurt naar buiten af op zondag.,Complementive,intransitive,2189,af,het strand
+Hans tiert de buurman na na de aanrijding.,Hans tiert op zondag na na de aanrijding.,Complementive,intransitive,2190,na,de buurman
+Het leger bombardeert de stad plat vanuit kleine vliegtuigen.,Het leger vernietigt de stad plat vanuit kleine vliegtuigen.,Complementive,transitive,151,plat,bombardeert
+De crimineel sloeg de hond dood in dat steegje.,De crimineel mishandelde de hond dood in dat steegje.,Complementive,transitive,152,dood,sloeg
+De tiener verft zijn haar zwart bij de kapper.,De tiener wast zijn haar zwart bij de kapper.,Complementive,transitive,153,zwart,verft
+De kunstenaar maakte het werk klaar voor de tentoonstelling.,De kunstenaar schilderde het werk klaar voor de tentoonstelling.,Complementive,transitive,154,klaar,maakte
+De moeder verft de eieren groen voor het paasfeest.,De moeder wast eieren groen voor het paasfeest.,Complementive,transitive,155,groen,verft
+De terrorist bombardeert het ziekenhuis plat met een explosief.,De terrorist vernietigt het ziekenhuis plat met een explosief.,Complementive,transitive,156,plat,bombardeert
+De man sloeg de minnaar dood in het café.,De man mishandelde de minnaar dood in het café.,Complementive,transitive,157,dood,sloeg
+De vrouw verft de muur zwart tijdens de verbouwing.,De vrouw wast de muur zwart tijdens de verbouwing.,Complementive,transitive,158,zwart,verft
+De schilder maakte het huis klaar voor de verhuizing.,De schilder schilderde het huis klaar voor de verhuizing.,Complementive,transitive,159,klaar,maakte
+De bloemist verft de rozen rood voor de verkoop.,De bloemist wast de rozen rood voor de verkoop.,Complementive,transitive,160,rood,verft
+De tuinman maait het gras netjes kort elke week.,De tuinman fatsoeneert het gras netjes kort elke week.,Complementive,transitive,2191,kort,maait
+De schoonmaker maakt de decoratie plotseling kapot tijdens de vakantie.,De schoonmaker ruïneert de decoratie plotseling kapot tijdens de vakantie.,Complementive,transitive,2192,kapot,maakt
+De smid smeedt de deuk helemaal glad met het vuur.,De smid versmelt de deuk helemaal glad met het vuur.,Complementive,transitive,2193,glad,smeedt
+De kok bakte de uien goed bruin voor het diner.,De kok bereidde de uien goed bruin voor het diner.,Complementive,transitive,2194,bruin,bakte
+De klusser schuurde de planken volledig egaal met een machine.,De klusser behandelde de planken volledig egaal met een machine.,Complementive,transitive,2195,egaal,schuurde
+De jury keurde de inzending zeker af voor de competitie.,De jury beoordeelde de inzending zeker af voor de competitie.,Complementive,transitive,2196,af,keurde
+De bakker bakte de toast telkens bruin voor het ontbijt.,De bakker bereidde de toast telkens bruin voor het ontbijt.,Complementive,transitive,2197,bruin,bakte
+De kleermaker naaide de stof elegant rond voor de jurk.,De kleermaker bewerkte de stof elegant rond voor de jurk.,Complementive,transitive,2198,rond,naaide
+De assistent wrijft de ramen helemaal droog na de wasbeurt.,De assistent verzorgt de ramen helemaal droog na de wasbeurt.,Complementive,transitive,2199,droog,wrijft
+De peuter gooit het bord onbedoeld stuk tijdens de maaltijd.,De peuter vernielt het bord onbedoeld stuk tijdens de maaltijd.,Complementive,transitive,2200,stuk,gooit
+De moeder spuit het terras grondig schoon met de hogedrukreiniger.,De moeder zuivert het terras grondig schoon met de hogedrukreiniger.,Complementive,transitive,2201,schoon,spuit
+De patissier drukte het deeg volledig plat voor de taartbodem.,De patissier vereffent het deeg volledig plat voor de taartbodem.,Complementive,transitive,2202,plat,drukte
+De scheidsrechter floot de spelers luid terug tijdens de wedstrijd.,De scheidsrechter ontbood de spelers luid terug tijdens de wedstrijd.,Complementive,transitive,2203,terug,floot
+De reisleider riep de groep tijdig terug in het museum.,De reisleider onthaalde de groep tijdig terug in het museum.,Complementive,transitive,2204,terug,riep
+De douane stuurt de vrouw meteen terug met haar bagage.,De douane weigert de vrouw meteen terug met haar bagage.,Complementive,transitive,2205,terug,stuurt
+De monteur voegt de onderdelen netjes samen met het gereedschap.,De monteur verbindt de onderdelen netjes samen met het gereedschap.,Complementive,transitive,2206,samen,voegt
+De dieven roven de kluis zeker leeg tijdens de overval.,De dieven beroven de kluis zeker leeg tijdens de overval.,Complementive,transitive,2207,leeg,roven
+De broer haalt de zolder goed leeg voor de renovatie.,De broer ontruimt de zolder goed leeg voor de renovatie.,Complementive,transitive,2208,leeg,haalt
+De huisgenoot wast de gordijnen grondig schoon voor de bezichtiging.,De huisgenoot reinigt de gordijnen grondig schoon voor de bezichtiging.,Complementive,transitive,2209,schoon,wast
+De goochelaar haalt de kaart knap tevoorschijn tijdens de voorstelling.,De goochelaar onthult de kaart knap tevoorschijn tijdens de voorstelling.,Complementive,transitive,2210,tevoorschijn,haalt
+De slager maalde het vlees uiteraard fijn voor de paté.,De slager vermaalde het vlees uiteraard fijn voor de paté.,Complementive,transitive,2211,fijn,maalde
+De beeldhouwer rolt de klei nogmaals plat tijdens de workshop.,De beeldhouwer egaliseert de klei nogmaals plat tijdens de workshop.,Complementive,transitive,2212,plat,rolt
+Het bestuur trekt de bonussen inderdaad gelijk vanaf dit kwartaal.,Het bestuur nivelleert de bonussen inderdaad gelijk vanaf dit kwartaal.,Complementive,transitive,2213,gelijk,trekt
+De machine perst de grond luid samen op de bouwplaats.,De machine verdicht de grond luid samen op de bouwplaats.,Complementive,transitive,2214,samen,perst
+De klasgenoot vertelde het geheim stiekem rond aan de vriendinnen.,De klasgenoot verraadde het geheim stiekem rond aan de vriendinnen.,Complementive,transitive,2215,rond,vertelde
+De timmerman maakt het gat toch dicht na het overleg.,De timmerman herstelt het gat toch dicht na het overleg.,Complementive,transitive,2216,dicht,maakt
+De meubelmaker zette de balken opnieuw vast in de werkbank.,De meubelmaker bevestigde de balken opnieuw vast in de werkbank.,Complementive,transitive,2217,vast,zette
+De lasser smolt de staalplaten netjes samen volgens de instructie.,De lasser verenigde de staalplaten netjes samen volgens de instructie.,Complementive,transitive,2218,samen,smolt
+De politie nam de crimineel alsnog gevangen na de vluchtpoging.,De politie arresteerde de crimineel alsnog gevangen na de vluchtpoging.,Complementive,transitive,2219,gevangen,nam
+De bewakers hielden de vriend alsnog tegen bij de ingang.,De bewakers verhinderden de vriend alsnog tegen bij de ingang.,Complementive,transitive,2220,tegen,hielden
+De detective vindt de schuilplaats uiteindelijk terug via een aanwijzing.,De detective achterhaalt de schuilplaats uiteindelijk terug via een aanwijzing.,Complementive,transitive,2221,terug,vindt
+De andere spelers werkten elkaar slim tegen tijdens het spel.,De andere spelers belemmerden elkaar slim tegen tijdens het spel.,Complementive,transitive,2222,tegen,spelers
+De zus buigt het kromme bestek weer recht met haar handen.,De zus herstelt het kromme bestek weer recht met haar handen.,Complementive,transitive,2223,recht,buigt
+De docent maakte het probleem goed duidelijk tijdens de cursus.,De docent verhelderde het probleem goed duidelijk tijdens de cursus.,Complementive,transitive,2224,duidelijk,maakte
+De overvaller nam het geld meteen weg uit de kassa.,De overvaller ontnam het geld meteen weg uit de kassa.,Complementive,transitive,2225,weg,nam
+De kapper knipt de pony mooi kort zoals besproken.,De kapper minimaliseert de pony mooi kort zoals besproken.,Complementive,transitive,2226,kort,knipt
+De penningmeester krijgt de begroting zeker rond dit jaar.,De penningmeester bekostigt de begroting zeker rond dit jaar.,Complementive,transitive,2227,rond,krijgt
+De secretaris zet de notulen tijdig klaar volgende week.,De secretaris corrigeert de notulen tijdig klaar volgende week.,Complementive,transitive,2228,klaar,zet
+De chauffeur laadde de kofferbak helemaal vol voor de reis.,De chauffeur belaadde de kofferbak helemaal vol voor de reis.,Complementive,transitive,2229,vol,laadde
+De boer sproeide de planten inderdaad vol met chemicaliën.,De boer besproeide de planten inderdaad vol met chemicaliën.,Complementive,transitive,2230,vol,sproeide
+De klant bracht het boek alweer terug naar de winkel.,De klant retourneerde het boek alweer terug naar de winkel.,Complementive,transitive,2231,terug,bracht
+De winkelier betaalt de miskoop blijkbaar terug binnen de afgesproken termijn.,De winkelier vergoedt de miskoop blijkbaar terug binnen de afgesproken termijn.,Complementive,transitive,2232,terug,betaalt
+De vandalen branden het bushokje nogmaals plat na de waarschuwing.,De vandalen verwoesten het bushokje nogmaals plat na de waarschuwing.,Complementive,transitive,2233,plat,branden
+De vriend stelt de afspeellijst weer samen voor het feest.,De vriend compileert de afspeellijst weer samen voor het feest.,Complementive,transitive,2234,samen,stelt
+De buurman maaide zijn weiland keurig kort in de lente.,De buurman fatsoeneerde zijn weiland keurig kort in de lente.,Complementive,transitive,2235,kort,maaide
+De kat maakte de vaas onbedoeld kapot toen de baas weg was.,De kat ruïneerde de vaas onbedoeld kapot toen de baas weg was.,Complementive,transitive,2236,kapot,maakte
+De vakman smeedde het ruwe zwaard deskundig glad in het vuur.,De vakman versmolt het ruwe zwaard deskundig glad in het vuur.,Complementive,transitive,2237,deskundig,smeedde
+De buren kleuren hun muren fel oranje bij de renovatie.,De buren beschilderen hun muren fel oranje bij de renovatie.,Complementive,transitive,2238,oranje,kleuren
+De restaurateur schuurt de meubelstukken grondig egaal voor het schilderen.,De restaurateur behandelt de meubelstukken grondig egaal voor het schilderen.,Complementive,transitive,2239,egaal,schuurt
+De voetbalbond keurt de velden toch af vanwege onregelmatigheden.,De voetbalbond beoordeelt de velden toch af vanwege onregelmatigheden.,Complementive,transitive,2240,af,keurt
+De zonsondergang kleurde de lucht prachtig oranje boven de horizon.,De zonsondergang verkleurde de lucht prachtig oranje boven de horizon.,Complementive,transitive,2241,oranje,kleurde
+De oma naait de zoom van de rok netjes rond met de hand.,De oma bewerkt de zoom van de rok netjes rond met de hand.,Complementive,transitive,2242,de,naait
+De afwasser wreef de glazen zorgvuldig droog met een doek.,De afwasser verzorgt de glazen zorgvuldig droog met een doek.,Complementive,transitive,2243,droog,wreef
+De klant gooide het glas boos stuk in het restaurant.,De klant vernielde het glas boos stuk in het restaurant.,Complementive,transitive,2244,stuk,gooide
+De tuinman spoot de tuinmeubelen helemaal schoon voordat hij ze opruimde.,De tuinman zuiverde de tuinmeubelen helemaal schoon voordat hij ze opruimde.,Complementive,transitive,2245,schoon,spoot
+De pizzabakker drukte het deeg eerst plat met zijn vuisten.,De pizzabakker vereffende het deeg eerst plat met zijn vuisten.,Complementive,transitive,2246,plat,drukte
+De coach fluit de renners plotseling terug tijdens de training.,De coach ontbiedt de renners plotseling terug tijdens de training.,Complementive,transitive,2247,terug,fluit
+De juf roept de kinderen inderdaad terug na de pauze.,De juf onthaalt de kinderen inderdaad terug na de pauze.,Complementive,transitive,2248,terug,roept
+De klantenservice stuurt het product spoedig terug na de reparatie.,De klantenservice verzendt het product spoedig terug na de reparatie.,Complementive,transitive,2249,terug,stuurt
+De kok voegde de ingrediënten zorgvuldig samen tijdens het koken.,De kok verenigde de ingrediënten zorgvuldig samen tijdens het koken.,Complementive,transitive,2250,samen,voegde
+De inbreker roofde het pand volledig leeg na sluitingstijd.,De inbreker beroofde het pand volledig leeg na sluitingstijd.,Complementive,transitive,2251,leeg,roofde
+De leerlingen haalden het klaslokaal samen leeg voor de vakantie.,De leerlingen ontruimden het klaslokaal samen leeg voor de vakantie.,Complementive,transitive,2252,leeg,haalden
+De huishoudhulp waste het beddengoed wekelijks schoon met wasmiddel.,De huishoudhulp reinigde het beddengoed wekelijks schoon met wasmiddel.,Complementive,transitive,2253,schoon,waste
+De clown haalde de verrassingen spectaculair tevoorschijn tijdens de show.,De clown onthulde de verrassingen spectaculair tevoorschijn tijdens de show.,Complementive,transitive,2254,tevoorschijn,haalde
+De barista maalt de koffiebonen vers fijn voor de espresso.,De barista vermaalt de koffiebonen vers fijn voor de espresso.,Complementive,transitive,2255,fijn,maalt
+De banketbakker rolt het deeg steeds plat om de koekjes eruit te snijden.,De banketbakker egaliseert het deeg steeds plat om de koekjes eruit te snijden.,Complementive,transitive,2256,plat,rolt
+De leraar trok de kansen graag gelijk voor alle leerlingen.,De leraar nivelleerde de kansen graag gelijk voor alle leerlingen.,Complementive,transitive,2257,gelijk,trok
+De bouwvakker perste de zandgrond deskundig samen in de tuin.,De bouwvakker verdichtte de zandgrond deskundig samen in de tuin.,Complementive,transitive,2258,samen,perste
+De manager vertelt het nieuws meteen rond aan de werknemers.,De manager verraadt het nieuws meteen rond aan de werknemers.,Complementive,transitive,2259,rond,vertelt
+De loodgieter maakte het gat goed dicht om schade te voorkomen.,De loodgieter herstelde het gat goed dicht om schade te voorkomen.,Complementive,transitive,2260,dicht,maakte
+De monteur zet de bouten stevig vast aan de machine.,De monteur bevestigt de bouten stevig vast aan de machine.,Complementive,transitive,2261,vast,zet
+De technicus smelt de onderdelen stevig samen met een soldeerbout.,De technicus verbindt de onderdelen stevig samen met een soldeerbout.,Complementive,transitive,2262,samen,smelt
+De soldaten nemen de vijandelijke commandant uiteindelijk gevangen in het kamp.,De soldaten arresteren de vijandelijke commandant uiteindelijk gevangen in het kamp.,Complementive,transitive,2263,gevangen,nemen
+De politie houdt de relschoppers inderdaad tegen op de weg.,De politie verhindert de relschoppers inderdaad tegen op de weg.,Complementive,transitive,2264,tegen,houdt
+De rechercheur vond de locatie van de vermiste alsnog terug voor het te laat was.,De rechercheur achterhaalde de locatie van de vermiste alsnog terug voor het te laat was.,Complementive,transitive,2265,terug,vond
+De tegenstanders werken de politicus telkens tegen bij de formatie.,De tegenstanders belemmeren de politicus telkens tegen bij de formatie.,Complementive,transitive,2266,tegen,werken
+De metaalbewerker boog het vervormde stuk metaal zorgvuldig recht vanuit de bankschroef.,De metaalbewerker herstelde het vervormde stuk metaal zorgvuldig recht vanuit de bankschroef.,Complementive,transitive,2267,recht,boog
+De instructeur maakt de procedure knap duidelijk met zijn uitleg.,De instructeur verheldert de procedure knap duidelijk met zijn uitleg.,Complementive,transitive,2268,duidelijk,maakt
+De winkeldief neemt de producten vlug weg uit de schappen.,De winkeldief ontneemt de producten vlug weg uit de schappen.,Complementive,transitive,2269,weg,neemt
+De stylist knipt de vacht van de hond netjes kort voor de zomer.,De stylist minimaliseert de vacht van de hond netjes kort voor de zomer.,Complementive,transitive,2270,kort,knipt
+De ondernemer kreeg de financiering onlangs rond voor de deadline.,De ondernemer bekostigde de financiering onlangs rond voor de deadline.,Complementive,transitive,2271,rond,kreeg
+De assistent zet de documenten vlug klaar voor de vergadering.,De assistent corrigeert de documenten vlug klaar voor de vergadering.,Complementive,transitive,2272,klaar,zet
+De vriendinnen laden de winkelwagen enthousiast vol in het warenhuis.,De vriendinnen beladen de winkelwagen enthousiast vol in het warenhuis.,Complementive,transitive,2273,vol,laden
+De hovenier sproeit de bloemen wekelijks vol met gifstoffen.,De hovenier besproeit de bloemen wekelijks vol met gifstoffen.,Complementive,transitive,2274,vol,sproeit
+De kinderen smeerden hun crackers goed vol met jam.,De kinderen besmeerden hun crackers goed vol met jam.,Complementive,transitive,2275,vol,smeerden
+De toeristen brengen de fietsen morgen terug voor sluitingstijd.,De toeristen retourneren de fietsen morgen terug voor sluitingstijd.,Complementive,transitive,2276,terug,brengen
+De verzekeraar betaalde de schade zeker terug op de rekening.,De verzekeraar vergoedde de schade zeker terug op de rekening.,Complementive,transitive,2277,terug,betaalde
+De daders brandden het magazijn opzettelijk plat om bewijs te vernietigen.,De daders verwoestten het magazijn opzettelijk plat om bewijs te vernietigen.,Complementive,transitive,2278,plat,brandden
+De leraar stelt de lesmaterialen deskundig samen voor de nieuwe module.,De leraar compileert de lesmaterialen deskundig samen voor de nieuwe module.,Complementive,transitive,2279,samen,stelt
+De vrouw smeert haar boterham uiteraard vol met pindakaas.,De vrouw besmeert haar boterham uiteraard vol met pindakaas.,Complementive,transitive,2280,vol,smeert
+De pers geeft in de ochtend het nieuws vrij over de gebeurtenis.,De pers geeft de aanwezige mensen het nieuws vrij over de gebeurtenis.,Complementive,ditransitive,161,vrij,in de ochtend
+De politie geeft eigenlijk vrijwel nooit persoonlijke informatie vrij over een zaak.,De politie geeft de opdringerige media persoonlijke informatie vrij over een zaak.,Complementive,ditransitive,162,vrij,eigenlijk vrijwel nooit
+De agent geeft alleen bij noodzaak de identiteit vrij van een crimineel. ,De agent geeft de aanwezige pers de identiteit vrij van een crimineel. ,Complementive,ditransitive,163,vrij,alleen bij noodzaak
+De winkel geeft naar eigen zeggen geen gegevens vrij na een aankoop.,De winkel geeft de andere verkopers geen gegevens vrij na een aankoop.,Complementive,ditransitive,164,vrij,naar eigen zeggen
+Het archief geeft voor het onderzoek de dossiers vrij over het verleden.,Het archief geeft de grote universiteit de dossiers vrij over het verleden.,Complementive,ditransitive,165,vrij,voor het onderzoek
+De leraar geeft in de middag de scores vrij van het examen.,De leraar geeft de oudste studenten de scores vrij van het examen.,Complementive,ditransitive,166,vrij,in de middag
+De onderzoeker geeft vrijwel altijd meteen het lichaam vrij na het onderzoek.,De onderzoeker geeft de inspecterende politie het lichaam vrij na het onderzoek.,Complementive,ditransitive,167,vrij,vrijwel altijd meteen
+De presentator geeft om twee uur de namen vrij van de deelnemers.,De presentator geeft de nieuwsgierige kijkers de namen vrij van de deelnemers.,Complementive,ditransitive,168,vrij,om twee uur
+De douane geeft binnen drie uur de documenten vrij na nader onderzoek.,De douane geeft de ongeduldige passagier de documenten vrij na nader onderzoek.,Complementive,ditransitive,169,vrij,binnen drie uur
+De inspecteur geeft bij nader inzien de beelden vrij van de overval.,De inspecteur geeft de nieuwe journalisten de beelden vrij van de overval.,Complementive,ditransitive,170,vrij,bij nader inzien
+De chef-kok geeft vaak de recepten vrij na een succesvol gerecht.,De chef-kok geeft de hongerige klanten de recepten vrij na een succesvol gerecht.,Complementive,ditransitive,2281,vrij,vaak
+De wetenschapper geeft na publicatie de gegevens vrij van het experiment.,De wetenschapper geeft de concurrenten de gegevens vrij van het experiment.,Complementive,ditransitive,2282,vrij,na publicatie
+De bibliotheek geeft elke maand nieuwe boeken vrij voor de leden.,De bibliotheek geeft de selecte leesclub nieuwe boeken vrij voor de leden.,Complementive,ditransitive,2283,vrij,elke maand
+De arts geeft alleen op afspraak medische informatie vrij aan patiënten.,De arts geeft de nieuwsgierige buren medische informatie vrij aan patiënten.,Complementive,ditransitive,2284,vrij,alleen op afspraak
+De softwareontwikkelaar geeft regelmatig updates vrij voor de applicatie.,De softwareontwikkelaar geeft de competitieve bedrijven updates vrij voor de applicatie.,Complementive,ditransitive,2285,vrij,regelmatig updates
+De museumcurator geeft op speciale dagen gratis toegang vrij tot tentoonstellingen.,De museumcurator geeft de rijke bezoekers gratis toegang vrij tot tentoonstellingen.,Complementive,ditransitive,2286,vrij,op speciale dagen
+De boswachter geeft na onderzoek de resultaten vrij over de flora en fauna.,De boswachter geeft de toeristen de resultaten vrij over de flora en fauna.,Complementive,ditransitive,2287,vrij,na onderzoek
+De manager geeft jaarlijks de financiële verslagen vrij aan het bestuur.,De manager geeft de nieuwsgierige werknemers financiële verslagen vrij aan het bestuur.,Complementive,ditransitive,2288,vrij,jaarlijks
+De meteoroloog geeft dagelijks de weersvoorspelling vrij voor het publiek.,De meteoroloog geeft de geïnteresseerde reporters de weersvoorspelling vrij voor het publiek.,Complementive,ditransitive,2289,vrij,dagelijks
+De architect geeft na voltooiing van het project de blauwdrukken vrij.,De architect geeft de concurrerende bouwbedrijven de blauwdrukken vrij.,Complementive,ditransitive,2290,vrij,na voltooiing van het project
+De coach geeft na de wedstrijd de strategieën vrij die werden toegepast.,De coach geeft de nieuwsgierige journalisten de strategieën vrij die werden toegepast.,Complementive,ditransitive,2291,vrij,na de wedstrijd
+De bank geeft maandelijks de rentetarieven vrij voor de klanten.,De bank geeft vermogende klanten de rentetarieven vrij voor de klanten.,Complementive,ditransitive,2292,vrij,maandelijks
+De HR-manager geeft na sollicitatieprocedures de namen vrij van nieuwe medewerkers.,De HR-manager geeft de nieuwsgierige collega's de namen vrij van nieuwe medewerkers.,Complementive,ditransitive,2293,vrij,na sollicitatieprocedures
+De uitgever geeft bij elke boeklancering enkele exemplaren vrij voor recensies.,De uitgever geeft de boekhandels enkele exemplaren vrij voor recensies.,Complementive,ditransitive,2294,vrij,bij elke boeklancering
+De luchtvaartmaatschappij geeft enkele dagen voor vertrek de vluchtinformatie vrij.,De luchtvaartmaatschappij geeft de frequente reizigers de vluchtinformatie vrij.,Complementive,ditransitive,2295,vrij,enkele dagen voor vertrek
+De universiteit geeft na afloop van het semester de cijfers vrij voor studenten.,De universiteit geeft de studentenverenigingen de cijfers vrij voor studenten.,Complementive,ditransitive,2296,vrij,na afloop van het semester
+De IT-beveiligingsexpert geeft na het oplossen van een datalek de details vrij.,De IT-beveiligingsexpert geeft de bezorgde klanten  de details vrij.,Complementive,ditransitive,2297,vrij,na het oplossen van een datalek
+De filmregisseur geeft voor de première de filmtrailer vrij als voorproefje.,De filmregisseur geeft de betalende bezoekers de filmtrailer vrij als voorproefje.,Complementive,ditransitive,2298,vrij,voor de première
+De chef geeft na het kookprogramma de recepten vrij op de website.,De chef geeft de VIP-gasten de recepten vrij op de website.,Complementive,ditransitive,2299,vrij,na het kookprogramma
+De CEO geeft jaarlijks de bedrijfsresultaten vrij tijdens de algemene vergadering.,De CEO geeft de nieuwsgierige aandeelhouders de bedrijfsresultaten vrij tijdens de algemene vergadering.,Complementive,ditransitive,2300,vrij,jaarlijks
+De modeontwerper geeft na de modeshow de ontwerptekeningen vrij voor het publiek.,De modeontwerper geeft de concurrenten de ontwerptekeningen vrij voor het publiek.,Complementive,ditransitive,2301,vrij,na de modeshow
+De docent geeft na het tentamen de correcties vrij.,De docent zijn collega's de correcties vrij.,Complementive,ditransitive,2302,vrij,na het tentamen
+De journalist geeft na het interview de quotes vrij voor publicatie.,De journalist geeft de nieuwsgierige vrienden de quotes vrij voor publicatie.,Complementive,ditransitive,2303,vrij,na het interview
+De gemeente geeft jaarlijks de begroting vrij voor transparantie.,De gemeente geeft de bevriende bedrijven de begroting vrij voor transparantie.,Complementive,ditransitive,2304,vrij,jaarlijks
+Het laboratorium geeft na onderzoek de resultaten vrij van de experimenten.,Het laboratorium geeft de concurrerende onderzoekers de resultaten vrij van de experimenten.,Complementive,ditransitive,2305,vrij,na onderzoek
+De organisatie geeft na afloop van het evenement de evaluatierapporten vrij.,De organisatie geeft de deelnemers de evaluatierapporten vrij.,Complementive,ditransitive,2306,vrij,na afloop van het evenement
+De fotograaf geeft na de fotoshoot de geselecteerde foto's vrij voor de klant.,De fotograaf geeft de bewonderaars de geselecteerde foto's vrij voor de klant.,Complementive,ditransitive,2307,vrij,na de fotoshoot
+De IT-beheerder geeft na het oplossen van een bug de updates vrij voor de software.,De IT-beheerder geeft de nieuwsgierige gebruikers de updates vrij voor de software.,Complementive,ditransitive,2308,vrij,na het oplossen van een bug
+De auteur geeft na publicatie de digitale versie vrij voor download.,De auteur geeft de trouwe lezers de digitale versie vrij voor download.,Complementive,ditransitive,2309,vrij,na publicatie
+Het laboratorium geeft na onderzoek de medische bevindingen vrij aan de patiënt.,Het laboratorium geeft de bezorgde familie de medische bevindingen vrij aan de patiënt.,Complementive,ditransitive,2310,vrij,na onderzoek
+De rechter geeft na het vonnis de juridische argumentatie vrij voor het publiek.,De rechter geeft de betrokken partijen de juridische argumentatie vrij voor het publiek.,Complementive,ditransitive,2311,vrij,na het vonnis
+De marketingmanager geeft na de campagne de resultaten vrij voor de directie.,De marketingmanager geeft de concurrerende bedrijven  de resultaten vrij voor de directie.,Complementive,ditransitive,2312,vrij,na de campagne
+De gemeente geeft na de renovatie de plannen vrij voor de bewoners.,De gemeente geeft de nieuwsgierige bouwbedrijven de plannen vrij voor de bewoners.,Complementive,ditransitive,2313,vrij,na de renovatie
+De trainer geeft na de wedstrijd de analyse vrij van het spelverloop.,De trainer geeft de fans de analyse vrij van het spelverloop.,Complementive,ditransitive,2314,vrij,na de wedstrijd
+De softwareontwikkelaar geeft na updates de release notes vrij voor gebruikers.,De softwareontwikkelaar geeft de nieuwsgierige collega's de release notes vrij voor gebruikers.,Complementive,ditransitive,2315,vrij,na updates
+De museumcurator geeft na restauratie de kunstwerken vrij voor tentoonstelling.,De museumcurator geeft de kunstverzamelaars de kunstwerken vrij voor tentoonstelling.,Complementive,ditransitive,2316,vrij,na restauratie
+De concertorganisator geeft na het optreden de setlist vrij voor de fans.,De concertorganisator geeft de rivaliserende bands de setlist vrij voor de fans.,Complementive,ditransitive,2317,vrij,na het optreden
+De manager geeft na het project de evaluatierapporten vrij voor het team.,De manager geeft de concurrerende afdelingen de evaluatierapporten vrij voor het team.,Complementive,ditransitive,2318,vrij,na het project
+De journalist geeft na het interview de feitelijke informatie vrij voor publicatie.,De journalist geeft de nieuwsgierige vrienden vrij na het interview.,Complementive,ditransitive,2319,vrij,na het interview
+De overheid geeft periodiek de statistieken vrij over de werkgelegenheid.,De overheid geeft lobbygroepen de statistieken vrij over de werkgelegenheid.,Complementive,ditransitive,2320,vrij,periodiek
+De aannemer geeft na de bouw de bouwtekeningen vrij voor de eigenaar.,De aannemer geeft de concurrerende bouwbedrijven de bouwtekeningen vrij voor de eigenaar.,Complementive,ditransitive,2321,vrij,na de bouw
+De onderzoeker geeft na analyse de conclusies vrij voor het wetenschappelijk tijdschrift.,De onderzoeker geeft de nieuwsgierige rivalen de conclusies vrij voor het wetenschappelijk tijdschrift.,Complementive,ditransitive,2322,vrij,na analyse
+Het bedrijf geeft jaarlijks de duurzaamheidsrapporten vrij.,Het bedrijf geeft zakenpartners de duurzaamheidsrapporten vrij.,Complementive,ditransitive,2323,vrij,jaarlijks
+De curator geeft na restauratie de geschiedenis vrij van het kunstwerk.,De curator geeft de kunstverzamelaars de geschiedenis vrij van het kunstwerk.,Complementive,ditransitive,2324,vrij,na restauratie
+De politicus geeft na de stemming de motivatie vrij voor zijn stemgedrag.,De politicus geeft de oppositie de motivatie vrij voor zijn stemgedrag.,Complementive,ditransitive,2325,vrij,na de stemming
+De docent geeft na het seminar de hand-outs vrij die hij gebruikt heeft.,De docent geeft de kritische ouders de hand-outs vrij die hij gebruikt heeft.,Complementive,ditransitive,2326,vrij,na het seminar
+De luchtvaartmaatschappij geeft na de vlucht de veiligheidsrapporten vrij van het afgelopen jaar.,De luchtvaartmaatschappij geeft de nieuwsgierige passagiers de veiligheidsrapporten vrij van het afgelopen jaar.,Complementive,ditransitive,2327,vrij,na de vlucht
+De advocaat geeft na het proces de juridische argumentatie vrij.,De advocaat geeft de betrokken partijen de juridische argumentatie vrij.,Complementive,ditransitive,2328,vrij,na het proces
+De concertorganisator geeft na het optreden de backstagebeelden vrij voor de fans.,De concertorganisator geeft de rivaliserende bands de backstagebeelden vrij voor de fans.,Complementive,ditransitive,2329,vrij,na het optreden
+De arts geeft in de avond de resultaten vrij van het medisch onderzoek.,De arts geeft de bezorgde patiënten de resultaten vrij van het medisch onderzoek.,Complementive,ditransitive,2330,vrij,in de avond
+De krant geeft regelmatig de feiten vrij over actuele gebeurtenissen.,De krant geeft nieuwsgierige lezers de feiten vrij over actuele gebeurtenissen.,Complementive,ditransitive,2331,vrij,regelmatig
+De professor geeft na het college de samenvatting vrij van de lezing.,De professor geeft de geïnteresseerde studenten de samenvatting vrij van de lezing.,Complementive,ditransitive,2332,vrij,na het college
+De bedrijfsleider geeft op vrijdag de financiële gegevens vrij van het kwartaal.,De bedrijfsleider geeft belangrijkste investeerders de financiële gegevens vrij van het kwartaal.,Complementive,ditransitive,2333,vrij,op vrijdag
+De bibliothecaris geeft maandelijks de nieuwe aanwinsten vrij van de collectie.,De bibliothecaris geeft de frequente bezoekers de nieuwe aanwinsten vrij van de collectie.,Complementive,ditransitive,2334,vrij,maandelijks
+De meteoroloog geeft dagelijks de weersvoorspelling vrij voor de regio.,De meteoroloog geeft de lokale bewoners de weersvoorspelling vrij voor de regio.,Complementive,ditransitive,2335,vrij,dagelijks
+De auteur geeft bij de boekpresentatie de eerste hoofdstukken vrij van het nieuwe werk.,De auteur geeft de exclusieve lezers de eerste hoofdstukken vrij van het nieuwe werk.,Complementive,ditransitive,2336,vrij,bij de boekpresentatie
+De boswachter geeft jaarlijks de telling vrij van de diersoorten in het natuurgebied.,De boswachter geeft de natuurliefhebbers de telling vrij van de diersoorten in het natuurgebied.,Complementive,ditransitive,2337,vrij,jaarlijks
+De historicus geeft na grondig onderzoek de conclusies vrij over het historisch evenement.,De historicus geeft de betrokken wetenschappers de conclusies vrij over het historisch evenement.,Complementive,ditransitive,2338,vrij,na grondig onderzoek
+De IT-specialist geeft tijdens de training de geheimen vrij van de nieuwe software.,De IT-specialist geeft de deelnemende bedrijven de geheimen vrij van de nieuwe software.,Complementive,ditransitive,2339,vrij,tijdens de training
+De accountant geeft elk kwartaal de balans vrij van de financiële situatie.,De accountant geeft de financiële analisten de balans vrij van de financiële situatie.,Complementive,ditransitive,2340,vrij,elk kwartaal
+De musicus geeft na het concert de bladmuziek vrij van de uitgevoerde stukken.,De musicus geeft de enthousiaste luisteraars de bladmuziek vrij van de uitgevoerde stukken.,Complementive,ditransitive,2341,vrij,na het concert
+De designer geeft wekelijks de nieuwe ontwerpen vrij van de kledinglijn.,De designer geeft de modecritici de nieuwe ontwerpen vrij van de kledinglijn.,Complementive,ditransitive,2342,vrij,wekelijks
+De bioloog geeft na het onderzoek de resultaten vrij van de biodiversiteit.,De bioloog geeft de ecologen de resultaten vrij van de biodiversiteit.,Complementive,ditransitive,2343,vrij,na het onderzoek
+De advocaat geeft na de rechtszaak de pleitnota vrij van het juridisch betoog.,De advocaat geeft de rechtenstudenten de pleitnota vrij van het juridisch betoog.,Complementive,ditransitive,2344,vrij,na de rechtszaak
+De econoom geeft elk jaar de voorspelling vrij van de economische groei.,De econoom geeft de geïnteresseerde bedrijven de voorspelling vrij van de economische groei.,Complementive,ditransitive,2345,vrij,elk jaar
+De filmmaker geeft na de première de filmbeelden vrij voor het publiek.,De filmmaker geeft de filmliefhebbers de filmbeelden vrij voor het publiek.,Complementive,ditransitive,2346,vrij,na de première
+De trainer geeft na de training de tips vrij voor optimale prestaties.,De trainer geeft de fanatieke sporters de tips vrij voor optimale prestaties.,Complementive,ditransitive,2347,vrij,na de training
+De stad geeft jaarlijks de statistieken vrij van de criminaliteitscijfers.,De stad geeft de bezorgde inwoners de statistieken vrij van de criminaliteitscijfers.,Complementive,ditransitive,2348,vrij,jaarlijks
+De politicus geeft na de speech de standpunten vrij van zijn partij.,De politicus geeft de kritische kiezers de standpunten vrij van zijn partij.,Complementive,ditransitive,2349,vrij,na de speech
+De journalist geeft na het interview de opname vrij van het gesprek.,De journalist geeft de nieuwsgierige lezers de opname vrij van het gesprek.,Complementive,ditransitive,2350,vrij,na het interview
+De leraar geeft na het examen de resultaten vrij van de studenten.,De leraar geeft de oplettende luisteraars de resultaten vrij van de studenten.,Complementive,ditransitive,2351,vrij,na het examen
+De ondernemer geeft na de lancering de productinformatie vrij van het nieuwe product.,De ondernemer geeft de concurrenten de productinformatie vrij van het nieuwe product.,Complementive,ditransitive,2352,vrij,na de lancering
+De theaterregisseur geeft na de voorstelling de beelden vrij van het toneelstuk.,De theaterregisseur geeft de kritische recensenten de beelden vrij van het toneelstuk.,Complementive,ditransitive,2353,vrij,na de voorstelling
+De marketeer geeft na de campagne de resultaten vrij van de marketingstrategie.,De marketeer geeft de rivaliserende bedrijven de resultaten vrij van de marketingstrategie.,Complementive,ditransitive,2354,vrij,na de campagne
+De blogger geeft wekelijks de nieuwe berichten vrij van de blog.,De blogger geeft de veeleisende abonnees de nieuwe berichten vrij van de blog.,Complementive,ditransitive,2355,vrij,wekelijks
+De docent geeft na de cursus de syllabus vrij van het vak.,De docent geeft de kritische studenten de syllabus vrij van het vak.,Complementive,ditransitive,2356,vrij,na de cursus
+De rechter geeft na het vonnis de overwegingen vrij van de uitspraak.,De rechter geeft de achterdochtige zakenpartners de overwegingen vrij van de uitspraak.,Complementive,ditransitive,2357,vrij,na het vonnis
+De reisgids geeft maandelijks tips vrij voor een reisbestemming.,De reisgids geeft reizigers tips vrij voor een reisbestemming.,Complementive,ditransitive,2358,vrij,maandelijks
+De onderhandelaar geeft na de deal de details vrij van het contract.,De onderhandelaar geeft de rivaliserende partijen de details vrij van het contract.,Complementive,ditransitive,2359,vrij,na de deal
+De bioloog geeft na het veldwerk de observaties vrij van de flora en fauna.,De bioloog geeft de enthousiaste natuurliefhebbers de observaties vrij van de flora en fauna.,Complementive,ditransitive,2360,vrij,na het veldwerk
+De hotelmanager geeft na de renovatie de kamers vrij voor boeking.,De hotelmanager geeft de vaste gasten de kamers vrij voor boeking.,Complementive,ditransitive,2361,vrij,na de renovatie
+De chef-monteur geeft na inspectie de technische gegevens vrij van het apparaat.,De chef-monteur geeft de nieuwsgierige klanten de technische gegevens vrij van het apparaat.,Complementive,ditransitive,2362,vrij,na inspectie
+De marketingdirecteur geeft na de lancering de reclamematerialen vrij voor publicatie.,De marketingdirecteur geeft de concurrerende bedrijven de reclamematerialen vrij voor publicatie.,Complementive,ditransitive,2363,vrij,na de lancering
+De weerman geeft na de uitzending de grafieken vrij van het weerbericht.,De weerman geeft de kritische kijkers de grafieken vrij van het weerbericht.,Complementive,ditransitive,2364,vrij,na de uitzending
+De reisorganisator geeft na de vakantie de reisverslagen vrij voor publicatie.,De reisorganisator geeft de imiterende reisbureaus de reisverslagen vrij voor publicatie.,Complementive,ditransitive,2365,vrij,na de vakantie
+De chef-engineer geeft na ontwikkeling de specificaties vrij van het product.,De chef-engineer geeft de concurrerende bedrijven de specificaties vrij van het product.,Complementive,ditransitive,2366,vrij,na ontwikkeling
+De festivalorganisator geeft na het festival de aftermovie vrij voor deling.,De festivalorganisator geeft de rivaliserende evenementen de aftermovie vrij voor deling.,Complementive,ditransitive,2367,vrij,na het festival
+De fitnessinstructeur geeft na de training de oefeningen vrij voor thuisgebruik.,De fitnessinstructeur geeft de imiterende trainers de oefeningen vrij voor thuisgebruik.,Complementive,ditransitive,2368,vrij,na de training
+De restaurantcriticus geeft na het diner de recensie vrij voor publicatie.,De restaurantcriticus geeft de concurrerende recensenten de recensie vrij voor publicatie.,Complementive,ditransitive,2369,vrij,na het diner
+De redacteur geeft na revisie de artikelen vrij voor publicatie in het magazine.,De redacteur geeft de uitgevers de artikelen vrij voor publicatie in het magazine.,Complementive,ditransitive,2370,vrij,na revisie

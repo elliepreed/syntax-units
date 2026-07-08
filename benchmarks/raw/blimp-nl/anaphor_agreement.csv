@@ -1,0 +1,201 @@
+sentence_good,sentence_bad,linguistic_phenomenon,paradigm,item_id,critical_word,cue_word
+Ik bekijk de foto van mezelf in de kamer.,Wij bekijken de foto van mezelf in de kamer.,Anaphor agreement,number,1,mezelf,Ik
+Ik zag het shot van mezelf op de televisie.,Wij zagen het shot van mezelf op de televisie.,Anaphor agreement,number,2,mezelf,Ik
+Ik maakte een beeld van mezelf voor de tentoonstelling.,Wij maakten een beeld van mezelf voor de tentoonstelling.,Anaphor agreement,number,3,mezelf,Ik
+Ik las een artikel over mezelf in dit tijdschrift.,Wij lazen een artikel over mezelf in dit tijdschrift.,Anaphor agreement,number,4,mezelf,Ik
+Ik verstop die kant van mezelf in het openbaar.,Wij verstoppen die kant van mezelf in het openbaar.,Anaphor agreement,number,5,mezelf,Ik
+Ik leer de aantekeningen van mezelf voor de toets.,Wij leren de aantekeningen van mezelf voor de toets.,Anaphor agreement,number,6,mezelf,Ik
+Ik stuurde de afbeelding van mezelf voor de poster.,Wij stuurden de afbeelding van mezelf voor de poster.,Anaphor agreement,number,7,mezelf,Ik
+Ik heb hoge verwachtingen van mezelf in deze talentenjacht.,Wij hebben hoge verwachtingen van mezelf in deze talentenjacht.,Anaphor agreement,number,8,mezelf,Ik
+Ik schets een beeld van mezelf voor de commissie.,Wij schetsen een beeld van mezelf voor de commissie.,Anaphor agreement,number,9,mezelf,Ik
+Ik verloor een stuk van mezelf in die relatie.,Wij verloren een stuk van mezelf in die relatie.,Anaphor agreement,number,10,mezelf,Ik
+Ik hoorde het gerucht over mezelf in de gang.,Wij hoorden het gerucht over mezelf in de gang.,Anaphor agreement,number,841,mezelf,Ik
+Ik ontdekte het geheim over mezelf in de brief.,Wij ontdekten het geheim over mezelf in de brief.,Anaphor agreement,number,842,mezelf,Ik
+Ik verborg het feit over mezelf voor mijn vrienden.,Wij verborgen het feit over mezelf voor mijn vrienden.,Anaphor agreement,number,843,mezelf,Ik
+Ik herkende de stem van mezelf op de opname.,Wij herkenden de stem van mezelf op de opname.,Anaphor agreement,number,844,mezelf,Ik
+Ik bewonderde de schilderijen van mezelf in het museum.,Wij bewonderden de schilderijen van mezelf in het museum.,Anaphor agreement,number,845,mezelf,Ik
+Ik onthulde het plan van mezelf aan de groep.,Wij onthulden het plan van mezelf aan de groep.,Anaphor agreement,number,846,mezelf,Ik
+Ik las het artikel over mezelf in de krant.,Wij lazen het artikel over mezelf in de krant.,Anaphor agreement,number,847,mezelf,Ik
+Ik deelde het nieuws over mezelf met mijn familie.,Wij deelden het nieuws over mezelf met onze familie.,Anaphor agreement,number,848,mezelf,Ik
+Ik verstopte de waarheid over mezelf voor mijn ouders.,Wij verstopten de waarheid over mezelf voor onze ouders.,Anaphor agreement,number,849,mezelf,Ik
+Ik herleefde de herinneringen aan mezelf in mijn gedachten.,Wij herleefden de herinneringen aan mezelf in onze gedachten.,Anaphor agreement,number,850,mezelf,Ik
+Ik herstelde het vertrouwen in mezelf na het incident.,Wij herstelden het vertrouwen van mezelf na het incident.,Anaphor agreement,number,851,mezelf,Ik
+Ik beschreef het gevoel van mezelf in mijn dagboek.,Wij beschreven het gevoel van mezelf in ons dagboek.,Anaphor agreement,number,852,mezelf,Ik
+Ik negeerde de kritiek op mezelf van anderen.,Wij negeerden de kritiek op mezelf van anderen.,Anaphor agreement,number,853,mezelf,Ik
+Ik bewonderde de prestaties van mezelf in de sport.,Wij bewonderden de prestaties van mezelf in de sport.,Anaphor agreement,number,854,mezelf,Ik
+Ik betwijfel de keuze van mezelf in die situatie.,Wij betwijfelen de keuze van mezelf in die situatie.,Anaphor agreement,number,855,mezelf,Ik
+Ik vergelijk de resultaten van mezelf met die van anderen.,Wij vergelijken de resultaten van mezelf met die van anderen.,Anaphor agreement,number,856,mezelf,Ik
+Ik denk vaak aan de uitdagingen voor mezelf in het leven.,Wij denken vaak aan de uitdagingen voor mezelf in het leven.,Anaphor agreement,number,857,mezelf,Ik
+Ik maak me zorgen over de gezondheid van mezelf op dit moment.,Wij maken ons zorgen over de gezondheid van mezelf op dit moment.,Anaphor agreement,number,858,mezelf,Ik
+Ik werk aan de ontwikkeling van mezelf in verschillende aspecten.,Wij werken aan de ontwikkeling van mezelf in verschillende aspecten.,Anaphor agreement,number,859,mezelf,Ik
+Ik denk na over de doelen van mezelf voor de komende jaren.,Wij denken na over de doelen van mezelf voor de komende jaren.,Anaphor agreement,number,860,mezelf,Ik
+Ik praat met vrienden over de ervaringen van mezelf in het verleden.,Wij praten met vrienden over de ervaringen van mezelf in het verleden.,Anaphor agreement,number,861,mezelf,Ik
+Ik kijk uit naar de successen van mezelf in de nabije toekomst.,Wij kijken uit naar de successen van mezelf in de nabije toekomst.,Anaphor agreement,number,862,mezelf,Ik
+Ik leer van de fouten van mezelf in het verleden.,Wij leren van de fouten van mezelf in het verleden.,Anaphor agreement,number,863,mezelf,Ik
+Ik presenteerde een idee van mezelf tijdens de vergadering.,Wij presenteerden een idee van mezelf tijdens de vergadering.,Anaphor agreement,number,864,mezelf,Ik
+Ik heb een foto van mezelf op mijn bureau.,Wij hebben een foto van mezelf op mijn bureau.,Anaphor agreement,number,865,mezelf,Ik
+Ik herinner me het moment van mezelf op het podium.,Wij herinneren ons het moment van mezelf op het podium.,Anaphor agreement,number,866,mezelf,Ik
+Ik deelde een geheim van mezelf met mijn vrienden.,Wij deelden een geheim van mezelf met mijn vrienden.,Anaphor agreement,number,867,mezelf,Ik
+Ik onthulde de waarheid over mezelf tijdens het interview.,Wij onthulden de waarheid over mezelf tijdens het interview.,Anaphor agreement,number,868,mezelf,Ik
+Ik luister naar de muziek van mezelf om te ontspannen.,Wij luisteren naar de muziek van mezelf om te ontspannen.,Anaphor agreement,number,869,mezelf,Ik
+Ik erken de fouten van mezelf en leer ervan.,Wij erkennen de fouten van mezelf en leren ervan.,Anaphor agreement,number,870,mezelf,Ik
+Ik overwin de angsten van mezelf stap voor stap.,Wij overwinnen de angsten van mezelf stap voor stap.,Anaphor agreement,number,871,mezelf,Ik
+Ik heb een doel gesteld voor mezelf om dit jaar te bereiken.,Wij hebben een doel gesteld voor mezelf om dit jaar te bereiken.,Anaphor agreement,number,872,mezelf,Ik
+Ik schrijf een dagboek over mezelf om mijn gedachten en gevoelens te begrijpen.,Wij schrijven een dagboek over mezelf om onze gedachten en gevoelens te begrijpen.,Anaphor agreement,number,873,mezelf,Ik
+Ik neem wat tijd voor mezelf om te ontspannen en tot rust te komen.,Wij nemen wat tijd voor mezelf om te ontspannen en tot rust te komen.,Anaphor agreement,number,874,mezelf,Ik
+Ik besluit om gezonder te eten voor mezelf en mijn welzijn.,Wij besluiten om gezonder te eten voor mezelf en ons welzijn.,Anaphor agreement,number,875,mezelf,Ik
+Ik plan een vakantie voor mezelf om nieuwe ervaringen op te doen.,Wij plannen een vakantie voor mezelf om nieuwe ervaringen op te doen.,Anaphor agreement,number,876,mezelf,Ik
+Ik leer nieuwe vaardigheden voor mezelf om mijn carrière te verbeteren.,Wij leren nieuwe vaardigheden voor mezelf om onze carrière te verbeteren.,Anaphor agreement,number,877,mezelf,Ik
+Ik maak een lijst van doelen voor mezelf om georganiseerd te blijven.,Wij maken een lijst van doelen voor mezelf om georganiseerd te blijven.,Anaphor agreement,number,878,mezelf,Ik
+Ik vertel een verhaal over mezelf om anderen te inspireren.,Wij vertellen een verhaal over mezelf om anderen te inspireren.,Anaphor agreement,number,879,mezelf,Ik
+Ik reflecteer over mezelf en mijn persoonlijke groei.,Wij reflecteren over mezelf en onze persoonlijke groei.,Anaphor agreement,number,880,mezelf,Ik
+Ik koop af en toe een cadeautje voor mezelf als beloning.,Wij kopen af en toe een cadeautje voor mezelf als beloning.,Anaphor agreement,number,881,mezelf,Ik
+Ik schrijf een lied over mezelf en mijn levenservaringen.,Wij schrijven een lied over mezelf en onze levenservaringen.,Anaphor agreement,number,882,mezelf,Ik
+Ik reserveer wat tijd voor mezelf elke week.,Wij reserveren wat tijd voor mezelf elke week.,Anaphor agreement,number,883,mezelf,Ik
+Ik neem de verantwoordelijkheid voor mezelf en mijn beslissingen.,Wij nemen de verantwoordelijkheid voor mezelf en onze beslissingen.,Anaphor agreement,number,884,mezelf,Ik
+Ik organiseer een feestje voor mezelf om een mijlpaal te vieren.,Wij organiseren een feestje voor mezelf om een mijlpaal te vieren.,Anaphor agreement,number,885,mezelf,Ik
+Ik stel grenzen voor mezelf om een gezonde balans te behouden.,Wij stellen grenzen voor mezelf om een gezonde balans te behouden.,Anaphor agreement,number,886,mezelf,Ik
+Ik maak een vision board voor mezelf met doelen en dromen.,Wij maken een vision board voor mezelf met onze doelen en dromen.,Anaphor agreement,number,887,mezelf,Ik
+Ik zorg goed voor mezelf door regelmatig te sporten en gezond te eten.,Wij zorgen goed voor mezelf door regelmatig te sporten en gezond te eten.,Anaphor agreement,number,888,mezelf,Ik
+Ik reserveer een moment voor mezelf in de ochtend om te mediteren.,Wij reserveren een moment voor mezelf in de ochtend om te mediteren.,Anaphor agreement,number,889,mezelf,Ik
+Ik koop een nieuw boek voor mezelf om te lezen in het weekend.,Wij kopen een nieuw boek voor mezelf om te lezen in het weekend.,Anaphor agreement,number,890,mezelf,Ik
+Ik stel realistische doelen voor mezelf om te bereiken deze maand.,Wij stellen realistische doelen voor mezelf om te bereiken deze maand.,Anaphor agreement,number,891,mezelf,Ik
+Ik kies bewust gezonde maaltijden voor mezelf elke dag.,Wij kiezen bewust gezonde maaltijden voor mezelf elke dag.,Anaphor agreement,number,892,mezelf,Ik
+Ik schrijf een brief voor mezelf om mijn gedachten te ordenen.,Wij schrijven een brief voor mezelf om mijn gedachten te ordenen.,Anaphor agreement,number,893,mezelf,Ik
+Ik organiseer de werkruimte voor mezelf om efficiënt te kunnen werken.,Wij organiseren onze werkruimte voor mezelf om efficiënt te kunnen werken.,Anaphor agreement,number,894,mezelf,Ik
+"Ik leer een nieuwe vaardigheid voor mezelf, gewoon uit nieuwsgierigheid.","Wij leren een nieuwe vaardigheid voor mezelf, gewoon uit nieuwsgierigheid.",Anaphor agreement,number,895,mezelf,Ik
+Ik plan een dagje uit voor mezelf om te ontspannen en te genieten.,Wij plannen een dagje uit voor mezelf om te ontspannen en te genieten.,Anaphor agreement,number,896,mezelf,Ik
+Ik koop een bloemetje voor mezelf om de dag op te fleuren.,Wij kopen een bloemetje voor mezelf om mijn dag op te fleuren.,Anaphor agreement,number,897,mezelf,Ik
+Ik deel een anekdote over mezelf tijdens een presentatie.,Wij delen een anekdote over mezelf tijdens een presentatie.,Anaphor agreement,number,898,mezelf,Ik
+Ik schrijf een gedicht over mezelf en mijn innerlijke wereld.,Wij schrijven een gedicht over mezelf en mijn innerlijke wereld.,Anaphor agreement,number,899,mezelf,Ik
+Ik schrijf een artikel over mezelf en mijn kijk op de wereld.,Wij schrijven een artikel over mezelf en mijn kijk op de wereld.,Anaphor agreement,number,900,mezelf,Ik
+Ik schrijf een autobiografie over mezelf en mijn levensreis.,Wij schrijven een autobiografie over mezelf en onze levensreis.,Anaphor agreement,number,901,mezelf,Ik
+Ik geniet van de muziek van mezelf in de auto.,Wij genieten van de muziek van mezelf in de auto.,Anaphor agreement,number,902,mezelf,Ik
+Ik ontdekte een nieuwe kant van mezelf tijdens de reis.,Wij ontdekten een nieuwe kant van mezelf tijdens de reis.,Anaphor agreement,number,903,mezelf,Ik
+Ik koos de outfit van mezelf voor het feest.,Wij kozen de outfit van mezelf voor het feest.,Anaphor agreement,number,904,mezelf,Ik
+Ik filmde een korte video over mezelf voor social media.,Wij filmden een korte video over mezelf voor social media.,Anaphor agreement,number,905,mezelf,Ik
+Ik herinner me de woorden van mezelf in die brief.,Wij herinneren ons de woorden van mezelf in die brief.,Anaphor agreement,number,906,mezelf,Ik
+Ik ontdekte de passie van mezelf op jonge leeftijd.,Wij ontdekten de passie van mezelf op jonge leeftijd.,Anaphor agreement,number,907,mezelf,Ik
+Ik deelde het recept van mezelf met mijn vrienden.,Wij deelden het recept van mezelf met mijn vrienden.,Anaphor agreement,number,908,mezelf,Ik
+Ik toonde de video van mezelf aan de familie.,Wij toonden de video van mezelf aan de familie.,Anaphor agreement,number,909,mezelf,Ik
+Ik vond de notities van mezelf nuttig tijdens het examen.,Wij vonden de notities van mezelf nuttig tijdens het examen.,Anaphor agreement,number,910,mezelf,Ik
+Ik bewerkte de video van mezelf voor publicatie.,Wij bewerkten de video van mezelf voor publicatie.,Anaphor agreement,number,911,mezelf,Ik
+Ik herkende de stem van mezelf op de opname.,Wij herkenden de stem van mezelf op de opname.,Anaphor agreement,number,912,mezelf,Ik
+Ik herstelde de relatie met mezelf na zelfvergeving.,Wij herstelden de relatie met mezelf na zelfvergeving.,Anaphor agreement,number,913,mezelf,Ik
+Ik spreek over mezelf met mijn vrienden.,Wij spreken over mezelf met mijn vrienden.,Anaphor agreement,number,914,mezelf,Ik
+Ik denk aan mezelf in de toekomst.,Wij denken aan mezelf in de toekomst.,Anaphor agreement,number,915,mezelf,Ik
+Ik stel nieuwe doelen voor mezelf in dit project.,Wij stellen nieuwe doelen voor mezelf in dit project.,Anaphor agreement,number,916,mezelf,Ik
+Ik ontwikkel een strategie voor mezelf om te slagen.,Wij ontwikkelen een strategie voor mezelf om te slagen.,Anaphor agreement,number,917,mezelf,Ik
+Ik neem de leiding over mezelf tijdens de presentatie.,Wij nemen de leiding over mezelf tijdens de presentatie.,Anaphor agreement,number,918,mezelf,Ik
+Ik geniet van een moment voor mezelf op het strand.,Wij genieten van een moment voor mezelf op het strand.,Anaphor agreement,number,919,mezelf,Ik
+Ik presenteer een idee van mezelf aan het team.,Wij presenteren een idee van mezelf aan het team.,Anaphor agreement,number,920,mezelf,Ik
+Ik zag de reflectie van mezelf in de spiegel.,Wij zagen de reflectie van mezelf in de spiegel.,Anaphor agreement,number,921,mezelf,Ik
+Ik kocht een schaap voor mezelf op de boerderij,Wij kochten een schaap voor mezelf op de boerderij,Anaphor agreement,number,922,mezelf,Ik
+Ik ontdekte de sporen van mezelf in het zand van het strand.,Wij ontdekten de sporen van mezelf in het zand van het strand.,Anaphor agreement,number,923,mezelf,Ik
+Ik zag de weerspiegeling van mezelf in de heldere vijver.,Wij zagen de weerspiegeling van mezelf in de heldere vijver.,Anaphor agreement,number,924,mezelf,Ik
+Ik zag de schaduw van mezelf op het zonnige pad.,Wij zagen de schaduw van mezelf op het zonnige pad.,Anaphor agreement,number,925,mezelf,Ik
+Ik herinner me de ervaring van mezelf in dat land.,Wij herinneren ons de ervaring van mezelf in dat land.,Anaphor agreement,number,926,mezelf,Ik
+Ik deelde een herinnering van mezelf tijdens de vergadering.,Wij deelden een herinnering van mezelf tijdens de vergadering.,Anaphor agreement,number,927,mezelf,Ik
+Ik bewaarde een kopie van het boek voor mezelf in de bibliotheek.,Wij bewaarden een kopie van het boek voor mezelf in de bibliotheek.,Anaphor agreement,number,928,mezelf,Ik
+Ik koos de beste foto van mezelf voor het album.,Wij kozen de beste foto van mezelf voor het album.,Anaphor agreement,number,929,mezelf,Ik
+Ik schilderde een portret van mezelf voor de expositie.,Wij schilderden een portret van mezelf voor de expositie.,Anaphor agreement,number,930,mezelf,Ik
+Jij bekijkt de foto van jezelf in de kamer.,Hij bekijkt de foto van jezelf in de kamer.,Anaphor agreement,person,11,jezelf,Jij
+Hij zag het shot van zichzelf op de televisie.,Jij zag het shot van zichzelf op de televisie.,Anaphor agreement,person,12,zichzelf,Hij
+Jij maakte een beeld van jezelf voor de tentoonstelling.,Zij maakte een beeld van jezelf voor de tentoonstelling.,Anaphor agreement,person,13,jezelf,Jij
+Zij las een artikel over zichzelf in dit tijdschrift.,Ik las een artikel over zichzelf in dit tijdschrift.,Anaphor agreement,person,14,zichzelf,Zij
+Jij verstopt die kant van jezelf in het openbaar.,Zij verstopt die kant van jezelf in het openbaar.,Anaphor agreement,person,15,jezelf,Jij
+Hij leert de aantekeningen van zichzelf voor de toets.,Ik leer de aantekeningen van zichzelf voor de toets.,Anaphor agreement,person,16,zichzelf,Hij
+Jij stuurde de afbeelding van jezelf voor de poster.,Hij stuurde de afbeelding van jezelf voor de poster.,Anaphor agreement,person,17,jezelf,Jij
+Zij heeft hoge verwachtingen van zichzelf in deze talentenjacht.,Jij hebt hoge verwachtingen van zichzelf in deze talentenjacht.,Anaphor agreement,person,18,zichzelf,Zij
+Jij schetst een beeld van jezelf voor de commissie.,Zij schetst een beeld van jezelf voor de commissie.,Anaphor agreement,person,19,jezelf,Jij
+Hij verloor een stuk van zichzelf in die relatie.,Jij verloor een stuk van zichzelf in die relatie.,Anaphor agreement,person,20,zichzelf,Hij
+Jij herinnert je de ervaring van jezelf in dat land.,Hij herinnert zich de ervaring van jezelf in dat land.,Anaphor agreement,person,931,jezelf,Jij
+Hij deelde een herinnering van zichzelf tijdens de vergadering.,Jij deelde een herinnering van zichzelf tijdens de vergadering.,Anaphor agreement,person,932,zichzelf,Hij
+Hij bewaarde een kopie van het boek voor zichzelf in de bibliotheek.,Ik bewaarde een kopie van het boek voor zichzelf in de bibliotheek.,Anaphor agreement,person,933,zichzelf,Hij
+Zij zag de reflectie van zichzelf in de spiegel.,Jij zag de reflectie van zichzelf in de spiegel.,Anaphor agreement,person,934,zichzelf,Zij
+Jij koos de beste foto van jezelf voor het album.,Ik koos de beste foto van jezelf voor het album.,Anaphor agreement,person,935,jezelf,Jij
+Zij schilderde een portret van zichzelf voor de expositie.,Jij schilderde een portret van zichzelf voor de expositie.,Anaphor agreement,person,936,zichzelf,Zij
+Zij hoorde het gerucht over zichzelf in de gang.,Jij hoorde het gerucht over zichzelf in de gang.,Anaphor agreement,person,937,zichzelf,Zij
+Jij ontdekte het geheim over jezelf in de brief.,Ik ontdekten het geheim over jezelf in de brief.,Anaphor agreement,person,938,jezelf,Jij
+Hij verborg het feit over zichzelf voor mijn vrienden.,Ik verborg het feit over zichzelf voor mijn vrienden.,Anaphor agreement,person,939,zichzelf,Hij
+Zij herkende de stem van zichzelf op de opname.,Ik herkende de stem van zichzelf op de opname.,Anaphor agreement,person,940,zichzelf,Zij
+Jij bewonderde de schilderijen van jezelf in het museum.,Zij bewonderde de schilderijen van jezelf in het museum.,Anaphor agreement,person,941,jezelf,Jij
+Jij onthulde het plan van jezelf aan de groep.,Hij onthulde het plan van jezelf aan de groep.,Anaphor agreement,person,942,jezelf,Jij
+Zij las het artikel over zichzelf in de krant.,Ik las het artikel over zichzelf in de krant.,Anaphor agreement,person,943,zichzelf,Zij
+Hij deelde het nieuws over zichzelf met mijn familie.,Jij deelde het nieuws over zichzelf met mijn familie.,Anaphor agreement,person,944,zichzelf,Hij
+Jij verstopte de waarheid over jezelf voor mijn ouders.,Ik verstopte de waarheid over jezelf voor onze ouders.,Anaphor agreement,person,945,jezelf,Jij
+Zij herleefde de herinneringen aan zichzelf in mijn gedachten.,Jij herleefde de herinneringen aan zichzelf in mijn gedachten.,Anaphor agreement,person,946,zichzelf,Zij
+Jij herstelde het vertrouwen in jezelf na het incident.,Hij herstelde het vertrouwen van jezelf na het incident.,Anaphor agreement,person,947,jezelf,Jij
+Hij beschreef het gevoel van zichzelf in mijn dagboek.,Jij beschreef het gevoel van zichzelf in ons dagboek.,Anaphor agreement,person,948,zichzelf,Hij
+Hij negeerde de kritiek op zichzelf van anderen.,Ik negeerde de kritiek op zichzelf van anderen.,Anaphor agreement,person,949,zichzelf,Hij
+Jij bewonderde de prestaties van jezelf in de sport.,Zij bewonderde de prestaties van jezelf in de sport.,Anaphor agreement,person,950,jezelf,Jij
+Jij betwijfelt de keuze van jezelf in die situatie.,Hij betwijfelt de keuze van jezelf in die situatie.,Anaphor agreement,person,951,jezelf,Jij
+Hij vergelijkt de resultaten van zichzelf met die van anderen.,Jij vergelijkt de resultaten van zichzelf met die van anderen.,Anaphor agreement,person,952,zichzelf,Hij
+Zij denkt vaak aan de uitdagingen voor zichzelf in het leven.,Jij denkt vaak aan de uitdagingen voor zichzelf in het leven.,Anaphor agreement,person,953,zichzelf,Zij
+Jij maakte je zorgen over de gezondheid van jezelf op dit moment.,Ik maakte me zorgen over de gezondheid van jezelf op dit moment.,Anaphor agreement,person,954,jezelf,Jij
+Zij werkte aan de ontwikkeling van zichzelf in verschillende aspecten.,Ik werkte aan de ontwikkeling van zichzelf in verschillende aspecten.,Anaphor agreement,person,955,zichzelf,Zij
+Hij denkt na over de doelen van zichzelf voor de komende jaren.,Jij denkt na over de doelen van zichzelf voor de komende jaren.,Anaphor agreement,person,956,zichzelf,Hij
+Jij praat met vrienden over de ervaringen van jezelf in het verleden.,Hij praat met vrienden over de ervaringen van jezelf in het verleden.,Anaphor agreement,person,957,jezelf,Jij
+Zij kijkt uit naar de successen van zichzelf in de nabije toekomst.,Jij kijkt uit naar de successen van zichzelf in de nabije toekomst.,Anaphor agreement,person,958,zichzelf,Zij
+Zij leerde van de fouten van zichzelf in het verleden.,Ik leerde van de fouten van zichzelf in het verleden.,Anaphor agreement,person,959,zichzelf,Zij
+Jij presenteerde een idee van jezelf tijdens de vergadering.,Hij presenteerde een idee van jezelf tijdens de vergadering.,Anaphor agreement,person,960,jezelf,Jij
+Hij had een foto van zichzelf op zijn bureau.,Ik had een foto van zichzelf op zijn bureau.,Anaphor agreement,person,961,zichzelf,Hij
+Zij deelde een geheim van zichzelf met mijn vrienden.,Jij deelde een geheim van zichzelf met mijn vrienden.,Anaphor agreement,person,962,zichzelf,Zij
+Hij onthulde de waarheid over zichzelf tijdens het interview.,Ik onthulde de waarheid over zichzelf tijdens het interview.,Anaphor agreement,person,963,zichzelf,Hij
+Jij luisterde naar de muziek van jezelf om te ontspannen.,Hij luisterde naar de muziek van jezelf om te ontspannen.,Anaphor agreement,person,964,jezelf,Jij
+Zij erkent de fouten van zichzelf en leert ervan.,Jij erkent de fouten van zichzelf en leert ervan.,Anaphor agreement,person,965,zichzelf,Zij
+Jij overwon de angsten van jezelf stap voor stap.,Ik overwon de angsten van jezelf stap voor stap.,Anaphor agreement,person,966,jezelf,Jij
+Jij had een doel gesteld voor jezelf om dit jaar te bereiken.,Hij had een doel gesteld voor jezelf om dit jaar te bereiken.,Anaphor agreement,person,967,jezelf,Jij
+Zij schreef een dagboek voor zichzelf om haar gedachten en gevoelens te begrijpen.,Ik schreef een dagboek voor zichzelf om mijn gedachten en gevoelens te begrijpen.,Anaphor agreement,person,968,zichzelf,Zij
+Hij neemt wat tijd voor zichzelf om te ontspannen en tot rust te komen.,Jij neemt wat tijd voor zichzelf om te ontspannen en tot rust te komen.,Anaphor agreement,person,969,zichzelf,Hij
+Jij besluit om gezonder te eten voor jezelf en je welzijn.,Zij besluit om gezonder te eten voor jezelf en haar welzijn.,Anaphor agreement,person,970,jezelf,Jij
+Zij plande een vakantie voor zichzelf om nieuwe ervaringen op te doen.,Ik plande een vakantie voor zichzelf om nieuwe ervaringen op te doen.,Anaphor agreement,person,971,zichzelf,Zij
+Hij leerde nieuwe vaardigheden voor zichzelf om te verbeteren.,Jij leerde nieuwe vaardigheden voor zichzelf om te verbeteren.,Anaphor agreement,person,972,zichzelf,Hij
+Jij maakt een lijst van doelen voor jezelf om georganiseerd te blijven.,Zij maakt een lijst van doelen voor jezelf om georganiseerd te blijven.,Anaphor agreement,person,973,jezelf,Jij
+Hij vertelde een verhaal over zichzelf om anderen te inspireren.,Ik vertelde een verhaal over zichzelf om anderen te inspireren.,Anaphor agreement,person,974,zichzelf,Hij
+Jij reflecteerde over jezelf en je persoonlijke groei.,Zij reflecteerde over jezelf en haar persoonlijke groei.,Anaphor agreement,person,975,jezelf,Jij
+Zij kocht af en toe een cadeautje voor zichzelf als beloning.,Jij kocht af en toe een cadeautje voor zichzelf als beloning.,Anaphor agreement,person,976,zichzelf,Zij
+Jij schrijft een lied over jezelf en je levenservaringen.,Hij schrijft een lied over jezelf en zijn levenservaringen.,Anaphor agreement,person,977,jezelf,Jij
+Hij reserveerde wat tijd voor zichzelf elke week.,Ik reserveerde wat tijd voor zichzelf elke week.,Anaphor agreement,person,978,zichzelf,Hij
+Jij neemt de verantwoordelijkheid voor jezelf en je beslissingen.,Zij nemen de verantwoordelijkheid voor jezelf en haar beslissingen.,Anaphor agreement,person,979,jezelf,Jij
+Zij organiseerde een feestje voor zichzelf om een mijlpaal te vieren.,Jij organiseerde een feestje voor zichzelf om een mijlpaal te vieren.,Anaphor agreement,person,980,zichzelf,Zij
+Jij stelde grenzen voor jezelf om een gezonde balans te behouden.,Ik stelde grenzen voor jezelf om een gezonde balans te behouden.,Anaphor agreement,person,981,jezelf,Jij
+Hij maakte een vision board voor zichzelf met doelen en dromen.,Ik maakte een vision board voor zichzelf met doelen en dromen.,Anaphor agreement,person,982,zichzelf,Hij
+Jij zorgde goed voor jezelf door regelmatig te sporten en gezond te eten.,Hij zorgde goed voor jezelf door regelmatig te sporten en gezond te eten.,Anaphor agreement,person,983,jezelf,Jij
+Zij reserveerde een moment voor zichzelf in de ochtend om te mediteren.,Jij reserveerde een moment voor zichzelf in de ochtend om te mediteren.,Anaphor agreement,person,984,zichzelf,Zij
+Jij koopt een nieuw boek voor jezelf om te lezen in het weekend.,Zij koopt een nieuw boek voor jezelf om te lezen in het weekend.,Anaphor agreement,person,985,jezelf,Jij
+Hij stelde realistische doelen voor zichzelf om te bereiken deze maand.,Ik stelde realistische doelen voor zichzelf om te bereiken deze maand.,Anaphor agreement,person,986,zichzelf,Hij
+Jij kiest bewust gezonde maaltijden voor jezelf elke dag.,Hij kiest bewust gezonde maaltijden voor jezelf elke dag.,Anaphor agreement,person,987,jezelf,Jij
+Zij schreef een brief voor zichzelf om dingen op een rijtje te krijgen.,ik schreef een brief voor zichzelf om dingen op een rijtje te krijgen.,Anaphor agreement,person,988,zichzelf,Zij
+Jij organiseert de werkruimte voor jezelf om efficiënt te kunnen werken.,Zij organiseert de werkruimte voor jezelf om efficiënt te kunnen werken.,Anaphor agreement,person,989,jezelf,Jij
+"Hij leert een nieuwe vaardigheid voor zichzelf, gewoon uit nieuwsgierigheid.","Jij leert een nieuwe vaardigheid voor zichzelf, gewoon uit nieuwsgierigheid.",Anaphor agreement,person,990,zichzelf,Hij
+Jij plande een dagje uit voor jezelf om te ontspannen en te genieten.,Ik plande een dagje uit voor jezelf om te ontspannen en te genieten.,Anaphor agreement,person,991,jezelf,Jij
+Zij kocht een bloemetje voor zichzelf om de dag op te fleuren.,Ik kocht een bloemetje voor zichzelf om de dag op te fleuren.,Anaphor agreement,person,992,zichzelf,Zij
+Jij deelt een anekdote over jezelf tijdens een presentatie.,Hij deelt een anekdote over jezelf tijdens een presentatie.,Anaphor agreement,person,993,jezelf,Jij
+Hij schrijft een gedicht over zichzelf en zijn innerlijke wereld.,Jij schrijft een gedicht over zichzelf en mijn innerlijke wereld.,Anaphor agreement,person,994,zichzelf,Hij
+Jij schrijft een artikel over jezelf en je dromen.,Zij schrijft een artikel over jezelf en haar dromen.,Anaphor agreement,person,995,jezelf,Jij
+Zij schreef een autobiografie over zichzelf en haar levensreis.,Ik schreef een autobiografie over zichzelf en mijn levensreis.,Anaphor agreement,person,996,zichzelf,Zij
+Jij genoot van de muziek van jezelf in de auto.,Ik genoot van de muziek van jezelf in de auto.,Anaphor agreement,person,997,jezelf,Jij
+Hij ontdekte een nieuwe kant van zichzelf tijdens de reis.,Jij ontdekte een nieuwe kant van zichzelf tijdens de reis.,Anaphor agreement,person,998,zichzelf,Hij
+Jij koos de outfit van jezelf voor het feest.,Hij koos de outfit van jezelf voor het feest.,Anaphor agreement,person,999,jezelf,Jij
+Zij filmde een korte video over zichzelf voor social media.,Jij filmde een korte video over zichzelf voor social media.,Anaphor agreement,person,1000,zichzelf,Zij
+Jij herinnert je de woorden van jezelf in die brief.,Zij herinnert de woorden van jezelf in die brief.,Anaphor agreement,person,1001,jezelf,Jij
+Hij ontdekte de passie van zichzelf op jonge leeftijd.,Ik ontdekte de passie van zichzelf op jonge leeftijd.,Anaphor agreement,person,1002,zichzelf,Hij
+Jij deelde het recept van jezelf met mijn vrienden.,Ik deelde het recept van jezelf met mijn vrienden.,Anaphor agreement,person,1003,jezelf,Jij
+Hij toonde de video van zichzelf aan de familie.,Ik toonde de video van zichzelf aan de familie.,Anaphor agreement,person,1004,zichzelf,Hij
+Jij vond de notities van jezelf nuttig tijdens het examen.,Zij vond de notities van jezelf nuttig tijdens het examen.,Anaphor agreement,person,1005,jezelf,Jij
+Zij bewerkte de video van zichzelf voor publicatie.,Jij bewerkte de video van zichzelf voor publicatie.,Anaphor agreement,person,1006,zichzelf,Zij
+Jij herkende de stem van jezelf op de opname.,Hij herkende de stem van jezelf op de opname.,Anaphor agreement,person,1007,jezelf,Jij
+Hij herstelde de relatie met zichzelf na zelfvergeving.,Jij herstelde de relatie met zichzelf na zelfvergeving.,Anaphor agreement,person,1008,zichzelf,Hij
+Jij sprak over jezelf met mijn vrienden.,Ik sprak over jezelf met mijn vrienden.,Anaphor agreement,person,1009,jezelf,Jij
+Zij denkt aan zichzelf in de toekomst.,Jij denkt aan zichzelf in de toekomst.,Anaphor agreement,person,1010,zichzelf,Zij
+Jij stelde nieuwe doelen voor jezelf in dit project.,Ik stelde nieuwe doelen voor jezelf in dit project.,Anaphor agreement,person,1011,jezelf,Jij
+Hij ontwikkelde een strategie voor zichzelf om te slagen.,Ik ontwikkelde een strategie voor zichzelf om te slagen.,Anaphor agreement,person,1012,zichzelf,Hij
+Jij neemt de leiding over jezelf tijdens de presentatie.,Zij neemt de leiding over jezelf tijdens de presentatie.,Anaphor agreement,person,1013,jezelf,Jij
+Zij geniet van een moment voor zichzelf op het strand.,Jij geniet van een moment voor zichzelf op het strand.,Anaphor agreement,person,1014,zichzelf,Zij
+Jij presenteert een idee van jezelf aan het team.,Hij presenteert een idee van jezelf aan het team.,Anaphor agreement,person,1015,jezelf,Jij
+Hij denkt aan het cadeau voor zichzelf van de kerk.,Jij denkt aan het cadeau voor zichzelf van de kerk.,Anaphor agreement,person,1016,zichzelf,Hij
+Jij kocht een schaap voor jezelf op de boerderij,Zij kocht een schaap voor jezelf op de boerderij,Anaphor agreement,person,1017,jezelf,Jij
+Zij ontdekte de sporen van zichzelf in het zand van het strand.,Jij ontdekte de sporen van zichzelf in het zand van het strand.,Anaphor agreement,person,1018,zichzelf,Zij
+Jij zag de weerspiegeling van jezelf in de heldere vijver.,Ik zag de weerspiegeling van jezelf in de heldere vijver.,Anaphor agreement,person,1019,jezelf,Jij
+Hij zag de schaduw van zichzelf op het zonnige pad.,Ik zag de schaduw van zichzelf op het zonnige pad.,Anaphor agreement,person,1020,zichzelf,Hij
