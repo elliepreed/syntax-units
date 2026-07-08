@@ -1,6 +1,5 @@
 import argparse
 import os
-from glob import glob
 from typing import Dict, List, Sequence, Tuple
 
 import pandas as pd
@@ -19,52 +18,63 @@ from plot_utils import (
 )
 
 
-def get_blimpnl_category_map(directory: str, percentage: float) -> Dict[str, List[str]]:
+def get_blimpnl_category_map() -> Dict[str, List[str]]:
     """
-    BLiMP-NL is not necessarily defined in categories.py.
-    This fallback makes one category per BLiMP-NL phenomenon using the
-    within-BLiMP-NL cross-overlap matrix.
+    Broad BLiMP-NL categories for cross-phenomenon overlap plots.
 
-    This means the blue 'within category' bar for BLiMP-NL singleton
-    categories uses the diagonal/self-overlap value.
+    Blue bar:
+        mean overlap between different phenomena within the same broad group
+
+    Orange bar:
+        mean overlap between phenomena in this group and phenomena outside this group
+
+    Diagonal/self-overlap is excluded, so blue bars are not trivially 100%.
     """
-    pattern = os.path.join(
-        directory,
-        f"cross-overlap_blimp-nl_blimp-nl_*_{percentage}%.csv",
-    )
-    paths = sorted(glob(pattern))
+    return {
+        "agreement_and_binding": [
+            "anaphor_agreement",
+            "binding_principle_a",
+        ],
+        "argument_structure_and_voice": [
+            "argument_structure",
+            "passive",
+        ],
+        "clausal_arguments": [
+            "finite_argument_clause",
+            "infinitival_argument_clause",
+            "complementive",
+        ],
+        "movement_and_word_order": [
+            "crossing_dependencies",
+            "extraposition",
+            "parasitic_gaps",
+            "relativization",
+            "topicalization",
+            "verb_second",
+            "wh_movement",
+            "wh_movement_restrictions",
+        ],
+        "nominal_domain": [
+            "adpositional_phrases",
+            "determiners",
+            "nominalization",
+            "quantifiers",
+            "r_words",
+        ],
+        "verbal_functional_domain": [
+            "adverbial_modification",
+            "auxiliaries",
+        ],
+    }
 
-    if not paths:
-        # Fall back to any percentage if exact string matching fails.
-        pattern = os.path.join(directory, "cross-overlap_blimp-nl_blimp-nl_*.csv")
-        paths = sorted(glob(pattern))
 
-    if not paths:
-        raise FileNotFoundError(
-            f"No BLiMP-NL within-overlap CSV found in {directory}. "
-            "Expected a file like "
-            "cross-overlap_blimp-nl_blimp-nl_gemma-3-4b-pt_1.0%.csv"
-        )
-
-    df = pd.read_csv(paths[0], index_col=0)
-    suites = list(df.index.astype(str))
-
-    return {suite: [suite] for suite in suites}
-
-
-def get_category_map(dataset: str, directory: str, percentage: float) -> Dict[str, List[str]]:
+def get_category_map(dataset: str) -> Dict[str, List[str]]:
     dataset_key = dataset.lower()
 
-    if dataset_key in CATEGORIES:
-        return CATEGORIES[dataset_key]
-
     if dataset_key == "blimp-nl":
-        return get_blimpnl_category_map(directory, percentage)
+        return get_blimpnl_category_map()
 
-    raise KeyError(
-        f"No category map found for dataset {dataset_key}. "
-        f"Available categories.py keys: {list(CATEGORIES.keys())}"
-    )
+    return CATEGORIES[dataset_key]
 
 
 def clean_suites(df: pd.DataFrame, suites: Sequence[str]) -> List[str]:
@@ -74,23 +84,22 @@ def clean_suites(df: pd.DataFrame, suites: Sequence[str]) -> List[str]:
 def category_within_values(df: pd.DataFrame, suites: Sequence[str]) -> np.ndarray:
     suites = clean_suites(df, suites)
 
-    if not suites:
+    if len(suites) < 2:
         return np.array([], dtype=float)
 
     sub = df.loc[suites, suites]
 
-    # Original behaviour: for multi-suite categories, exclude self-overlap.
-    if len(suites) > 1:
-        mask = ~np.eye(len(suites), dtype=bool)
-        return sub.values[mask]
+    # Exclude diagonal/self-overlap.
+    # This is the important part: no 100% self-comparison.
+    mask = ~np.eye(len(suites), dtype=bool)
 
-    # BLiMP-NL fallback has singleton categories, so use the diagonal.
-    # Otherwise the within-category bar would be undefined/blank.
-    return sub.values.ravel()
+    return sub.values[mask]
 
 
 def category_outbound_values(
-    df: pd.DataFrame, suites: Sequence[str], canonical_order: List[str]
+    df: pd.DataFrame,
+    suites: Sequence[str],
+    canonical_order: List[str],
 ) -> np.ndarray:
     suites = [s for s in suites if s in df.index]
     outside = [s for s in canonical_order if s not in suites and s in df.columns]
@@ -119,6 +128,7 @@ def aggregate_across_models(
 ) -> Tuple[pd.DataFrame, Dict[str, Dict[str, float]], Dict[str, Dict[str, float]]]:
     rows = []
     first_df = next(iter(matrices.values()))
+
     per_model_within = {}
     per_model_outbound = {}
 
@@ -157,10 +167,23 @@ def aggregate_across_models(
         )
 
     summary_df = pd.DataFrame(rows).set_index("category")
+
     return summary_df, per_model_within, per_model_outbound
 
 
 def display_category_name(cat: str) -> str:
+    custom = {
+        "agreement_and_binding": "Agreement and Binding",
+        "argument_structure_and_voice": "Argument Structure and Voice",
+        "clausal_arguments": "Clausal Arguments",
+        "movement_and_word_order": "Movement and Word Order",
+        "nominal_domain": "Nominal Domain",
+        "verbal_functional_domain": "Verbal/Functional Domain",
+    }
+
+    if cat in custom:
+        return custom[cat]
+
     try:
         return pretty_category_name(cat)
     except Exception:
@@ -180,9 +203,6 @@ def plot_horizontal_bars(
     seed: int = 42,
 ):
     data = summary_df.copy()
-
-    # Sort by within-category overlap, like the RuBLiMP plot style.
-    # Use diff as a secondary order.
     data = data.sort_values(["within", "diff"], ascending=[False, False])
 
     model_names = sorted({m for d in per_model_within.values() for m in d.keys()})
@@ -191,14 +211,14 @@ def plot_horizontal_bars(
     y = np.arange(len(data))
     offset = width / 2
 
-    fig_height = max(6.0, 0.42 * len(data) + 1.6)
+    fig_height = max(4.8, 0.55 * len(data) + 1.8)
     fig, ax = plt.subplots(figsize=(9.0, fig_height))
 
     ax.barh(
         y - offset,
         data["within"],
         height=width,
-        label="Overlap within category",
+        label="Overlap within broad category",
         color="#89CCF1",
         edgecolor="black",
         zorder=2,
@@ -215,20 +235,20 @@ def plot_horizontal_bars(
     )
 
     ax.set_yticks(y)
-    ax.set_yticklabels([display_category_name(c) for c in data.index], fontsize=9)
-    ax.set_ylabel(f"{dataset} Category", fontsize=11)
+    ax.set_yticklabels([display_category_name(c) for c in data.index], fontsize=10)
+    ax.set_ylabel(f"{dataset} Category", fontsize=12)
     ax.invert_yaxis()
 
     max_val = np.nanmax(data[["within", "outbound"]].to_numpy(dtype=float))
-    x_lim = max(60, int(np.ceil((max_val + 5) / 10.0) * 10.0))
+    x_lim = max(10, int(np.ceil((max_val + 5) / 10.0) * 10.0))
 
     ax.set_xlim(0, x_lim)
-    ax.set_xlabel("Percentage of units", fontsize=11)
+    ax.set_xlabel("Percentage of units", fontsize=12)
     ax.grid(axis="x", linestyle=":", alpha=0.5, zorder=0)
 
     ax.set_title(title, fontsize=13)
 
-    val_d = max(0.8, x_lim * 0.015)
+    val_d = max(0.6, x_lim * 0.015)
 
     for series_name, dy in [
         ("within", -offset),
@@ -246,7 +266,7 @@ def plot_horizontal_bars(
                 f"{val:.2f}%",
                 va="center",
                 ha="left",
-                fontsize=7,
+                fontsize=8,
                 zorder=9,
             )
 
@@ -310,8 +330,8 @@ def plot_horizontal_bars(
 
     fig.tight_layout()
 
-    out_png = f"{directory}/cross_overlap_{dataset.lower()}_{percentage}%.png"
-    out_pdf = f"{directory}/cross_overlap_{dataset.lower()}_{percentage}%.pdf"
+    out_png = f"{directory}/cross_overlap_{dataset.lower()}_broad_{percentage}%.png"
+    out_pdf = f"{directory}/cross_overlap_{dataset.lower()}_broad_{percentage}%.pdf"
 
     fig.savefig(out_png, dpi=300)
     fig.savefig(out_pdf)
@@ -328,16 +348,12 @@ def main():
     p.add_argument("--add-model-markers", action="store_true")
     p.add_argument("--percentage", type=float, default=1.0)
     p.add_argument("--seed", type=int, default=42)
+
     args = p.parse_args()
 
     dataset_key = args.dataset.lower()
 
-    category_map = get_category_map(
-        dataset=args.dataset,
-        directory=args.directory,
-        percentage=args.percentage,
-    )
-
+    category_map = get_category_map(args.dataset)
     canonical_order = get_canonical_order(category_map)
 
     matrices = load_model_matrices(
