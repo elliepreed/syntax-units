@@ -7,11 +7,10 @@ from datasets import get_dataset_config_names, load_dataset
 
 DATASET_ID = "juletxara/blimp-nl"
 
-# This script is inside benchmarks/raw/
-RAW_ROOT = Path(__file__).resolve().parent
-BENCHMARKS_DIR = RAW_ROOT.parent
+# This script is inside benchmarks/
+BENCHMARKS_DIR = Path(__file__).resolve().parent
 
-RAW_DIR = RAW_ROOT / "blimp-nl"
+RAW_DIR = BENCHMARKS_DIR / "raw" / "blimp-nl"
 PROCESSED_DIR = BENCHMARKS_DIR / "processed" / "blimp-nl"
 
 CLEAR_OLD_RAW = False
