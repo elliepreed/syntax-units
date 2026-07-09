@@ -1,4 +1,156 @@
 CATEGORIES = {
+
+    "blimp-nl" = {
+        "anaphor_agreement": [
+            "anaphor_agreement__number",
+            "anaphor_agreement__person",
+        ],
+    
+        "binding_principle_a": [
+            "binding_principle_a__c_command",
+            "binding_principle_a__monomorphemic",
+        ],
+    
+        "argument_structure": [
+            "argument_structure__argument_number_ditransitive",
+            "argument_structure__argument_number_in_transitive",
+            "argument_structure__ditransitive_nomdat_1",
+            "argument_structure__ditransitive_nomdat_2",
+            "argument_structure__ditransitive_nomdat_3",
+            "argument_structure__intransitive_unaccusative_1",
+            "argument_structure__intransitive_unaccusative_2",
+            "argument_structure__intransitive_unaccusative_3",
+        ],
+    
+        "complementive": [
+            "complementive__ditransitive",
+            "complementive__intransitive",
+            "complementive__position_adverb",
+            "complementive__position_verb",
+            "complementive__transitive",
+        ],
+    
+        "passive": [
+            "passive__aci",
+            "passive__ditransitive_1",
+            "passive__ditransitive_2",
+            "passive__impersonal",
+        ],
+    
+        "infinitival_argument_clause": [
+            "infinitival_argument_clause__bare_verb_cluster",
+            "infinitival_argument_clause__bare_verb_type_1",
+            "infinitival_argument_clause__bare_verb_type_2",
+            "infinitival_argument_clause__bare_verb_type_3",
+            "infinitival_argument_clause__om_te",
+            "infinitival_argument_clause__te_om_te_difference_1",
+            "infinitival_argument_clause__te_om_te_difference_2",
+            "infinitival_argument_clause__te_transparant_split",
+            "infinitival_argument_clause__verb_type",
+        ],
+    
+        "finite_argument_clause": [
+            "finite_argument_clause__complementizer",
+            "finite_argument_clause__perception_dat",
+            "finite_argument_clause__perception_of",
+            "finite_argument_clause__position",
+            "finite_argument_clause__sluicing_1",
+            "finite_argument_clause__sluicing_2",
+        ],
+    
+        "auxiliaries": [
+            "auxiliaries__order_1",
+            "auxiliaries__order_2",
+            "auxiliaries__perfect",
+            "auxiliaries__semi_aspectual_1",
+            "auxiliaries__semi_aspectual_2",
+        ],
+    
+        "adverbial_modification": [
+            "adverbial_modification__position_proform",
+            "adverbial_modification__position_type",
+        ],
+    
+        "verb_second": [
+            "verb_second__order_embedded",
+            "verb_second__order_main",
+        ],
+    
+        "wh_movement": [
+            "wh_movement__filler_effect_gap",
+            "wh_movement__filler_effect_no_gap",
+            "wh_movement__hierarchy",
+            "wh_movement__question_formation",
+            "wh_movement__stranding_1",
+            "wh_movement__stranding_2",
+        ],
+    
+        "wh_movement_restrictions": [
+            "wh_movement_restrictions__bridge_verb_1",
+            "wh_movement_restrictions__bridge_verb_2",
+            "wh_movement_restrictions__island_1",
+            "wh_movement_restrictions__island_2",
+            "wh_movement_restrictions__resumptive_prolepsis",
+            "wh_movement_restrictions__superiority",
+        ],
+    
+        "relativization": [
+            "relativization__island",
+            "relativization__pied_piping",
+            "relativization__resumptive_prolepsis",
+        ],
+    
+        "topicalization": [
+            "topicalization__island",
+            "topicalization__question_similarity_1",
+            "topicalization__question_similarity_2",
+            "topicalization__resumptive_prolepsis",
+        ],
+    
+        "parasitic_gaps": [
+            "parasitic_gaps__scrambling",
+            "parasitic_gaps__structure_type_1",
+            "parasitic_gaps__structure_type_2",
+            "parasitic_gaps__structure_type_3",
+        ],
+    
+        "r_words": [
+            "r_words__adverbial",
+            "r_words__weak_proform",
+        ],
+    
+        "nominalization": [
+            "nominalization__type_inf_1",
+            "nominalization__type_inf_2",
+        ],
+    
+        "determiners": [
+            "determiners__geen_expletive",
+            "determiners__geen_scrambling_1",
+            "determiners__geen_scrambling_2",
+            "determiners__negative_polarity",
+        ],
+    
+        "quantifiers": [
+            "quantifiers__universal_difference_agreement_plural",
+            "quantifiers__universal_difference_agreement_singular",
+        ],
+    
+        "adpositional_phrases": [
+            "adpositional_phrases__argument_r_extraction",
+            "adpositional_phrases__argument_scrambling",
+        ],
+    
+        "crossing_dependencies": [
+            "crossing_dependencies__cross_dependency",
+        ],
+    
+        "extraposition": [
+            "extraposition__adjectival_adverbial",
+            "extraposition__adjectival_supplementive",
+            "extraposition__argument_nominal",
+        ],
+    }
     "blimp": {
         "anaphor_agreement": [
             "anaphor_number_agreement",
