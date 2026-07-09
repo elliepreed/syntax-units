@@ -1,0 +1,3 @@
+[submodule "benchmarks/raw/clams"]
+	path = benchmarks/raw/clams
+	url = https://github.com/aaronmueller/clams.git
