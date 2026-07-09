@@ -1,0 +1,101 @@
+item,sentence_good,sentence_bad
+361,De vrouw is vanmorgen gaan zwemmen in de woeste zee.,De vrouw is vanmorgen zwemmen gaan in de woeste zee.
+362,De jongen is gisteren gaan werken op de nieuwe locatie.,De jongen is gisteren werken gaan op de nieuwe locatie.
+363,De vader is zaterdag gaan kijken bij de spannende voetbalwedstrijd.,De vader is zaterdag kijken gaan bij de spannende voetbalwedstrijd.
+364,De zakenman is gisteravond gaan slapen na een vermoeiende reis.,De zakenman is gisteravond slapen gaan na een vermoeiende reis.
+365,Het stel is vrijdag gaan eten in dat nieuwe restaurant.,Het stel is vrijdag eten gaan in dat nieuwe restaurant.
+366,De sporter is maandag gaan hardlopen in het groene park.,De sporter is maandag hardlopen gaan in het groene park.
+367,Het meisje is dinsdag gaan lunchen in dat leuke restaurant.,Het meisje is dinsdag lunchen gaan in dat leuke restaurant.
+368,De man is woensdag gaan wandelen over dat lange pad.,De man is woensdag wandelen gaan over dat lange pad.
+369,De leerling is donderdag gaan studeren voor de moeilijke toetsen.,De leerling is donderdag studeren gaan voor de moeilijke toetsen.
+370,De jager is zondag gaan jagen in de bergen.,De jager is zondag jagen gaan in de bergen.
+4081,De kinderen zijn vanmorgen gaan spelen in het park.,De kinderen zijn vanmorgen spelen gaan in het park.
+4082,De werknemer is gisteren gaan overleggen met zijn collega's.,De werknemer is gisteren overleggen gaan met zijn collega's.
+4083,De toerist is vorige week gaan skiën in de Alpen.,De toerist is vorige week skiën gaan in de Alpen.
+4084,De musicus is vandaag gaan oefenen voor het concert.,De musicus is vandaag oefenen gaan voor het concert.
+4085,De chef-kok is gisteravond gaan koken in het chique restaurant.,De chef-kok is gisteravond koken gaan in het chique restaurant.
+4086,De activisten zijn vorige maand gaan demonstreren voor meer rechten.,De activisten zijn vorige maand demonstreren gaan voor meer rechten.
+4087,De docent is vanmiddag gaan uitleggen over het nieuwe onderwerp.,De docent is vanmiddag uitleggen gaan over het nieuwe onderwerp.
+4088,De avonturier is vorige maand gaan klimmen op de hoge berg.,De avonturier is vorige maand klimmen gaan op de hoge berg.
+4089,De journalist is gisteren gaan interviewen voor het nieuwsartikel.,De journalist is gisteren interviewen gaan voor het nieuwsartikel.
+4090,Het echtpaar is vorige week gaan kamperen in het bos.,Het echtpaar is vorige week kamperen gaan in het bos.
+4091,De astronauten zijn gisteravond gaan trainen voor hun ruimtemissie.,De astronauten zijn gisteravond trainen gaan voor hun ruimtemissie.
+4092,De tuinman is vandaag gaan snoeien in de achtertuin.,De tuinman is vandaag snoeien gaan in de achtertuin.
+4093,De acteur is vorige maand gaan repeteren voor het toneelstuk.,De acteur is vorige maand repeteren gaan voor het toneelstuk.
+4094,De architect is gisteren gaan ontwerpen voor het nieuwe gebouw.,De architect is gisteren ontwerpen gaan voor het nieuwe gebouw.
+4095,De studenten zijn vanmiddag gaan studeren voor het examen.,De studenten zijn vanmiddag studeren gaan voor het examen.
+4096,De fotograaf is vorige week gaan fotograferen in de natuur.,De fotograaf is vorige week fotograferen gaan in de natuur.
+4097,De pianist is vanavond gaan spelen op het concert.,De pianist is vanavond spelen gaan op het concert.
+4098,De vrienden zijn afgelopen weekend gaan barbecueën in de tuin.,De vrienden zijn afgelopen weekend barbecueën gaan in de tuin.
+4099,De onderzoekers zijn vandaag gaan analyseren van de gegevens.,De onderzoekers zijn vandaag analyseren gaan van de gegevens.
+4100,De advocate is gisteren gaan pleiten voor haar cliënt.,De advocate is gisteren pleiten gaan voor haar cliënt.
+4101,De patiënt is vanmorgen gaan praten met de psycholoog.,De patiënt is vanmorgen praten gaan met de psycholoog.
+4102,De kunstenaar is vorige maand gaan schilderen aan zijn nieuwste creatie.,De kunstenaar is vorige maand schilderen gaan aan zijn nieuwste creatie.
+4103,De coach is afgelopen week gaan adviseren over de strategie.,De coach is afgelopen week adviseren gaan over de strategie.
+4104,De programmeur is vanavond gaan coderen aan het nieuwe project.,De programmeur is vanavond coderen gaan aan het nieuwe project.
+4105,De gasten zijn vanmiddag gaan genieten van het zonnige weer.,De gasten zijn vanmiddag genieten gaan van het zonnige weer.
+4106,De leerlingen zijn gisteren gaan experimenteren in het scheikundelab.,De leerlingen zijn gisteren experimenteren gaan in het scheikundelab.
+4107,De directeur is vorige week gaan informeren over de financiële situatie.,De directeur is vorige week informeren gaan over de financiële situatie.
+4108,De atleet is vanochtend gaan trainen voor de marathon.,De atleet is vanochtend trainen gaan voor de marathon.
+4109,De muzikant is vandaag gaan repeteren met zijn band.,De muzikant is vandaag repeteren gaan met zijn band.
+4110,De medewerkers zijn vorige maand gaan vergaderen over de nieuwe regels.,De medewerkers zijn vorige maand vergaderen gaan over de nieuwe regels.
+4111,De wetenschapper is vanmiddag gaan onderzoeken in het laboratorium.,De wetenschapper is vanmiddag onderzoeken gaan in het laboratorium.
+4112,De schrijver is vorige week gaan schrijven aan zijn nieuwe boek.,De schrijver is vorige week schrijven gaan aan zijn nieuwe boek.
+4113,De monteur is gisteren gaan repareren aan de kapotte machine.,De monteur is gisteren repareren gaan aan de kapotte machine.
+4114,De toeristen zijn vandaag gaan verkennen in de historische stad.,De toeristen zijn vandaag verkennen gaan in de historische stad.
+4115,De secretaresse is vanavond gaan organiseren voor het evenement.,De secretaresse is vanavond organiseren gaan voor het evenement.
+4116,De klanten zijn vanmorgen gaan winkelen in de nieuwe boetiek.,De klanten zijn vanmorgen winkelen gaan in de nieuwe boetiek.
+4117,De ingenieur is gisteravond gaan ontwerpen voor het nieuwe project.,De ingenieur is gisteravond ontwerpen gaan voor het nieuwe project.
+4118,De dansers zijn vorige maand gaan repeteren voor de voorstelling.,De dansers zijn vorige maand repeteren gaan voor de voorstelling.
+4119,De consultant is vanochtend gaan adviseren over de bedrijfsstrategie.,De consultant is vanochtend adviseren gaan over de bedrijfsstrategie.
+4120,De vrijwilligers zijn vandaag gaan helpen bij het evenement.,De vrijwilligers zijn vandaag helpen gaan bij het evenement.
+4121,De klant is gisteren gaan informeren over de nieuwe producten.,De klant is gisteren informeren gaan over de nieuwe producten.
+4122,De reizigers zijn vorige week gaan ontdekken in de onbekende stad.,De reizigers zijn vorige week ontdekken gaan in de onbekende stad.
+4123,De kinderen zijn vanavond gaan knutselen in de hobbykamer.,De kinderen zijn vanavond knutselen gaan in de hobbykamer.
+4124,De manager is vanochtend gaan bespreken met het team.,De manager is vanochtend bespreken gaan met het team.
+4125,De bezoekers zijn gisteren gaan genieten van de kunsttentoonstelling.,De bezoekers zijn gisteren genieten gaan van de kunsttentoonstelling.
+4126,De gasten zijn vanavond gaan proeven van de culinaire hoogstandjes.,De gasten zijn vanavond proeven gaan van de culinaire hoogstandjes.
+4127,De studenten zijn vandaag gaan discussiëren over het studieprogramma.,De studenten zijn vandaag discussiëren gaan over het studieprogramma.
+4128,De wetenschappers zijn vorige week gaan experimenteren met nieuwe materialen.,De wetenschappers zijn vorige week experimenteren gaan met nieuwe materialen.
+4129,De vrijwilliger is gisteravond gaan helpen bij de daklozenopvang.,De vrijwilliger is gisteravond helpen gaan bij de daklozenopvang.
+4130,Het gezin is vanochtend gaan ontbijten in het favoriete cafeetje.,Het gezin is vanochtend ontbijten gaan in het favoriete cafeetje.
+4131,De journalisten zijn vandaag gaan rapporteren over de politieke bijeenkomst.,De journalisten zijn vandaag rapporteren gaan over de politieke bijeenkomst.
+4132,De ondernemer is vanmiddag gaan investeren in duurzame projecten.,De ondernemer is vanmiddag investeren gaan in duurzame projecten.
+4133,De vriendinnen zijn gisteren gaan shoppen voor nieuwe kleding.,De vriendinnen zijn gisteren shoppen gaan voor nieuwe kleding.
+4134,De biologen zijn vorige maand nieuwe plantensoorten gaan bestuderen.,De biologen zijn vorige maand nieuwe plantensoorten bestuderen gaan.
+4135,De IT-specialist is vanavond gaan programmeren aan de software-update.,De IT-specialist is vanavond programmeren gaan aan de software-update.
+4136,De avonturiers zijn afgelopen weekend gaan kamperen in de bergen.,De avonturiers zijn afgelopen weekend kamperen gaan in de bergen.
+4137,De kunstliefhebbers zijn vandaag gaan kijken bij de nieuwe expositie.,De kunstliefhebbers zijn vandaag kijken gaan bij de nieuwe expositie.
+4138,De docente is vanmorgen gaan uitleggen over de grammaticaregels.,De docente is vanmorgen uitleggen gaan over de grammaticaregels.
+4139,De animator is gisteravond gaan tekenen voor de nieuwe animatiefilm.,De animator is gisteravond tekenen gaan voor de nieuwe animatiefilm.
+4140,De trainer is vorige week gaan coachen tijdens de belangrijke wedstrijd.,De trainer is vorige week coachen gaan tijdens de belangrijke wedstrijd.
+4141,De ontdekkingsreiziger is vanochtend gaan verkennen in het oerwoud.,De ontdekkingsreiziger is vanochtend verkennen gaan in het oerwoud.
+4142,De studenten zijn vandaag gaan luisteren naar de inspirerende lezing.,De studenten zijn vandaag luisteren gaan naar de inspirerende lezing.
+4143,De tuinders zijn gisteren gaan zaaien voor de nieuwe oogst.,De tuinders zijn gisteren zaaien gaan voor de nieuwe oogst.
+4144,De astronaut is vanavond gaan trainen voor de ruimtemissie.,De astronaut is vanavond trainen gaan voor de ruimtemissie.
+4145,De ingenieurs zijn gisteren nieuwe technologieën gaan ontwikkelen.,De ingenieurs zijn gisteren nieuwe technologieën ontwikkelen gaan.
+4146,De manager is vanmiddag gaan overleggen met het team.,De manager is vanmiddag overleggen gaan met het team.
+4147,De fietsers zijn vanochtend gaan rijden in het bos.,De fietsers zijn vanochtend rijden gaan in het bos.
+4148,De gezinnen zijn afgelopen weekend gaan picknicken in het park.,De gezinnen zijn afgelopen weekend picknicken gaan in het park.
+4149,De hovenier is vanochtend gaan snoeien in de tuin.,De hovenier is vanochtend snoeien gaan in de tuin.
+4150,De presentator is gisteravond gaan presenteren tijdens de show.,De presentator is gisteravond presenteren gaan tijdens de show.
+4151,De reizigers zijn vanmiddag gaan ontspannen op het strand.,De reizigers zijn vanmiddag ontspannen gaan op het strand.
+4152,De kinderen zijn vandaag gaan zwemmen in het zwembad.,De kinderen zijn vandaag zwemmen gaan in het zwembad.
+4153,De chef-kok is vanavond eten gaan bereiden voor het culinaire evenement.,De chef-kok is vanavond eten bereiden gaan voor het culinaire evenement.
+4154,De scholieren zijn gisteren gaan leren voor de examens.,De scholieren zijn gisteren leren gaan voor de examens.
+4155,De zangeres is vanavond gaan zingen op het podium.,De zangeres is vanavond zingen gaan op het podium.
+4156,De docenten zijn vandaag gaan onderwijzen over het belangrijke onderwerp.,De docenten zijn vandaag onderwijzen gaan over het belangrijke onderwerp.
+4157,De werknemers zijn vorige week gaan werken aan het nieuwe project.,De werknemers zijn vorige week werken gaan aan het nieuwe project.
+4158,De mountainbikers zijn gisteren gaan crossen in de bossen.,De mountainbikers zijn gisteren crossen gaan in de bossen.
+4159,De consultants zijn vanavond gaan adviseren over de bedrijfsstrategie.,De consultants zijn vanavond adviseren gaan over de bedrijfsstrategie.
+4160,De wandelaars zijn vanmiddag gaan wandelen in het natuurgebied.,De wandelaars zijn vanmiddag wandelen gaan in het natuurgebied.
+4161,De ontwerper is vanochtend gaan schetsen voor het nieuwe project.,De ontwerper is vanochtend schetsen gaan voor het nieuwe project.
+4162,De leraren zijn vandaag gaan evalueren over het afgelopen schooljaar.,De leraren zijn vandaag evalueren gaan over het afgelopen schooljaar.
+4163,De ondernemers zijn vorige week gaan investeren in nieuwe projecten.,De ondernemers zijn vorige week investeren gaan in nieuwe projecten.
+4164,De bakkers zijn vandaag gaan bakken voor de bakkerij.,De bakkers zijn vandaag bakken gaan voor de bakkerij.
+4165,De filmmakers zijn vanochtend gaan filmen voor de documentaire.,De filmmakers zijn vanochtend filmen gaan voor de documentaire.
+4166,De sporters zijn vorige week gaan trainen voor de competitie.,De sporters zijn vorige week trainen gaan voor de competitie.
+4167,De klanten zijn vandaag gaan winkelen in de winkelstraat.,De klanten zijn vandaag winkelen gaan in de winkelstraat.
+4168,De toeristen zijn vorige maand gaan rondtrekken door Europa.,De toeristen zijn vorige maand rondtrekken gaan door Europa.
+4169,De medewerkers zijn vandaag gaan brainstormen over nieuwe ideeën.,De medewerkers zijn vandaag brainstormen gaan over nieuwe ideeën.
+4170,De fietsers zijn vanochtend gaan mountainbiken in het bos.,De fietsers zijn vanochtend mountainbiken gaan in het bos.

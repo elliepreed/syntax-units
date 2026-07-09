@@ -1,0 +1,101 @@
+item,sentence_good,sentence_bad
+511,Wie wil de docent dat de leerling helpt?,Wie weet de docent dat de leerling helpt?
+512,Wat denkt de therapeut dat de cliënt ervaart?,Wat kent de therapeut dat de cliënt ervaart?
+513,Wie wil de directeur dat de werknemer voorstelt?,Wie weet de directeur dat de werknemer voorstelt?
+514,Wat wil de curator dat de kunstenaar tentoonstelt?,Wat kent de curator dat de kunstenaar tentoonstelt?
+515,Wie denkt de schrijver dat de lezer begrijpt?,Wie weet de schrijver dat de lezer begrijpt?
+516,Wie denkt de manager dat de medewerker bereikt?,Wie weet de manager dat de medewerker bereikt?
+517,Wat wil de dokter dat de patiënt verbetert?,Wat weet de dokter dat de patiënt verbetert?
+518,Wie denkt de professor dat de student assisteert?,Wie kent de professor dat de student assisteert?
+519,Wat wil de rechter dat de verdachte herstelt?,Wat kent de rechter dat de verdachte herstelt?
+520,Wat wil de dirigent dat het orkest opvoert?,Wat kent de dirigent dat het orkest opvoert?
+5431,Wat denkt de leraar dat de student begrijpt?,Wat weet de leraar dat de student begrijpt?
+5432,Wat wil de chef dat de kok bereidt?,Wat weet de chef dat de kok bereidt?
+5433,Wat denkt de coach dat het team kan winnen?,Wat weet de coach dat het team kan winnen?
+5434,Wie willen de ouders dat het kind leert kennen?,Wie weten de ouders dat het kind leert kennen?
+5435,Wat denkt de wetenschapper dat het experiment bewijst?,Wat weet de wetenschapper dat het experiment bewijst?
+5436,Wie wil de ontwerper dat de klant kiest?,Wie kent de ontwerper dat de klant kiest?
+5437,Wat denkt de adviseur dat het bedrijf kan verbeteren?,Wat weet de adviseur dat het bedrijf kan verbeteren?
+5438,Wie wil de trainer dat de atleet achtervolgt?,Wie weet de trainer dat de atleet achtervolgt?
+5439,Wat denkt de architect dat de bouwer realiseert?,Wat kent de architect dat de bouwer realiseert?
+5440,Wie wil de regisseur dat de acteur uitbeeldt?,Wie weet de regisseur dat de acteur uitbeeldt?
+5441,Wat denkt de psycholoog dat de patiënt voelt?,Wat weet de psycholoog dat de patiënt voelt?
+5442,Wie wil de coach dat het team bereikt?,Wie weet de coach dat het team bereikt?
+5443,Wat denkt de monteur dat de auto mankeert?,Wat kent de monteur dat de auto mankeert?
+5444,Wat denkt de politicus dat de kiezer belangrijk vindt?,Wat kent de politicus dat de kiezer belangrijk vindt?
+5445,Wat wil de manager dat het bedrijf implementeert?,Wat weet de manager dat het bedrijf implementeert?
+5446,Wat denkt de trainer dat de sporter kan bereiken?,Wat weet de trainer dat de sporter kan bereiken?
+5447,Wie wil de designer dat de klant goedkeurt?,Wie weet de designer dat de klant goedkeurt?
+5448,Wat denkt de historicus dat de gebeurtenis veroorzaakt heeft?,Wat weet de historicus dat de gebeurtenis veroorzaakt heeft?
+5449,Wat denkt de chef dat het recept smakelijk maakt?,Wat kent de chef dat het recept smakelijk maakt?
+5450,Wie wil de onderzoeker dat het experiment bevestigt?,Wie weet de onderzoeker dat het experiment bevestigt?
+5451,Wat denkt de adviseur dat het bedrijf kan innoveren?,Wat weet de adviseur dat het bedrijf kan innoveren?
+5452,Wie wil de auteur dat de lezer waardeert?,Wie kent de auteur dat de lezer waardeert?
+5453,Wat denkt de dokter dat de patiënt nodig heeft?,Wat weet de dokter dat de patiënt nodig heeft?
+5454,Wie wil de architect dat het ontwerp aantrekt?,Wie weet de architect dat het ontwerp aantrekt?
+5455,Wat denkt de kunstenaar dat het schilderij uitdrukt?,Wat weet de kunstenaar dat het schilderij uitdrukt?
+5456,Wie wil de dirigent dat het orkest opvoert?,Wie kent de dirigent dat het orkest opvoert?
+5457,Wat denkt de leraar dat de leerling begrijpt?,Wat weet de leraar dat de leerling begrijpt?
+5458,Wie wil de trainer dat de atleet overwint?,Wie weet de trainer dat de atleet overwint?
+5459,Wat denkt de adviseur dat het bedrijf kan optimaliseren?,Wat weet de adviseur dat het bedrijf kan optimaliseren?
+5460,Wie wil de psycholoog dat de patiënt begrijpt?,Wie kent de psycholoog dat de patiënt begrijpt?
+5461,Wat denkt de ontwikkelaar dat de software kan verbeteren?,Wat weet de ontwikkelaar dat de software kan verbeteren?
+5462,Wie wil de wetenschapper dat het experiment valideert?,Wie kent de wetenschapper dat het experiment valideert?
+5463,Wat denkt de tuinman dat de plant nodig heeft?,Wat weet de tuinman dat de plant nodig heeft?
+5464,Wat denkt de auteur dat het boek tot een bestseller maakt?,Wat weet de auteur dat het boek tot een bestseller maakt?
+5465,Wat denkt de coach dat het team kan bereiken?,Wat weet de coach dat het team kan bereiken?
+5466,Wat denkt de manager dat het project succesvol maakt?,Wat weet de manager dat het project succesvol maakt?
+5467,Wie wil de ondernemer dat het bedrijf overneemt?,Wie kent de ondernemer dat het bedrijf overneemt?
+5468,Wie wil de architect dat het ontwerp aanspreekt?,Wie kent de architect dat het ontwerp aanspreekt?
+5469,Wat denkt de therapeut dat de cliënt ervaart?,Wat weet de therapeut dat de cliënt ervaart?
+5470,Wie wil de koning dat de ridder beschermt?,Wie weet de koning dat de ridder beschermt?
+5471,Wat denkt de abt dat de monniken kunnen verbeteren?,Wat kent de abt dat de monniken kunnen verbeteren?
+5472,Wat wil de edelman dat de boer bewerkt?,Wat kent de edelman dat de boer bewerkt?
+5473,Wat denkt de hofdame dat het banket smakelijk maakt?,Wat weet de hofdame dat het banket smakelijk maakt?
+5474,Wat wil de kasteelheer dat het leenheer doet?,Wat weet de kasteelheer dat het leenheer doet?
+5475,Wat denkt de troubadour dat het lied vertelt?,Wat weet de troubadour dat het lied vertelt?
+5476,Wie wil de jonkvrouw dat de page bedient?,Wie kent de jonkvrouw dat de page bedient?
+5477,Wie wil de priester dat de gelovige begrijpt?,Wie weet de priester dat de gelovige begrijpt?
+5478,Wat denkt de koningin dat het hof beïnvloedt?,Wat weet de koningin dat het hof beïnvloedt?
+5479,Wie wil de schildknaap dat de ridder verslaat?,Wie kent de schildknaap dat de ridder verslaat?
+5480,Wat denkt de smid dat het zwaard scherp maakt?,Wat weet de smid dat het zwaard scherp maakt?
+5481,Wie wil de burchtvrouw dat de poortwachter bewaakt?,Wie weet de burchtvrouw dat de poortwachter bewaakt?
+5482,Wat denkt de nar dat de hofhouding amuseert?,Wat weet de nar dat de hofhouding amuseert?
+5483,Wat wil de huisvrouw dat de kinderen opruimen?,Wat weet de huisvrouw dat de kinderen opruimen?
+5484,Wat denkt de huiseigenaar dat de tuinman kan verbeteren?,Wat weet de huiseigenaar dat de tuinman kan verbeteren?
+5485,Wie wil de gastvrouw dat de gasten herkennen?,Wie kent de gastvrouw dat de gasten herkennen?
+5486,Wat denkt de kok dat het recept lekker maakt?,Wat weet de kok dat het recept lekker maakt?
+5487,Wat wil de huurder dat de loodgieter repareert?,Wat kent de huurder dat de loodgieter repareert?
+5488,Wat denkt de schoonmaker dat de eigenaar schoon wil hebben?,Wat weet de schoonmaker dat de eigenaar schoon wil hebben?
+5489,Wat denkt de klusser dat het huis kan opknappen?,Wat weet de klusser dat het huis kan opknappen?
+5490,Wie wil de kamerbewoner dat de huisgenoot helpt schoonmaken?,Wie kent de kamerbewoner dat de huisgenoot helpt schoonmaken?
+5491,Wat denken de ouders dat de kinderen leren over opruimen?,Wat weten de ouders dat de kinderen leren over opruimen?
+5492,Wat denkt de huisbaas dat de bewoners kunnen verbeteren?,Wat weet de huisbaas dat de bewoners kunnen verbeteren?
+5493,Wat denkt de chef-kok dat de keuken efficiënter maakt?,Wat weet de chef-kok dat de keuken efficiënter maakt?
+5494,Wat wil de huurder dat de verhuurder repareert?,Wat kent de huurder dat de verhuurder repareert?
+5495,Wat denkt de bioloog dat de ecosystemen in stand houdt?,Wat weet de bioloog dat de ecosystemen in stand houdt?
+5496,Wie wil de boswachter dat de bezoekers zien?,Wie weet de boswachter dat de bezoekers zien?
+5497,Wat denkt de ornitholoog dat de vogeltrek beïnvloedt?,Wat weet de ornitholoog dat de vogeltrek beïnvloedt?
+5498,Wat denkt de meteoroloog dat het weer zal veranderen?,Wat weet de meteoroloog dat het weer zal veranderen?
+5499,Wat denkt de geoloog dat de aardverschuiving veroorzaakt?,Wat kent de geoloog dat de aardverschuiving veroorzaakt?
+5500,Wat wil de ranger dat de bezoekers respecteren?,Wat weet de ranger dat de bezoekers respecteren?
+5501,Wat denkt de ecologist dat het biodiversiteit bevordert?,Wat weet de ecologist dat het biodiversiteit bevordert?
+5502,Wat denkt de botanicus dat het plantenleven kenmerkt?,Wat weet de botanicus dat het plantenleven kenmerkt?
+5503,Wie wil de gids dat de wandelaars herkennen?,Wie weet de gids dat de wandelaars herkennen?
+5504,Wat denkt de hydroloog dat het waterverloop beïnvloedt?,Wat weet de hydroloog dat het waterverloop beïnvloedt?
+5505,Wie wil de vogelkenner dat de twitchers zien?,Wie weet de vogelkenner dat de twitchers zien?
+5506,Wat denkt de herpetoloog dat het gedrag van reptielen verklaart?,Wat kent de herpetoloog dat het gedrag van reptielen verklaart?
+5507,Wat denkt de coach dat het team kan verbeteren?,Wat weet de coach dat het team kan verbeteren?
+5508,Wie wil de kapitein dat het team verslaat?,Wie kent de kapitein dat het team verslaat?
+5509,Wat denkt de atleet dat zijn prestaties beïnvloedt?,Wat weet de atleet dat zijn prestaties beïnvloedt?
+5510,Wat wil de trainer dat de spelers perfectioneren?,Wat kent de trainer dat de spelers perfectioneren?
+5511,Wat denkt de scheidsrechter dat de overtreding veroorzaakt heeft?,Wat weet de scheidsrechter dat de overtreding veroorzaakt heeft?
+5512,Wat wil de voetballer dat het team wordt?,Wat weet de voetballer dat het team wordt?
+5513,Wie denkt de turncoach dat de oefening kan verbeteren?,Wie kent de turncoach dat de oefening kan verbeteren?
+5514,Wie wil de sporter dat de blessure snel geneest?,Wie weet de sporter dat de blessure snel geneest?
+5515,Wat denkt de wielrenner dat zijn snelheid bepaalt?,Wat weet de wielrenner dat zijn snelheid bepaalt?
+5516,Wie wil de zwemcoach dat het teamrecords breekt?,Wie kent de zwemcoach dat het teamrecords breekt?
+5517,Wat denkt de golfspeler dat zijn put goed maakt?,Wat kent de golfspeler dat zijn put goed maakt?
+5518,Wat wil de basketbalcoach dat de speler maakt?,Wat weet de basketbalcoach dat de speler maakt?
+5519,Wie denkt de marathonloper dat zijn uithoudingsvermogen bepaalt?,Wie kent de marathonloper dat zijn uithoudingsvermogen bepaalt?
+5520,Wat denkt de hockeyspeler dat het team samenbrengt?,Wat weet de hockeyspeler dat het team samenbrengt?
