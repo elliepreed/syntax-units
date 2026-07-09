@@ -1,6 +1,6 @@
 CATEGORIES = {
 
-    "blimp-nl" = {
+    "blimp-nl": {
         "anaphor_agreement": [
             "anaphor_agreement__number",
             "anaphor_agreement__person",
