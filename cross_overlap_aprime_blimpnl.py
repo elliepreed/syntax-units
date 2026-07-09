@@ -12,10 +12,7 @@ from matplotlib.lines import Line2D
 from matplotlib.patches import Patch
 
 from categories import CATEGORIES
-from plot_utils import (
-    build_model_style_maps,
-    add_model_scatter,
-)
+from plot_utils import build_model_style_maps, add_model_scatter
 
 
 APRIME_CATEGORIES: Dict[str, List[str]] = {
@@ -58,6 +55,7 @@ APRIME_CATEGORIES: Dict[str, List[str]] = {
 def pretty_name(name: str) -> str:
     special = {
         "blimp-nl": "BLiMP-NL",
+        "blimp": "BLiMP",
         "wh_movement": "Wh-Movement",
         "wh_movement_restrictions": "Wh-Movement Restrictions",
         "relativization": "Relativization",
@@ -69,74 +67,6 @@ def pretty_name(name: str) -> str:
         return special[name]
 
     return name.replace("__", ": ").replace("_", " ").replace("-", " ").title()
-
-
-def find_matrices(
-    directory: str,
-    dataset: str,
-    percentage: float,
-) -> Dict[str, pd.DataFrame]:
-    directory_path = Path(directory)
-    dataset_key = dataset.lower()
-
-    pattern = f"cross-overlap_{dataset_key}_{dataset_key}_*_{percentage}%.csv"
-    paths = sorted(directory_path.glob(pattern))
-
-    if not paths:
-        pattern = f"cross-overlap_{dataset_key}_{dataset_key}_*.csv"
-        paths = sorted(directory_path.glob(pattern))
-
-    if not paths:
-        raise FileNotFoundError(
-            f"No within-dataset cross-overlap matrix found in {directory_path} "
-            f"for dataset={dataset_key}."
-        )
-
-    matrices = {}
-
-    prefix = f"cross-overlap_{dataset_key}_{dataset_key}_"
-    suffix = f"_{percentage}%.csv"
-
-    for path in paths:
-        name = path.name
-
-        if name.startswith(prefix) and name.endswith(suffix):
-            model_name = name[len(prefix) : -len(suffix)]
-        else:
-            model_name = path.stem.replace(prefix, "")
-
-        df = pd.read_csv(path, index_col=0)
-        df = convert_counts_to_percent_if_needed(df, model_name=model_name)
-        matrices[model_name] = df
-
-    return matrices
-
-
-def convert_counts_to_percent_if_needed(
-    df: pd.DataFrame,
-    model_name: str,
-) -> pd.DataFrame:
-    values = df.to_numpy(dtype=float)
-    max_val = np.nanmax(values)
-
-    if max_val <= 100:
-        print(f"{model_name}: matrix already appears to be percentages.")
-        return df
-
-    diagonal = np.diag(values)
-    num_units = float(np.nanmedian(diagonal))
-
-    if num_units <= 0:
-        raise ValueError(
-            f"{model_name}: could not infer number of units from diagonal."
-        )
-
-    print(
-        f"{model_name}: matrix appears to be raw counts. "
-        f"Converting by num_units={num_units:.0f}."
-    )
-
-    return df / num_units * 100.0
 
 
 def finite_mean(vals: Sequence[float] | np.ndarray) -> float:
@@ -179,6 +109,195 @@ def cross_values(
     return df.loc[suites_from, suites_to].to_numpy(dtype=float).ravel()
 
 
+def extract_model_name(path: Path, prefix: str, percentage: float) -> str:
+    name = path.name
+    suffix = f"_{percentage}%.csv"
+
+    if name.startswith(prefix) and name.endswith(suffix):
+        return name[len(prefix) : -len(suffix)]
+
+    stem = path.stem
+    if stem.startswith(prefix):
+        return stem[len(prefix) :]
+
+    return stem
+
+
+def find_within_matrices(
+    directory: str,
+    dataset: str,
+    percentage: float,
+) -> Tuple[Dict[str, pd.DataFrame], Dict[str, float], Dict[str, bool]]:
+    directory_path = Path(directory)
+    dataset_key = dataset.lower()
+
+    prefix = f"cross-overlap_{dataset_key}_{dataset_key}_"
+    pattern = f"{prefix}*_{percentage}%.csv"
+
+    paths = sorted(directory_path.glob(pattern))
+
+    if not paths:
+        paths = sorted(directory_path.glob(f"{prefix}*.csv"))
+
+    if not paths:
+        raise FileNotFoundError(
+            f"No within-dataset cross-overlap matrix found in {directory_path} "
+            f"for dataset={dataset_key}."
+        )
+
+    matrices = {}
+    normalizers = {}
+    raw_flags = {}
+
+    for path in paths:
+        model = extract_model_name(path, prefix, percentage)
+        df = pd.read_csv(path, index_col=0)
+
+        values = df.to_numpy(dtype=float)
+        max_val = np.nanmax(values)
+        diag = np.diag(values)
+
+        normalizer = float(np.nanmedian(diag))
+        is_raw = max_val > 100 or normalizer > 100
+
+        if is_raw:
+            print(
+                f"{model}: within matrix appears to be raw counts. "
+                f"Converting by num_units={normalizer:.0f}."
+            )
+            df = df / normalizer * 100.0
+        else:
+            print(f"{model}: within matrix appears to already be percentages.")
+
+        matrices[model] = df
+        normalizers[model] = normalizer
+        raw_flags[model] = is_raw
+
+    return matrices, normalizers, raw_flags
+
+
+def find_cross_matrices_to_blimp(
+    directory: str,
+    dataset: str,
+    percentage: float,
+    normalizers: Dict[str, float],
+    raw_flags: Dict[str, bool],
+) -> Dict[str, pd.DataFrame]:
+    """
+    Returns matrices with:
+      rows    = BLiMP-NL suites
+      columns = BLiMP suites
+
+    It handles either saved orientation:
+      cross-overlap_blimp_blimp-nl_...
+      cross-overlap_blimp-nl_blimp_...
+    """
+    directory_path = Path(directory)
+    dataset_key = dataset.lower()
+
+    direct_prefix = f"cross-overlap_{dataset_key}_blimp_"
+    reverse_prefix = f"cross-overlap_blimp_{dataset_key}_"
+
+    direct_paths = sorted(directory_path.glob(f"{direct_prefix}*_{percentage}%.csv"))
+    reverse_paths = sorted(directory_path.glob(f"{reverse_prefix}*_{percentage}%.csv"))
+
+    if not direct_paths:
+        direct_paths = sorted(directory_path.glob(f"{direct_prefix}*.csv"))
+
+    if not reverse_paths:
+        reverse_paths = sorted(directory_path.glob(f"{reverse_prefix}*.csv"))
+
+    paths_with_orientation = []
+
+    for path in direct_paths:
+        paths_with_orientation.append((path, "direct"))
+
+    for path in reverse_paths:
+        paths_with_orientation.append((path, "reverse"))
+
+    if not paths_with_orientation:
+        raise FileNotFoundError(
+            f"No BLiMP cross-overlap matrix found in {directory_path}. "
+            f"Expected cross-overlap_blimp_{dataset_key}_... or "
+            f"cross-overlap_{dataset_key}_blimp_..."
+        )
+
+    matrices = {}
+
+    for path, orientation in paths_with_orientation:
+        prefix = direct_prefix if orientation == "direct" else reverse_prefix
+        model = extract_model_name(path, prefix, percentage)
+
+        df = pd.read_csv(path, index_col=0)
+
+        if orientation == "reverse":
+            df = df.T
+
+        if model not in normalizers:
+            fallback_model = next(iter(normalizers))
+            print(
+                f"{model}: no matching within normalizer found; "
+                f"using {fallback_model} normalizer."
+            )
+            normalizer = normalizers[fallback_model]
+            is_raw = raw_flags[fallback_model]
+        else:
+            normalizer = normalizers[model]
+            is_raw = raw_flags[model]
+
+        if is_raw:
+            print(
+                f"{model}: cross matrix assumed raw counts. "
+                f"Converting by num_units={normalizer:.0f}."
+            )
+            df = df / normalizer * 100.0
+        else:
+            print(f"{model}: cross matrix assumed already percentages.")
+
+        matrices[model] = df
+
+    return matrices
+
+
+def get_all_suites(cat_map: Dict[str, List[str]]) -> List[str]:
+    return [suite for suites in cat_map.values() for suite in suites]
+
+
+def get_blimp_aprime_categories(cat_blimp: Dict[str, List[str]]) -> List[str]:
+    """
+    BLiMP does not use the same category names as BLiMP-NL.
+    For A′/extraction-style dependencies, the relevant BLiMP categories are
+    normally filler-gap dependencies and island effects.
+    """
+    preferred = [
+        "filler_gap_dependency",
+        "island_effects",
+    ]
+
+    found = [cat for cat in preferred if cat in cat_blimp]
+
+    if found:
+        return found
+
+    fallback = [
+        cat
+        for cat in cat_blimp
+        if any(key in cat for key in ["filler", "gap", "island", "wh", "relative"])
+    ]
+
+    if not fallback:
+        print("\nAvailable BLiMP categories:")
+        for cat in cat_blimp:
+            print(" ", cat)
+
+        raise ValueError(
+            "Could not identify BLiMP A′ categories. "
+            "Expected filler_gap_dependency and/or island_effects."
+        )
+
+    return fallback
+
+
 def validate_aprime_suites(dataset: str):
     dataset_key = dataset.lower()
     all_dataset_suites = {
@@ -203,38 +322,48 @@ def validate_aprime_suites(dataset: str):
 
 
 def aggregate(
-    matrices: Dict[str, pd.DataFrame],
+    mats_lang: Dict[str, pd.DataFrame],
+    mats_cross: Dict[str, pd.DataFrame],
     dataset: str,
 ) -> Tuple[
     pd.DataFrame,
     Dict[str, Dict[str, float]],
     Dict[str, Dict[str, float]],
     Dict[str, Dict[str, float]],
+    Dict[str, Dict[str, float]],
+    Dict[str, Dict[str, float]],
 ]:
     dataset_key = dataset.lower()
-    cat_map = CATEGORIES[dataset_key]
+    cat_src = CATEGORIES[dataset_key]
+    cat_blimp = CATEGORIES["blimp"]
 
-    all_dataset_suites = [
-        suite
-        for suites in cat_map.values()
-        for suite in suites
+    all_src_suites = get_all_suites(cat_src)
+    all_aprime_src = get_all_suites(APRIME_CATEGORIES)
+
+    non_aprime_src = [
+        suite for suite in all_src_suites if suite not in all_aprime_src
     ]
 
-    all_aprime_suites = [
-        suite
-        for suites in APRIME_CATEGORIES.values()
-        for suite in suites
+    blimp_aprime_cats = get_blimp_aprime_categories(cat_blimp)
+    all_aprime_blimp = [
+        suite for cat in blimp_aprime_cats for suite in cat_blimp[cat]
     ]
 
-    non_aprime_suites = [
-        suite
-        for suite in all_dataset_suites
-        if suite not in all_aprime_suites
+    all_blimp_suites = get_all_suites(cat_blimp)
+    non_aprime_blimp = [
+        suite for suite in all_blimp_suites if suite not in all_aprime_blimp
     ]
 
-    per_within = {}
+    print("\nUsing BLiMP A′ categories:")
+    for cat in blimp_aprime_cats:
+        print(f"  {cat}: {len(cat_blimp[cat])} suites")
+
+    per_w = {}
     per_other_aprime = {}
     per_non_aprime = {}
+    per_blimp_aprime = {}
+    per_blimp_non_aprime = {}
+
     rows = []
 
     for category, suites in APRIME_CATEGORIES.items():
@@ -245,25 +374,39 @@ def aggregate(
             for suite in other_suites
         ]
 
-        w_by_model = {}
-        oa_by_model = {}
-        na_by_model = {}
+        w = {}
+        oa = {}
+        na = {}
+        ba = {}
+        bn = {}
 
-        for model_name, df in matrices.items():
-            w_by_model[model_name] = finite_mean(within_values(df, suites))
-            oa_by_model[model_name] = finite_mean(cross_values(df, suites, other_aprime))
-            na_by_model[model_name] = finite_mean(cross_values(df, suites, non_aprime_suites))
+        for model, df in mats_lang.items():
+            w[model] = finite_mean(within_values(df, suites))
+            oa[model] = finite_mean(cross_values(df, suites, other_aprime))
+            na[model] = finite_mean(cross_values(df, suites, non_aprime_src))
 
-        per_within[category] = w_by_model
-        per_other_aprime[category] = oa_by_model
-        per_non_aprime[category] = na_by_model
+            if model in mats_cross:
+                df_cross = mats_cross[model]
+            else:
+                df_cross = mats_cross[next(iter(mats_cross))]
+
+            ba[model] = finite_mean(cross_values(df_cross, suites, all_aprime_blimp))
+            bn[model] = finite_mean(cross_values(df_cross, suites, non_aprime_blimp))
+
+        per_w[category] = w
+        per_other_aprime[category] = oa
+        per_non_aprime[category] = na
+        per_blimp_aprime[category] = ba
+        per_blimp_non_aprime[category] = bn
 
         rows.append(
             {
                 "category": category,
-                "within": finite_mean(list(w_by_model.values())),
-                "other_aprime": finite_mean(list(oa_by_model.values())),
-                "non_aprime": finite_mean(list(na_by_model.values())),
+                "within": finite_mean(list(w.values())),
+                "other_aprime": finite_mean(list(oa.values())),
+                "non_aprime": finite_mean(list(na.values())),
+                "blimp_aprime": finite_mean(list(ba.values())),
+                "blimp_non_aprime": finite_mean(list(bn.values())),
                 "n_paradigms": len(suites),
             }
         )
@@ -271,52 +414,23 @@ def aggregate(
     summary = pd.DataFrame(rows).set_index("category")
     summary["aprime_advantage"] = summary["other_aprime"] - summary["non_aprime"]
 
-    return summary, per_within, per_other_aprime, per_non_aprime
-
-
-def print_domain_summary(
-    matrices: Dict[str, pd.DataFrame],
-    dataset: str,
-):
-    dataset_key = dataset.lower()
-    cat_map = CATEGORIES[dataset_key]
-
-    all_dataset_suites = [
-        suite
-        for suites in cat_map.values()
-        for suite in suites
-    ]
-
-    all_aprime_suites = [
-        suite
-        for suites in APRIME_CATEGORIES.values()
-        for suite in suites
-    ]
-
-    non_aprime_suites = [
-        suite
-        for suite in all_dataset_suites
-        if suite not in all_aprime_suites
-    ]
-
-    print("\nOverall A′-domain summary:")
-
-    for model_name, df in matrices.items():
-        aprime_internal = within_values(df, all_aprime_suites)
-        aprime_to_non = cross_values(df, all_aprime_suites, non_aprime_suites)
-
-        print(
-            f"  {model_name}: "
-            f"A′↔A′ = {finite_mean(aprime_internal):.2f}%, "
-            f"A′↔non-A′ = {finite_mean(aprime_to_non):.2f}%"
-        )
+    return (
+        summary,
+        per_w,
+        per_other_aprime,
+        per_non_aprime,
+        per_blimp_aprime,
+        per_blimp_non_aprime,
+    )
 
 
 def plot(
     summary: pd.DataFrame,
-    per_within: Dict[str, Dict[str, float]],
-    per_other_aprime: Dict[str, Dict[str, float]],
-    per_non_aprime: Dict[str, Dict[str, float]],
+    pw: Dict[str, Dict[str, float]],
+    poa: Dict[str, Dict[str, float]],
+    pna: Dict[str, Dict[str, float]],
+    pba: Dict[str, Dict[str, float]],
+    pbn: Dict[str, Dict[str, float]],
     dataset: str,
     directory: str,
     title: str,
@@ -326,22 +440,30 @@ def plot(
     summary = summary.copy()
     summary = summary.sort_values("aprime_advantage", ascending=False)
 
-    show_cols = ["within", "other_aprime", "non_aprime"]
+    show_cols = [
+        "within",
+        "other_aprime",
+        "non_aprime",
+        "blimp_aprime",
+        "blimp_non_aprime",
+    ]
 
-    colors = ["#89CCF1", "#FFB668", "#C0C0C0"]
+    colors = ["#89CCF1", "#FFB668", "#C0C0C0", "#8ECA7A", "#BC9E92"]
 
     labels = [
-        f"Within A′ category in {dataset}",
+        f"Within-category in {dataset}",
         f"With other A′ categories in {dataset}",
         f"With non-A′ categories in {dataset}",
+        "With A′ categories in BLiMP",
+        "With non-A′ categories in BLiMP",
     ]
 
     y = np.arange(len(summary))
-    width = 0.18
-    offsets = np.linspace(-width, width, len(show_cols))
+    width = 0.14
+    offsets = np.linspace(-2 * width, 2 * width, len(show_cols))
 
-    fig_h = max(4.5, 1.0 + len(summary) * 0.75)
-    fig, ax = plt.subplots(figsize=(10.5, fig_h))
+    fig_h = max(4.8, 1.0 + len(summary) * 0.75)
+    fig, ax = plt.subplots(figsize=(11.5, fig_h))
 
     for i, col in enumerate(show_cols):
         ax.barh(
@@ -369,14 +491,10 @@ def plot(
     ax.set_title(title, fontsize=11)
 
     rng = np.random.default_rng(seed)
-    model_names = sorted({m for d in per_within.values() for m in d})
+    model_names = sorted({m for d in pw.values() for m in d})
     model_list, model_to_color, model_to_marker = build_model_style_maps(model_names)
 
-    metric_maps = [
-        per_within,
-        per_other_aprime,
-        per_non_aprime,
-    ]
+    metric_maps = [pw, poa, pna, pba, pbn]
 
     for yi, category in zip(y, summary.index):
         if add_model_markers:
@@ -457,8 +575,8 @@ def plot(
     fig.tight_layout()
 
     dataset_key = dataset.lower()
-    out_png = Path(directory) / f"cross_overlap_aprime_{dataset_key}.png"
-    out_pdf = Path(directory) / f"cross_overlap_aprime_{dataset_key}.pdf"
+    out_png = Path(directory) / f"cross_overlap_aprime_{dataset_key}_5bar.png"
+    out_pdf = Path(directory) / f"cross_overlap_aprime_{dataset_key}_5bar.pdf"
 
     fig.savefig(out_png, dpi=300, bbox_inches="tight")
     fig.savefig(out_pdf, bbox_inches="tight")
@@ -471,7 +589,10 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--dataset", default="BLiMP-NL")
     p.add_argument("--directory", default="multilingual/blimpnl")
-    p.add_argument("--title", default="Cross-phenomenon overlap in BLiMP-NL (A′-dependencies)")
+    p.add_argument(
+        "--title",
+        default="Cross-phenomenon overlap in BLiMP-NL (A′-dependencies)",
+    )
     p.add_argument("--percentage", type=float, default=1.0)
     p.add_argument("--add-model-markers", action="store_true")
     p.add_argument("--seed", type=int, default=42)
@@ -481,14 +602,23 @@ def main():
 
     validate_aprime_suites(dataset_key)
 
-    matrices = find_matrices(
+    mats_lang, normalizers, raw_flags = find_within_matrices(
         directory=args.directory,
         dataset=dataset_key,
         percentage=args.percentage,
     )
 
-    summary, per_within, per_other_aprime, per_non_aprime = aggregate(
-        matrices=matrices,
+    mats_cross = find_cross_matrices_to_blimp(
+        directory=args.directory,
+        dataset=dataset_key,
+        percentage=args.percentage,
+        normalizers=normalizers,
+        raw_flags=raw_flags,
+    )
+
+    summary, pw, poa, pna, pba, pbn = aggregate(
+        mats_lang=mats_lang,
+        mats_cross=mats_cross,
         dataset=dataset_key,
     )
 
@@ -500,18 +630,20 @@ def main():
                 "within",
                 "other_aprime",
                 "non_aprime",
+                "blimp_aprime",
+                "blimp_non_aprime",
                 "aprime_advantage",
             ]
         ].to_string()
     )
 
-    print_domain_summary(matrices, dataset_key)
-
     plot(
         summary=summary,
-        per_within=per_within,
-        per_other_aprime=per_other_aprime,
-        per_non_aprime=per_non_aprime,
+        pw=pw,
+        poa=poa,
+        pna=pna,
+        pba=pba,
+        pbn=pbn,
         dataset=args.dataset,
         directory=args.directory,
         title=args.title,
