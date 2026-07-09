@@ -1,5 +1,4 @@
 CATEGORIES = {
-
     "blimp-nl": {
         "anaphor_agreement": [
             "anaphor_agreement__number",
@@ -150,7 +149,8 @@ CATEGORIES = {
             "extraposition__adjectival_supplementive",
             "extraposition__argument_nominal",
         ],
-    }
+    },
+    
     "blimp": {
         "anaphor_agreement": [
             "anaphor_number_agreement",
