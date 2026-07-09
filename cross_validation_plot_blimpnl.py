@@ -1,7 +1,7 @@
 import argparse
 import re
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Dict, List, Optional, Tuple
 
 import matplotlib.pyplot as plt
 from matplotlib.patches import Patch
@@ -18,18 +18,34 @@ def pretty_name(name: str) -> str:
         "wh_movement_restrictions": "Wh-Movement Restrictions",
         "r_words": "R-Words",
         "adpositional_phrases": "Adpositional Phrases",
+        "adverbial_modification": "Adverbial Modification",
+        "anaphor_agreement": "Anaphor Agreement",
+        "argument_structure": "Argument Structure",
+        "auxiliaries": "Auxiliaries",
         "binding_principle_a": "Binding Principle A",
+        "complementive": "Complementive",
+        "crossing_dependencies": "Crossing Dependencies",
+        "determiners": "Determiners",
+        "extraposition": "Extraposition",
         "finite_argument_clause": "Finite Argument Clause",
         "infinitival_argument_clause": "Infinitival Argument Clause",
-        "verb_second": "Verb Second",
-        "crossing_dependencies": "Crossing Dependencies",
+        "nominalization": "Nominalization",
         "parasitic_gaps": "Parasitic Gaps",
+        "quantifiers": "Quantifiers",
+        "relativization": "Relativization",
+        "topicalization": "Topicalization",
+        "verb_second": "Verb Second",
     }
 
     if name in special:
         return special[name]
 
-    return name.replace("__", ": ").replace("_", " ").replace("-", " ").title()
+    return (
+        name.replace("__", ": ")
+        .replace("_", " ")
+        .replace("-", " ")
+        .title()
+    )
 
 
 def find_result_file(
@@ -48,7 +64,6 @@ def find_result_file(
 
     for pattern in patterns:
         matches = sorted(directory.glob(pattern))
-
         if matches:
             return matches[-1]
 
@@ -69,19 +84,47 @@ def build_suite_to_category(dataset: str) -> Dict[str, str]:
     return suite_to_category
 
 
-def extract_last_number(line: str):
-    nums = re.findall(r"[-+]?\d*\.\d+|[-+]?\d+", line)
+def extract_number_excluding_suite(line: str, suite: Optional[str] = None) -> Optional[float]:
+    """
+    Extract the actual overlap value from a result line.
+
+    Important: BLiMP-NL paradigm names contain numbers, e.g.
+    wh_movement__stranding_2
+    infinitival_argument_clause__bare_verb_type_3
+
+    So we first remove the suite name before looking for numbers.
+    """
+    cleaned = line
+
+    if suite is not None:
+        cleaned = cleaned.replace(suite, "")
+
+    cleaned = cleaned.replace("%", "")
+
+    nums = re.findall(r"[-+]?\d*\.\d+|[-+]?\d+", cleaned)
 
     if not nums:
         return None
 
-    return float(nums[-1])
+    values = [float(x) for x in nums]
+
+    # Prefer plausible percentage values.
+    percentage_like = [v for v in values if 0 <= v <= 100]
+
+    if percentage_like:
+        return percentage_like[-1]
+
+    return values[-1]
 
 
-def parse_cross_validation_file(path: Path, valid_suites: List[str]) -> Tuple[pd.DataFrame, float | None]:
+def parse_cross_validation_file(
+    path: Path,
+    valid_suites: List[str],
+) -> Tuple[pd.DataFrame, Optional[float]]:
     rows = []
     random_value = None
 
+    # Longest first avoids matching a shorter suite inside a longer suite name.
     valid_suites = sorted(valid_suites, key=len, reverse=True)
 
     with open(path, "r", encoding="utf-8") as f:
@@ -96,7 +139,7 @@ def parse_cross_validation_file(path: Path, valid_suites: List[str]) -> Tuple[pd
         lower = line.lower()
 
         if lower.startswith("random") or " random " in f" {lower} ":
-            val = extract_last_number(line)
+            val = extract_number_excluding_suite(line)
 
             if val is not None:
                 random_value = val
@@ -105,10 +148,16 @@ def parse_cross_validation_file(path: Path, valid_suites: List[str]) -> Tuple[pd
 
         for suite in valid_suites:
             if suite in line:
-                val = extract_last_number(line)
+                val = extract_number_excluding_suite(line, suite=suite)
 
                 if val is not None:
-                    rows.append({"suite": suite, "overlap": val})
+                    rows.append(
+                        {
+                            "suite": suite,
+                            "overlap": val,
+                            "raw_line": line,
+                        }
+                    )
 
                 break
 
@@ -120,7 +169,7 @@ def parse_cross_validation_file(path: Path, valid_suites: List[str]) -> Tuple[pd
 
     df = pd.DataFrame(rows).drop_duplicates(subset=["suite"], keep="last")
 
-    # Convert fractions to percentages if needed.
+    # If values are fractions, convert to percentages.
     if df["overlap"].max() <= 1.0:
         df["overlap"] *= 100.0
 
@@ -150,7 +199,7 @@ def make_category_colors(categories: List[str]) -> Dict[str, tuple]:
 
 def plot_cross_validation(
     df: pd.DataFrame,
-    random_value: float | None,
+    random_value: Optional[float],
     suite_to_category: Dict[str, str],
     dataset: str,
     directory: str,
@@ -183,9 +232,6 @@ def plot_cross_validation(
     categories_in_plot = list(dict.fromkeys(plot_df["category"].tolist()))
     category_to_color = make_category_colors(categories_in_plot)
 
-    bar_labels = [pretty_name(x) for x in plot_df["label"]]
-    bar_colors = [category_to_color[c] for c in plot_df["category"]]
-
     if random_value is not None:
         random_row = pd.DataFrame(
             {
@@ -196,21 +242,25 @@ def plot_cross_validation(
         )
 
         plot_df = pd.concat([random_row, plot_df], ignore_index=True)
-        bar_labels = ["Random"] + bar_labels
-        bar_colors = ["#BDBDBD"] + bar_colors
+        category_to_color["Random"] = "#BDBDBD"
 
     n = len(plot_df)
 
     if aggregate_by_category:
         fig_height = max(7, 0.35 * n + 1.5)
         label_fontsize = 10
+        value_fontsize = 11
     else:
         fig_height = max(10, 0.18 * n + 1.5)
         label_fontsize = 5.5
+        value_fontsize = 8
 
     fig, ax = plt.subplots(figsize=(15, fig_height))
 
     y = np.arange(n)
+
+    bar_labels = [pretty_name(x) for x in plot_df["label"]]
+    bar_colors = [category_to_color[c] for c in plot_df["category"]]
 
     bars = ax.barh(
         y,
@@ -245,8 +295,13 @@ def plot_cross_validation(
             f"{val:.2f}%",
             va="center",
             ha="left",
-            fontsize=9 if not aggregate_by_category else 11,
+            fontsize=value_fontsize,
         )
+
+    legend_categories = categories_in_plot.copy()
+
+    if random_value is not None:
+        legend_categories.append("Random")
 
     legend_handles = [
         Patch(
@@ -254,17 +309,8 @@ def plot_cross_validation(
             edgecolor="black",
             label=pretty_name(cat),
         )
-        for cat in categories_in_plot
+        for cat in legend_categories
     ]
-
-    if random_value is not None:
-        legend_handles.append(
-            Patch(
-                facecolor="#BDBDBD",
-                edgecolor="black",
-                label="Random",
-            )
-        )
 
     ax.legend(
         handles=legend_handles,
@@ -315,8 +361,9 @@ def main():
 
     df, random_value = parse_cross_validation_file(path, valid_suites)
 
-    print(df.head())
-    print(f"Parsed {len(df)} rows")
+    print("\nParsed values:")
+    print(df[["suite", "overlap"]].sort_values("overlap", ascending=False).to_string(index=False))
+    print(f"\nParsed {len(df)} rows")
     print(f"Random value: {random_value}")
 
     plot_cross_validation(
