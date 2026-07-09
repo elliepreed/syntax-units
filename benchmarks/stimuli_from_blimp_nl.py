@@ -5,15 +5,14 @@ import pandas as pd
 from datasets import get_dataset_config_names, load_dataset
 
 
-DATASET_ID = "juletxara/blimp-nl"
+DATASET_ID = "jmichaelov/blimp_nl"
 
-# This script is inside benchmarks/
 BENCHMARKS_DIR = Path(__file__).resolve().parent
 
 RAW_DIR = BENCHMARKS_DIR / "raw" / "blimp-nl"
 PROCESSED_DIR = BENCHMARKS_DIR / "processed" / "blimp-nl"
 
-CLEAR_OLD_RAW = False
+CLEAR_OLD_RAW = True
 CLEAR_OLD_PROCESSED = True
 
 
@@ -37,14 +36,19 @@ def download_raw():
     for config in configs:
         out_path = RAW_DIR / f"{config}.csv"
 
-        if out_path.exists():
-            print(f"Raw file already exists, skipping: {out_path}")
-            continue
-
         print(f"\nDownloading subset: {config}")
 
-        ds = load_dataset(DATASET_ID, config, split="train")
+        ds = load_dataset(DATASET_ID, config, split="test")
         df = ds.to_pandas()
+
+        required = {"sentence_good", "sentence_bad"}
+        missing = required - set(df.columns)
+
+        if missing:
+            raise ValueError(
+                f"{config} is missing required columns: {missing}. "
+                f"Available columns: {list(df.columns)}"
+            )
 
         df.to_csv(out_path, index=False)
         print(f"Saved {len(df)} rows to {out_path}")
@@ -131,6 +135,7 @@ def convert_all():
 def main():
     print("=" * 80)
     print("BLiMP-NL raw download + stimuli conversion")
+    print("Dataset:", DATASET_ID)
     print("Raw dir:", RAW_DIR)
     print("Processed dir:", PROCESSED_DIR)
     print("=" * 80)
