@@ -1,0 +1,7 @@
+799 (91.84%) obj_rel_across_anim
+793 (91.15%) subj_rel
+781 (89.77%) prep_anim
+765 (87.93%) obj_rel_within_anim
+677 (77.82%) long_vp_coord
+666 (76.55%) vp_coord
+599 (68.85%) simple_agrmt
