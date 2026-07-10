@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "/local/scratch/ep757/syntax-units/ablation.py", line 4, in <module>
-    import torch
-  File "/home/ep757/anaconda3/envs/syntax-head/lib/python3.11/site-packages/torch/__init__.py", line 405, in <module>
-    from torch._C import *  # noqa: F403
-    ^^^^^^^^^^^^^^^^^^^^^^
-  File "<frozen importlib._bootstrap>", line 216, in _lock_unlock_module
-KeyboardInterrupt
