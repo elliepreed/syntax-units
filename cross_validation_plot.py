@@ -25,6 +25,7 @@ def build_suite_to_category(dataset_key):
     """
     Build mapping:
         suite/paradigm -> broad category
+
     Works whether CATEGORIES[dataset_key] is:
       - dict[category] = list_of_suites
       - dict[category] = dict[subsuite] = ...
@@ -47,12 +48,12 @@ def get_category_colors(dataset_key, unique_cats):
     if dataset_key in CATEGORY_COLORS:
         palette = CATEGORY_COLORS[dataset_key]
     else:
-        # fallback palette
         palette = list(plt.cm.tab20.colors)
 
     color_map = {}
     for i, cat in enumerate(unique_cats):
         color_map[cat] = palette[i % len(palette)]
+
     return color_map
 
 
@@ -69,10 +70,12 @@ def parse_result_filename(fname, dataset_key, percentage, num_folds):
 
     if not fname.startswith(prefix):
         return None
+
     if not fname.endswith(suffix):
         return None
 
     model_name = fname[len(prefix):-len(suffix)]
+
     return model_name
 
 
@@ -104,6 +107,7 @@ def main():
             percentage=args.percentage,
             num_folds=args.num_folds,
         )
+
         if model_name is None:
             continue
 
@@ -117,6 +121,7 @@ def main():
         with open(os.path.join(args.directory, fname)) as fh:
             for ln in fh:
                 parts = ln.strip().split()
+
                 if len(parts) < 3:
                     continue
 
@@ -125,9 +130,10 @@ def main():
 
                 add_score(suite_rows, model_name, suite_name, raw_overlap)
 
-        # add random baseline
         rand_score = random_overlap_expected(
-            n_units_total, k_units, n_folds=args.num_folds
+            n_units_total,
+            k_units,
+            n_folds=args.num_folds,
         )
         add_score(suite_rows, model_name, "Random", float(rand_score))
 
@@ -140,50 +146,62 @@ def main():
 
     model_list = sorted(model_names)
 
-    # average percentage overlap across models for each suite/paradigm
+    # Average percentage overlap across models for each suite/paradigm.
     avg_entries = {}
+
     for suite, individual_scores in suite_rows.items():
         vals = []
+
         for model in model_list:
             if model not in individual_scores:
                 continue
-            vals.append(100 * individual_scores[model] / percentage_units[model])
+
+            vals.append(
+                100 * individual_scores[model] / percentage_units[model]
+            )
+
         if vals:
             avg_entries[suite] = float(np.mean(vals))
 
-    # print overall average excluding Random
     non_random = [v for k, v in avg_entries.items() if k != "Random"]
+
     if non_random:
         print("Average overlap:", np.mean(non_random))
 
     suite_to_cat = build_suite_to_category(dataset_key)
 
     unique_cats = []
+
     for suite in avg_entries:
         if suite == "Random":
             continue
+
         if suite in suite_to_cat and suite_to_cat[suite] not in unique_cats:
             unique_cats.append(suite_to_cat[suite])
 
     cat2color = get_category_colors(dataset_key, unique_cats)
 
-    GREY_RAND = "#D3D3D3"
+    grey_rand = "#D3D3D3"
 
-    # sort descending by average overlap
-    avg_entries = dict(sorted(avg_entries.items(), key=lambda kv: kv[1], reverse=True))
+    # Sort descending by average overlap.
+    avg_entries = dict(
+        sorted(avg_entries.items(), key=lambda kv: kv[1], reverse=True)
+    )
 
     n_bars = len(avg_entries)
     fig_height = max(5, n_bars * 0.22)
+
     fig, ax = plt.subplots(figsize=(8.6, fig_height))
 
     y_pos = np.arange(n_bars)
 
-    max_val = max(avg_entries.values()) if avg_entries else 100
-    x_max = max(110, max_val + 15)   # extra room for labels outside
+    # Main grid is fixed at 0--100.
+    # Percent labels are placed outside the axes.
+    ax.set_xlim(0, 100)
 
     for i, (suite, avg_score) in enumerate(avg_entries.items()):
         if suite == "Random":
-            color = GREY_RAND
+            color = grey_rand
         else:
             color = cat2color.get(suite_to_cat.get(suite, ""), "#1f77b4")
 
@@ -195,27 +213,30 @@ def main():
             edgecolor="black",
         )
 
-        # percentage label OUTSIDE the bar, on the right
+        # Percentage labels outside the main plotting grid.
+        # x=1.03 means just beyond the right edge of the axes.
         ax.text(
-            avg_score + 1.5,
+            1.03,
             y_pos[i],
             f"{avg_score:.2f}%",
+            transform=ax.get_yaxis_transform(),
             va="center",
             ha="left",
             fontsize=10,
+            clip_on=False,
         )
 
     ax.set_xlabel("Percentage of Units", fontsize=12)
-    ax.set_xlim(0, x_max)
     ax.tick_params(axis="x", labelsize=10)
 
-    # no individual paradigm labels on the left
+    # No individual paradigm labels on the left.
     ax.set_yticks([])
     ax.invert_yaxis()
 
     ax.set_title(args.title, fontsize=14)
 
     handles = []
+
     for cat in unique_cats:
         handles.append(
             Line2D(
@@ -238,25 +259,33 @@ def main():
                 marker="s",
                 linestyle="",
                 markersize=10,
-                markerfacecolor=GREY_RAND,
+                markerfacecolor=grey_rand,
                 markeredgecolor="black",
                 label="Random",
             )
         )
 
+    # Legend sits further right, after the percentage column.
     ax.legend(
         handles=handles,
-        bbox_to_anchor=(1.02, 1),
+        bbox_to_anchor=(1.22, 1),
         loc="upper left",
         frameon=True,
     )
 
-    plt.tight_layout()
+    # Leave room on the right for percentage labels and legend.
+    fig.subplots_adjust(
+        left=0.06,
+        right=0.62,
+        top=0.90,
+        bottom=0.12,
+    )
 
     out_base = os.path.join(
         args.directory,
-        f"cross_validation_{dataset_key}_paradigm"
+        f"cross_validation_{dataset_key}_paradigm",
     )
+
     fig.savefig(f"{out_base}.pdf", bbox_inches="tight")
     fig.savefig(f"{out_base}.png", dpi=300, bbox_inches="tight")
 
