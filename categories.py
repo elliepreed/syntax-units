@@ -548,12 +548,10 @@ FAMILIES = {
     "uncategorized": [
         "xpg",
     ]
-},
+}
 
-
-
-    "rublimp_subject_predicate_agreement": {
-        "subject_predicate_agreement": [
+CATEGORIES["rublimp_subject_predicate_agreement"] = {
+    "subject_predicate_agreement": [
         "clause_subj_predicate_agreement_gender",
         "clause_subj_predicate_agreement_number",
         "clause_subj_predicate_agreement_person",
