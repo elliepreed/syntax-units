@@ -1,4 +1,23 @@
 CATEGORIES = {
+
+    "turblimp" = {
+        "anaphor_agreement": ["anaphor_agreement"],
+        "argument_structure_ditransitive": ["argument_structure_ditransitive"],
+        "argument_structure_transitive": ["argument_structure_transitive"],
+        "binding": ["binding"],
+        "determiners": ["determiners"],
+        "ellipsis": ["ellipsis"],
+        "irregular_forms": ["irregular_forms"],
+        "island_effects": ["island_effects"],
+        "nominalization": ["nominalization"],
+        "npi_licensing": ["npi_licensing"],
+        "quantifiers": ["quantifiers"],
+        "question_formation": ["question_formation"],
+        "suspended_affixation": ["suspended_affixation"],
+        "verb_agreement": ["verb_agreement"],
+        "word_order": ["word_order"],
+        "word_structure": ["word_structure"],
+    },
     
     "clams_ru": {
         "Subject-Verb Agreement": [
