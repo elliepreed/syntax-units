@@ -1,4 +1,5 @@
 from pathlib import Path
+import argparse
 
 import numpy as np
 import pandas as pd
@@ -9,12 +10,6 @@ INPUT_PATH = Path(
     "multilingual/turblimp/"
     "cross-overlap_turblimp_turblimp_gemma-3-4b-pt_1.0%.csv"
 )
-
-OUT_PNG = Path("multilingual/turblimp/cross_overlap_subject_agreement_turblimp.png")
-OUT_PDF = Path("multilingual/turblimp/cross_overlap_subject_agreement_turblimp.pdf")
-
-TARGET = "subject_agreement"
-
 
 LABELS = {
     "anaphor_agreement": "Anaphor Agreement",
@@ -58,39 +53,51 @@ def convert_to_percent_if_needed(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--target",
+        default="anaphor_agreement",
+        help="TurBLiMP phenomenon to compare against all others.",
+    )
+    parser.add_argument(
+        "--model",
+        default="gemma-3-4b-pt",
+    )
+    args = parser.parse_args()
+
+    target = args.target
+
     if not INPUT_PATH.exists():
         raise FileNotFoundError(f"Could not find {INPUT_PATH}")
 
     df = pd.read_csv(INPUT_PATH, index_col=0)
     df = convert_to_percent_if_needed(df)
 
-    if TARGET not in df.index:
+    if target not in df.index:
         print("Available rows:")
         for row in df.index:
             print(" ", row)
-        raise KeyError(f"{TARGET!r} not found in matrix rows.")
+        raise KeyError(f"{target!r} not found in matrix rows.")
 
-    if TARGET not in df.columns:
+    if target not in df.columns:
         print("Available columns:")
         for col in df.columns:
             print(" ", col)
-        raise KeyError(f"{TARGET!r} not found in matrix columns.")
+        raise KeyError(f"{target!r} not found in matrix columns.")
 
     rows = []
 
     for category in df.columns:
-        if category == TARGET:
+        if category == target:
             continue
 
-        # Within-dataset cross-overlap should be symmetric, but average row/column
-        # values just in case the saved matrix has small orientation differences.
         vals = []
 
         if category in df.columns:
-            vals.append(float(df.loc[TARGET, category]))
+            vals.append(float(df.loc[target, category]))
 
         if category in df.index:
-            vals.append(float(df.loc[category, TARGET]))
+            vals.append(float(df.loc[category, target]))
 
         vals = [v for v in vals if np.isfinite(v)]
 
@@ -107,7 +114,7 @@ def main():
 
     plot_df = pd.DataFrame(rows).sort_values("overlap", ascending=False)
 
-    print("\nSubject Agreement overlap with other TurBLiMP phenomena:")
+    print(f"\n{pretty_name(target)} overlap with other TurBLiMP phenomena:")
     print(plot_df[["category", "overlap"]].to_string(index=False))
 
     fig_height = max(5, 0.35 * len(plot_df) + 1.5)
@@ -133,14 +140,13 @@ def main():
     ax.set_xlim(0, x_max)
     ax.set_xlabel("Percentage of units", fontsize=12)
     ax.set_title(
-        "Overlap of Subject Agreement with other TurBLiMP phenomena\n"
-        "(gemma-3-4b-pt, top 1% units)",
+        f"Overlap of {pretty_name(target)} with other TurBLiMP phenomena\n"
+        f"({args.model}, top 1% units)",
         fontsize=13,
     )
 
     ax.grid(axis="x", linestyle=":", alpha=0.4, zorder=0)
 
-    # Random top-1% overlap baseline.
     ax.axvline(1.0, linestyle="--", linewidth=1.0)
     ax.text(
         1.2,
@@ -151,7 +157,6 @@ def main():
         fontsize=9,
     )
 
-    # Percent labels outside bars.
     for i, val in enumerate(plot_df["overlap"]):
         ax.text(
             val + 0.4,
@@ -168,11 +173,15 @@ def main():
 
     fig.tight_layout()
 
-    fig.savefig(OUT_PNG, dpi=300, bbox_inches="tight")
-    fig.savefig(OUT_PDF, bbox_inches="tight")
+    out_stem = f"cross_overlap_{target}_turblimp"
+    out_png = Path("multilingual/turblimp") / f"{out_stem}.png"
+    out_pdf = Path("multilingual/turblimp") / f"{out_stem}.pdf"
 
-    print(f"\nSaved {OUT_PNG}")
-    print(f"Saved {OUT_PDF}")
+    fig.savefig(out_png, dpi=300, bbox_inches="tight")
+    fig.savefig(out_pdf, bbox_inches="tight")
+
+    print(f"\nSaved {out_png}")
+    print(f"Saved {out_pdf}")
 
 
 if __name__ == "__main__":
