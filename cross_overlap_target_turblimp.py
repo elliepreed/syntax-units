@@ -4,12 +4,16 @@ import argparse
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+from matplotlib.patches import Patch
 
 
 INPUT_PATH = Path(
     "multilingual/turblimp/"
     "cross-overlap_turblimp_turblimp_gemma-3-4b-pt_1.0%.csv"
 )
+
+OUT_DIR = Path("multilingual/turblimp")
+
 
 LABELS = {
     "anaphor_agreement": "Anaphor Agreement",
@@ -31,11 +35,48 @@ LABELS = {
 }
 
 
+# Stable order so colours stay consistent across Subject Agreement and Anaphor Agreement plots.
+PHENOMENON_ORDER = [
+    "anaphor_agreement",
+    "argument_structure_ditransitive",
+    "argument_structure_transitive",
+    "binding",
+    "determiners",
+    "ellipsis",
+    "irregular_forms",
+    "island_effects",
+    "nominalization",
+    "npi_licensing",
+    "passives",
+    "quantifiers",
+    "relative_clauses",
+    "scrambling",
+    "subject_agreement",
+    "suspended_affixation",
+]
+
+
 def pretty_name(name: str) -> str:
     if name in LABELS:
         return LABELS[name]
 
     return name.replace("_", " ").replace("-", " ").title()
+
+
+def build_color_map(categories):
+    """
+    Assign a stable distinct colour to each TurBLiMP phenomenon.
+    """
+    cmap = plt.get_cmap("tab20")
+    palette = [cmap(i) for i in range(cmap.N)]
+
+    ordered = [c for c in PHENOMENON_ORDER if c in categories]
+    ordered += [c for c in categories if c not in ordered]
+
+    return {
+        category: palette[i % len(palette)]
+        for i, category in enumerate(ordered)
+    }
 
 
 def convert_to_percent_if_needed(df: pd.DataFrame) -> pd.DataFrame:
@@ -56,7 +97,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--target",
-        default="anaphor_agreement",
+        default="subject_agreement",
         help="TurBLiMP phenomenon to compare against all others.",
     )
     parser.add_argument(
@@ -117,8 +158,11 @@ def main():
     print(f"\n{pretty_name(target)} overlap with other TurBLiMP phenomena:")
     print(plot_df[["category", "overlap"]].to_string(index=False))
 
+    color_map = build_color_map(plot_df["category"].tolist())
+    bar_colors = [color_map[c] for c in plot_df["category"]]
+
     fig_height = max(5, 0.35 * len(plot_df) + 1.5)
-    fig, ax = plt.subplots(figsize=(8.5, fig_height))
+    fig, ax = plt.subplots(figsize=(8.8, fig_height))
 
     y = np.arange(len(plot_df))
 
@@ -126,8 +170,10 @@ def main():
         y,
         plot_df["overlap"],
         height=0.75,
+        color=bar_colors,
         edgecolor="black",
         linewidth=0.9,
+        zorder=2,
     )
 
     ax.set_yticks(y)
@@ -147,7 +193,8 @@ def main():
 
     ax.grid(axis="x", linestyle=":", alpha=0.4, zorder=0)
 
-    ax.axvline(1.0, linestyle="--", linewidth=1.0)
+    # Random top-1% overlap baseline.
+    ax.axvline(1.0, linestyle="--", linewidth=1.0, color="black")
     ax.text(
         1.2,
         -0.65,
@@ -157,6 +204,7 @@ def main():
         fontsize=9,
     )
 
+    # Percentage labels outside bars.
     for i, val in enumerate(plot_df["overlap"]):
         ax.text(
             val + 0.4,
@@ -174,8 +222,8 @@ def main():
     fig.tight_layout()
 
     out_stem = f"cross_overlap_{target}_turblimp"
-    out_png = Path("multilingual/turblimp") / f"{out_stem}.png"
-    out_pdf = Path("multilingual/turblimp") / f"{out_stem}.pdf"
+    out_png = OUT_DIR / f"{out_stem}.png"
+    out_pdf = OUT_DIR / f"{out_stem}.pdf"
 
     fig.savefig(out_png, dpi=300, bbox_inches="tight")
     fig.savefig(out_pdf, bbox_inches="tight")
