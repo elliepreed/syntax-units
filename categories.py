@@ -548,4 +548,22 @@ FAMILIES = {
     "uncategorized": [
         "xpg",
     ]
+},
+
+
+
+    "rublimp_subject_predicate_agreement": {
+        "subject_predicate_agreement": [
+        "clause_subj_predicate_agreement_gender",
+        "clause_subj_predicate_agreement_number",
+        "clause_subj_predicate_agreement_person",
+        "genitive_subj_predicate_agreement_gender",
+        "genitive_subj_predicate_agreement_number",
+        "genitive_subj_predicate_agreement_person",
+        "noun_subj_predicate_agreement_gender",
+        "noun_subj_predicate_agreement_number",
+        "noun_subj_predicate_agreement_person",
+        "subj_predicate_agreement_gender_attractor",
+        "subj_predicate_agreement_number_attractor",
+    ],
 }
