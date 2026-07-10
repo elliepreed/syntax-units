@@ -1,4 +1,17 @@
 CATEGORIES = {
+    
+    "clams_ru": {
+        "Subject-Verb Agreement": [
+            "long_vp_coord",
+            "obj_rel_across_anim",
+            "obj_rel_within_anim",
+            "prep_anim",
+            "simple_agrmt",
+            "subj_rel",
+            "vp_coord",
+        ],
+    },
+    
     "blimp-nl": {
         "anaphor_agreement": [
             "anaphor_agreement__number",
