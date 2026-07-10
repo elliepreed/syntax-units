@@ -567,3 +567,5 @@ FAMILIES = {
         "subj_predicate_agreement_number_attractor",
     ],
 }
+
+CATEGORIES["clams_ru_shuffled"] = CATEGORIES["clams_ru"]
