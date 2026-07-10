@@ -8,8 +8,68 @@ from matplotlib.lines import Line2D
 
 from categories import CATEGORIES
 from model_utils import get_num_blocks, get_hidden_dim
-from plot_utils import pretty_category_name, CATEGORY_COLORS
+from plot_utils import CATEGORY_COLORS
 from utils import random_overlap_expected
+
+
+TURBLIMP_LABELS = {
+    "anaphor_agreement": "Anaphor Agreement",
+    "argument_structure_transitive": "Arg. Struct. Trans.",
+    "argument_structure_ditransitive": "Arg. Struct. Ditrans.",
+    "binding": "Binding",
+    "determiners": "Determiners",
+    "ellipsis": "Ellipsis",
+    "irregular_forms": "Irregular Forms",
+    "island_effects": "Island Effects",
+    "nominalization": "Nominalization",
+    "npi_licensing": "NPI Licensing",
+    "passives": "Passives",
+    "quantifiers": "Quantifiers",
+    "relative_clauses": "Relative Clauses",
+    "scrambling": "Scrambling",
+    "subject_agreement": "Subject Agreement",
+    "suspended_affixation": "Suspended Affixation",
+    "random": "Random",
+    "blimp-control_(avg.)": "BLiMP-Control",
+}
+
+
+TURBLIMP_LEGEND_ORDER = [
+    "anaphor_agreement",
+    "argument_structure_transitive",
+    "argument_structure_ditransitive",
+    "binding",
+    "determiners",
+    "ellipsis",
+    "irregular_forms",
+    "island_effects",
+    "nominalization",
+    "npi_licensing",
+    "passives",
+    "quantifiers",
+    "relative_clauses",
+    "scrambling",
+    "subject_agreement",
+    "suspended_affixation",
+]
+
+
+def norm_name(x):
+    return str(x).strip().lower().replace(" ", "_")
+
+
+def display_name(name):
+    key = norm_name(name)
+
+    if key in TURBLIMP_LABELS:
+        return TURBLIMP_LABELS[key]
+
+    return (
+        str(name)
+        .replace("_", " ")
+        .replace("-", " ")
+        .title()
+    )
 
 
 def read_control_file(path: str, expect_many: bool):
@@ -41,30 +101,59 @@ def add_score(table, model_name, suite, score):
 
 
 def build_category_map(dataset_key):
+    """
+    Build:
+        normalised suite name -> normalised category/phenomenon name
+
+    If categories.py has one-suite-per-category, this still works.
+    """
     category_map = {}
 
+    if dataset_key not in CATEGORIES:
+        return category_map
+
     for cat, subdict in CATEGORIES[dataset_key].items():
+        cat_key = norm_name(cat)
+
         if isinstance(subdict, dict):
             suite_names = subdict.keys()
         else:
             suite_names = subdict
 
         for suite_name in suite_names:
-            category_map[suite_name] = cat
+            category_map[norm_name(suite_name)] = cat_key
 
     return category_map
 
 
-def build_category_colors(dataset_key, unique_cats):
+def build_category_colors(dataset_key, categories_in_plot):
+    """
+    Assign one colour per phenomenon/category.
+    For TurBLiMP, use a stable order so legend/bar colours remain consistent.
+    """
     if dataset_key in CATEGORY_COLORS:
         palette = CATEGORY_COLORS[dataset_key]
     else:
         palette = list(plt.cm.tab20.colors)
 
-    return {
-        cat: palette[i % len(palette)]
-        for i, cat in enumerate(unique_cats)
-    }
+    color_map = {}
+
+    if dataset_key == "turblimp":
+        ordered = [
+            c for c in TURBLIMP_LEGEND_ORDER
+            if c in categories_in_plot
+        ]
+        ordered += [
+            c for c in categories_in_plot
+            if c not in ordered
+        ]
+    else:
+        ordered = categories_in_plot
+
+    for i, cat in enumerate(ordered):
+        color_map[cat] = palette[i % len(palette)]
+
+    return color_map
 
 
 if __name__ == "__main__":
@@ -76,18 +165,9 @@ if __name__ == "__main__":
 
     dataset_key = args.dataset.lower()
 
-    if dataset_key not in CATEGORIES:
-        raise KeyError(
-            f"Dataset '{dataset_key}' not found in CATEGORIES. "
-            f"Available keys: {list(CATEGORIES.keys())}"
-        )
-
     model_names = set()
     suite_rows = {}
     percentage_units = {}
-
-    num = 0
-    overlap_sum = 0
 
     for fname in os.listdir(args.directory):
         if fname.startswith(f"cross-validation_{dataset_key}_") and fname.endswith(
@@ -102,7 +182,6 @@ if __name__ == "__main__":
 
             n_units_total = get_num_blocks(model_name) * get_hidden_dim(model_name)
             k_units = int(n_units_total * percent)
-
             percentage_units[model_name] = k_units
 
             with open(os.path.join(args.directory, fname)) as fh:
@@ -114,9 +193,6 @@ if __name__ == "__main__":
 
                     raw_overlap = float(parts[0])
                     suite_name = parts[2]
-
-                    overlap_sum += raw_overlap / k_units
-                    num += 1
 
                     add_score(suite_rows, model_name, suite_name, raw_overlap)
 
@@ -177,22 +253,52 @@ if __name__ == "__main__":
 
     category_map = build_category_map(dataset_key)
 
-    unique_cats = sorted(
-        set(
-            category_map[suite]
-            for suite in avg_entries
-            if suite in category_map
-        )
-    )
+    # Map every plotted suite to a phenomenon/category.
+    # If a suite is missing from categories.py, treat the suite itself as its category.
+    suite_to_plot_category = {}
 
-    cat2color = build_category_colors(dataset_key, unique_cats)
+    for suite in avg_entries:
+        suite_key = norm_name(suite)
 
-    GREY_CTRL = "#888888"
-    GREY_RAND = "#bbbbbb"
+        if suite == "Random":
+            suite_to_plot_category[suite] = "random"
+        elif suite.startswith("BLiMP-Control"):
+            suite_to_plot_category[suite] = "blimp-control_(avg.)"
+        elif suite_key in category_map:
+            suite_to_plot_category[suite] = category_map[suite_key]
+        else:
+            suite_to_plot_category[suite] = suite_key
 
+    # Sort bars descending by overlap.
     avg_entries = dict(
         sorted(avg_entries.items(), key=lambda kv: kv[1], reverse=True)
     )
+
+    # Build legend categories using desired TurBLiMP order where possible.
+    categories_in_plot = []
+
+    if dataset_key == "turblimp":
+        for cat in TURBLIMP_LEGEND_ORDER:
+            if cat in suite_to_plot_category.values():
+                categories_in_plot.append(cat)
+
+        for cat in suite_to_plot_category.values():
+            if cat not in categories_in_plot and cat not in {
+                "random",
+                "blimp-control_(avg.)",
+            }:
+                categories_in_plot.append(cat)
+    else:
+        for suite in avg_entries:
+            cat = suite_to_plot_category[suite]
+
+            if cat not in {"random", "blimp-control_(avg.)"} and cat not in categories_in_plot:
+                categories_in_plot.append(cat)
+
+    cat2color = build_category_colors(dataset_key, categories_in_plot)
+
+    GREY_CTRL = "#888888"
+    GREY_RAND = "#bbbbbb"
 
     n_bars = len(avg_entries)
     bar_h = 1.0
@@ -202,17 +308,18 @@ if __name__ == "__main__":
 
     y_pos = np.arange(n_bars)
 
-    # Keep the actual plot/grid fixed at 0--100.
-    # The percentage labels are drawn outside the right spine.
+    # Keep the main grid fixed at 0--100.
     ax.set_xlim(0, 100)
 
     for i, (suite, avg_score) in enumerate(avg_entries.items()):
-        if suite.startswith("BLiMP-Control"):
+        cat = suite_to_plot_category[suite]
+
+        if cat == "blimp-control_(avg.)":
             color = GREY_CTRL
-        elif suite == "Random":
+        elif cat == "random":
             color = GREY_RAND
         else:
-            color = cat2color.get(category_map.get(suite, ""), "#1f77b4")
+            color = cat2color.get(cat, "#1f77b4")
 
         ax.barh(
             y_pos[i],
@@ -222,7 +329,7 @@ if __name__ == "__main__":
             edgecolor="black",
         )
 
-        # Percentage labels outside the main grid, like the sLing plot.
+        # Percentage labels outside the main grid.
         ax.text(
             1.03,
             y_pos[i],
@@ -260,7 +367,7 @@ if __name__ == "__main__":
 
     handles = []
 
-    for cat in unique_cats:
+    for cat in categories_in_plot:
         handles.append(
             Line2D(
                 [0],
@@ -270,11 +377,11 @@ if __name__ == "__main__":
                 markersize=10,
                 markerfacecolor=cat2color[cat],
                 markeredgecolor="black",
-                label=pretty_category_name(cat),
+                label=display_name(cat),
             )
         )
 
-    if "BLiMP-Control (Avg.)" in suite_rows:
+    if "blimp-control_(avg.)" in suite_to_plot_category.values():
         handles.append(
             Line2D(
                 [0],
@@ -288,7 +395,7 @@ if __name__ == "__main__":
             )
         )
 
-    if "Random" in suite_rows:
+    if "random" in suite_to_plot_category.values():
         handles.append(
             Line2D(
                 [0],
@@ -302,7 +409,6 @@ if __name__ == "__main__":
             )
         )
 
-    # Legend further right, after the percentage column.
     ax.legend(
         handles=handles,
         bbox_to_anchor=(1.22, 1),
@@ -310,8 +416,6 @@ if __name__ == "__main__":
         frameon=True,
     )
 
-    # Do not use tight_layout here; it tends to pull the outside text/legend oddly.
-    # This leaves explicit room for percentage labels and legend.
     fig.subplots_adjust(
         left=0.06,
         right=0.62,
@@ -319,12 +423,11 @@ if __name__ == "__main__":
         bottom=0.12,
     )
 
-    fig.savefig(
-        f"{args.directory}/cross_validation_{dataset_key}.pdf",
-        bbox_inches="tight",
-    )
-    fig.savefig(
-        f"{args.directory}/cross_validation_{dataset_key}.png",
-        dpi=300,
-        bbox_inches="tight",
-    )
+    out_pdf = f"{args.directory}/cross_validation_{dataset_key}.pdf"
+    out_png = f"{args.directory}/cross_validation_{dataset_key}.png"
+
+    fig.savefig(out_pdf, bbox_inches="tight")
+    fig.savefig(out_png, dpi=300, bbox_inches="tight")
+
+    print(f"Saved {out_pdf}")
+    print(f"Saved {out_png}")
