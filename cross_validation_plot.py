@@ -18,38 +18,37 @@ def pretty_name(name: str) -> str:
         "turblimp": "TurBLiMP",
         "clams_ru": "CLAMS-RU",
 
-        "wh_movement": "Wh-Movement",
-        "wh_movement_restrictions": "Wh-Movement Restrictions",
-        "r_words": "R-Words",
-        "adpositional_phrases": "Adpositional Phrases",
-        "adverbial_modification": "Adverbial Modification",
+        "alternative_question": "Alternative Question",
         "anaphor_agreement": "Anaphor Agreement",
+        "anaphor_gender_agreement": "Anaphor Gender Agreement",
+        "anaphor_number_agreement": "Anaphor Number Agreement",
         "argument_structure": "Argument Structure",
         "argument_structure_ditransitive": "Argument Structure Ditransitive",
         "argument_structure_transitive": "Argument Structure Transitive",
-        "auxiliaries": "Auxiliaries",
+        "aspect": "Aspect",
         "binding": "Binding",
         "binding_principle_a": "Binding Principle A",
-        "complementive": "Complementive",
-        "crossing_dependencies": "Crossing Dependencies",
+        "clause_structure": "Clause Structure",
+        "cls_n_agreement": "CLS-N Agreement",
         "determiners": "Determiners",
+        "definiteness": "Definiteness",
         "ellipsis": "Ellipsis",
-        "extraposition": "Extraposition",
-        "finite_argument_clause": "Finite Argument Clause",
-        "infinitival_argument_clause": "Infinitival Argument Clause",
         "irregular_forms": "Irregular Forms",
         "island_effects": "Island Effects",
         "nominalization": "Nominalization",
         "npi_licensing": "NPI Licensing",
-        "parasitic_gaps": "Parasitic Gaps",
+        "passives": "Passives",
         "passive": "Passive",
+        "polarity_item": "Polarity Item",
         "quantifiers": "Quantifiers",
         "question_formation": "Question Formation",
-        "relativization": "Relativization",
+        "relative_clause": "Relative Clause",
+        "relative_clauses": "Relative Clauses",
+        "scrambling": "Scrambling",
+        "subject_agreement": "Subject Agreement",
         "suspended_affixation": "Suspended Affixation",
-        "topicalization": "Topicalization",
         "verb_agreement": "Verb Agreement",
-        "verb_second": "Verb Second",
+        "wh_fronting": "Wh-Fronting",
         "word_order": "Word Order",
         "word_structure": "Word Structure",
     }
@@ -109,8 +108,9 @@ def build_suite_to_category(dataset: str) -> Dict[str, str]:
 
 def extract_percentage(line: str, suite: Optional[str] = None) -> Optional[float]:
     """
-    Prefer the value inside parentheses, e.g.
+    Prefer value inside parentheses:
         559 (64.25%) simple_agrmt
+
     Falls back to extracting numbers after removing the suite name.
     """
     paren_match = re.search(r"\(([-+]?\d*\.\d+|[-+]?\d+)%?\)", line)
@@ -172,7 +172,6 @@ def parse_cross_validation_file(
                 break
 
         if matched_suite is None:
-            # Fallback: assume the final whitespace-separated token is the suite name.
             parts = line.split()
             if parts:
                 matched_suite = parts[-1]
@@ -199,7 +198,6 @@ def parse_cross_validation_file(
 
     df = pd.DataFrame(rows).drop_duplicates(subset=["suite"], keep="last")
 
-    # Convert fractions to percentages if needed.
     if df["overlap"].max() <= 1.0:
         df["overlap"] *= 100.0
 
@@ -272,20 +270,13 @@ def plot_cross_validation(
 
     n = len(plot_df)
 
-    if aggregate_by_category:
-        fig_height = max(7, 0.4 * n + 1.5)
-        label_fontsize = 10
-        value_fontsize = 10
-    else:
-        fig_height = max(7, 0.35 * n + 1.5)
-        label_fontsize = 9
-        value_fontsize = 9
+    fig_height = max(5.0, 0.27 * n + 1.5)
+    value_fontsize = 8 if n > 20 else 9
 
-    fig, ax = plt.subplots(figsize=(12, fig_height))
+    fig, ax = plt.subplots(figsize=(8.2, fig_height))
 
     y = np.arange(n)
 
-    bar_labels = [pretty_name(x) for x in plot_df["label"]]
     bar_colors = [category_to_color[c] for c in plot_df["category"]]
 
     bars = ax.barh(
@@ -296,21 +287,19 @@ def plot_cross_validation(
         linewidth=0.8,
     )
 
+    # Hide individual y-axis labels; legend identifies categories.
     ax.set_yticks(y)
-    ax.set_yticklabels(bar_labels, fontsize=label_fontsize)
+    ax.set_yticklabels([])
+    ax.tick_params(axis="y", length=0)
     ax.invert_yaxis()
 
-    max_val = float(plot_df["overlap"].max())
-    x_max = min(100, max(10, np.ceil((max_val + 10) / 10.0) * 10.0))
-    ax.set_xlim(0, x_max)
+    ax.set_xlim(0, 100)
 
-    ax.set_title(title, fontsize=18)
-    ax.set_xlabel("Percentage of units", fontsize=12)
-    ax.set_ylabel(f"{pretty_name(dataset.lower())} Category", fontsize=12)
+    ax.set_title(title, fontsize=16)
+    ax.set_xlabel("Percentage of Units", fontsize=11)
+    ax.set_ylabel("")
 
-    ax.tick_params(axis="x", labelsize=10)
-    ax.tick_params(axis="y", length=0)
-
+    ax.tick_params(axis="x", labelsize=9)
     ax.grid(axis="x", linestyle=":", alpha=0.4, zorder=0)
 
     for spine in ax.spines.values():
@@ -318,14 +307,23 @@ def plot_cross_validation(
         spine.set_linewidth(1.1)
         spine.set_color("black")
 
+    # Put percentage labels inside the bars near the right edge.
     for bar, val in zip(bars, plot_df["overlap"]):
+        if val >= 8:
+            x = val - 1.0
+            ha = "right"
+        else:
+            x = val + 1.0
+            ha = "left"
+
         ax.text(
-            val + 0.8,
+            x,
             bar.get_y() + bar.get_height() / 2,
             f"{val:.2f}%",
             va="center",
-            ha="left",
+            ha=ha,
             fontsize=value_fontsize,
+            color="black",
         )
 
     legend_categories = categories_in_plot.copy()
@@ -342,13 +340,12 @@ def plot_cross_validation(
         for cat in legend_categories
     ]
 
-    # Put legend outside if there are many categories.
     ax.legend(
         handles=legend_handles,
         loc="upper left",
         bbox_to_anchor=(1.02, 1.0),
         frameon=True,
-        fontsize=9 if len(legend_handles) > 12 else 11,
+        fontsize=8 if len(legend_handles) > 12 else 10,
     )
 
     fig.tight_layout()
@@ -370,7 +367,7 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--dataset", default="TurBLiMP")
     p.add_argument("--directory", default="multilingual/turblimp")
-    p.add_argument("--title", default="Average 2-fold overlap in TurBLiMP")
+    p.add_argument("--title", default="2-fold overlap (gemma-3-4b-pt)")
     p.add_argument("--percentage", type=float, default=1.0)
     p.add_argument("--num-folds", type=int, default=2)
     p.add_argument("--aggregate-by-category", action="store_true")
