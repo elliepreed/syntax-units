@@ -1,0 +1,8 @@
+,prep_anim,simple_agrmt,vp_coord,subj_rel,obj_rel_within_anim,obj_rel_across_anim,long_vp_coord
+prep_anim,870.0,338.0,179.0,171.0,8.0,180.0,19.0
+simple_agrmt,338.0,870.0,220.0,162.0,11.0,168.0,38.0
+vp_coord,179.0,220.0,870.0,125.0,18.0,131.0,35.0
+subj_rel,171.0,162.0,125.0,870.0,44.0,320.0,15.0
+obj_rel_within_anim,8.0,11.0,18.0,44.0,870.0,83.0,18.0
+obj_rel_across_anim,180.0,168.0,131.0,320.0,83.0,870.0,18.0
+long_vp_coord,19.0,38.0,35.0,15.0,18.0,18.0,870.0
