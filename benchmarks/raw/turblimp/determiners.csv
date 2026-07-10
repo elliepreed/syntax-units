@@ -1,0 +1,1001 @@
+sentence_good,sentence_bad,linguistic_phenomenon,good_cue,bad_cue,critical_region,item_id
+Sadece deniz kenarında serinleten bir rüzgar hissettik.,Sadece deniz kenarında serinleten rüzgar hissettik.,determiners,bir,∅,rüzgar,1
+Sabah otobüste okumak için eğlenceli bir dergi aldım.,Sabah otobüste okumak için eğlenceli dergi aldım.,determiners,bir,∅,dergi,2
+Onların i̇çinde bol miktarda badem ve kakao olan bir pasta yaptılar.,Onların i̇çinde bol miktarda badem ve kakao olan pasta yaptılar.,determiners,bir,∅,pasta,3
+Gece ders çalışırken sessiz ve ferah bir kafe tercih ediyorum.,Gece ders çalışırken sessiz ve ferah kafe tercih ediyorum.,determiners,bir,∅,kafe,4
+Ben otobüste okumak için eğlenceli bir dergi aldım.,Ben otobüste okumak için eğlenceli dergi aldım.,determiners,bir,∅,dergi,5
+Dün marketten indirimde olan bir deterjan aldım.,Dün marketten indirimde olan deterjan aldım.,determiners,bir,∅,deterjan,6
+Online ders çalışmak için sabahları kalabalık olmayan bir kafe arıyorum.,Online ders çalışmak için sabahları kalabalık olmayan kafe arıyorum.,determiners,bir,∅,kafe,7
+Şimdi düğün hediyesi olarak bütçemizi zorlamayan bir takı alacağız.,Şimdi düğün hediyesi olarak bütçemizi zorlamayan takı alacağız.,determiners,bir,∅,takı,8
+Hemen kütüphaneden herkesin önerdiği bir kitap aldım.,Hemen kütüphaneden herkesin önerdiği kitap aldım.,determiners,bir,∅,kitap,9
+Yine konferansta ilginç bir sunum dinledik.,Yine konferansta ilginç sunum dinledik.,determiners,bir,∅,sunum,10
+Uzun yolda dikkatle yürüyen bir adam gördüm.,Uzun yolda dikkatle yürüyen adam gördüm.,determiners,bir,∅,adam,11
+Ona doğum günü hediyesi olarak fiyatı bize makul gelen bir bileklik seçtik.,Ona doğum günü hediyesi olarak fiyatı bize makul gelen bileklik seçtik.,determiners,bir,∅,bileklik,12
+Ve doğum günü hediyesi olarak fiyatı bize makul gelen bir bileklik seçtik.,Ve doğum günü hediyesi olarak fiyatı bize makul gelen bileklik seçtik.,determiners,bir,∅,bileklik,13
+Dün akşam izlemek için herkesin merakla beklediği bir dizi seçtiler.,Dün akşam izlemek için herkesin merakla beklediği dizi seçtiler.,determiners,bir,∅,dizi,14
+Ben evde huzurlu bir atmosfer yaratmak için hoş bir mum yaktım.,Ben evde huzurlu bir atmosfer yaratmak için hoş mum yaktım.,determiners,bir,∅,mum,15
+İlk sergide sanatçının ustalıkla çizdiği bir portre gördük.,İlk sergide sanatçının ustalıkla çizdiği portre gördük.,determiners,bir,∅,portre,16
+Dönerken götürmek için çok tüketilen bir peynir seçtim.,Dönerken götürmek için çok tüketilen peynir seçtim.,determiners,bir,∅,peynir,17
+Bugün düğün hediyesi olarak bütçemizi zorlamayan bir takı alacağız.,Bugün düğün hediyesi olarak bütçemizi zorlamayan takı alacağız.,determiners,bir,∅,takı,18
+Ve evde huzurlu bir atmosfer yaratmak için hoş bir mum yaktım.,Ve evde huzurlu bir atmosfer yaratmak için hoş mum yaktım.,determiners,bir,∅,mum,19
+Sonra bahçede büyüyen rengarenk bir çiçek kopardım.,Sonra bahçede büyüyen rengarenk çiçek kopardım.,determiners,bir,∅,çiçek,20
+Sabah ofise mis gibi kokan bir çiçek geldi.,Sabah ofise mis gibi kokan çiçek geldi.,determiners,bir,∅,çiçek,21
+Ben geçen hafta indirime giren bir bilgisayar satın aldım.,Ben geçen hafta indirime giren bilgisayar satın aldım.,determiners,bir,∅,bilgisayar,22
+Cumartesi seyretmek için arkadaşların tavsiye ettiği bir dizi seçtik.,Cumartesi seyretmek için arkadaşların tavsiye ettiği dizi seçtik.,determiners,bir,∅,dizi,23
+Otobüste okumak için eğlenceli bir dergi aldım.,Otobüste okumak için eğlenceli dergi aldım.,determiners,bir,∅,dergi,24
+Bu butikte göz kamaştıran ince askılı bir elbise gördüm.,Bu butikte göz kamaştıran ince askılı elbise gördüm.,determiners,bir,∅,elbise,25
+Şimdi duvarda asılı duran bir resim inceledik.,Şimdi duvarda asılı duran resim inceledik.,determiners,bir,∅,resim,26
+Her kütüphanede sessizce çalışan bir öğrenci vardı.,Her kütüphanede sessizce çalışan öğrenci vardı.,determiners,bir,∅,öğrenci,27
+Yine bu sabah beni ayıltan lezzetli bir kahve içtim.,Yine bu sabah beni ayıltan lezzetli kahve içtim.,determiners,bir,∅,kahve,28
+Ve geçen hafta indirime giren bir bilgisayar satın aldım.,Ve geçen hafta indirime giren bilgisayar satın aldım.,determiners,bir,∅,bilgisayar,29
+Bahçede büyüyen rengarenk bir çiçek kopardım.,Bahçede büyüyen rengarenk çiçek kopardım.,determiners,bir,∅,çiçek,30
+Kendisi merve rengi griye çalan modern bir hırka seçti.,Kendisi merve rengi griye çalan modern hırka seçti.,determiners,bir,∅,hırka,31
+Sonra ormanda hızlıca koşan bir geyik fark ettik.,Sonra ormanda hızlıca koşan geyik fark ettik.,determiners,bir,∅,geyik,32
+Milli parkta heyecan verici bir yarış izledik.,Milli parkta heyecan verici yarış izledik.,determiners,bir,∅,yarış,33
+Bugün pazar sabahı ailece keyif aldığımız bir kahvaltı yaptık.,Bugün pazar sabahı ailece keyif aldığımız kahvaltı yaptık.,determiners,bir,∅,kahvaltı,34
+Sabahları içimi ısıtan bir çorba içmeyi seviyorum.,Sabahları içimi ısıtan çorba içmeyi seviyorum.,determiners,bir,∅,çorba,35
+İkinci sömestr tatilinde sürükleyici bir roman okudum.,İkinci sömestr tatilinde sürükleyici roman okudum.,determiners,bir,∅,roman,36
+Küçük bahçede büyüyen rengarenk bir çiçek kopardım.,Küçük bahçede büyüyen rengarenk çiçek kopardım.,determiners,bir,∅,çiçek,37
+</s> i̇nternette çok beğenilen bir yemek tarifi denedim.,</s> i̇nternette çok beğenilen yemek tarifi denedim.,determiners,bir,∅,yemek tarifi,38
+Yine bol fındık ve tarçın içeren enfes bir kek yaptılar.,Yine bol fındık ve tarçın içeren enfes kek yaptılar.,determiners,bir,∅,kek,39
+Ayrıca yeni açılan butikten ustanın tasarladığı bir kolye seçtik.,Ayrıca yeni açılan butikten ustanın tasarladığı kolye seçtik.,determiners,bir,∅,kolye,40
+Ve notere Almanca çevirisini yaptırdığı önemli bir belge verdi.,Ve notere Almanca çevirisini yaptırdığı önemli belge verdi.,determiners,bir,∅,belge,41
+Önce ağzında kekremsi tat bırakan bir kahve içti.,Önce ağzında kekremsi tat bırakan kahve içti.,determiners,bir,∅,kahve,42
+Zeynep rengi sarıya çalan desenli bir ceket denedi.,Zeynep rengi sarıya çalan desenli ceket denedi.,determiners,bir,∅,ceket,43
+Bir notere Fransızca'ya çevirisini yaptırdığı bir evrak götürdü.,Bir notere Fransızca'ya çevirisini yaptırdığı evrak götürdü.,determiners,bir,∅,evrak,44
+Gece seyretmek için arkadaşların tavsiye ettiği bir dizi seçtik.,Gece seyretmek için arkadaşların tavsiye ettiği dizi seçtik.,determiners,bir,∅,dizi,45
+Fransız şefin tarifinden uyarladığım nefis bir börek yaptım.,Fransız şefin tarifinden uyarladığım nefis börek yaptım.,determiners,bir,∅,börek,46
+İki laboratuvarda yeni geliştirilen bir ilaç denediler.,İki laboratuvarda yeni geliştirilen ilaç denediler.,determiners,bir,∅,ilaç,47
+O gece izlemek için herkesin övgüyle bahsettiği bir film seçtiler.,O gece izlemek için herkesin övgüyle bahsettiği film seçtiler.,determiners,bir,∅,film,48
+Adam merve rengi griye çalan modern bir hırka seçti.,Adam merve rengi griye çalan modern hırka seçti.,determiners,bir,∅,hırka,49
+Bugün evin dekorasyonu için zarif bir tablo aldım.,Bugün evin dekorasyonu için zarif tablo aldım.,determiners,bir,∅,tablo,50
+Ders sırasında öğretmen faydalı bir öneri sundu.,Ders sırasında öğretmen faydalı öneri sundu.,determiners,bir,∅,öneri,51
+Kız ağzında kekremsi tat bırakan bir kahve içti.,Kız ağzında kekremsi tat bırakan kahve içti.,determiners,bir,∅,kahve,52
+Onlar laboratuvarda yeni geliştirilen bir ilaç denediler.,Onlar laboratuvarda yeni geliştirilen ilaç denediler.,determiners,bir,∅,ilaç,53
+Hemen marketten fiyatı uygun olan bir peynir aldım.,Hemen marketten fiyatı uygun olan peynir aldım.,determiners,bir,∅,peynir,54
+Ve i̇çinde bolca ceviz ve tarçın olan bir kek yaptılar.,Ve i̇çinde bolca ceviz ve tarçın olan kek yaptılar.,determiners,bir,∅,kek,55
+Dün ormanda hızlıca koşan bir geyik fark ettik.,Dün ormanda hızlıca koşan geyik fark ettik.,determiners,bir,∅,geyik,56
+Sonra evde huzurlu bir atmosfer yaratmak için hoş bir mum yaktım.,Sonra evde huzurlu bir atmosfer yaratmak için hoş mum yaktım.,determiners,bir,∅,mum,57
+Aynı yolda dikkatle yürüyen bir adam gördüm.,Aynı yolda dikkatle yürüyen adam gördüm.,determiners,bir,∅,adam,58
+Francesco picasso'nun yaşamının anlatıldığı bir sergi gezdik.,Francesco picasso'nun yaşamının anlatıldığı sergi gezdik.,determiners,bir,∅,sergi,59
+Ardından mimar Sinan'ın hayatının anlatıldığı bir belgesel izledik.,Ardından mimar Sinan'ın hayatının anlatıldığı belgesel izledik.,determiners,bir,∅,belgesel,60
+Dün mozart'ın gençliğinin anlatıldığı bir program seyrettik.,Dün mozart'ın gençliğinin anlatıldığı program seyrettik.,determiners,bir,∅,program,61
+Sınava çalışırken bana yardımcı olacak bir defter verdi.,Sınava çalışırken bana yardımcı olacak defter verdi.,determiners,bir,∅,defter,62
+Her akşam okumak için eleştirmenlerin beğendiği bir makale seçtiler.,Her akşam okumak için eleştirmenlerin beğendiği makale seçtiler.,determiners,bir,∅,makale,63
+Bugün akşam yemeğine eşlik etmesi için lezzetli bir çorba yaptım.,Bugün akşam yemeğine eşlik etmesi için lezzetli çorba yaptım.,determiners,bir,∅,çorba,64
+Biz piknik için rahatça oturacağımız geniş bir battaniye aldım.,Biz piknik için rahatça oturacağımız geniş battaniye aldım.,determiners,bir,∅,battaniye,65
+Ben büyükannemin tarifine göre yapılan bir reçel tattırdı.,Ben büyükannemin tarifine göre yapılan reçel tattırdı.,determiners,bir,∅,reçel,66
+Yine duvarda asılı duran bir resim inceledik.,Yine duvarda asılı duran resim inceledik.,determiners,bir,∅,resim,67
+Ancak geçen hafta indirime giren bir bilgisayar satın aldım.,Ancak geçen hafta indirime giren bilgisayar satın aldım.,determiners,bir,∅,bilgisayar,68
+Sonra notere Fransızca'ya çevirisini yaptırdığı bir evrak götürdü.,Sonra notere Fransızca'ya çevirisini yaptırdığı evrak götürdü.,determiners,bir,∅,evrak,69
+Sonra leonardo da Vinci'nin hayatının anlatıldığı etkileyici bir film izledik.,Sonra leonardo da Vinci'nin hayatının anlatıldığı etkileyici film izledik.,determiners,bir,∅,film,70
+Ardından ağzında kekremsi tat bırakan bir kahve içti.,Ardından ağzında kekremsi tat bırakan kahve içti.,determiners,bir,∅,kahve,71
+Ben ayşe rengi maviye çalan güzel bir çanta beğendi.,Ben ayşe rengi maviye çalan güzel çanta beğendi.,determiners,bir,∅,çanta,72
+Ayrıca kamp yaparken kullanışlı olacak bir çadır satın aldık.,Ayrıca kamp yaparken kullanışlı olacak çadır satın aldık.,determiners,bir,∅,çadır,73
+Ben düğün için zarif bir elbise aldım.,Ben düğün için zarif elbise aldım.,determiners,bir,∅,elbise,74
+Bir ormanda hızlıca koşan bir geyik fark ettik.,Bir ormanda hızlıca koşan geyik fark ettik.,determiners,bir,∅,geyik,75
+Sonra düğün için zarif bir elbise aldım.,Sonra düğün için zarif elbise aldım.,determiners,bir,∅,elbise,76
+Akşam kitap kulübünde heyecan verici bir roman okuduk.,Akşam kitap kulübünde heyecan verici roman okuduk.,determiners,bir,∅,roman,77
+İkinci ders sırasında öğretmen faydalı bir öneri sundu.,İkinci ders sırasında öğretmen faydalı öneri sundu.,determiners,bir,∅,öneri,78
+Cumartesi akşam okumak için eleştirmenlerin beğendiği bir makale seçtiler.,Cumartesi akşam okumak için eleştirmenlerin beğendiği makale seçtiler.,determiners,bir,∅,makale,79
+Ve deniz kenarında serinleten bir rüzgar hissettik.,Ve deniz kenarında serinleten rüzgar hissettik.,determiners,bir,∅,rüzgar,80
+Bir sabah kahvaltısında lezzetli bir omlet yedim.,Bir sabah kahvaltısında lezzetli omlet yedim.,determiners,bir,∅,omlet,81
+Ufaklığın dikkatini çekecek eğlenceli bir oyuncak aldım.,Ufaklığın dikkatini çekecek eğlenceli oyuncak aldım.,determiners,bir,∅,oyuncak,82
+Daha yeni açılan lokantada şef tarafından önerilen bir tatlı denedik.,Daha yeni açılan lokantada şef tarafından önerilen tatlı denedik.,determiners,bir,∅,tatlı,83
+Erkek arkadaşıma hediye etmek için şık bir saat seçtim.,Erkek arkadaşıma hediye etmek için şık saat seçtim.,determiners,bir,∅,saat,84
+Çocuklar i̇çinde bolca ceviz ve tarçın olan bir kek yaptılar.,Çocuklar i̇çinde bolca ceviz ve tarçın olan kek yaptılar.,determiners,bir,∅,kek,85
+Onlar i̇çinde bolca ceviz ve tarçın olan bir kek yaptılar.,Onlar i̇çinde bolca ceviz ve tarçın olan kek yaptılar.,determiners,bir,∅,kek,86
+Tiyatroda oyuncuların büyük özveriyle canlandırdığı bir oyun izledik.,Tiyatroda oyuncuların büyük özveriyle canlandırdığı oyun izledik.,determiners,bir,∅,oyun,87
+Öğrenciler mezuniyet kutlaması için fiyatı makul sayılabilecek bir araç aldılar.,Öğrenciler mezuniyet kutlaması için fiyatı makul sayılabilecek araç aldılar.,determiners,bir,∅,araç,88
+O merve rengi griye çalan modern bir hırka seçti.,O merve rengi griye çalan modern hırka seçti.,determiners,bir,∅,hırka,89
+Yine pastanede özenle hazırlanan bir pasta aldık.,Yine pastanede özenle hazırlanan pasta aldık.,determiners,bir,∅,pasta,90
+Arkadaşlar mezuniyet kutlaması için fiyatı makul sayılabilecek bir araç aldılar.,Arkadaşlar mezuniyet kutlaması için fiyatı makul sayılabilecek araç aldılar.,determiners,bir,∅,araç,91
+Yalnız geçen hafta tadı damağımda kalan bir tatlı yedim.,Yalnız geçen hafta tadı damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,92
+Ayrıca piknik için rahatça oturacağımız geniş bir battaniye aldım.,Ayrıca piknik için rahatça oturacağımız geniş battaniye aldım.,determiners,bir,∅,battaniye,93
+Hemen geçen hafta indirime giren bir bilgisayar satın aldım.,Hemen geçen hafta indirime giren bilgisayar satın aldım.,determiners,bir,∅,bilgisayar,94
+Ve bütün gün beni tok tutan sağlıklı bir smoothie içtim.,Ve bütün gün beni tok tutan sağlıklı smoothie içtim.,determiners,bir,∅,smoothie,95
+Küçük tiyatroda oyuncuların büyük özveriyle canlandırdığı bir oyun izledik.,Küçük tiyatroda oyuncuların büyük özveriyle canlandırdığı oyun izledik.,determiners,bir,∅,oyun,96
+Ben kütüphaneden herkesin önerdiği bir kitap aldım.,Ben kütüphaneden herkesin önerdiği kitap aldım.,determiners,bir,∅,kitap,97
+Kadın merve rengi griye çalan modern bir hırka seçti.,Kadın merve rengi griye çalan modern hırka seçti.,determiners,bir,∅,hırka,98
+Sonra avukata Rusça'ya çevirisini yaptırdığı bir sözleşme iletti.,Sonra avukata Rusça'ya çevirisini yaptırdığı sözleşme iletti.,determiners,bir,∅,sözleşme,99
+Rus bilim insanları yeni yöntemlerle geliştirilen bir aşı test ediyor.,Rus bilim insanları yeni yöntemlerle geliştirilen aşı test ediyor.,determiners,bir,∅,aşı,100
+Kız doğum günü için üstünü çileklerle süslediğimiz bir pasta hazırladık.,Kız doğum günü için üstünü çileklerle süslediğimiz pasta hazırladık.,determiners,bir,∅,pasta,101
+Duvarda asılı duran bir resim inceledik.,Duvarda asılı duran resim inceledik.,determiners,bir,∅,resim,102
+Piknik için rahatça oturacağımız geniş bir battaniye aldım.,Piknik için rahatça oturacağımız geniş battaniye aldım.,determiners,bir,∅,battaniye,103
+Ve herkesin önerdiği harika bir film izledik.,Ve herkesin önerdiği harika film izledik.,determiners,bir,∅,film,104
+Ve ofise mis gibi kokan bir çiçek geldi.,Ve ofise mis gibi kokan çiçek geldi.,determiners,bir,∅,çiçek,105
+Bir nişan hediyesi olarak modeli hoş gelen bir yüzük alacağız.,Bir nişan hediyesi olarak modeli hoş gelen yüzük alacağız.,determiners,bir,∅,yüzük,106
+Sonra yolda dikkatle yürüyen bir adam gördüm.,Sonra yolda dikkatle yürüyen adam gördüm.,determiners,bir,∅,adam,107
+Laboratuvarda çok etkili bir ilaç test ettiler.,Laboratuvarda çok etkili ilaç test ettiler.,determiners,bir,∅,ilaç,108
+Bir marketten indirimde olan bir deterjan aldım.,Bir marketten indirimde olan deterjan aldım.,determiners,bir,∅,deterjan,109
+Bu kitapçının vitrininde ilgi çekici bir roman gördüm.,Bu kitapçının vitrininde ilgi çekici roman gördüm.,determiners,bir,∅,roman,110
+İlk mezuniyet kutlaması için fiyatı makul sayılabilecek bir araç aldılar.,İlk mezuniyet kutlaması için fiyatı makul sayılabilecek araç aldılar.,determiners,bir,∅,araç,111
+Pazar sinema gecesi için konusu dramatik olan farklı bir film bulduk.,Pazar sinema gecesi için konusu dramatik olan farklı film bulduk.,determiners,bir,∅,film,112
+Dün bahçede büyüyen rengarenk bir çiçek kopardım.,Dün bahçede büyüyen rengarenk çiçek kopardım.,determiners,bir,∅,çiçek,113
+İlk gece izlemek için herkesin övgüyle bahsettiği bir film seçtiler.,İlk gece izlemek için herkesin övgüyle bahsettiği film seçtiler.,determiners,bir,∅,film,114
+Kendi stüdyolarında özenle kaydedilen bir şarkı dinledik.,Kendi stüdyolarında özenle kaydedilen şarkı dinledik.,determiners,bir,∅,şarkı,115
+Adam ağzında kekremsi tat bırakan bir kahve içti.,Adam ağzında kekremsi tat bırakan kahve içti.,determiners,bir,∅,kahve,116
+İlk nişan hediyesi olarak modeli hoş gelen bir yüzük alacağız.,İlk nişan hediyesi olarak modeli hoş gelen yüzük alacağız.,determiners,bir,∅,yüzük,117
+Yine merve rengi griye çalan modern bir hırka seçti.,Yine merve rengi griye çalan modern hırka seçti.,determiners,bir,∅,hırka,118
+Bugün ormanda hızlıca koşan bir geyik fark ettik.,Bugün ormanda hızlıca koşan geyik fark ettik.,determiners,bir,∅,geyik,119
+Son ders sırasında öğretmen faydalı bir öneri sundu.,Son ders sırasında öğretmen faydalı öneri sundu.,determiners,bir,∅,öneri,120
+Sonra köşedeki dükkandan fiyatı uygun olan bir çanta aldım.,Sonra köşedeki dükkandan fiyatı uygun olan çanta aldım.,determiners,bir,∅,çanta,121
+Akşam bütün gün beni tok tutan sağlıklı bir smoothie içtim.,Akşam bütün gün beni tok tutan sağlıklı smoothie içtim.,determiners,bir,∅,smoothie,122
+Butikte göz kamaştıran ince askılı bir elbise gördüm.,Butikte göz kamaştıran ince askılı elbise gördüm.,determiners,bir,∅,elbise,123
+Bir akşam okumak için eleştirmenlerin beğendiği bir makale seçtiler.,Bir akşam okumak için eleştirmenlerin beğendiği makale seçtiler.,determiners,bir,∅,makale,124
+Bu tiyatroda oyuncuların büyük özveriyle canlandırdığı bir oyun izledik.,Bu tiyatroda oyuncuların büyük özveriyle canlandırdığı oyun izledik.,determiners,bir,∅,oyun,125
+Ayrıca ormanda hızlıca koşan bir geyik fark ettik.,Ayrıca ormanda hızlıca koşan geyik fark ettik.,determiners,bir,∅,geyik,126
+Türk bilim insanları yeni yöntemlerle geliştirilen bir aşı test ediyor.,Türk bilim insanları yeni yöntemlerle geliştirilen aşı test ediyor.,determiners,bir,∅,aşı,127
+Cumartesi sinema gecesi için konusu dramatik olan farklı bir film bulduk.,Cumartesi sinema gecesi için konusu dramatik olan farklı film bulduk.,determiners,bir,∅,film,128
+Ve beyaz dantel detayları içeren zarif bir gelinlik denedim.,Ve beyaz dantel detayları içeren zarif gelinlik denedim.,determiners,bir,∅,gelinlik,129
+Bir mezuniyet kutlaması için fiyatı makul sayılabilecek bir araç aldılar.,Bir mezuniyet kutlaması için fiyatı makul sayılabilecek araç aldılar.,determiners,bir,∅,araç,130
+Ardından müdüre İtalyanca'ya çevirisini yaptırdığı bir doküman götürdü.,Ardından müdüre İtalyanca'ya çevirisini yaptırdığı doküman götürdü.,determiners,bir,∅,doküman,131
+Bu laboratuvarda çok etkili bir ilaç test ettiler.,Bu laboratuvarda çok etkili ilaç test ettiler.,determiners,bir,∅,ilaç,132
+Köşedeki dükkandan fiyatı uygun olan bir çanta aldım.,Köşedeki dükkandan fiyatı uygun olan çanta aldım.,determiners,bir,∅,çanta,133
+Akşam otobüste okumak için eğlenceli bir dergi aldım.,Akşam otobüste okumak için eğlenceli dergi aldım.,determiners,bir,∅,dergi,134
+Bir doğum günü için üstünü çileklerle süslediğimiz bir pasta hazırladık.,Bir doğum günü için üstünü çileklerle süslediğimiz pasta hazırladık.,determiners,bir,∅,pasta,135
+Japon bilim insanları yeni yöntemlerle geliştirilen bir aşı test ediyor.,Japon bilim insanları yeni yöntemlerle geliştirilen aşı test ediyor.,determiners,bir,∅,aşı,136
+Okul müdüre İngilizce'ye çevirisini yaptırdığı önemli bir belge teslim etti.,Okul müdüre İngilizce'ye çevirisini yaptırdığı önemli belge teslim etti.,determiners,bir,∅,belge,137
+Marketten fiyatı uygun olan bir peynir aldım.,Marketten fiyatı uygun olan peynir aldım.,determiners,bir,∅,peynir,138
+Mezuniyet kutlaması için fiyatı makul sayılabilecek bir araç aldılar.,Mezuniyet kutlaması için fiyatı makul sayılabilecek araç aldılar.,determiners,bir,∅,araç,139
+Merhaba nazan rengi kırmızıya çalan bir elbise beğendi.,Merhaba nazan rengi kırmızıya çalan elbise beğendi.,determiners,bir,∅,elbise,140
+Cumartesi gece izlemek için herkesin övgüyle bahsettiği bir film seçtiler.,Cumartesi gece izlemek için herkesin övgüyle bahsettiği film seçtiler.,determiners,bir,∅,film,141
+Ayrıca mimar Sinan'ın hayatının anlatıldığı bir belgesel izledik.,Ayrıca mimar Sinan'ın hayatının anlatıldığı belgesel izledik.,determiners,bir,∅,belgesel,142
+Patrona Japonca'ya çevirisini yaptırdığı bir rapor sundu.,Patrona Japonca'ya çevirisini yaptırdığı rapor sundu.,determiners,bir,∅,rapor,143
+Sonra bu sabah beni ayıltan lezzetli bir kahve içtim.,Sonra bu sabah beni ayıltan lezzetli kahve içtim.,determiners,bir,∅,kahve,144
+Ve dün akşam lezzeti damağımda kalan bir tatlı yedim.,Ve dün akşam lezzeti damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,145
+Bu notere Almanca çevirisini yaptırdığı önemli bir belge verdi.,Bu notere Almanca çevirisini yaptırdığı önemli belge verdi.,determiners,bir,∅,belge,146
+Ayrıca dokusu kadifeyi andıran güzel bir mont beğendik.,Ayrıca dokusu kadifeyi andıran güzel mont beğendik.,determiners,bir,∅,mont,147
+Bugün ofise mis gibi kokan bir çiçek geldi.,Bugün ofise mis gibi kokan çiçek geldi.,determiners,bir,∅,çiçek,148
+Bugün kütüphaneden herkesin önerdiği bir kitap aldım.,Bugün kütüphaneden herkesin önerdiği kitap aldım.,determiners,bir,∅,kitap,149
+Sabah sabah kahvaltısında lezzetli bir omlet yedim.,Sabah sabah kahvaltısında lezzetli omlet yedim.,determiners,bir,∅,omlet,150
+İlk doğum günü için üstünü çileklerle süslediğimiz bir pasta hazırladık.,İlk doğum günü için üstünü çileklerle süslediğimiz pasta hazırladık.,determiners,bir,∅,pasta,151
+Özel pastanede özenle hazırlanan bir pasta aldık.,Özel pastanede özenle hazırlanan pasta aldık.,determiners,bir,∅,pasta,152
+Akşam izlemek için herkesin merakla beklediği bir dizi seçtiler.,Akşam izlemek için herkesin merakla beklediği dizi seçtiler.,determiners,bir,∅,dizi,153
+Biz mozart'ın gençliğinin anlatıldığı bir program seyrettik.,Biz mozart'ın gençliğinin anlatıldığı program seyrettik.,determiners,bir,∅,program,154
+Yeni işimde bana yardımcı olacak bir ajanda satın aldım.,Yeni işimde bana yardımcı olacak ajanda satın aldım.,determiners,bir,∅,ajanda,155
+Düğün için zarif bir elbise aldım.,Düğün için zarif elbise aldım.,determiners,bir,∅,elbise,156
+Merhaba ayşe rengi maviye çalan güzel bir çanta beğendi.,Merhaba ayşe rengi maviye çalan güzel çanta beğendi.,determiners,bir,∅,çanta,157
+Notere Fransızca'ya çevirisini yaptırdığı bir evrak götürdü.,Notere Fransızca'ya çevirisini yaptırdığı evrak götürdü.,determiners,bir,∅,evrak,158
+Kendisi notere Almanca çevirisini yaptırdığı önemli bir belge verdi.,Kendisi notere Almanca çevirisini yaptırdığı önemli belge verdi.,determiners,bir,∅,belge,159
+Film seyretmek için arkadaşların tavsiye ettiği bir dizi seçtik.,Film seyretmek için arkadaşların tavsiye ettiği dizi seçtik.,determiners,bir,∅,dizi,160
+Bilim insanları yeni yöntemlerle geliştirilen bir aşı test ediyor.,Bilim insanları yeni yöntemlerle geliştirilen aşı test ediyor.,determiners,bir,∅,aşı,161
+Kütüphanede sessizce çalışan bir öğrenci vardı.,Kütüphanede sessizce çalışan öğrenci vardı.,determiners,bir,∅,öğrenci,162
+İstanbul sinema gecesi için konusu dramatik olan farklı bir film bulduk.,İstanbul sinema gecesi için konusu dramatik olan farklı film bulduk.,determiners,bir,∅,film,163
+Özel laboratuvarda yeni geliştirilen bir ilaç denediler.,Özel laboratuvarda yeni geliştirilen ilaç denediler.,determiners,bir,∅,ilaç,164
+Ama bu sabah beni ayıltan lezzetli bir kahve içtim.,Ama bu sabah beni ayıltan lezzetli kahve içtim.,determiners,bir,∅,kahve,165
+Biz deniz kenarında serinleten bir rüzgar hissettik.,Biz deniz kenarında serinleten rüzgar hissettik.,determiners,bir,∅,rüzgar,166
+Yeni evin dekorasyonu için zarif bir tablo aldım.,Yeni evin dekorasyonu için zarif tablo aldım.,determiners,bir,∅,tablo,167
+Dün bu sabah beni ayıltan lezzetli bir kahve içtim.,Dün bu sabah beni ayıltan lezzetli kahve içtim.,determiners,bir,∅,kahve,168
+Dün akşam lezzeti damağımda kalan bir tatlı yedim.,Dün akşam lezzeti damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,169
+Bugün yeni açılan lokantada şef tarafından önerilen bir tatlı denedik.,Bugün yeni açılan lokantada şef tarafından önerilen tatlı denedik.,determiners,bir,∅,tatlı,170
+Sahafta çok tavsiye edilen bir kitap buldum.,Sahafta çok tavsiye edilen kitap buldum.,determiners,bir,∅,kitap,171
+Ben sömestr tatilinde sürükleyici bir roman okudum.,Ben sömestr tatilinde sürükleyici roman okudum.,determiners,bir,∅,roman,172
+Bebek bebeğin eline sallayınca ses çıkaran bir oyuncak verdi.,Bebek bebeğin eline sallayınca ses çıkaran oyuncak verdi.,determiners,bir,∅,oyuncak,173
+Ben ders çalışırken sessiz ve ferah bir kafe tercih ediyorum.,Ben ders çalışırken sessiz ve ferah kafe tercih ediyorum.,determiners,bir,∅,kafe,174
+Marketten indirimde olan bir deterjan aldım.,Marketten indirimde olan deterjan aldım.,determiners,bir,∅,deterjan,175
+Ama geçen sene köyde kerpiçten yapılan bir baraka gördüm.,Ama geçen sene köyde kerpiçten yapılan baraka gördüm.,determiners,bir,∅,baraka,176
+Ben gizem desenleri baya farklı duran bir bluz aldı.,Ben gizem desenleri baya farklı duran bluz aldı.,determiners,bir,∅,bluz,177
+Ardından laboratuvarda çok etkili bir ilaç test ettiler.,Ardından laboratuvarda çok etkili ilaç test ettiler.,determiners,bir,∅,ilaç,178
+Yine sabahları içimi ısıtan bir çorba içmeyi seviyorum.,Yine sabahları içimi ısıtan çorba içmeyi seviyorum.,determiners,bir,∅,çorba,179
+İngiliz bilim insanları yeni yöntemlerle geliştirilen bir aşı test ediyor.,İngiliz bilim insanları yeni yöntemlerle geliştirilen aşı test ediyor.,determiners,bir,∅,aşı,180
+Sonra bankaya Korece'ye çevirisini yaptırdığı bir sözleşme verdi.,Sonra bankaya Korece'ye çevirisini yaptırdığı sözleşme verdi.,determiners,bir,∅,sözleşme,181
+Bugün o kafede tadına doyamadığımız bir salata yedik.,Bugün o kafede tadına doyamadığımız salata yedik.,determiners,bir,∅,salata,182
+Bugün seyretmek için arkadaşların tavsiye ettiği bir dizi seçtik.,Bugün seyretmek için arkadaşların tavsiye ettiği dizi seçtik.,determiners,bir,∅,dizi,183
+Ardından zeynep rengi sarıya çalan desenli bir ceket denedi.,Ardından zeynep rengi sarıya çalan desenli ceket denedi.,determiners,bir,∅,ceket,184
+Sinema gecesi için herkesin beğendiği bir film seçti.,Sinema gecesi için herkesin beğendiği film seçti.,determiners,bir,∅,film,185
+Süper marketten indirimde olan bir deterjan aldım.,Süper marketten indirimde olan deterjan aldım.,determiners,bir,∅,deterjan,186
+Gece izlemek için herkesin övgüyle bahsettiği bir film seçtiler.,Gece izlemek için herkesin övgüyle bahsettiği film seçtiler.,determiners,bir,∅,film,187
+En yeni açılan lokantada şef tarafından önerilen bir tatlı denedik.,En yeni açılan lokantada şef tarafından önerilen tatlı denedik.,determiners,bir,∅,tatlı,188
+Daha dün akşam lezzeti damağımda kalan bir çorba içtim.,Daha dün akşam lezzeti damağımda kalan çorba içtim.,determiners,bir,∅,çorba,189
+Yine ders sırasında öğretmen faydalı bir öneri sundu.,Yine ders sırasında öğretmen faydalı öneri sundu.,determiners,bir,∅,öneri,190
+Yalnız dün akşam lezzeti damağımda kalan bir tatlı yedim.,Yalnız dün akşam lezzeti damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,191
+Onlar laboratuvarda çok etkili bir ilaç test ettiler.,Onlar laboratuvarda çok etkili ilaç test ettiler.,determiners,bir,∅,ilaç,192
+Kek i̇çinde bolca ceviz ve tarçın olan bir kek yaptılar.,Kek i̇çinde bolca ceviz ve tarçın olan kek yaptılar.,determiners,bir,∅,kek,193
+Dün sabah kahvaltısında lezzetli bir omlet yedim.,Dün sabah kahvaltısında lezzetli omlet yedim.,determiners,bir,∅,omlet,194
+Ayrıca sınava çalışırken bana yardımcı olacak bir defter verdi.,Ayrıca sınava çalışırken bana yardımcı olacak defter verdi.,determiners,bir,∅,defter,195
+Onun i̇çinde bolca ceviz ve tarçın olan bir kek yaptılar.,Onun i̇çinde bolca ceviz ve tarçın olan kek yaptılar.,determiners,bir,∅,kek,196
+</s> ahmet rengi yeşile çalan parlak bir gömlek satın aldı.,</s> ahmet rengi yeşile çalan parlak gömlek satın aldı.,determiners,bir,∅,gömlek,197
+Bir tiyatroda oyuncuların büyük özveriyle canlandırdığı bir oyun izledik.,Bir tiyatroda oyuncuların büyük özveriyle canlandırdığı oyun izledik.,determiners,bir,∅,oyun,198
+Ve yeni işimde bana yardımcı olacak bir ajanda satın aldım.,Ve yeni işimde bana yardımcı olacak ajanda satın aldım.,determiners,bir,∅,ajanda,199
+Alman şefin tarifinden uyarladığım nefis bir börek yaptım.,Alman şefin tarifinden uyarladığım nefis börek yaptım.,determiners,bir,∅,börek,200
+Rihanna merve rengi griye çalan modern bir hırka seçti.,Rihanna merve rengi griye çalan modern hırka seçti.,determiners,bir,∅,hırka,201
+Yine herkesin önerdiği harika bir film izledik.,Yine herkesin önerdiği harika film izledik.,determiners,bir,∅,film,202
+Ayrıca akşam yemeğine eşlik etmesi için lezzetli bir çorba yaptım.,Ayrıca akşam yemeğine eşlik etmesi için lezzetli çorba yaptım.,determiners,bir,∅,çorba,203
+Karşı köşedeki dükkandan fiyatı uygun olan bir çanta aldım.,Karşı köşedeki dükkandan fiyatı uygun olan çanta aldım.,determiners,bir,∅,çanta,204
+Bir okulda çok beğenilen bir proje sunduk.,Bir okulda çok beğenilen proje sunduk.,determiners,bir,∅,proje,205
+Beyaz dantel detayları içeren zarif bir gelinlik denedim.,Beyaz dantel detayları içeren zarif gelinlik denedim.,determiners,bir,∅,gelinlik,206
+Bugün mimar Sinan'ın hayatının anlatıldığı bir belgesel izledik.,Bugün mimar Sinan'ın hayatının anlatıldığı belgesel izledik.,determiners,bir,∅,belgesel,207
+Evet geçen hafta tadı damağımda kalan bir tatlı yedim.,Evet geçen hafta tadı damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,208
+Erkek gizem desenleri baya farklı duran bir bluz aldı.,Erkek gizem desenleri baya farklı duran bluz aldı.,determiners,bir,∅,bluz,209
+Bugün leonardo da Vinci'nin hayatının anlatıldığı etkileyici bir film izledik.,Bugün leonardo da Vinci'nin hayatının anlatıldığı etkileyici film izledik.,determiners,bir,∅,film,210
+Dün i̇nternette çok beğenilen bir yemek tarifi denedim.,Dün i̇nternette çok beğenilen yemek tarifi denedim.,determiners,bir,∅,yemek tarifi,211
+Ayrıca bütün gün beni tok tutan sağlıklı bir smoothie içtim.,Ayrıca bütün gün beni tok tutan sağlıklı smoothie içtim.,determiners,bir,∅,smoothie,212
+Bugün tiyatroda oyuncuların büyük özveriyle canlandırdığı bir oyun izledik.,Bugün tiyatroda oyuncuların büyük özveriyle canlandırdığı oyun izledik.,determiners,bir,∅,oyun,213
+Bir arkadaşıma hediye etmek için şık bir saat seçtim.,Bir arkadaşıma hediye etmek için şık saat seçtim.,determiners,bir,∅,saat,214
+Bir yolda dikkatle yürüyen bir adam gördüm.,Bir yolda dikkatle yürüyen adam gördüm.,determiners,bir,∅,adam,215
+Yine evde huzurlu bir atmosfer yaratmak için hoş bir mum yaktım.,Yine evde huzurlu bir atmosfer yaratmak için hoş mum yaktım.,determiners,bir,∅,mum,216
+Örneğin mezuniyet hediyesi olarak fiyatı uygun gelen bir araba alırız.,Örneğin mezuniyet hediyesi olarak fiyatı uygun gelen araba alırız.,determiners,bir,∅,araba,217
+Hemen marketten indirimde olan bir deterjan aldım.,Hemen marketten indirimde olan deterjan aldım.,determiners,bir,∅,deterjan,218
+Ayrıca mezuniyet kutlaması için fiyatı makul sayılabilecek bir araç aldılar.,Ayrıca mezuniyet kutlaması için fiyatı makul sayılabilecek araç aldılar.,determiners,bir,∅,araç,219
+Ayrıca sabahları içimi ısıtan bir çorba içmeyi seviyorum.,Ayrıca sabahları içimi ısıtan çorba içmeyi seviyorum.,determiners,bir,∅,çorba,220
+Ben geçen hafta tadı damağımda kalan bir tatlı yedim.,Ben geçen hafta tadı damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,221
+Daha dün akşam lezzeti damağımda kalan bir tatlı yedim.,Daha dün akşam lezzeti damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,222
+Adam patrona Japonca'ya çevirisini yaptırdığı bir rapor sundu.,Adam patrona Japonca'ya çevirisini yaptırdığı rapor sundu.,determiners,bir,∅,rapor,223
+Bu pastanede özenle hazırlanan bir pasta aldık.,Bu pastanede özenle hazırlanan pasta aldık.,determiners,bir,∅,pasta,224
+Kadın notere Fransızca'ya çevirisini yaptırdığı bir evrak götürdü.,Kadın notere Fransızca'ya çevirisini yaptırdığı evrak götürdü.,determiners,bir,∅,evrak,225
+Bugün doğum günü için üstünü çileklerle süslediğimiz bir pasta hazırladık.,Bugün doğum günü için üstünü çileklerle süslediğimiz pasta hazırladık.,determiners,bir,∅,pasta,226
+Dün akşam yemeğine eşlik etmesi için lezzetli bir çorba yaptım.,Dün akşam yemeğine eşlik etmesi için lezzetli çorba yaptım.,determiners,bir,∅,çorba,227
+Yine kitapçının vitrininde ilgi çekici bir roman gördüm.,Yine kitapçının vitrininde ilgi çekici roman gördüm.,determiners,bir,∅,roman,228
+Kendi mezuniyet kutlaması için fiyatı makul sayılabilecek bir araç aldılar.,Kendi mezuniyet kutlaması için fiyatı makul sayılabilecek araç aldılar.,determiners,bir,∅,araç,229
+Yine sınava çalışırken bana yardımcı olacak bir defter verdi.,Yine sınava çalışırken bana yardımcı olacak defter verdi.,determiners,bir,∅,defter,230
+O bankaya Korece'ye çevirisini yaptırdığı bir sözleşme verdi.,O bankaya Korece'ye çevirisini yaptırdığı sözleşme verdi.,determiners,bir,∅,sözleşme,231
+Bazen ders çalışırken sessiz ve ferah bir kafe tercih ediyorum.,Bazen ders çalışırken sessiz ve ferah kafe tercih ediyorum.,determiners,bir,∅,kafe,232
+Kız doğum günü hediyesi olarak fiyatı bize makul gelen bir bileklik seçtik.,Kız doğum günü hediyesi olarak fiyatı bize makul gelen bileklik seçtik.,determiners,bir,∅,bileklik,233
+Bir pazar sabahı ailece keyif aldığımız bir kahvaltı yaptık.,Bir pazar sabahı ailece keyif aldığımız kahvaltı yaptık.,determiners,bir,∅,kahvaltı,234
+Büyük tiyatroda oyuncuların büyük özveriyle canlandırdığı bir oyun izledik.,Büyük tiyatroda oyuncuların büyük özveriyle canlandırdığı oyun izledik.,determiners,bir,∅,oyun,235
+Biz okulda çok beğenilen bir proje sunduk.,Biz okulda çok beğenilen proje sunduk.,determiners,bir,∅,proje,236
+Ve bu sabah beni kendime getiren bir kahve içtim.,Ve bu sabah beni kendime getiren kahve içtim.,determiners,bir,∅,kahve,237
+Aynı gece izlemek için herkesin övgüyle bahsettiği bir film seçtiler.,Aynı gece izlemek için herkesin övgüyle bahsettiği film seçtiler.,determiners,bir,∅,film,238
+Önceki akşam izlemek için herkesin merakla beklediği bir dizi seçtiler.,Önceki akşam izlemek için herkesin merakla beklediği dizi seçtiler.,determiners,bir,∅,dizi,239
+Ayrıca merve rengi griye çalan modern bir hırka seçti.,Ayrıca merve rengi griye çalan modern hırka seçti.,determiners,bir,∅,hırka,240
+Bir sinema gecesi için konusu dramatik olan farklı bir film bulduk.,Bir sinema gecesi için konusu dramatik olan farklı film bulduk.,determiners,bir,∅,film,241
+Ayrıca yeni açılan lokantada şef tarafından önerilen bir tatlı denedik.,Ayrıca yeni açılan lokantada şef tarafından önerilen tatlı denedik.,determiners,bir,∅,tatlı,242
+Bu yeni işimde bana yardımcı olacak bir ajanda satın aldım.,Bu yeni işimde bana yardımcı olacak ajanda satın aldım.,determiners,bir,∅,ajanda,243
+Ben ders çalışırken sessiz ve ferah bir kafe tercih ediyorum.,Ben ders çalışırken sessiz ve ferah kafe tercih ediyorum.,determiners,bir,∅,kafe,244
+Fransız bilim insanları yeni yöntemlerle geliştirilen bir aşı test ediyor.,Fransız bilim insanları yeni yöntemlerle geliştirilen aşı test ediyor.,determiners,bir,∅,aşı,245
+Özellikle sabahları içimi ısıtan bir çorba içmeyi seviyorum.,Özellikle sabahları içimi ısıtan çorba içmeyi seviyorum.,determiners,bir,∅,çorba,246
+Jüri sinema gecesi için herkesin beğendiği bir film seçti.,Jüri sinema gecesi için herkesin beğendiği film seçti.,determiners,bir,∅,film,247
+Yakın parkta heyecan verici bir yarış izledik.,Yakın parkta heyecan verici yarış izledik.,determiners,bir,∅,yarış,248
+Bu sabah beni ayıltan lezzetli bir kahve içtim.,Bu sabah beni ayıltan lezzetli kahve içtim.,determiners,bir,∅,kahve,249
+Ama yarın plajda okumak için sürükleyici bir roman aldım.,Ama yarın plajda okumak için sürükleyici roman aldım.,determiners,bir,∅,roman,250
+Dün akşam okumak için eleştirmenlerin beğendiği bir makale seçtiler.,Dün akşam okumak için eleştirmenlerin beğendiği makale seçtiler.,determiners,bir,∅,makale,251
+Ve beyaz dantel detayları içeren zarif bir gelinlik denedim.,Ve beyaz dantel detayları içeren zarif gelinlik denedim.,determiners,bir,∅,gelinlik,252
+Tüm okulda çok beğenilen bir proje sunduk.,Tüm okulda çok beğenilen proje sunduk.,determiners,bir,∅,proje,253
+Önce zeynep rengi sarıya çalan desenli bir ceket denedi.,Önce zeynep rengi sarıya çalan desenli ceket denedi.,determiners,bir,∅,ceket,254
+Yine sahafta çok tavsiye edilen bir kitap buldum.,Yine sahafta çok tavsiye edilen kitap buldum.,determiners,bir,∅,kitap,255
+Oğlu ahmet rengi yeşile çalan parlak bir gömlek satın aldı.,Oğlu ahmet rengi yeşile çalan parlak gömlek satın aldı.,determiners,bir,∅,gömlek,256
+Ayrıca laboratuvarda çok etkili bir ilaç test ettiler.,Ayrıca laboratuvarda çok etkili ilaç test ettiler.,determiners,bir,∅,ilaç,257
+Burada leonardo da Vinci'nin hayatının anlatıldığı etkileyici bir film izledik.,Burada leonardo da Vinci'nin hayatının anlatıldığı etkileyici film izledik.,determiners,bir,∅,film,258
+Tarihi parkta heyecan verici bir yarış izledik.,Tarihi parkta heyecan verici yarış izledik.,determiners,bir,∅,yarış,259
+Yine tiyatroda oyuncuların büyük özveriyle canlandırdığı bir oyun izledik.,Yine tiyatroda oyuncuların büyük özveriyle canlandırdığı oyun izledik.,determiners,bir,∅,oyun,260
+Bugün geçen hafta tadı damağımda kalan bir tatlı yedim.,Bugün geçen hafta tadı damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,261
+Bütün gün beni tok tutan sağlıklı bir smoothie içtim.,Bütün gün beni tok tutan sağlıklı smoothie içtim.,determiners,bir,∅,smoothie,262
+Sabah kitap kulübünde heyecan verici bir roman okuduk.,Sabah kitap kulübünde heyecan verici roman okuduk.,determiners,bir,∅,roman,263
+Biz mezuniyet hediyesi olarak fiyatı uygun gelen bir araba alırız.,Biz mezuniyet hediyesi olarak fiyatı uygun gelen araba alırız.,determiners,bir,∅,araba,264
+Peki düğün hediyesi olarak bütçemizi zorlamayan bir takı alacağız.,Peki düğün hediyesi olarak bütçemizi zorlamayan takı alacağız.,determiners,bir,∅,takı,265
+Bugün leonardo da Vinci'nin hayatının anlatıldığı etkileyici bir film izledik.,Bugün leonardo da Vinci'nin hayatının anlatıldığı etkileyici film izledik.,determiners,bir,∅,film,266
+Sonra ofise mis gibi kokan bir çiçek geldi.,Sonra ofise mis gibi kokan çiçek geldi.,determiners,bir,∅,çiçek,267
+Yine dokusu kadifeyi andıran güzel bir mont beğendik.,Yine dokusu kadifeyi andıran güzel mont beğendik.,determiners,bir,∅,mont,268
+Öncelikle duvarda asılı duran bir resim inceledik.,Öncelikle duvarda asılı duran resim inceledik.,determiners,bir,∅,resim,269
+Bu akşam yemeğine içinde erişte ve sebze bulunan nefis bir çorba yaptım.,Bu akşam yemeğine içinde erişte ve sebze bulunan nefis çorba yaptım.,determiners,bir,∅,çorba,270
+Ayrıca sergide sanatçının ustalıkla çizdiği bir portre gördük.,Ayrıca sergide sanatçının ustalıkla çizdiği portre gördük.,determiners,bir,∅,portre,271
+Bugün bahçede büyüyen rengarenk bir çiçek kopardım.,Bugün bahçede büyüyen rengarenk çiçek kopardım.,determiners,bir,∅,çiçek,272
+Ben nazan rengi kırmızıya çalan bir elbise beğendi.,Ben nazan rengi kırmızıya çalan elbise beğendi.,determiners,bir,∅,elbise,273
+Pazar sabahı ailece keyif aldığımız bir kahvaltı yaptık.,Pazar sabahı ailece keyif aldığımız kahvaltı yaptık.,determiners,bir,∅,kahvaltı,274
+Büyük mimar Sinan'ın hayatının anlatıldığı bir belgesel izledik.,Büyük mimar Sinan'ın hayatının anlatıldığı belgesel izledik.,determiners,bir,∅,belgesel,275
+Yazar bankaya Korece'ye çevirisini yaptırdığı bir sözleşme verdi.,Yazar bankaya Korece'ye çevirisini yaptırdığı sözleşme verdi.,determiners,bir,∅,sözleşme,276
+Doğum günü için üstünü çileklerle süslediğimiz bir pasta hazırladık.,Doğum günü için üstünü çileklerle süslediğimiz pasta hazırladık.,determiners,bir,∅,pasta,277
+Yine parkta heyecan verici bir yarış izledik.,Yine parkta heyecan verici yarış izledik.,determiners,bir,∅,yarış,278
+Hatta geçen sene köyde kerpiçten yapılan bir baraka gördüm.,Hatta geçen sene köyde kerpiçten yapılan baraka gördüm.,determiners,bir,∅,baraka,279
+Bir gece izlemek için herkesin övgüyle bahsettiği bir film seçtiler.,Bir gece izlemek için herkesin övgüyle bahsettiği film seçtiler.,determiners,bir,∅,film,280
+İki okulda çok beğenilen bir proje sunduk.,İki okulda çok beğenilen proje sunduk.,determiners,bir,∅,proje,281
+Bugün butikte göz kamaştıran ince askılı bir elbise gördüm.,Bugün butikte göz kamaştıran ince askılı elbise gördüm.,determiners,bir,∅,elbise,282
+Ayrıca evde huzurlu bir atmosfer yaratmak için hoş bir mum yaktım.,Ayrıca evde huzurlu bir atmosfer yaratmak için hoş mum yaktım.,determiners,bir,∅,mum,283
+Sonra kitapçının vitrininde ilgi çekici bir roman gördüm.,Sonra kitapçının vitrininde ilgi çekici roman gördüm.,determiners,bir,∅,roman,284
+Parkta heyecan verici bir yarış izledik.,Parkta heyecan verici yarış izledik.,determiners,bir,∅,yarış,285
+Bu akşam izlemek için herkesin merakla beklediği bir dizi seçtiler.,Bu akşam izlemek için herkesin merakla beklediği dizi seçtiler.,determiners,bir,∅,dizi,286
+Yönetmen sinema gecesi için herkesin beğendiği bir film seçti.,Yönetmen sinema gecesi için herkesin beğendiği film seçti.,determiners,bir,∅,film,287
+Sonra duvarda asılı duran bir resim inceledik.,Sonra duvarda asılı duran resim inceledik.,determiners,bir,∅,resim,288
+Ve evin dekorasyonu için zarif bir tablo aldım.,Ve evin dekorasyonu için zarif tablo aldım.,determiners,bir,∅,tablo,289
+Akşam ders çalışırken sessiz ve ferah bir kafe tercih ediyorum.,Akşam ders çalışırken sessiz ve ferah kafe tercih ediyorum.,determiners,bir,∅,kafe,290
+Bu yeni açılan kafede şefin önerdiği nefis bir tabak denedik.,Bu yeni açılan kafede şefin önerdiği nefis tabak denedik.,determiners,bir,∅,tabak,291
+Ve büyükannemin tarifine göre yapılan bir reçel tattırdı.,Ve büyükannemin tarifine göre yapılan reçel tattırdı.,determiners,bir,∅,reçel,292
+Ama dün akşam lezzeti damağımda kalan bir tatlı yedim.,Ama dün akşam lezzeti damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,293
+Bugün piknik için rahatça oturacağımız geniş bir battaniye aldım.,Bugün piknik için rahatça oturacağımız geniş battaniye aldım.,determiners,bir,∅,battaniye,294
+Bu dokusu kadifeyi andıran güzel bir mont beğendik.,Bu dokusu kadifeyi andıran güzel mont beğendik.,determiners,bir,∅,mont,295
+Bir marketten fiyatı uygun olan bir peynir aldım.,Bir marketten fiyatı uygun olan peynir aldım.,determiners,bir,∅,peynir,296
+Ünlü şefin tarifinden uyarladığım nefis bir börek yaptım.,Ünlü şefin tarifinden uyarladığım nefis börek yaptım.,determiners,bir,∅,börek,297
+Bir butikte göz kamaştıran ince askılı bir elbise gördüm.,Bir butikte göz kamaştıran ince askılı elbise gördüm.,determiners,bir,∅,elbise,298
+Sinema gecesi için konusu dramatik olan farklı bir film bulduk.,Sinema gecesi için konusu dramatik olan farklı film bulduk.,determiners,bir,∅,film,299
+Dün akşam lezzeti damağımda kalan bir çorba içtim.,Dün akşam lezzeti damağımda kalan çorba içtim.,determiners,bir,∅,çorba,300
+Gece deniz kenarında serinleten bir rüzgar hissettik.,Gece deniz kenarında serinleten rüzgar hissettik.,determiners,bir,∅,rüzgar,301
+Ayrıca leonardo da Vinci'nin hayatının anlatıldığı etkileyici bir film izledik.,Ayrıca leonardo da Vinci'nin hayatının anlatıldığı etkileyici film izledik.,determiners,bir,∅,film,302
+Ben yarın plajda okumak için sürükleyici bir roman aldım.,Ben yarın plajda okumak için sürükleyici roman aldım.,determiners,bir,∅,roman,303
+Yine sabah kahvaltısında yemek için doyurucu bir sandviç aldım.,Yine sabah kahvaltısında yemek için doyurucu sandviç aldım.,determiners,bir,∅,sandviç,304
+Bir avukata Rusça'ya çevirisini yaptırdığı bir sözleşme iletti.,Bir avukata Rusça'ya çevirisini yaptırdığı sözleşme iletti.,determiners,bir,∅,sözleşme,305
+Bir mezuniyet hediyesi olarak fiyatı uygun gelen bir araba alırız.,Bir mezuniyet hediyesi olarak fiyatı uygun gelen araba alırız.,determiners,bir,∅,araba,306
+Yazar notere Fransızca'ya çevirisini yaptırdığı bir evrak götürdü.,Yazar notere Fransızca'ya çevirisini yaptırdığı evrak götürdü.,determiners,bir,∅,evrak,307
+Müdüre İngilizce'ye çevirisini yaptırdığı önemli bir belge teslim etti.,Müdüre İngilizce'ye çevirisini yaptırdığı önemli belge teslim etti.,determiners,bir,∅,belge,308
+Mama bebeğin eline sallayınca ses çıkaran bir oyuncak verdi.,Mama bebeğin eline sallayınca ses çıkaran oyuncak verdi.,determiners,bir,∅,oyuncak,309
+Yakın arkadaşıma hediye etmek için şık bir saat seçtim.,Yakın arkadaşıma hediye etmek için şık saat seçtim.,determiners,bir,∅,saat,310
+Herkes ağzında kekremsi tat bırakan bir kahve içti.,Herkes ağzında kekremsi tat bırakan kahve içti.,determiners,bir,∅,kahve,311
+Burada herkesin önerdiği harika bir film izledik.,Burada herkesin önerdiği harika film izledik.,determiners,bir,∅,film,312
+Sonra sabah kahvaltısında yemek için doyurucu bir sandviç aldım.,Sonra sabah kahvaltısında yemek için doyurucu sandviç aldım.,determiners,bir,∅,sandviç,313
+Bir düğün için zarif bir elbise aldım.,Bir düğün için zarif elbise aldım.,determiners,bir,∅,elbise,314
+Ve notere Fransızca'ya çevirisini yaptırdığı bir evrak götürdü.,Ve notere Fransızca'ya çevirisini yaptırdığı evrak götürdü.,determiners,bir,∅,evrak,315
+Çin bilim insanları yeni yöntemlerle geliştirilen bir aşı test ediyor.,Çin bilim insanları yeni yöntemlerle geliştirilen aşı test ediyor.,determiners,bir,∅,aşı,316
+Bir kitapçının vitrininde ilgi çekici bir roman gördüm.,Bir kitapçının vitrininde ilgi çekici roman gördüm.,determiners,bir,∅,roman,317
+Ben nazan rengi kırmızıya çalan bir elbise beğendi.,Ben nazan rengi kırmızıya çalan elbise beğendi.,determiners,bir,∅,elbise,318
+Bir laboratuvarda çok etkili bir ilaç test ettiler.,Bir laboratuvarda çok etkili ilaç test ettiler.,determiners,bir,∅,ilaç,319
+Ünlü mimar Sinan'ın hayatının anlatıldığı bir belgesel izledik.,Ünlü mimar Sinan'ın hayatının anlatıldığı belgesel izledik.,determiners,bir,∅,belgesel,320
+Anne bebeğin eline sallayınca ses çıkaran bir oyuncak verdi.,Anne bebeğin eline sallayınca ses çıkaran oyuncak verdi.,determiners,bir,∅,oyuncak,321
+Yine bahçede büyüyen rengarenk bir çiçek kopardım.,Yine bahçede büyüyen rengarenk çiçek kopardım.,determiners,bir,∅,çiçek,322
+Bol bol fındık ve tarçın içeren enfes bir kek yaptılar.,Bol bol fındık ve tarçın içeren enfes kek yaptılar.,determiners,bir,∅,kek,323
+Arkadaşıma hediye etmek için şık bir saat seçtim.,Arkadaşıma hediye etmek için şık saat seçtim.,determiners,bir,∅,saat,324
+Genel müdüre İngilizce'ye çevirisini yaptırdığı önemli bir belge teslim etti.,Genel müdüre İngilizce'ye çevirisini yaptırdığı önemli belge teslim etti.,determiners,bir,∅,belge,325
+Burada annemin dolabında sakladığı bir mektup buldum.,Burada annemin dolabında sakladığı mektup buldum.,determiners,bir,∅,mektup,326
+Bugün kitap kulübünde heyecan verici bir roman okuduk.,Bugün kitap kulübünde heyecan verici roman okuduk.,determiners,bir,∅,roman,327
+Ayrıca nazan rengi kırmızıya çalan bir elbise beğendi.,Ayrıca nazan rengi kırmızıya çalan elbise beğendi.,determiners,bir,∅,elbise,328
+Öncelikle nişan hediyesi olarak modeli hoş gelen bir yüzük alacağız.,Öncelikle nişan hediyesi olarak modeli hoş gelen yüzük alacağız.,determiners,bir,∅,yüzük,329
+Sonra notere Almanca çevirisini yaptırdığı önemli bir belge verdi.,Sonra notere Almanca çevirisini yaptırdığı önemli belge verdi.,determiners,bir,∅,belge,330
+Bu evin dekorasyonu için zarif bir tablo aldım.,Bu evin dekorasyonu için zarif tablo aldım.,determiners,bir,∅,tablo,331
+Kendi i̇çinde bolca ceviz ve tarçın olan bir kek yaptılar.,Kendi i̇çinde bolca ceviz ve tarçın olan kek yaptılar.,determiners,bir,∅,kek,332
+Ayrıca akşam yemeğine içinde erişte ve sebze bulunan nefis bir çorba yaptım.,Ayrıca akşam yemeğine içinde erişte ve sebze bulunan nefis çorba yaptım.,determiners,bir,∅,çorba,333
+Yine geçen hafta indirime giren bir bilgisayar satın aldım.,Yine geçen hafta indirime giren bilgisayar satın aldım.,determiners,bir,∅,bilgisayar,334
+Bu ders sırasında öğretmen faydalı bir öneri sundu.,Bu ders sırasında öğretmen faydalı öneri sundu.,determiners,bir,∅,öneri,335
+Bu kütüphanede sessizce çalışan bir öğrenci vardı.,Bu kütüphanede sessizce çalışan öğrenci vardı.,determiners,bir,∅,öğrenci,336
+Ayrıca notere Almanca çevirisini yaptırdığı önemli bir belge verdi.,Ayrıca notere Almanca çevirisini yaptırdığı önemli belge verdi.,determiners,bir,∅,belge,337
+Bir bankaya Korece'ye çevirisini yaptırdığı bir sözleşme verdi.,Bir bankaya Korece'ye çevirisini yaptırdığı sözleşme verdi.,determiners,bir,∅,sözleşme,338
+O ders sırasında öğretmen faydalı bir öneri sundu.,O ders sırasında öğretmen faydalı öneri sundu.,determiners,bir,∅,öneri,339
+Dün butikte göz kamaştıran ince askılı bir elbise gördüm.,Dün butikte göz kamaştıran ince askılı elbise gördüm.,determiners,bir,∅,elbise,340
+Kız bebeğin eline sallayınca ses çıkaran bir oyuncak verdi.,Kız bebeğin eline sallayınca ses çıkaran oyuncak verdi.,determiners,bir,∅,oyuncak,341
+Sonra yeni açılan lokantada şef tarafından önerilen bir tatlı denedik.,Sonra yeni açılan lokantada şef tarafından önerilen tatlı denedik.,determiners,bir,∅,tatlı,342
+Küçük kütüphanede sessizce çalışan bir öğrenci vardı.,Küçük kütüphanede sessizce çalışan öğrenci vardı.,determiners,bir,∅,öğrenci,343
+ABD bilim insanları yeni yöntemlerle geliştirilen bir aşı test ediyor.,ABD bilim insanları yeni yöntemlerle geliştirilen aşı test ediyor.,determiners,bir,∅,aşı,344
+Ben bu sabah beni ayıltan lezzetli bir kahve içtim.,Ben bu sabah beni ayıltan lezzetli kahve içtim.,determiners,bir,∅,kahve,345
+Sonra mozart'ın gençliğinin anlatıldığı bir program seyrettik.,Sonra mozart'ın gençliğinin anlatıldığı program seyrettik.,determiners,bir,∅,program,346
+Evde annemin dolabında sakladığı bir mektup buldum.,Evde annemin dolabında sakladığı mektup buldum.,determiners,bir,∅,mektup,347
+Bir marketten fiyatı uygun olan bir peynir aldım.,Bir marketten fiyatı uygun olan peynir aldım.,determiners,bir,∅,peynir,348
+Ayrıca dün akşam lezzeti damağımda kalan bir çorba içtim.,Ayrıca dün akşam lezzeti damağımda kalan çorba içtim.,determiners,bir,∅,çorba,349
+Bugün mozart'ın gençliğinin anlatıldığı bir program seyrettik.,Bugün mozart'ın gençliğinin anlatıldığı program seyrettik.,determiners,bir,∅,program,350
+Onun i̇çinde bol miktarda badem ve kakao olan bir pasta yaptılar.,Onun i̇çinde bol miktarda badem ve kakao olan pasta yaptılar.,determiners,bir,∅,pasta,351
+Sonra marketten indirimde olan bir deterjan aldım.,Sonra marketten indirimde olan deterjan aldım.,determiners,bir,∅,deterjan,352
+Bu akşam okumak için eleştirmenlerin beğendiği bir makale seçtiler.,Bu akşam okumak için eleştirmenlerin beğendiği makale seçtiler.,determiners,bir,∅,makale,353
+En yeni açılan kafede şefin önerdiği nefis bir tabak denedik.,En yeni açılan kafede şefin önerdiği nefis tabak denedik.,determiners,bir,∅,tabak,354
+Yine pazar sabahı ailece keyif aldığımız bir kahvaltı yaptık.,Yine pazar sabahı ailece keyif aldığımız kahvaltı yaptık.,determiners,bir,∅,kahvaltı,355
+Öğrencilerin mezuniyet kutlaması için fiyatı makul sayılabilecek bir araç aldılar.,Öğrencilerin mezuniyet kutlaması için fiyatı makul sayılabilecek araç aldılar.,determiners,bir,∅,araç,356
+Öğretmen sınava çalışırken bana yardımcı olacak bir defter verdi.,Öğretmen sınava çalışırken bana yardımcı olacak defter verdi.,determiners,bir,∅,defter,357
+Ve ufaklığın dikkatini çekecek eğlenceli bir oyuncak aldım.,Ve ufaklığın dikkatini çekecek eğlenceli oyuncak aldım.,determiners,bir,∅,oyuncak,358
+Yine mozart'ın gençliğinin anlatıldığı bir program seyrettik.,Yine mozart'ın gençliğinin anlatıldığı program seyrettik.,determiners,bir,∅,program,359
+Ve müdüre İtalyanca'ya çevirisini yaptırdığı bir doküman götürdü.,Ve müdüre İtalyanca'ya çevirisini yaptırdığı doküman götürdü.,determiners,bir,∅,doküman,360
+Onların doğum günü için üstünü çileklerle süslediğimiz bir pasta hazırladık.,Onların doğum günü için üstünü çileklerle süslediğimiz pasta hazırladık.,determiners,bir,∅,pasta,361
+Müdür müdüre İngilizce'ye çevirisini yaptırdığı önemli bir belge teslim etti.,Müdür müdüre İngilizce'ye çevirisini yaptırdığı önemli belge teslim etti.,determiners,bir,∅,belge,362
+İkinci doğum günü için üstünü çileklerle süslediğimiz bir pasta hazırladık.,İkinci doğum günü için üstünü çileklerle süslediğimiz pasta hazırladık.,determiners,bir,∅,pasta,363
+Önce nişan hediyesi olarak modeli hoş gelen bir yüzük alacağız.,Önce nişan hediyesi olarak modeli hoş gelen yüzük alacağız.,determiners,bir,∅,yüzük,364
+Ayrıca herkesin önerdiği harika bir film izledik.,Ayrıca herkesin önerdiği harika film izledik.,determiners,bir,∅,film,365
+Cumartesi sabah kahvaltısında yemek için doyurucu bir sandviç aldım.,Cumartesi sabah kahvaltısında yemek için doyurucu sandviç aldım.,determiners,bir,∅,sandviç,366
+Usta şefin tarifinden uyarladığım nefis bir börek yaptım.,Usta şefin tarifinden uyarladığım nefis börek yaptım.,determiners,bir,∅,börek,367
+Ayrıca nişan hediyesi olarak modeli hoş gelen bir yüzük alacağız.,Ayrıca nişan hediyesi olarak modeli hoş gelen yüzük alacağız.,determiners,bir,∅,yüzük,368
+Mimar Sinan'ın hayatının anlatıldığı bir belgesel izledik.,Mimar Sinan'ın hayatının anlatıldığı belgesel izledik.,determiners,bir,∅,belgesel,369
+Sömestr tatilinde sürükleyici bir roman okudum.,Sömestr tatilinde sürükleyici roman okudum.,determiners,bir,∅,roman,370
+Bende ayşe rengi maviye çalan güzel bir çanta beğendi.,Bende ayşe rengi maviye çalan güzel çanta beğendi.,determiners,bir,∅,çanta,371
+Bankaya Korece'ye çevirisini yaptırdığı bir sözleşme verdi.,Bankaya Korece'ye çevirisini yaptırdığı sözleşme verdi.,determiners,bir,∅,sözleşme,372
+Ben beyaz dantel detayları içeren zarif bir gelinlik denedim.,Ben beyaz dantel detayları içeren zarif gelinlik denedim.,determiners,bir,∅,gelinlik,373
+Kadın avukata Rusça'ya çevirisini yaptırdığı bir sözleşme iletti.,Kadın avukata Rusça'ya çevirisini yaptırdığı sözleşme iletti.,determiners,bir,∅,sözleşme,374
+</s> nazan rengi kırmızıya çalan bir elbise beğendi.,</s> nazan rengi kırmızıya çalan elbise beğendi.,determiners,bir,∅,elbise,375
+Yine yeni açılan kafede şefin önerdiği nefis bir tabak denedik.,Yine yeni açılan kafede şefin önerdiği nefis tabak denedik.,determiners,bir,∅,tabak,376
+Yine bu sabah beni kendime getiren bir kahve içtim.,Yine bu sabah beni kendime getiren kahve içtim.,determiners,bir,∅,kahve,377
+Nişan hediyesi olarak modeli hoş gelen bir yüzük alacağız.,Nişan hediyesi olarak modeli hoş gelen yüzük alacağız.,determiners,bir,∅,yüzük,378
+Kütüphaneden herkesin önerdiği bir kitap aldım.,Kütüphaneden herkesin önerdiği kitap aldım.,determiners,bir,∅,kitap,379
+Bu akşam izlemek için herkesin merakla beklediği bir dizi seçtiler.,Bu akşam izlemek için herkesin merakla beklediği dizi seçtiler.,determiners,bir,∅,dizi,380
+Yeni kitap kulübünde heyecan verici bir roman okuduk.,Yeni kitap kulübünde heyecan verici roman okuduk.,determiners,bir,∅,roman,381
+Genç müdüre İtalyanca'ya çevirisini yaptırdığı bir doküman götürdü.,Genç müdüre İtalyanca'ya çevirisini yaptırdığı doküman götürdü.,determiners,bir,∅,doküman,382
+İngiliz stüdyolarında özenle kaydedilen bir şarkı dinledik.,İngiliz stüdyolarında özenle kaydedilen şarkı dinledik.,determiners,bir,∅,şarkı,383
+Bir sahafta çok tavsiye edilen bir kitap buldum.,Bir sahafta çok tavsiye edilen kitap buldum.,determiners,bir,∅,kitap,384
+Bir bahçede büyüyen rengarenk bir çiçek kopardım.,Bir bahçede büyüyen rengarenk çiçek kopardım.,determiners,bir,∅,çiçek,385
+Dün konferansta ilginç bir sunum dinledik.,Dün konferansta ilginç sunum dinledik.,determiners,bir,∅,sunum,386
+Giuseppe picasso'nun yaşamının anlatıldığı bir sergi gezdik.,Giuseppe picasso'nun yaşamının anlatıldığı sergi gezdik.,determiners,bir,∅,sergi,387
+Yeni açılan lokantada şef tarafından önerilen bir tatlı denedik.,Yeni açılan lokantada şef tarafından önerilen tatlı denedik.,determiners,bir,∅,tatlı,388
+Yine nazan rengi kırmızıya çalan bir elbise beğendi.,Yine nazan rengi kırmızıya çalan elbise beğendi.,determiners,bir,∅,elbise,389
+Akşam yemeğine eşlik etmesi için lezzetli bir çorba yaptım.,Akşam yemeğine eşlik etmesi için lezzetli çorba yaptım.,determiners,bir,∅,çorba,390
+Siyah beyaz dantel detayları içeren zarif bir gelinlik denedim.,Siyah beyaz dantel detayları içeren zarif gelinlik denedim.,determiners,bir,∅,gelinlik,391
+Bol bol fındık ve tarçın içeren enfes bir kek yaptılar.,Bol bol fındık ve tarçın içeren enfes kek yaptılar.,determiners,bir,∅,kek,392
+Sonra seyretmek için arkadaşların tavsiye ettiği bir dizi seçtik.,Sonra seyretmek için arkadaşların tavsiye ettiği dizi seçtik.,determiners,bir,∅,dizi,393
+Akşam seyretmek için arkadaşların tavsiye ettiği bir dizi seçtik.,Akşam seyretmek için arkadaşların tavsiye ettiği dizi seçtik.,determiners,bir,∅,dizi,394
+Ve herkesin önerdiği harika bir film izledik.,Ve herkesin önerdiği harika film izledik.,determiners,bir,∅,film,395
+Önce mezuniyet hediyesi olarak fiyatı uygun gelen bir araba alırız.,Önce mezuniyet hediyesi olarak fiyatı uygun gelen araba alırız.,determiners,bir,∅,araba,396
+Cumartesi kitap kulübünde heyecan verici bir roman okuduk.,Cumartesi kitap kulübünde heyecan verici roman okuduk.,determiners,bir,∅,roman,397
+Adam gizem desenleri baya farklı duran bir bluz aldı.,Adam gizem desenleri baya farklı duran bluz aldı.,determiners,bir,∅,bluz,398
+Pazar akşam yemeğine içinde erişte ve sebze bulunan nefis bir çorba yaptım.,Pazar akşam yemeğine içinde erişte ve sebze bulunan nefis çorba yaptım.,determiners,bir,∅,çorba,399
+Yine butikte göz kamaştıran ince askılı bir elbise gördüm.,Yine butikte göz kamaştıran ince askılı elbise gördüm.,determiners,bir,∅,elbise,400
+Biz doğum günü hediyesi olarak fiyatı bize makul gelen bir bileklik seçtik.,Biz doğum günü hediyesi olarak fiyatı bize makul gelen bileklik seçtik.,determiners,bir,∅,bileklik,401
+İkinci sahafta çok tavsiye edilen bir kitap buldum.,İkinci sahafta çok tavsiye edilen kitap buldum.,determiners,bir,∅,kitap,402
+Benim sahafta çok tavsiye edilen bir kitap buldum.,Benim sahafta çok tavsiye edilen kitap buldum.,determiners,bir,∅,kitap,403
+Bana sınava çalışırken bana yardımcı olacak bir defter verdi.,Bana sınava çalışırken bana yardımcı olacak defter verdi.,determiners,bir,∅,defter,404
+Pastanede özenle hazırlanan bir pasta aldık.,Pastanede özenle hazırlanan pasta aldık.,determiners,bir,∅,pasta,405
+Kitapçının vitrininde ilgi çekici bir roman gördüm.,Kitapçının vitrininde ilgi çekici roman gördüm.,determiners,bir,∅,roman,406
+Ardından yeni açılan kafede şefin önerdiği nefis bir tabak denedik.,Ardından yeni açılan kafede şefin önerdiği nefis tabak denedik.,determiners,bir,∅,tabak,407
+Bugün deniz kenarında serinleten bir rüzgar hissettik.,Bugün deniz kenarında serinleten rüzgar hissettik.,determiners,bir,∅,rüzgar,408
+Bugün arkadaşıma hediye etmek için şık bir saat seçtim.,Bugün arkadaşıma hediye etmek için şık saat seçtim.,determiners,bir,∅,saat,409
+Bir pastanede özenle hazırlanan bir pasta aldık.,Bir pastanede özenle hazırlanan pasta aldık.,determiners,bir,∅,pasta,410
+Büyükannemin tarifine göre yapılan bir reçel tattırdı.,Büyükannemin tarifine göre yapılan reçel tattırdı.,determiners,bir,∅,reçel,411
+İşte yarın plajda okumak için sürükleyici bir roman aldım.,İşte yarın plajda okumak için sürükleyici roman aldım.,determiners,bir,∅,roman,412
+Özellikle sabahları içimi ısıtan bir çorba içmeyi seviyorum.,Özellikle sabahları içimi ısıtan çorba içmeyi seviyorum.,determiners,bir,∅,çorba,413
+Kadın müdüre İtalyanca'ya çevirisini yaptırdığı bir doküman götürdü.,Kadın müdüre İtalyanca'ya çevirisini yaptırdığı doküman götürdü.,determiners,bir,∅,doküman,414
+Yine akşam yemeğine içinde erişte ve sebze bulunan nefis bir çorba yaptım.,Yine akşam yemeğine içinde erişte ve sebze bulunan nefis çorba yaptım.,determiners,bir,∅,çorba,415
+Önce büyükannemin tarifine göre yapılan bir reçel tattırdı.,Önce büyükannemin tarifine göre yapılan reçel tattırdı.,determiners,bir,∅,reçel,416
+Bir düğün hediyesi olarak bütçemizi zorlamayan bir takı alacağız.,Bir düğün hediyesi olarak bütçemizi zorlamayan takı alacağız.,determiners,bir,∅,takı,417
+Yine yeni işimde bana yardımcı olacak bir ajanda satın aldım.,Yine yeni işimde bana yardımcı olacak ajanda satın aldım.,determiners,bir,∅,ajanda,418
+Hatta dün akşam lezzeti damağımda kalan bir çorba içtim.,Hatta dün akşam lezzeti damağımda kalan çorba içtim.,determiners,bir,∅,çorba,419
+</s> ayşe rengi maviye çalan güzel bir çanta beğendi.,</s> ayşe rengi maviye çalan güzel çanta beğendi.,determiners,bir,∅,çanta,420
+Cam dokusu kadifeyi andıran güzel bir mont beğendik.,Cam dokusu kadifeyi andıran güzel mont beğendik.,determiners,bir,∅,mont,421
+Kadın patrona Japonca'ya çevirisini yaptırdığı bir rapor sundu.,Kadın patrona Japonca'ya çevirisini yaptırdığı rapor sundu.,determiners,bir,∅,rapor,422
+Bana büyükannemin tarifine göre yapılan bir reçel tattırdı.,Bana büyükannemin tarifine göre yapılan reçel tattırdı.,determiners,bir,∅,reçel,423
+Seyretmek için arkadaşların tavsiye ettiği bir dizi seçtik.,Seyretmek için arkadaşların tavsiye ettiği dizi seçtik.,determiners,bir,∅,dizi,424
+Bunun i̇çinde bol miktarda badem ve kakao olan bir pasta yaptılar.,Bunun i̇çinde bol miktarda badem ve kakao olan pasta yaptılar.,determiners,bir,∅,pasta,425
+Burada duvarda asılı duran bir resim inceledik.,Burada duvarda asılı duran resim inceledik.,determiners,bir,∅,resim,426
+Ben yeni işimde bana yardımcı olacak bir ajanda satın aldım.,Ben yeni işimde bana yardımcı olacak ajanda satın aldım.,determiners,bir,∅,ajanda,427
+Özellikle dokusu kadifeyi andıran güzel bir mont beğendik.,Özellikle dokusu kadifeyi andıran güzel mont beğendik.,determiners,bir,∅,mont,428
+Bir düğün için zarif bir elbise aldım.,Bir düğün için zarif elbise aldım.,determiners,bir,∅,elbise,429
+Aynı kütüphanede sessizce çalışan bir öğrenci vardı.,Aynı kütüphanede sessizce çalışan öğrenci vardı.,determiners,bir,∅,öğrenci,430
+Burada sergide sanatçının ustalıkla çizdiği bir portre gördük.,Burada sergide sanatçının ustalıkla çizdiği portre gördük.,determiners,bir,∅,portre,431
+Böylece kamp yaparken kullanışlı olacak bir çadır satın aldık.,Böylece kamp yaparken kullanışlı olacak çadır satın aldık.,determiners,bir,∅,çadır,432
+Ama dün akşam lezzeti damağımda kalan bir çorba içtim.,Ama dün akşam lezzeti damağımda kalan çorba içtim.,determiners,bir,∅,çorba,433
+Bugün sabah kahvaltısında lezzetli bir omlet yedim.,Bugün sabah kahvaltısında lezzetli omlet yedim.,determiners,bir,∅,omlet,434
+Ben dönerken götürmek için çok tüketilen bir peynir seçtim.,Ben dönerken götürmek için çok tüketilen peynir seçtim.,determiners,bir,∅,peynir,435
+Şimdi kütüphaneden herkesin önerdiği bir kitap aldım.,Şimdi kütüphaneden herkesin önerdiği kitap aldım.,determiners,bir,∅,kitap,436
+Amerikan stüdyolarında özenle kaydedilen bir şarkı dinledik.,Amerikan stüdyolarında özenle kaydedilen şarkı dinledik.,determiners,bir,∅,şarkı,437
+Ben bütün gün beni tok tutan sağlıklı bir smoothie içtim.,Ben bütün gün beni tok tutan sağlıklı smoothie içtim.,determiners,bir,∅,smoothie,438
+Yine yeni açılan lokantada şef tarafından önerilen bir tatlı denedik.,Yine yeni açılan lokantada şef tarafından önerilen tatlı denedik.,determiners,bir,∅,tatlı,439
+Biz yeni açılan butikten ustanın tasarladığı bir kolye seçtik.,Biz yeni açılan butikten ustanın tasarladığı kolye seçtik.,determiners,bir,∅,kolye,440
+Akşam o kafede tadına doyamadığımız bir salata yedik.,Akşam o kafede tadına doyamadığımız salata yedik.,determiners,bir,∅,salata,441
+Bir ders çalışırken sessiz ve ferah bir kafe tercih ediyorum.,Bir ders çalışırken sessiz ve ferah kafe tercih ediyorum.,determiners,bir,∅,kafe,442
+Kendi i̇çinde bol miktarda badem ve kakao olan bir pasta yaptılar.,Kendi i̇çinde bol miktarda badem ve kakao olan pasta yaptılar.,determiners,bir,∅,pasta,443
+Bu doğum günü için üstünü çileklerle süslediğimiz bir pasta hazırladık.,Bu doğum günü için üstünü çileklerle süslediğimiz pasta hazırladık.,determiners,bir,∅,pasta,444
+Yine deniz kenarında serinleten bir rüzgar hissettik.,Yine deniz kenarında serinleten rüzgar hissettik.,determiners,bir,∅,rüzgar,445
+Yine kamp yaparken kullanışlı olacak bir çadır satın aldık.,Yine kamp yaparken kullanışlı olacak çadır satın aldık.,determiners,bir,∅,çadır,446
+Akşam yemeğine içinde erişte ve sebze bulunan nefis bir çorba yaptım.,Akşam yemeğine içinde erişte ve sebze bulunan nefis çorba yaptım.,determiners,bir,∅,çorba,447
+Ve zeynep rengi sarıya çalan desenli bir ceket denedi.,Ve zeynep rengi sarıya çalan desenli ceket denedi.,determiners,bir,∅,ceket,448
+Bugün bütün gün beni tok tutan sağlıklı bir smoothie içtim.,Bugün bütün gün beni tok tutan sağlıklı smoothie içtim.,determiners,bir,∅,smoothie,449
+Sonra mimar Sinan'ın hayatının anlatıldığı bir belgesel izledik.,Sonra mimar Sinan'ın hayatının anlatıldığı belgesel izledik.,determiners,bir,∅,belgesel,450
+Sonra i̇çinde bol miktarda badem ve kakao olan bir pasta yaptılar.,Sonra i̇çinde bol miktarda badem ve kakao olan pasta yaptılar.,determiners,bir,∅,pasta,451
+Sabah kahvaltısında lezzetli bir omlet yedim.,Sabah kahvaltısında lezzetli omlet yedim.,determiners,bir,∅,omlet,452
+İşte yeni açılan butikten ustanın tasarladığı bir kolye seçtik.,İşte yeni açılan butikten ustanın tasarladığı kolye seçtik.,determiners,bir,∅,kolye,453
+Mezuniyet hediyesi olarak fiyatı uygun gelen bir araba alırız.,Mezuniyet hediyesi olarak fiyatı uygun gelen araba alırız.,determiners,bir,∅,araba,454
+Onlar i̇çinde bol miktarda badem ve kakao olan bir pasta yaptılar.,Onlar i̇çinde bol miktarda badem ve kakao olan pasta yaptılar.,determiners,bir,∅,pasta,455
+Özel laboratuvarda çok etkili bir ilaç test ettiler.,Özel laboratuvarda çok etkili ilaç test ettiler.,determiners,bir,∅,ilaç,456
+Kendisi avukata Rusça'ya çevirisini yaptırdığı bir sözleşme iletti.,Kendisi avukata Rusça'ya çevirisini yaptırdığı sözleşme iletti.,determiners,bir,∅,sözleşme,457
+Burada yeni açılan lokantada şef tarafından önerilen bir tatlı denedik.,Burada yeni açılan lokantada şef tarafından önerilen tatlı denedik.,determiners,bir,∅,tatlı,458
+Ben marketten fiyatı uygun olan bir peynir aldım.,Ben marketten fiyatı uygun olan peynir aldım.,determiners,bir,∅,peynir,459
+Bugün nişan hediyesi olarak modeli hoş gelen bir yüzük alacağız.,Bugün nişan hediyesi olarak modeli hoş gelen yüzük alacağız.,determiners,bir,∅,yüzük,460
+Ofise mis gibi kokan bir çiçek geldi.,Ofise mis gibi kokan çiçek geldi.,determiners,bir,∅,çiçek,461
+Sonra sınava çalışırken bana yardımcı olacak bir defter verdi.,Sonra sınava çalışırken bana yardımcı olacak defter verdi.,determiners,bir,∅,defter,462
+Yemek i̇çinde bolca ceviz ve tarçın olan bir kek yaptılar.,Yemek i̇çinde bolca ceviz ve tarçın olan kek yaptılar.,determiners,bir,∅,kek,463
+Bir laboratuvarda yeni geliştirilen bir ilaç denediler.,Bir laboratuvarda yeni geliştirilen ilaç denediler.,determiners,bir,∅,ilaç,464
+Kırmızı beyaz dantel detayları içeren zarif bir gelinlik denedim.,Kırmızı beyaz dantel detayları içeren zarif gelinlik denedim.,determiners,bir,∅,gelinlik,465
+Bugün yarın plajda okumak için sürükleyici bir roman aldım.,Bugün yarın plajda okumak için sürükleyici roman aldım.,determiners,bir,∅,roman,466
+Ayrıca yarın plajda okumak için sürükleyici bir roman aldım.,Ayrıca yarın plajda okumak için sürükleyici roman aldım.,determiners,bir,∅,roman,467
+İzmir dönerken götürmek için çok tüketilen bir peynir seçtim.,İzmir dönerken götürmek için çok tüketilen peynir seçtim.,determiners,bir,∅,peynir,468
+Yine sömestr tatilinde sürükleyici bir roman okudum.,Yine sömestr tatilinde sürükleyici roman okudum.,determiners,bir,∅,roman,469
+Tüm evde huzurlu bir atmosfer yaratmak için hoş bir mum yaktım.,Tüm evde huzurlu bir atmosfer yaratmak için hoş mum yaktım.,determiners,bir,∅,mum,470
+Şimdi evin dekorasyonu için zarif bir tablo aldım.,Şimdi evin dekorasyonu için zarif tablo aldım.,determiners,bir,∅,tablo,471
+Bugün yeni işimde bana yardımcı olacak bir ajanda satın aldım.,Bugün yeni işimde bana yardımcı olacak ajanda satın aldım.,determiners,bir,∅,ajanda,472
+Evde düğün hediyesi olarak bütçemizi zorlamayan bir takı alacağız.,Evde düğün hediyesi olarak bütçemizi zorlamayan takı alacağız.,determiners,bir,∅,takı,473
+Roberto picasso'nun yaşamının anlatıldığı bir sergi gezdik.,Roberto picasso'nun yaşamının anlatıldığı sergi gezdik.,determiners,bir,∅,sergi,474
+Yazar patrona Japonca'ya çevirisini yaptırdığı bir rapor sundu.,Yazar patrona Japonca'ya çevirisini yaptırdığı rapor sundu.,determiners,bir,∅,rapor,475
+Ben kitapçının vitrininde ilgi çekici bir roman gördüm.,Ben kitapçının vitrininde ilgi çekici roman gördüm.,determiners,bir,∅,roman,476
+Onun doğum günü için üstünü çileklerle süslediğimiz bir pasta hazırladık.,Onun doğum günü için üstünü çileklerle süslediğimiz pasta hazırladık.,determiners,bir,∅,pasta,477
+Sonra bütün gün beni tok tutan sağlıklı bir smoothie içtim.,Sonra bütün gün beni tok tutan sağlıklı smoothie içtim.,determiners,bir,∅,smoothie,478
+Ardından müdüre İngilizce'ye çevirisini yaptırdığı önemli bir belge teslim etti.,Ardından müdüre İngilizce'ye çevirisini yaptırdığı önemli belge teslim etti.,determiners,bir,∅,belge,479
+Ünlü mimar Sinan'ın hayatının anlatıldığı bir belgesel izledik.,Ünlü mimar Sinan'ın hayatının anlatıldığı belgesel izledik.,determiners,bir,∅,belgesel,480
+Ana parkta heyecan verici bir yarış izledik.,Ana parkta heyecan verici yarış izledik.,determiners,bir,∅,yarış,481
+Kadın ağzında kekremsi tat bırakan bir kahve içti.,Kadın ağzında kekremsi tat bırakan kahve içti.,determiners,bir,∅,kahve,482
+Evde ders çalışmak için sabahları kalabalık olmayan bir kafe arıyorum.,Evde ders çalışmak için sabahları kalabalık olmayan kafe arıyorum.,determiners,bir,∅,kafe,483
+Sonra ağzında kekremsi tat bırakan bir kahve içti.,Sonra ağzında kekremsi tat bırakan kahve içti.,determiners,bir,∅,kahve,484
+Müdüre İtalyanca'ya çevirisini yaptırdığı bir doküman götürdü.,Müdüre İtalyanca'ya çevirisini yaptırdığı doküman götürdü.,determiners,bir,∅,doküman,485
+Ayrıca evin dekorasyonu için zarif bir tablo aldım.,Ayrıca evin dekorasyonu için zarif tablo aldım.,determiners,bir,∅,tablo,486
+Ayrıca geçen sene köyde kerpiçten yapılan bir baraka gördüm.,Ayrıca geçen sene köyde kerpiçten yapılan baraka gördüm.,determiners,bir,∅,baraka,487
+Sonra müdüre İtalyanca'ya çevirisini yaptırdığı bir doküman götürdü.,Sonra müdüre İtalyanca'ya çevirisini yaptırdığı doküman götürdü.,determiners,bir,∅,doküman,488
+Ben annemin dolabında sakladığı bir mektup buldum.,Ben annemin dolabında sakladığı mektup buldum.,determiners,bir,∅,mektup,489
+Ardından o kafede tadına doyamadığımız bir salata yedik.,Ardından o kafede tadına doyamadığımız salata yedik.,determiners,bir,∅,salata,490
+Bir notere Almanca çevirisini yaptırdığı önemli bir belge verdi.,Bir notere Almanca çevirisini yaptırdığı önemli belge verdi.,determiners,bir,∅,belge,491
+Daha geçen sene köyde kerpiçten yapılan bir baraka gördüm.,Daha geçen sene köyde kerpiçten yapılan baraka gördüm.,determiners,bir,∅,baraka,492
+Bir butikte göz kamaştıran ince askılı bir elbise gördüm.,Bir butikte göz kamaştıran ince askılı elbise gördüm.,determiners,bir,∅,elbise,493
+Diğer köşedeki dükkandan fiyatı uygun olan bir çanta aldım.,Diğer köşedeki dükkandan fiyatı uygun olan çanta aldım.,determiners,bir,∅,çanta,494
+Dün geçen hafta tadı damağımda kalan bir tatlı yedim.,Dün geçen hafta tadı damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,495
+Notere Almanca çevirisini yaptırdığı önemli bir belge verdi.,Notere Almanca çevirisini yaptırdığı önemli belge verdi.,determiners,bir,∅,belge,496
+Ve mezuniyet hediyesi olarak fiyatı uygun gelen bir araba alırız.,Ve mezuniyet hediyesi olarak fiyatı uygun gelen araba alırız.,determiners,bir,∅,araba,497
+Ardından bütün gün beni tok tutan sağlıklı bir smoothie içtim.,Ardından bütün gün beni tok tutan sağlıklı smoothie içtim.,determiners,bir,∅,smoothie,498
+Geri dönerken götürmek için çok tüketilen bir peynir seçtim.,Geri dönerken götürmek için çok tüketilen peynir seçtim.,determiners,bir,∅,peynir,499
+Arkadaşlar ders çalışmak için sabahları kalabalık olmayan bir kafe arıyorum.,Arkadaşlar ders çalışmak için sabahları kalabalık olmayan kafe arıyorum.,determiners,bir,∅,kafe,500
+Bugün akşam izlemek için herkesin merakla beklediği bir dizi seçtiler.,Bugün akşam izlemek için herkesin merakla beklediği dizi seçtiler.,determiners,bir,∅,dizi,501
+Bugün i̇nternette çok beğenilen bir yemek tarifi denedim.,Bugün i̇nternette çok beğenilen yemek tarifi denedim.,determiners,bir,∅,yemek tarifi,502
+Sonra bu sabah beni kendime getiren bir kahve içtim.,Sonra bu sabah beni kendime getiren kahve içtim.,determiners,bir,∅,kahve,503
+İkinci konferansta ilginç bir sunum dinledik.,İkinci konferansta ilginç sunum dinledik.,determiners,bir,∅,sunum,504
+Cumartesi sabah kahvaltısında lezzetli bir omlet yedim.,Cumartesi sabah kahvaltısında lezzetli omlet yedim.,determiners,bir,∅,omlet,505
+Öncelikle mezuniyet hediyesi olarak fiyatı uygun gelen bir araba alırız.,Öncelikle mezuniyet hediyesi olarak fiyatı uygun gelen araba alırız.,determiners,bir,∅,araba,506
+Çocuklar sinema gecesi için herkesin beğendiği bir film seçti.,Çocuklar sinema gecesi için herkesin beğendiği film seçti.,determiners,bir,∅,film,507
+Kadınlar sinema gecesi için herkesin beğendiği bir film seçti.,Kadınlar sinema gecesi için herkesin beğendiği film seçti.,determiners,bir,∅,film,508
+Ve annemin dolabında sakladığı bir mektup buldum.,Ve annemin dolabında sakladığı mektup buldum.,determiners,bir,∅,mektup,509
+İşte bu sabah beni kendime getiren bir kahve içtim.,İşte bu sabah beni kendime getiren kahve içtim.,determiners,bir,∅,kahve,510
+Ve mozart'ın gençliğinin anlatıldığı bir program seyrettik.,Ve mozart'ın gençliğinin anlatıldığı program seyrettik.,determiners,bir,∅,program,511
+Doktor sınava çalışırken bana yardımcı olacak bir defter verdi.,Doktor sınava çalışırken bana yardımcı olacak defter verdi.,determiners,bir,∅,defter,512
+Ardından ormanda hızlıca koşan bir geyik fark ettik.,Ardından ormanda hızlıca koşan geyik fark ettik.,determiners,bir,∅,geyik,513
+Bugün herkesin önerdiği harika bir film izledik.,Bugün herkesin önerdiği harika film izledik.,determiners,bir,∅,film,514
+Ardından patrona Japonca'ya çevirisini yaptırdığı bir rapor sundu.,Ardından patrona Japonca'ya çevirisini yaptırdığı rapor sundu.,determiners,bir,∅,rapor,515
+Sonra o kafede tadına doyamadığımız bir salata yedik.,Sonra o kafede tadına doyamadığımız salata yedik.,determiners,bir,∅,salata,516
+Aynı sergide sanatçının ustalıkla çizdiği bir portre gördük.,Aynı sergide sanatçının ustalıkla çizdiği portre gördük.,determiners,bir,∅,portre,517
+Leonardo da Vinci'nin hayatının anlatıldığı etkileyici bir film izledik.,Leonardo da Vinci'nin hayatının anlatıldığı etkileyici film izledik.,determiners,bir,∅,film,518
+Bunun i̇çinde bolca ceviz ve tarçın olan bir kek yaptılar.,Bunun i̇çinde bolca ceviz ve tarçın olan kek yaptılar.,determiners,bir,∅,kek,519
+Özel laboratuvarda çok etkili bir ilaç test ettiler.,Özel laboratuvarda çok etkili ilaç test ettiler.,determiners,bir,∅,ilaç,520
+Onun doğum günü hediyesi olarak fiyatı bize makul gelen bir bileklik seçtik.,Onun doğum günü hediyesi olarak fiyatı bize makul gelen bileklik seçtik.,determiners,bir,∅,bileklik,521
+Ancak bu sabah beni ayıltan lezzetli bir kahve içtim.,Ancak bu sabah beni ayıltan lezzetli kahve içtim.,determiners,bir,∅,kahve,522
+O butikte göz kamaştıran ince askılı bir elbise gördüm.,O butikte göz kamaştıran ince askılı elbise gördüm.,determiners,bir,∅,elbise,523
+Size düğün için zarif bir elbise aldım.,Size düğün için zarif elbise aldım.,determiners,bir,∅,elbise,524
+Dün gece izlemek için herkesin övgüyle bahsettiği bir film seçtiler.,Dün gece izlemek için herkesin övgüyle bahsettiği film seçtiler.,determiners,bir,∅,film,525
+Ve geçen sene köyde kerpiçten yapılan bir baraka gördüm.,Ve geçen sene köyde kerpiçten yapılan baraka gördüm.,determiners,bir,∅,baraka,526
+Hacı ahmet rengi yeşile çalan parlak bir gömlek satın aldı.,Hacı ahmet rengi yeşile çalan parlak gömlek satın aldı.,determiners,bir,∅,gömlek,527
+Öncelikle piknik için rahatça oturacağımız geniş bir battaniye aldım.,Öncelikle piknik için rahatça oturacağımız geniş battaniye aldım.,determiners,bir,∅,battaniye,528
+Bir ders çalışmak için sabahları kalabalık olmayan bir kafe arıyorum.,Bir ders çalışmak için sabahları kalabalık olmayan kafe arıyorum.,determiners,bir,∅,kafe,529
+Önce düğün hediyesi olarak bütçemizi zorlamayan bir takı alacağız.,Önce düğün hediyesi olarak bütçemizi zorlamayan takı alacağız.,determiners,bir,∅,takı,530
+Sabah sabah kahvaltısında yemek için doyurucu bir sandviç aldım.,Sabah sabah kahvaltısında yemek için doyurucu sandviç aldım.,determiners,bir,∅,sandviç,531
+Ayrıca yeni işimde bana yardımcı olacak bir ajanda satın aldım.,Ayrıca yeni işimde bana yardımcı olacak ajanda satın aldım.,determiners,bir,∅,ajanda,532
+Yine dün akşam lezzeti damağımda kalan bir çorba içtim.,Yine dün akşam lezzeti damağımda kalan çorba içtim.,determiners,bir,∅,çorba,533
+Müdür müdüre İtalyanca'ya çevirisini yaptırdığı bir doküman götürdü.,Müdür müdüre İtalyanca'ya çevirisini yaptırdığı doküman götürdü.,determiners,bir,∅,doküman,534
+Geçen hafta indirime giren bir bilgisayar satın aldım.,Geçen hafta indirime giren bilgisayar satın aldım.,determiners,bir,∅,bilgisayar,535
+Bu evde huzurlu bir atmosfer yaratmak için hoş bir mum yaktım.,Bu evde huzurlu bir atmosfer yaratmak için hoş mum yaktım.,determiners,bir,∅,mum,536
+Ayşe rengi maviye çalan güzel bir çanta beğendi.,Ayşe rengi maviye çalan güzel çanta beğendi.,determiners,bir,∅,çanta,537
+Geçen sene köyde kerpiçten yapılan bir baraka gördüm.,Geçen sene köyde kerpiçten yapılan baraka gördüm.,determiners,bir,∅,baraka,538
+Ayrıca laboratuvarda yeni geliştirilen bir ilaç denediler.,Ayrıca laboratuvarda yeni geliştirilen ilaç denediler.,determiners,bir,∅,ilaç,539
+İnternette çok beğenilen bir yemek tarifi denedim.,İnternette çok beğenilen yemek tarifi denedim.,determiners,bir,∅,yemek tarifi,540
+Sevgili ahmet rengi yeşile çalan parlak bir gömlek satın aldı.,Sevgili ahmet rengi yeşile çalan parlak gömlek satın aldı.,determiners,bir,∅,gömlek,541
+Birçok okulda çok beğenilen bir proje sunduk.,Birçok okulda çok beğenilen proje sunduk.,determiners,bir,∅,proje,542
+Genç avukata Rusça'ya çevirisini yaptırdığı bir sözleşme iletti.,Genç avukata Rusça'ya çevirisini yaptırdığı sözleşme iletti.,determiners,bir,∅,sözleşme,543
+Stüdyolarında özenle kaydedilen bir şarkı dinledik.,Stüdyolarında özenle kaydedilen şarkı dinledik.,determiners,bir,∅,şarkı,544
+Küçük patrona Japonca'ya çevirisini yaptırdığı bir rapor sundu.,Küçük patrona Japonca'ya çevirisini yaptırdığı rapor sundu.,determiners,bir,∅,rapor,545
+Her ufaklığın dikkatini çekecek eğlenceli bir oyuncak aldım.,Her ufaklığın dikkatini çekecek eğlenceli oyuncak aldım.,determiners,bir,∅,oyuncak,546
+Laboratuvarda yeni geliştirilen bir ilaç denediler.,Laboratuvarda yeni geliştirilen ilaç denediler.,determiners,bir,∅,ilaç,547
+Bugün evde huzurlu bir atmosfer yaratmak için hoş bir mum yaktım.,Bugün evde huzurlu bir atmosfer yaratmak için hoş mum yaktım.,determiners,bir,∅,mum,548
+Daha geçen hafta tadı damağımda kalan bir tatlı yedim.,Daha geçen hafta tadı damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,549
+Sabah bütün gün beni tok tutan sağlıklı bir smoothie içtim.,Sabah bütün gün beni tok tutan sağlıklı smoothie içtim.,determiners,bir,∅,smoothie,550
+Amerika dönerken götürmek için çok tüketilen bir peynir seçtim.,Amerika dönerken götürmek için çok tüketilen peynir seçtim.,determiners,bir,∅,peynir,551
+Bir şefin tarifinden uyarladığım nefis bir börek yaptım.,Bir şefin tarifinden uyarladığım nefis börek yaptım.,determiners,bir,∅,börek,552
+Dün kütüphaneden herkesin önerdiği bir kitap aldım.,Dün kütüphaneden herkesin önerdiği kitap aldım.,determiners,bir,∅,kitap,553
+Alman notere Fransızca'ya çevirisini yaptırdığı bir evrak götürdü.,Alman notere Fransızca'ya çevirisini yaptırdığı evrak götürdü.,determiners,bir,∅,evrak,554
+Bu sinema gecesi için konusu dramatik olan farklı bir film bulduk.,Bu sinema gecesi için konusu dramatik olan farklı film bulduk.,determiners,bir,∅,film,555
+Yine annemin dolabında sakladığı bir mektup buldum.,Yine annemin dolabında sakladığı mektup buldum.,determiners,bir,∅,mektup,556
+Yolda dikkatle yürüyen bir adam gördüm.,Yolda dikkatle yürüyen adam gördüm.,determiners,bir,∅,adam,557
+Filme seyretmek için arkadaşların tavsiye ettiği bir dizi seçtik.,Filme seyretmek için arkadaşların tavsiye ettiği dizi seçtik.,determiners,bir,∅,dizi,558
+O akşam izlemek için herkesin merakla beklediği bir dizi seçtiler.,O akşam izlemek için herkesin merakla beklediği dizi seçtiler.,determiners,bir,∅,dizi,559
+Amerikan bilim insanları yeni yöntemlerle geliştirilen bir aşı test ediyor.,Amerikan bilim insanları yeni yöntemlerle geliştirilen aşı test ediyor.,determiners,bir,∅,aşı,560
+Sonra mozart'ın gençliğinin anlatıldığı bir program seyrettik.,Sonra mozart'ın gençliğinin anlatıldığı program seyrettik.,determiners,bir,∅,program,561
+Bugün pastanede özenle hazırlanan bir pasta aldık.,Bugün pastanede özenle hazırlanan pasta aldık.,determiners,bir,∅,pasta,562
+Yine i̇nternette çok beğenilen bir yemek tarifi denedim.,Yine i̇nternette çok beğenilen yemek tarifi denedim.,determiners,bir,∅,yemek tarifi,563
+Özel ders çalışmak için sabahları kalabalık olmayan bir kafe arıyorum.,Özel ders çalışmak için sabahları kalabalık olmayan kafe arıyorum.,determiners,bir,∅,kafe,564
+BBC stüdyolarında özenle kaydedilen bir şarkı dinledik.,BBC stüdyolarında özenle kaydedilen şarkı dinledik.,determiners,bir,∅,şarkı,565
+Bir pastanede özenle hazırlanan bir pasta aldık.,Bir pastanede özenle hazırlanan pasta aldık.,determiners,bir,∅,pasta,566
+Akşam bahçede büyüyen rengarenk bir çiçek kopardım.,Akşam bahçede büyüyen rengarenk çiçek kopardım.,determiners,bir,∅,çiçek,567
+O kütüphanede sessizce çalışan bir öğrenci vardı.,O kütüphanede sessizce çalışan öğrenci vardı.,determiners,bir,∅,öğrenci,568
+Ayrıca bol fındık ve tarçın içeren enfes bir kek yaptılar.,Ayrıca bol fındık ve tarçın içeren enfes kek yaptılar.,determiners,bir,∅,kek,569
+Her doğum günü için üstünü çileklerle süslediğimiz bir pasta hazırladık.,Her doğum günü için üstünü çileklerle süslediğimiz pasta hazırladık.,determiners,bir,∅,pasta,570
+İlk mezuniyet hediyesi olarak fiyatı uygun gelen bir araba alırız.,İlk mezuniyet hediyesi olarak fiyatı uygun gelen araba alırız.,determiners,bir,∅,araba,571
+</s> leonardo da Vinci'nin hayatının anlatıldığı etkileyici bir film izledik.,</s> leonardo da Vinci'nin hayatının anlatıldığı etkileyici film izledik.,determiners,bir,∅,film,572
+Pazar sabah kahvaltısında lezzetli bir omlet yedim.,Pazar sabah kahvaltısında lezzetli omlet yedim.,determiners,bir,∅,omlet,573
+Çarşamba sinema gecesi için konusu dramatik olan farklı bir film bulduk.,Çarşamba sinema gecesi için konusu dramatik olan farklı film bulduk.,determiners,bir,∅,film,574
+Ayrıca avukata Rusça'ya çevirisini yaptırdığı bir sözleşme iletti.,Ayrıca avukata Rusça'ya çevirisini yaptırdığı sözleşme iletti.,determiners,bir,∅,sözleşme,575
+Eski evin dekorasyonu için zarif bir tablo aldım.,Eski evin dekorasyonu için zarif tablo aldım.,determiners,bir,∅,tablo,576
+Ve gizem desenleri baya farklı duran bir bluz aldı.,Ve gizem desenleri baya farklı duran bluz aldı.,determiners,bir,∅,bluz,577
+Bir akşam izlemek için herkesin merakla beklediği bir dizi seçtiler.,Bir akşam izlemek için herkesin merakla beklediği dizi seçtiler.,determiners,bir,∅,dizi,578
+Bu şefin tarifinden uyarladığım nefis bir börek yaptım.,Bu şefin tarifinden uyarladığım nefis börek yaptım.,determiners,bir,∅,börek,579
+Ardından yeni işimde bana yardımcı olacak bir ajanda satın aldım.,Ardından yeni işimde bana yardımcı olacak ajanda satın aldım.,determiners,bir,∅,ajanda,580
+Metro marketten indirimde olan bir deterjan aldım.,Metro marketten indirimde olan deterjan aldım.,determiners,bir,∅,deterjan,581
+Evde seyretmek için arkadaşların tavsiye ettiği bir dizi seçtik.,Evde seyretmek için arkadaşların tavsiye ettiği dizi seçtik.,determiners,bir,∅,dizi,582
+Ve ağzında kekremsi tat bırakan bir kahve içti.,Ve ağzında kekremsi tat bırakan kahve içti.,determiners,bir,∅,kahve,583
+İngilizce ders çalışmak için sabahları kalabalık olmayan bir kafe arıyorum.,İngilizce ders çalışmak için sabahları kalabalık olmayan kafe arıyorum.,determiners,bir,∅,kafe,584
+Yine yeni açılan butikten ustanın tasarladığı bir kolye seçtik.,Yine yeni açılan butikten ustanın tasarladığı kolye seçtik.,determiners,bir,∅,kolye,585
+Evde ders çalışırken sessiz ve ferah bir kafe tercih ediyorum.,Evde ders çalışırken sessiz ve ferah kafe tercih ediyorum.,determiners,bir,∅,kafe,586
+Bu yeni açılan butikten ustanın tasarladığı bir kolye seçtik.,Bu yeni açılan butikten ustanın tasarladığı kolye seçtik.,determiners,bir,∅,kolye,587
+İngiliz şefin tarifinden uyarladığım nefis bir börek yaptım.,İngiliz şefin tarifinden uyarladığım nefis börek yaptım.,determiners,bir,∅,börek,588
+Sabah sabahları içimi ısıtan bir çorba içmeyi seviyorum.,Sabah sabahları içimi ısıtan çorba içmeyi seviyorum.,determiners,bir,∅,çorba,589
+Bugün yeni açılan kafede şefin önerdiği nefis bir tabak denedik.,Bugün yeni açılan kafede şefin önerdiği nefis tabak denedik.,determiners,bir,∅,tabak,590
+Dün parkta heyecan verici bir yarış izledik.,Dün parkta heyecan verici yarış izledik.,determiners,bir,∅,yarış,591
+Bir ders sırasında öğretmen faydalı bir öneri sundu.,Bir ders sırasında öğretmen faydalı öneri sundu.,determiners,bir,∅,öneri,592
+Her okulda çok beğenilen bir proje sunduk.,Her okulda çok beğenilen proje sunduk.,determiners,bir,∅,proje,593
+Genç müdüre İngilizce'ye çevirisini yaptırdığı önemli bir belge teslim etti.,Genç müdüre İngilizce'ye çevirisini yaptırdığı önemli belge teslim etti.,determiners,bir,∅,belge,594
+Bu gece izlemek için herkesin övgüyle bahsettiği bir film seçtiler.,Bu gece izlemek için herkesin övgüyle bahsettiği film seçtiler.,determiners,bir,∅,film,595
+Böylece ufaklığın dikkatini çekecek eğlenceli bir oyuncak aldım.,Böylece ufaklığın dikkatini çekecek eğlenceli oyuncak aldım.,determiners,bir,∅,oyuncak,596
+Bir doğum günü hediyesi olarak fiyatı bize makul gelen bir bileklik seçtik.,Bir doğum günü hediyesi olarak fiyatı bize makul gelen bileklik seçtik.,determiners,bir,∅,bileklik,597
+Ve akşam yemeğine eşlik etmesi için lezzetli bir çorba yaptım.,Ve akşam yemeğine eşlik etmesi için lezzetli çorba yaptım.,determiners,bir,∅,çorba,598
+Önceki akşam okumak için eleştirmenlerin beğendiği bir makale seçtiler.,Önceki akşam okumak için eleştirmenlerin beğendiği makale seçtiler.,determiners,bir,∅,makale,599
+Ders çalışırken sessiz ve ferah bir kafe tercih ediyorum.,Ders çalışırken sessiz ve ferah kafe tercih ediyorum.,determiners,bir,∅,kafe,600
+Bir otobüste okumak için eğlenceli bir dergi aldım.,Bir otobüste okumak için eğlenceli dergi aldım.,determiners,bir,∅,dergi,601
+Erkek arkadaşıma hediye etmek için şık bir saat seçtim.,Erkek arkadaşıma hediye etmek için şık saat seçtim.,determiners,bir,∅,saat,602
+Yeni tiyatroda oyuncuların büyük özveriyle canlandırdığı bir oyun izledik.,Yeni tiyatroda oyuncuların büyük özveriyle canlandırdığı oyun izledik.,determiners,bir,∅,oyun,603
+İngiliz bankaya Korece'ye çevirisini yaptırdığı bir sözleşme verdi.,İngiliz bankaya Korece'ye çevirisini yaptırdığı sözleşme verdi.,determiners,bir,∅,sözleşme,604
+Yine yarın plajda okumak için sürükleyici bir roman aldım.,Yine yarın plajda okumak için sürükleyici roman aldım.,determiners,bir,∅,roman,605
+Ben geçen sene köyde kerpiçten yapılan bir baraka gördüm.,Ben geçen sene köyde kerpiçten yapılan baraka gördüm.,determiners,bir,∅,baraka,606
+Beyaz zeynep rengi sarıya çalan desenli bir ceket denedi.,Beyaz zeynep rengi sarıya çalan desenli ceket denedi.,determiners,bir,∅,ceket,607
+Ancak yeni açılan kafede şefin önerdiği nefis bir tabak denedik.,Ancak yeni açılan kafede şefin önerdiği nefis tabak denedik.,determiners,bir,∅,tabak,608
+Erkek nişan hediyesi olarak modeli hoş gelen bir yüzük alacağız.,Erkek nişan hediyesi olarak modeli hoş gelen yüzük alacağız.,determiners,bir,∅,yüzük,609
+Ben sahafta çok tavsiye edilen bir kitap buldum.,Ben sahafta çok tavsiye edilen kitap buldum.,determiners,bir,∅,kitap,610
+Bugün yeni açılan butikten ustanın tasarladığı bir kolye seçtik.,Bugün yeni açılan butikten ustanın tasarladığı kolye seçtik.,determiners,bir,∅,kolye,611
+Yine geçen hafta tadı damağımda kalan bir tatlı yedim.,Yine geçen hafta tadı damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,612
+Giovanni picasso'nun yaşamının anlatıldığı bir sergi gezdik.,Giovanni picasso'nun yaşamının anlatıldığı sergi gezdik.,determiners,bir,∅,sergi,613
+Ben ayşe rengi maviye çalan güzel bir çanta beğendi.,Ben ayşe rengi maviye çalan güzel çanta beğendi.,determiners,bir,∅,çanta,614
+Her sergide sanatçının ustalıkla çizdiği bir portre gördük.,Her sergide sanatçının ustalıkla çizdiği portre gördük.,determiners,bir,∅,portre,615
+Ancak dün akşam lezzeti damağımda kalan bir çorba içtim.,Ancak dün akşam lezzeti damağımda kalan çorba içtim.,determiners,bir,∅,çorba,616
+Bu konferansta ilginç bir sunum dinledik.,Bu konferansta ilginç sunum dinledik.,determiners,bir,∅,sunum,617
+Onların mezuniyet kutlaması için fiyatı makul sayılabilecek bir araç aldılar.,Onların mezuniyet kutlaması için fiyatı makul sayılabilecek araç aldılar.,determiners,bir,∅,araç,618
+Onlar bol fındık ve tarçın içeren enfes bir kek yaptılar.,Onlar bol fındık ve tarçın içeren enfes kek yaptılar.,determiners,bir,∅,kek,619
+Oto parkta heyecan verici bir yarış izledik.,Oto parkta heyecan verici yarış izledik.,determiners,bir,∅,yarış,620
+Ayrıca geçen hafta indirime giren bir bilgisayar satın aldım.,Ayrıca geçen hafta indirime giren bilgisayar satın aldım.,determiners,bir,∅,bilgisayar,621
+Hafta sinema gecesi için konusu dramatik olan farklı bir film bulduk.,Hafta sinema gecesi için konusu dramatik olan farklı film bulduk.,determiners,bir,∅,film,622
+Ardından kütüphaneden herkesin önerdiği bir kitap aldım.,Ardından kütüphaneden herkesin önerdiği kitap aldım.,determiners,bir,∅,kitap,623
+Bir kitapçının vitrininde ilgi çekici bir roman gördüm.,Bir kitapçının vitrininde ilgi çekici roman gördüm.,determiners,bir,∅,roman,624
+Ama bu sabah beni kendime getiren bir kahve içtim.,Ama bu sabah beni kendime getiren kahve içtim.,determiners,bir,∅,kahve,625
+Biz kamp yaparken kullanışlı olacak bir çadır satın aldık.,Biz kamp yaparken kullanışlı olacak çadır satın aldık.,determiners,bir,∅,çadır,626
+Ayrıca mozart'ın gençliğinin anlatıldığı bir program seyrettik.,Ayrıca mozart'ın gençliğinin anlatıldığı program seyrettik.,determiners,bir,∅,program,627
+Dün pazar sabahı ailece keyif aldığımız bir kahvaltı yaptık.,Dün pazar sabahı ailece keyif aldığımız kahvaltı yaptık.,determiners,bir,∅,kahvaltı,628
+Ben geçen sene köyde kerpiçten yapılan bir baraka gördüm.,Ben geçen sene köyde kerpiçten yapılan baraka gördüm.,determiners,bir,∅,baraka,629
+Bir ufaklığın dikkatini çekecek eğlenceli bir oyuncak aldım.,Bir ufaklığın dikkatini çekecek eğlenceli oyuncak aldım.,determiners,bir,∅,oyuncak,630
+Ünlü sinema gecesi için herkesin beğendiği bir film seçti.,Ünlü sinema gecesi için herkesin beğendiği film seçti.,determiners,bir,∅,film,631
+Doktor patrona Japonca'ya çevirisini yaptırdığı bir rapor sundu.,Doktor patrona Japonca'ya çevirisini yaptırdığı rapor sundu.,determiners,bir,∅,rapor,632
+Sonra kütüphaneden herkesin önerdiği bir kitap aldım.,Sonra kütüphaneden herkesin önerdiği kitap aldım.,determiners,bir,∅,kitap,633
+Ayrıca ders çalışırken sessiz ve ferah bir kafe tercih ediyorum.,Ayrıca ders çalışırken sessiz ve ferah kafe tercih ediyorum.,determiners,bir,∅,kafe,634
+Yine piknik için rahatça oturacağımız geniş bir battaniye aldım.,Yine piknik için rahatça oturacağımız geniş battaniye aldım.,determiners,bir,∅,battaniye,635
+Dün leonardo da Vinci'nin hayatının anlatıldığı etkileyici bir film izledik.,Dün leonardo da Vinci'nin hayatının anlatıldığı etkileyici film izledik.,determiners,bir,∅,film,636
+Yine kütüphaneden herkesin önerdiği bir kitap aldım.,Yine kütüphaneden herkesin önerdiği kitap aldım.,determiners,bir,∅,kitap,637
+Özellikle ders çalışırken sessiz ve ferah bir kafe tercih ediyorum.,Özellikle ders çalışırken sessiz ve ferah kafe tercih ediyorum.,determiners,bir,∅,kafe,638
+Bu yolda dikkatle yürüyen bir adam gördüm.,Bu yolda dikkatle yürüyen adam gördüm.,determiners,bir,∅,adam,639
+Sevgili ayşe rengi maviye çalan güzel bir çanta beğendi.,Sevgili ayşe rengi maviye çalan güzel çanta beğendi.,determiners,bir,∅,çanta,640
+Ankara kitap kulübünde heyecan verici bir roman okuduk.,Ankara kitap kulübünde heyecan verici roman okuduk.,determiners,bir,∅,roman,641
+Küçük bebeğin eline sallayınca ses çıkaran bir oyuncak verdi.,Küçük bebeğin eline sallayınca ses çıkaran oyuncak verdi.,determiners,bir,∅,oyuncak,642
+Öncelikle sabah kahvaltısında lezzetli bir omlet yedim.,Öncelikle sabah kahvaltısında lezzetli omlet yedim.,determiners,bir,∅,omlet,643
+İlk doğum günü hediyesi olarak fiyatı bize makul gelen bir bileklik seçtik.,İlk doğum günü hediyesi olarak fiyatı bize makul gelen bileklik seçtik.,determiners,bir,∅,bileklik,644
+Ben arkadaşıma hediye etmek için şık bir saat seçtim.,Ben arkadaşıma hediye etmek için şık saat seçtim.,determiners,bir,∅,saat,645
+Son konferansta ilginç bir sunum dinledik.,Son konferansta ilginç sunum dinledik.,determiners,bir,∅,sunum,646
+Antonio picasso'nun yaşamının anlatıldığı bir sergi gezdik.,Antonio picasso'nun yaşamının anlatıldığı sergi gezdik.,determiners,bir,∅,sergi,647
+Size ufaklığın dikkatini çekecek eğlenceli bir oyuncak aldım.,Size ufaklığın dikkatini çekecek eğlenceli oyuncak aldım.,determiners,bir,∅,oyuncak,648
+Yine laboratuvarda yeni geliştirilen bir ilaç denediler.,Yine laboratuvarda yeni geliştirilen ilaç denediler.,determiners,bir,∅,ilaç,649
+Sonra gizem desenleri baya farklı duran bir bluz aldı.,Sonra gizem desenleri baya farklı duran bluz aldı.,determiners,bir,∅,bluz,650
+Siyah beyaz dantel detayları içeren zarif bir gelinlik denedim.,Siyah beyaz dantel detayları içeren zarif gelinlik denedim.,determiners,bir,∅,gelinlik,651
+Ders çalışmak için sabahları kalabalık olmayan bir kafe arıyorum.,Ders çalışmak için sabahları kalabalık olmayan kafe arıyorum.,determiners,bir,∅,kafe,652
+Bizim kütüphanede sessizce çalışan bir öğrenci vardı.,Bizim kütüphanede sessizce çalışan öğrenci vardı.,determiners,bir,∅,öğrenci,653
+Ayrıca o kafede tadına doyamadığımız bir salata yedik.,Ayrıca o kafede tadına doyamadığımız salata yedik.,determiners,bir,∅,salata,654
+Size i̇nternette çok beğenilen bir yemek tarifi denedim.,Size i̇nternette çok beğenilen yemek tarifi denedim.,determiners,bir,∅,yemek tarifi,655
+Orta yolda dikkatle yürüyen bir adam gördüm.,Orta yolda dikkatle yürüyen adam gördüm.,determiners,bir,∅,adam,656
+Kitap kulübünde heyecan verici bir roman okuduk.,Kitap kulübünde heyecan verici roman okuduk.,determiners,bir,∅,roman,657
+Şimdi bahçede büyüyen rengarenk bir çiçek kopardım.,Şimdi bahçede büyüyen rengarenk çiçek kopardım.,determiners,bir,∅,çiçek,658
+Banka bankaya Korece'ye çevirisini yaptırdığı bir sözleşme verdi.,Banka bankaya Korece'ye çevirisini yaptırdığı sözleşme verdi.,determiners,bir,∅,sözleşme,659
+Modern tiyatroda oyuncuların büyük özveriyle canlandırdığı bir oyun izledik.,Modern tiyatroda oyuncuların büyük özveriyle canlandırdığı oyun izledik.,determiners,bir,∅,oyun,660
+İşte bu sabah beni ayıltan lezzetli bir kahve içtim.,İşte bu sabah beni ayıltan lezzetli kahve içtim.,determiners,bir,∅,kahve,661
+Ben sabah kahvaltısında yemek için doyurucu bir sandviç aldım.,Ben sabah kahvaltısında yemek için doyurucu sandviç aldım.,determiners,bir,∅,sandviç,662
+O kafede tadına doyamadığımız bir salata yedik.,O kafede tadına doyamadığımız salata yedik.,determiners,bir,∅,salata,663
+Bir kütüphanede sessizce çalışan bir öğrenci vardı.,Bir kütüphanede sessizce çalışan öğrenci vardı.,determiners,bir,∅,öğrenci,664
+Akşam kütüphaneden herkesin önerdiği bir kitap aldım.,Akşam kütüphaneden herkesin önerdiği kitap aldım.,determiners,bir,∅,kitap,665
+Eski müdüre İtalyanca'ya çevirisini yaptırdığı bir doküman götürdü.,Eski müdüre İtalyanca'ya çevirisini yaptırdığı doküman götürdü.,determiners,bir,∅,doküman,666
+Bugün konferansta ilginç bir sunum dinledik.,Bugün konferansta ilginç sunum dinledik.,determiners,bir,∅,sunum,667
+Yine akşam yemeğine eşlik etmesi için lezzetli bir çorba yaptım.,Yine akşam yemeğine eşlik etmesi için lezzetli çorba yaptım.,determiners,bir,∅,çorba,668
+Bu sabah beni kendime getiren bir kahve içtim.,Bu sabah beni kendime getiren kahve içtim.,determiners,bir,∅,kahve,669
+Bu sınava çalışırken bana yardımcı olacak bir defter verdi.,Bu sınava çalışırken bana yardımcı olacak defter verdi.,determiners,bir,∅,defter,670
+Bugün marketten indirimde olan bir deterjan aldım.,Bugün marketten indirimde olan deterjan aldım.,determiners,bir,∅,deterjan,671
+Avukata Rusça'ya çevirisini yaptırdığı bir sözleşme iletti.,Avukata Rusça'ya çevirisini yaptırdığı sözleşme iletti.,determiners,bir,∅,sözleşme,672
+Cumartesi akşam yemeğine içinde erişte ve sebze bulunan nefis bir çorba yaptım.,Cumartesi akşam yemeğine içinde erişte ve sebze bulunan nefis çorba yaptım.,determiners,bir,∅,çorba,673
+Yine marketten fiyatı uygun olan bir peynir aldım.,Yine marketten fiyatı uygun olan peynir aldım.,determiners,bir,∅,peynir,674
+Ömer ağzında kekremsi tat bırakan bir kahve içti.,Ömer ağzında kekremsi tat bırakan kahve içti.,determiners,bir,∅,kahve,675
+Daha geçen hafta indirime giren bir bilgisayar satın aldım.,Daha geçen hafta indirime giren bilgisayar satın aldım.,determiners,bir,∅,bilgisayar,676
+Böylece pazar sabahı ailece keyif aldığımız bir kahvaltı yaptık.,Böylece pazar sabahı ailece keyif aldığımız kahvaltı yaptık.,determiners,bir,∅,kahvaltı,677
+Sonra kamp yaparken kullanışlı olacak bir çadır satın aldık.,Sonra kamp yaparken kullanışlı olacak çadır satın aldık.,determiners,bir,∅,çadır,678
+Kitap sahafta çok tavsiye edilen bir kitap buldum.,Kitap sahafta çok tavsiye edilen kitap buldum.,determiners,bir,∅,kitap,679
+Aynı ormanda hızlıca koşan bir geyik fark ettik.,Aynı ormanda hızlıca koşan geyik fark ettik.,determiners,bir,∅,geyik,680
+Çocuklar i̇çinde bol miktarda badem ve kakao olan bir pasta yaptılar.,Çocuklar i̇çinde bol miktarda badem ve kakao olan pasta yaptılar.,determiners,bir,∅,pasta,681
+Bebeğin eline sallayınca ses çıkaran bir oyuncak verdi.,Bebeğin eline sallayınca ses çıkaran oyuncak verdi.,determiners,bir,∅,oyuncak,682
+Ardından notere Fransızca'ya çevirisini yaptırdığı bir evrak götürdü.,Ardından notere Fransızca'ya çevirisini yaptırdığı evrak götürdü.,determiners,bir,∅,evrak,683
+Yine gizem desenleri baya farklı duran bir bluz aldı.,Yine gizem desenleri baya farklı duran bluz aldı.,determiners,bir,∅,bluz,684
+Kitap sahafta çok tavsiye edilen bir kitap buldum.,Kitap sahafta çok tavsiye edilen kitap buldum.,determiners,bir,∅,kitap,685
+Bir sabah kahvaltısında yemek için doyurucu bir sandviç aldım.,Bir sabah kahvaltısında yemek için doyurucu sandviç aldım.,determiners,bir,∅,sandviç,686
+Studio stüdyolarında özenle kaydedilen bir şarkı dinledik.,Studio stüdyolarında özenle kaydedilen şarkı dinledik.,determiners,bir,∅,şarkı,687
+Birçok pastanede özenle hazırlanan bir pasta aldık.,Birçok pastanede özenle hazırlanan pasta aldık.,determiners,bir,∅,pasta,688
+Ardından büyükannemin tarifine göre yapılan bir reçel tattırdı.,Ardından büyükannemin tarifine göre yapılan reçel tattırdı.,determiners,bir,∅,reçel,689
+Yeni sergide sanatçının ustalıkla çizdiği bir portre gördük.,Yeni sergide sanatçının ustalıkla çizdiği portre gördük.,determiners,bir,∅,portre,690
+İlk sömestr tatilinde sürükleyici bir roman okudum.,İlk sömestr tatilinde sürükleyici roman okudum.,determiners,bir,∅,roman,691
+Yine o kafede tadına doyamadığımız bir salata yedik.,Yine o kafede tadına doyamadığımız salata yedik.,determiners,bir,∅,salata,692
+Sonra yeni açılan kafede şefin önerdiği nefis bir tabak denedik.,Sonra yeni açılan kafede şefin önerdiği nefis tabak denedik.,determiners,bir,∅,tabak,693
+Sabah marketten fiyatı uygun olan bir peynir aldım.,Sabah marketten fiyatı uygun olan peynir aldım.,determiners,bir,∅,peynir,694
+Ancak dün akşam lezzeti damağımda kalan bir tatlı yedim.,Ancak dün akşam lezzeti damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,695
+Ve dün akşam lezzeti damağımda kalan bir çorba içtim.,Ve dün akşam lezzeti damağımda kalan çorba içtim.,determiners,bir,∅,çorba,696
+Fakat dün akşam lezzeti damağımda kalan bir çorba içtim.,Fakat dün akşam lezzeti damağımda kalan çorba içtim.,determiners,bir,∅,çorba,697
+Bu laboratuvarda yeni geliştirilen bir ilaç denediler.,Bu laboratuvarda yeni geliştirilen ilaç denediler.,determiners,bir,∅,ilaç,698
+Pazar gece izlemek için herkesin övgüyle bahsettiği bir film seçtiler.,Pazar gece izlemek için herkesin övgüyle bahsettiği film seçtiler.,determiners,bir,∅,film,699
+Evde kamp yaparken kullanışlı olacak bir çadır satın aldık.,Evde kamp yaparken kullanışlı olacak çadır satın aldık.,determiners,bir,∅,çadır,700
+Önce duvarda asılı duran bir resim inceledik.,Önce duvarda asılı duran resim inceledik.,determiners,bir,∅,resim,701
+Yine okulda çok beğenilen bir proje sunduk.,Yine okulda çok beğenilen proje sunduk.,determiners,bir,∅,proje,702
+Yine evin dekorasyonu için zarif bir tablo aldım.,Yine evin dekorasyonu için zarif tablo aldım.,determiners,bir,∅,tablo,703
+Bir sömestr tatilinde sürükleyici bir roman okudum.,Bir sömestr tatilinde sürükleyici roman okudum.,determiners,bir,∅,roman,704
+Sonra butikte göz kamaştıran ince askılı bir elbise gördüm.,Sonra butikte göz kamaştıran ince askılı elbise gördüm.,determiners,bir,∅,elbise,705
+Size yarın plajda okumak için sürükleyici bir roman aldım.,Size yarın plajda okumak için sürükleyici roman aldım.,determiners,bir,∅,roman,706
+Özellikle nazan rengi kırmızıya çalan bir elbise beğendi.,Özellikle nazan rengi kırmızıya çalan elbise beğendi.,determiners,bir,∅,elbise,707
+Akşam akşam yemeğine eşlik etmesi için lezzetli bir çorba yaptım.,Akşam akşam yemeğine eşlik etmesi için lezzetli çorba yaptım.,determiners,bir,∅,çorba,708
+Geç sömestr tatilinde sürükleyici bir roman okudum.,Geç sömestr tatilinde sürükleyici roman okudum.,determiners,bir,∅,roman,709
+İşte geçen hafta tadı damağımda kalan bir tatlı yedim.,İşte geçen hafta tadı damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,710
+Bugün otobüste okumak için eğlenceli bir dergi aldım.,Bugün otobüste okumak için eğlenceli dergi aldım.,determiners,bir,∅,dergi,711
+Ve piknik için rahatça oturacağımız geniş bir battaniye aldım.,Ve piknik için rahatça oturacağımız geniş battaniye aldım.,determiners,bir,∅,battaniye,712
+Yeni açılan butikten ustanın tasarladığı bir kolye seçtik.,Yeni açılan butikten ustanın tasarladığı kolye seçtik.,determiners,bir,∅,kolye,713
+Sabah kahvaltısında yemek için doyurucu bir sandviç aldım.,Sabah kahvaltısında yemek için doyurucu sandviç aldım.,determiners,bir,∅,sandviç,714
+Sabah dönerken götürmek için çok tüketilen bir peynir seçtim.,Sabah dönerken götürmek için çok tüketilen peynir seçtim.,determiners,bir,∅,peynir,715
+Sağ köşedeki dükkandan fiyatı uygun olan bir çanta aldım.,Sağ köşedeki dükkandan fiyatı uygun olan çanta aldım.,determiners,bir,∅,çanta,716
+Konferansta ilginç bir sunum dinledik.,Konferansta ilginç sunum dinledik.,determiners,bir,∅,sunum,717
+İlk düğün hediyesi olarak bütçemizi zorlamayan bir takı alacağız.,İlk düğün hediyesi olarak bütçemizi zorlamayan takı alacağız.,determiners,bir,∅,takı,718
+Şefin tarifinden uyarladığım nefis bir börek yaptım.,Şefin tarifinden uyarladığım nefis börek yaptım.,determiners,bir,∅,börek,719
+Gizem desenleri baya farklı duran bir bluz aldı.,Gizem desenleri baya farklı duran bluz aldı.,determiners,bir,∅,bluz,720
+Perşembe gece izlemek için herkesin övgüyle bahsettiği bir film seçtiler.,Perşembe gece izlemek için herkesin övgüyle bahsettiği film seçtiler.,determiners,bir,∅,film,721
+Her pazar sabahı ailece keyif aldığımız bir kahvaltı yaptık.,Her pazar sabahı ailece keyif aldığımız kahvaltı yaptık.,determiners,bir,∅,kahvaltı,722
+Ve gizem desenleri baya farklı duran bir bluz aldı.,Ve gizem desenleri baya farklı duran bluz aldı.,determiners,bir,∅,bluz,723
+Bu pazar sabahı ailece keyif aldığımız bir kahvaltı yaptık.,Bu pazar sabahı ailece keyif aldığımız kahvaltı yaptık.,determiners,bir,∅,kahvaltı,724
+Alman bilim insanları yeni yöntemlerle geliştirilen bir aşı test ediyor.,Alman bilim insanları yeni yöntemlerle geliştirilen aşı test ediyor.,determiners,bir,∅,aşı,725
+Yine kütüphanede sessizce çalışan bir öğrenci vardı.,Yine kütüphanede sessizce çalışan öğrenci vardı.,determiners,bir,∅,öğrenci,726
+Ayrıca beyaz dantel detayları içeren zarif bir gelinlik denedim.,Ayrıca beyaz dantel detayları içeren zarif gelinlik denedim.,determiners,bir,∅,gelinlik,727
+Ve annemin dolabında sakladığı bir mektup buldum.,Ve annemin dolabında sakladığı mektup buldum.,determiners,bir,∅,mektup,728
+Akşam akşam yemeğine içinde erişte ve sebze bulunan nefis bir çorba yaptım.,Akşam akşam yemeğine içinde erişte ve sebze bulunan nefis çorba yaptım.,determiners,bir,∅,çorba,729
+Dün ofise mis gibi kokan bir çiçek geldi.,Dün ofise mis gibi kokan çiçek geldi.,determiners,bir,∅,çiçek,730
+Ve geçen hafta tadı damağımda kalan bir tatlı yedim.,Ve geçen hafta tadı damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,731
+Arkadaşlar i̇nternette çok beğenilen bir yemek tarifi denedim.,Arkadaşlar i̇nternette çok beğenilen yemek tarifi denedim.,determiners,bir,∅,yemek tarifi,732
+Eski kütüphanede sessizce çalışan bir öğrenci vardı.,Eski kütüphanede sessizce çalışan öğrenci vardı.,determiners,bir,∅,öğrenci,733
+Kendisi sınava çalışırken bana yardımcı olacak bir defter verdi.,Kendisi sınava çalışırken bana yardımcı olacak defter verdi.,determiners,bir,∅,defter,734
+Yine ofise mis gibi kokan bir çiçek geldi.,Yine ofise mis gibi kokan çiçek geldi.,determiners,bir,∅,çiçek,735
+Sevgili ayşe rengi maviye çalan güzel bir çanta beğendi.,Sevgili ayşe rengi maviye çalan güzel çanta beğendi.,determiners,bir,∅,çanta,736
+Luigi picasso'nun yaşamının anlatıldığı bir sergi gezdik.,Luigi picasso'nun yaşamının anlatıldığı sergi gezdik.,determiners,bir,∅,sergi,737
+Şimdi ufaklığın dikkatini çekecek eğlenceli bir oyuncak aldım.,Şimdi ufaklığın dikkatini çekecek eğlenceli oyuncak aldım.,determiners,bir,∅,oyuncak,738
+Öncelikle doğum günü hediyesi olarak fiyatı bize makul gelen bir bileklik seçtik.,Öncelikle doğum günü hediyesi olarak fiyatı bize makul gelen bileklik seçtik.,determiners,bir,∅,bileklik,739
+İkinci doğum günü hediyesi olarak fiyatı bize makul gelen bir bileklik seçtik.,İkinci doğum günü hediyesi olarak fiyatı bize makul gelen bileklik seçtik.,determiners,bir,∅,bileklik,740
+İç dokusu kadifeyi andıran güzel bir mont beğendik.,İç dokusu kadifeyi andıran güzel mont beğendik.,determiners,bir,∅,mont,741
+Fakat bu sabah beni ayıltan lezzetli bir kahve içtim.,Fakat bu sabah beni ayıltan lezzetli kahve içtim.,determiners,bir,∅,kahve,742
+Mehmet ahmet rengi yeşile çalan parlak bir gömlek satın aldı.,Mehmet ahmet rengi yeşile çalan parlak gömlek satın aldı.,determiners,bir,∅,gömlek,743
+Yine ormanda hızlıca koşan bir geyik fark ettik.,Yine ormanda hızlıca koşan geyik fark ettik.,determiners,bir,∅,geyik,744
+Dün bu sabah beni kendime getiren bir kahve içtim.,Dün bu sabah beni kendime getiren kahve içtim.,determiners,bir,∅,kahve,745
+Yıldız sinema gecesi için herkesin beğendiği bir film seçti.,Yıldız sinema gecesi için herkesin beğendiği film seçti.,determiners,bir,∅,film,746
+Bugün bu sabah beni kendime getiren bir kahve içtim.,Bugün bu sabah beni kendime getiren kahve içtim.,determiners,bir,∅,kahve,747
+Çocuklar bol fındık ve tarçın içeren enfes bir kek yaptılar.,Çocuklar bol fındık ve tarçın içeren enfes kek yaptılar.,determiners,bir,∅,kek,748
+Büyük şefin tarifinden uyarladığım nefis bir börek yaptım.,Büyük şefin tarifinden uyarladığım nefis börek yaptım.,determiners,bir,∅,börek,749
+Bugün akşam okumak için eleştirmenlerin beğendiği bir makale seçtiler.,Bugün akşam okumak için eleştirmenlerin beğendiği makale seçtiler.,determiners,bir,∅,makale,750
+Sonra yeni işimde bana yardımcı olacak bir ajanda satın aldım.,Sonra yeni işimde bana yardımcı olacak ajanda satın aldım.,determiners,bir,∅,ajanda,751
+Ve bu sabah beni kendime getiren bir kahve içtim.,Ve bu sabah beni kendime getiren kahve içtim.,determiners,bir,∅,kahve,752
+Bu sabah kahvaltısında lezzetli bir omlet yedim.,Bu sabah kahvaltısında lezzetli omlet yedim.,determiners,bir,∅,omlet,753
+Hemen kitapçının vitrininde ilgi çekici bir roman gördüm.,Hemen kitapçının vitrininde ilgi çekici roman gördüm.,determiners,bir,∅,roman,754
+Küçük ahmet rengi yeşile çalan parlak bir gömlek satın aldı.,Küçük ahmet rengi yeşile çalan parlak gömlek satın aldı.,determiners,bir,∅,gömlek,755
+Ve nazan rengi kırmızıya çalan bir elbise beğendi.,Ve nazan rengi kırmızıya çalan elbise beğendi.,determiners,bir,∅,elbise,756
+Yine yolda dikkatle yürüyen bir adam gördüm.,Yine yolda dikkatle yürüyen adam gördüm.,determiners,bir,∅,adam,757
+Akşam dönerken götürmek için çok tüketilen bir peynir seçtim.,Akşam dönerken götürmek için çok tüketilen peynir seçtim.,determiners,bir,∅,peynir,758
+Müzik stüdyolarında özenle kaydedilen bir şarkı dinledik.,Müzik stüdyolarında özenle kaydedilen şarkı dinledik.,determiners,bir,∅,şarkı,759
+Birçok laboratuvarda çok etkili bir ilaç test ettiler.,Birçok laboratuvarda çok etkili ilaç test ettiler.,determiners,bir,∅,ilaç,760
+Nazan rengi kırmızıya çalan bir elbise beğendi.,Nazan rengi kırmızıya çalan elbise beğendi.,determiners,bir,∅,elbise,761
+Sonra yarın plajda okumak için sürükleyici bir roman aldım.,Sonra yarın plajda okumak için sürükleyici roman aldım.,determiners,bir,∅,roman,762
+Deniz kenarında serinleten bir rüzgar hissettik.,Deniz kenarında serinleten rüzgar hissettik.,determiners,bir,∅,rüzgar,763
+En yeni açılan butikten ustanın tasarladığı bir kolye seçtik.,En yeni açılan butikten ustanın tasarladığı kolye seçtik.,determiners,bir,∅,kolye,764
+Bol fındık ve tarçın içeren enfes bir kek yaptılar.,Bol fındık ve tarçın içeren enfes kek yaptılar.,determiners,bir,∅,kek,765
+Bunu bebeğin eline sallayınca ses çıkaran bir oyuncak verdi.,Bunu bebeğin eline sallayınca ses çıkaran oyuncak verdi.,determiners,bir,∅,oyuncak,766
+Picasso'nun yaşamının anlatıldığı bir sergi gezdik.,Picasso'nun yaşamının anlatıldığı sergi gezdik.,determiners,bir,∅,sergi,767
+Almanya dönerken götürmek için çok tüketilen bir peynir seçtim.,Almanya dönerken götürmek için çok tüketilen peynir seçtim.,determiners,bir,∅,peynir,768
+Son sergide sanatçının ustalıkla çizdiği bir portre gördük.,Son sergide sanatçının ustalıkla çizdiği portre gördük.,determiners,bir,∅,portre,769
+Bugün kitapçının vitrininde ilgi çekici bir roman gördüm.,Bugün kitapçının vitrininde ilgi çekici roman gördüm.,determiners,bir,∅,roman,770
+Daha sabahları içimi ısıtan bir çorba içmeyi seviyorum.,Daha sabahları içimi ısıtan çorba içmeyi seviyorum.,determiners,bir,∅,çorba,771
+Ve laboratuvarda yeni geliştirilen bir ilaç denediler.,Ve laboratuvarda yeni geliştirilen ilaç denediler.,determiners,bir,∅,ilaç,772
+Siyah zeynep rengi sarıya çalan desenli bir ceket denedi.,Siyah zeynep rengi sarıya çalan desenli ceket denedi.,determiners,bir,∅,ceket,773
+Deniz merve rengi griye çalan modern bir hırka seçti.,Deniz merve rengi griye çalan modern hırka seçti.,determiners,bir,∅,hırka,774
+Dün i̇nternette çok beğenilen bir yemek tarifi denedim.,Dün i̇nternette çok beğenilen yemek tarifi denedim.,determiners,bir,∅,yemek tarifi,775
+Biz herkesin önerdiği harika bir film izledik.,Biz herkesin önerdiği harika film izledik.,determiners,bir,∅,film,776
+Ben dün akşam lezzeti damağımda kalan bir çorba içtim.,Ben dün akşam lezzeti damağımda kalan çorba içtim.,determiners,bir,∅,çorba,777
+Dün akşam yemeğine içinde erişte ve sebze bulunan nefis bir çorba yaptım.,Dün akşam yemeğine içinde erişte ve sebze bulunan nefis çorba yaptım.,determiners,bir,∅,çorba,778
+Önce duvarda asılı duran bir resim inceledik.,Önce duvarda asılı duran resim inceledik.,determiners,bir,∅,resim,779
+Kamp yaparken kullanışlı olacak bir çadır satın aldık.,Kamp yaparken kullanışlı olacak çadır satın aldık.,determiners,bir,∅,çadır,780
+Özellikle kamp yaparken kullanışlı olacak bir çadır satın aldık.,Özellikle kamp yaparken kullanışlı olacak çadır satın aldık.,determiners,bir,∅,çadır,781
+İngiliz notere Almanca çevirisini yaptırdığı önemli bir belge verdi.,İngiliz notere Almanca çevirisini yaptırdığı önemli belge verdi.,determiners,bir,∅,belge,782
+Öğrenciler sinema gecesi için herkesin beğendiği bir film seçti.,Öğrenciler sinema gecesi için herkesin beğendiği film seçti.,determiners,bir,∅,film,783
+Bugün i̇nternette çok beğenilen bir yemek tarifi denedim.,Bugün i̇nternette çok beğenilen yemek tarifi denedim.,determiners,bir,∅,yemek tarifi,784
+Evin dekorasyonu için zarif bir tablo aldım.,Evin dekorasyonu için zarif tablo aldım.,determiners,bir,∅,tablo,785
+Ben piknik için rahatça oturacağımız geniş bir battaniye aldım.,Ben piknik için rahatça oturacağımız geniş battaniye aldım.,determiners,bir,∅,battaniye,786
+Ayrıca müdüre İngilizce'ye çevirisini yaptırdığı önemli bir belge teslim etti.,Ayrıca müdüre İngilizce'ye çevirisini yaptırdığı önemli belge teslim etti.,determiners,bir,∅,belge,787
+İlk sinema gecesi için konusu dramatik olan farklı bir film bulduk.,İlk sinema gecesi için konusu dramatik olan farklı film bulduk.,determiners,bir,∅,film,788
+İçinde bol miktarda badem ve kakao olan bir pasta yaptılar.,İçinde bol miktarda badem ve kakao olan pasta yaptılar.,determiners,bir,∅,pasta,789
+Öğrenciler laboratuvarda yeni geliştirilen bir ilaç denediler.,Öğrenciler laboratuvarda yeni geliştirilen ilaç denediler.,determiners,bir,∅,ilaç,790
+Ses stüdyolarında özenle kaydedilen bir şarkı dinledik.,Ses stüdyolarında özenle kaydedilen şarkı dinledik.,determiners,bir,∅,şarkı,791
+Size nişan hediyesi olarak modeli hoş gelen bir yüzük alacağız.,Size nişan hediyesi olarak modeli hoş gelen yüzük alacağız.,determiners,bir,∅,yüzük,792
+Yeni sahafta çok tavsiye edilen bir kitap buldum.,Yeni sahafta çok tavsiye edilen kitap buldum.,determiners,bir,∅,kitap,793
+Yazar avukata Rusça'ya çevirisini yaptırdığı bir sözleşme iletti.,Yazar avukata Rusça'ya çevirisini yaptırdığı sözleşme iletti.,determiners,bir,∅,sözleşme,794
+Ve düğün için zarif bir elbise aldım.,Ve düğün için zarif elbise aldım.,determiners,bir,∅,elbise,795
+Bu bahçede büyüyen rengarenk bir çiçek kopardım.,Bu bahçede büyüyen rengarenk çiçek kopardım.,determiners,bir,∅,çiçek,796
+Sonra deniz kenarında serinleten bir rüzgar hissettik.,Sonra deniz kenarında serinleten rüzgar hissettik.,determiners,bir,∅,rüzgar,797
+Altın beyaz dantel detayları içeren zarif bir gelinlik denedim.,Altın beyaz dantel detayları içeren zarif gelinlik denedim.,determiners,bir,∅,gelinlik,798
+Bugün akşam yemeğine içinde erişte ve sebze bulunan nefis bir çorba yaptım.,Bugün akşam yemeğine içinde erişte ve sebze bulunan nefis çorba yaptım.,determiners,bir,∅,çorba,799
+Hemen herkesin önerdiği harika bir film izledik.,Hemen herkesin önerdiği harika film izledik.,determiners,bir,∅,film,800
+Ben dün akşam lezzeti damağımda kalan bir tatlı yedim.,Ben dün akşam lezzeti damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,801
+Sonra annemin dolabında sakladığı bir mektup buldum.,Sonra annemin dolabında sakladığı mektup buldum.,determiners,bir,∅,mektup,802
+Japon şefin tarifinden uyarladığım nefis bir börek yaptım.,Japon şefin tarifinden uyarladığım nefis börek yaptım.,determiners,bir,∅,börek,803
+Ben sabahları içimi ısıtan bir çorba içmeyi seviyorum.,Ben sabahları içimi ısıtan çorba içmeyi seviyorum.,determiners,bir,∅,çorba,804
+Arka köşedeki dükkandan fiyatı uygun olan bir çanta aldım.,Arka köşedeki dükkandan fiyatı uygun olan çanta aldım.,determiners,bir,∅,çanta,805
+Sonra müdüre İngilizce'ye çevirisini yaptırdığı önemli bir belge teslim etti.,Sonra müdüre İngilizce'ye çevirisini yaptırdığı önemli belge teslim etti.,determiners,bir,∅,belge,806
+Yine köşedeki dükkandan fiyatı uygun olan bir çanta aldım.,Yine köşedeki dükkandan fiyatı uygun olan çanta aldım.,determiners,bir,∅,çanta,807
+Ben sabahları içimi ısıtan bir çorba içmeyi seviyorum.,Ben sabahları içimi ısıtan çorba içmeyi seviyorum.,determiners,bir,∅,çorba,808
+Aynı konferansta ilginç bir sunum dinledik.,Aynı konferansta ilginç sunum dinledik.,determiners,bir,∅,sunum,809
+Ayşe ayşe rengi maviye çalan güzel bir çanta beğendi.,Ayşe ayşe rengi maviye çalan güzel çanta beğendi.,determiners,bir,∅,çanta,810
+O akşam okumak için eleştirmenlerin beğendiği bir makale seçtiler.,O akşam okumak için eleştirmenlerin beğendiği makale seçtiler.,determiners,bir,∅,makale,811
+Sonra otobüste okumak için eğlenceli bir dergi aldım.,Sonra otobüste okumak için eğlenceli dergi aldım.,determiners,bir,∅,dergi,812
+Renk dokusu kadifeyi andıran güzel bir mont beğendik.,Renk dokusu kadifeyi andıran güzel mont beğendik.,determiners,bir,∅,mont,813
+Geçen hafta tadı damağımda kalan bir tatlı yedim.,Geçen hafta tadı damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,814
+Yine notere Fransızca'ya çevirisini yaptırdığı bir evrak götürdü.,Yine notere Fransızca'ya çevirisini yaptırdığı evrak götürdü.,determiners,bir,∅,evrak,815
+Ardından yeni açılan lokantada şef tarafından önerilen bir tatlı denedik.,Ardından yeni açılan lokantada şef tarafından önerilen tatlı denedik.,determiners,bir,∅,tatlı,816
+Baba ahmet rengi yeşile çalan parlak bir gömlek satın aldı.,Baba ahmet rengi yeşile çalan parlak gömlek satın aldı.,determiners,bir,∅,gömlek,817
+Yine zeynep rengi sarıya çalan desenli bir ceket denedi.,Yine zeynep rengi sarıya çalan desenli ceket denedi.,determiners,bir,∅,ceket,818
+Yabancı bankaya Korece'ye çevirisini yaptırdığı bir sözleşme verdi.,Yabancı bankaya Korece'ye çevirisini yaptırdığı sözleşme verdi.,determiners,bir,∅,sözleşme,819
+Bugün düğün için zarif bir elbise aldım.,Bugün düğün için zarif elbise aldım.,determiners,bir,∅,elbise,820
+Şimdi nişan hediyesi olarak modeli hoş gelen bir yüzük alacağız.,Şimdi nişan hediyesi olarak modeli hoş gelen yüzük alacağız.,determiners,bir,∅,yüzük,821
+Akşam yeni açılan lokantada şef tarafından önerilen bir tatlı denedik.,Akşam yeni açılan lokantada şef tarafından önerilen tatlı denedik.,determiners,bir,∅,tatlı,822
+Akşam evde huzurlu bir atmosfer yaratmak için hoş bir mum yaktım.,Akşam evde huzurlu bir atmosfer yaratmak için hoş mum yaktım.,determiners,bir,∅,mum,823
+Çok bol fındık ve tarçın içeren enfes bir kek yaptılar.,Çok bol fındık ve tarçın içeren enfes kek yaptılar.,determiners,bir,∅,kek,824
+İkinci sergide sanatçının ustalıkla çizdiği bir portre gördük.,İkinci sergide sanatçının ustalıkla çizdiği portre gördük.,determiners,bir,∅,portre,825
+Sonra marketten fiyatı uygun olan bir peynir aldım.,Sonra marketten fiyatı uygun olan peynir aldım.,determiners,bir,∅,peynir,826
+Sabah akşam yemeğine içinde erişte ve sebze bulunan nefis bir çorba yaptım.,Sabah akşam yemeğine içinde erişte ve sebze bulunan nefis çorba yaptım.,determiners,bir,∅,çorba,827
+Bugün sinema gecesi için konusu dramatik olan farklı bir film bulduk.,Bugün sinema gecesi için konusu dramatik olan farklı film bulduk.,determiners,bir,∅,film,828
+Bu düğün için zarif bir elbise aldım.,Bu düğün için zarif elbise aldım.,determiners,bir,∅,elbise,829
+Aynı butikte göz kamaştıran ince askılı bir elbise gördüm.,Aynı butikte göz kamaştıran ince askılı elbise gördüm.,determiners,bir,∅,elbise,830
+Burada kamp yaparken kullanışlı olacak bir çadır satın aldık.,Burada kamp yaparken kullanışlı olacak çadır satın aldık.,determiners,bir,∅,çadır,831
+Eve dönerken götürmek için çok tüketilen bir peynir seçtim.,Eve dönerken götürmek için çok tüketilen peynir seçtim.,determiners,bir,∅,peynir,832
+Bu ufaklığın dikkatini çekecek eğlenceli bir oyuncak aldım.,Bu ufaklığın dikkatini çekecek eğlenceli oyuncak aldım.,determiners,bir,∅,oyuncak,833
+Ben sınava çalışırken bana yardımcı olacak bir defter verdi.,Ben sınava çalışırken bana yardımcı olacak defter verdi.,determiners,bir,∅,defter,834
+Fakat dün akşam lezzeti damağımda kalan bir tatlı yedim.,Fakat dün akşam lezzeti damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,835
+Sonra piknik için rahatça oturacağımız geniş bir battaniye aldım.,Sonra piknik için rahatça oturacağımız geniş battaniye aldım.,determiners,bir,∅,battaniye,836
+Yine dün akşam lezzeti damağımda kalan bir tatlı yedim.,Yine dün akşam lezzeti damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,837
+Bir gizem desenleri baya farklı duran bir bluz aldı.,Bir gizem desenleri baya farklı duran bluz aldı.,determiners,bir,∅,bluz,838
+Genç patrona Japonca'ya çevirisini yaptırdığı bir rapor sundu.,Genç patrona Japonca'ya çevirisini yaptırdığı rapor sundu.,determiners,bir,∅,rapor,839
+Çarşamba akşam izlemek için herkesin merakla beklediği bir dizi seçtiler.,Çarşamba akşam izlemek için herkesin merakla beklediği dizi seçtiler.,determiners,bir,∅,dizi,840
+Öncelikle geçen hafta indirime giren bir bilgisayar satın aldım.,Öncelikle geçen hafta indirime giren bilgisayar satın aldım.,determiners,bir,∅,bilgisayar,841
+Sabah deniz kenarında serinleten bir rüzgar hissettik.,Sabah deniz kenarında serinleten rüzgar hissettik.,determiners,bir,∅,rüzgar,842
+Merve rengi griye çalan modern bir hırka seçti.,Merve rengi griye çalan modern hırka seçti.,determiners,bir,∅,hırka,843
+Alessandro picasso'nun yaşamının anlatıldığı bir sergi gezdik.,Alessandro picasso'nun yaşamının anlatıldığı sergi gezdik.,determiners,bir,∅,sergi,844
+İlk sinema gecesi için herkesin beğendiği bir film seçti.,İlk sinema gecesi için herkesin beğendiği film seçti.,determiners,bir,∅,film,845
+İnce dokusu kadifeyi andıran güzel bir mont beğendik.,İnce dokusu kadifeyi andıran güzel mont beğendik.,determiners,bir,∅,mont,846
+Doktor notere Fransızca'ya çevirisini yaptırdığı bir evrak götürdü.,Doktor notere Fransızca'ya çevirisini yaptırdığı evrak götürdü.,determiners,bir,∅,evrak,847
+Ama sabahları içimi ısıtan bir çorba içmeyi seviyorum.,Ama sabahları içimi ısıtan çorba içmeyi seviyorum.,determiners,bir,∅,çorba,848
+Öncelikle ufaklığın dikkatini çekecek eğlenceli bir oyuncak aldım.,Öncelikle ufaklığın dikkatini çekecek eğlenceli oyuncak aldım.,determiners,bir,∅,oyuncak,849
+Ayrıca konferansta ilginç bir sunum dinledik.,Ayrıca konferansta ilginç sunum dinledik.,determiners,bir,∅,sunum,850
+Leonardo picasso'nun yaşamının anlatıldığı bir sergi gezdik.,Leonardo picasso'nun yaşamının anlatıldığı sergi gezdik.,determiners,bir,∅,sergi,851
+Merhaba ayşe rengi maviye çalan güzel bir çanta beğendi.,Merhaba ayşe rengi maviye çalan güzel çanta beğendi.,determiners,bir,∅,çanta,852
+Çarşamba akşam okumak için eleştirmenlerin beğendiği bir makale seçtiler.,Çarşamba akşam okumak için eleştirmenlerin beğendiği makale seçtiler.,determiners,bir,∅,makale,853
+Yeni açılan kafede şefin önerdiği nefis bir tabak denedik.,Yeni açılan kafede şefin önerdiği nefis tabak denedik.,determiners,bir,∅,tabak,854
+Size yeni açılan butikten ustanın tasarladığı bir kolye seçtik.,Size yeni açılan butikten ustanın tasarladığı kolye seçtik.,determiners,bir,∅,kolye,855
+Çocuk bebeğin eline sallayınca ses çıkaran bir oyuncak verdi.,Çocuk bebeğin eline sallayınca ses çıkaran oyuncak verdi.,determiners,bir,∅,oyuncak,856
+Merhaba i̇nternette çok beğenilen bir yemek tarifi denedim.,Merhaba i̇nternette çok beğenilen yemek tarifi denedim.,determiners,bir,∅,yemek tarifi,857
+Sonra bebeğin eline sallayınca ses çıkaran bir oyuncak verdi.,Sonra bebeğin eline sallayınca ses çıkaran oyuncak verdi.,determiners,bir,∅,oyuncak,858
+Yine sabah kahvaltısında lezzetli bir omlet yedim.,Yine sabah kahvaltısında lezzetli omlet yedim.,determiners,bir,∅,omlet,859
+Annemin dolabında sakladığı bir mektup buldum.,Annemin dolabında sakladığı mektup buldum.,determiners,bir,∅,mektup,860
+Ardından duvarda asılı duran bir resim inceledik.,Ardından duvarda asılı duran resim inceledik.,determiners,bir,∅,resim,861
+Bir duvarda asılı duran bir resim inceledik.,Bir duvarda asılı duran resim inceledik.,determiners,bir,∅,resim,862
+Mozart'ın gençliğinin anlatıldığı bir program seyrettik.,Mozart'ın gençliğinin anlatıldığı program seyrettik.,determiners,bir,∅,program,863
+Biz o kafede tadına doyamadığımız bir salata yedik.,Biz o kafede tadına doyamadığımız salata yedik.,determiners,bir,∅,salata,864
+Ardından mozart'ın gençliğinin anlatıldığı bir program seyrettik.,Ardından mozart'ın gençliğinin anlatıldığı program seyrettik.,determiners,bir,∅,program,865
+Bu sinema gecesi için herkesin beğendiği bir film seçti.,Bu sinema gecesi için herkesin beğendiği film seçti.,determiners,bir,∅,film,866
+Yeni düğün için zarif bir elbise aldım.,Yeni düğün için zarif elbise aldım.,determiners,bir,∅,elbise,867
+Bu bankaya Korece'ye çevirisini yaptırdığı bir sözleşme verdi.,Bu bankaya Korece'ye çevirisini yaptırdığı sözleşme verdi.,determiners,bir,∅,sözleşme,868
+Ve i̇çinde bol miktarda badem ve kakao olan bir pasta yaptılar.,Ve i̇çinde bol miktarda badem ve kakao olan pasta yaptılar.,determiners,bir,∅,pasta,869
+Klip stüdyolarında özenle kaydedilen bir şarkı dinledik.,Klip stüdyolarında özenle kaydedilen şarkı dinledik.,determiners,bir,∅,şarkı,870
+Ardından kamp yaparken kullanışlı olacak bir çadır satın aldık.,Ardından kamp yaparken kullanışlı olacak çadır satın aldık.,determiners,bir,∅,çadır,871
+Sonra akşam yemeğine eşlik etmesi için lezzetli bir çorba yaptım.,Sonra akşam yemeğine eşlik etmesi için lezzetli çorba yaptım.,determiners,bir,∅,çorba,872
+Ayrıca gizem desenleri baya farklı duran bir bluz aldı.,Ayrıca gizem desenleri baya farklı duran bluz aldı.,determiners,bir,∅,bluz,873
+Daha yeni açılan kafede şefin önerdiği nefis bir tabak denedik.,Daha yeni açılan kafede şefin önerdiği nefis tabak denedik.,determiners,bir,∅,tabak,874
+Herkesin önerdiği harika bir film izledik.,Herkesin önerdiği harika film izledik.,determiners,bir,∅,film,875
+Dün otobüste okumak için eğlenceli bir dergi aldım.,Dün otobüste okumak için eğlenceli dergi aldım.,determiners,bir,∅,dergi,876
+Güzel pastanede özenle hazırlanan bir pasta aldık.,Güzel pastanede özenle hazırlanan pasta aldık.,determiners,bir,∅,pasta,877
+Akşam okumak için eleştirmenlerin beğendiği bir makale seçtiler.,Akşam okumak için eleştirmenlerin beğendiği makale seçtiler.,determiners,bir,∅,makale,878
+Bu okulda çok beğenilen bir proje sunduk.,Bu okulda çok beğenilen proje sunduk.,determiners,bir,∅,proje,879
+Eski kitapçının vitrininde ilgi çekici bir roman gördüm.,Eski kitapçının vitrininde ilgi çekici roman gördüm.,determiners,bir,∅,roman,880
+Öğrenci müdüre İtalyanca'ya çevirisini yaptırdığı bir doküman götürdü.,Öğrenci müdüre İtalyanca'ya çevirisini yaptırdığı doküman götürdü.,determiners,bir,∅,doküman,881
+Sonra mezuniyet hediyesi olarak fiyatı uygun gelen bir araba alırız.,Sonra mezuniyet hediyesi olarak fiyatı uygun gelen araba alırız.,determiners,bir,∅,araba,882
+Yakın yolda dikkatle yürüyen bir adam gördüm.,Yakın yolda dikkatle yürüyen adam gördüm.,determiners,bir,∅,adam,883
+Ayrıca otobüste okumak için eğlenceli bir dergi aldım.,Ayrıca otobüste okumak için eğlenceli dergi aldım.,determiners,bir,∅,dergi,884
+Bir arkadaşıma hediye etmek için şık bir saat seçtim.,Bir arkadaşıma hediye etmek için şık saat seçtim.,determiners,bir,∅,saat,885
+Yine geçen sene köyde kerpiçten yapılan bir baraka gördüm.,Yine geçen sene köyde kerpiçten yapılan baraka gördüm.,determiners,bir,∅,baraka,886
+Bu avukata Rusça'ya çevirisini yaptırdığı bir sözleşme iletti.,Bu avukata Rusça'ya çevirisini yaptırdığı sözleşme iletti.,determiners,bir,∅,sözleşme,887
+Dokusu kadifeyi andıran güzel bir mont beğendik.,Dokusu kadifeyi andıran güzel mont beğendik.,determiners,bir,∅,mont,888
+Ve bu sabah beni ayıltan lezzetli bir kahve içtim.,Ve bu sabah beni ayıltan lezzetli kahve içtim.,determiners,bir,∅,kahve,889
+Eski annemin dolabında sakladığı bir mektup buldum.,Eski annemin dolabında sakladığı mektup buldum.,determiners,bir,∅,mektup,890
+Bu sahafta çok tavsiye edilen bir kitap buldum.,Bu sahafta çok tavsiye edilen kitap buldum.,determiners,bir,∅,kitap,891
+Ve dokusu kadifeyi andıran güzel bir mont beğendik.,Ve dokusu kadifeyi andıran güzel mont beğendik.,determiners,bir,∅,mont,892
+Ayrıca okulda çok beğenilen bir proje sunduk.,Ayrıca okulda çok beğenilen proje sunduk.,determiners,bir,∅,proje,893
+Aynı ders sırasında öğretmen faydalı bir öneri sundu.,Aynı ders sırasında öğretmen faydalı öneri sundu.,determiners,bir,∅,öneri,894
+Sonra bol fındık ve tarçın içeren enfes bir kek yaptılar.,Sonra bol fındık ve tarçın içeren enfes kek yaptılar.,determiners,bir,∅,kek,895
+Sonra evin dekorasyonu için zarif bir tablo aldım.,Sonra evin dekorasyonu için zarif tablo aldım.,determiners,bir,∅,tablo,896
+Ve patrona Japonca'ya çevirisini yaptırdığı bir rapor sundu.,Ve patrona Japonca'ya çevirisini yaptırdığı rapor sundu.,determiners,bir,∅,rapor,897
+Akşam ofise mis gibi kokan bir çiçek geldi.,Akşam ofise mis gibi kokan çiçek geldi.,determiners,bir,∅,çiçek,898
+Her akşam izlemek için herkesin merakla beklediği bir dizi seçtiler.,Her akşam izlemek için herkesin merakla beklediği dizi seçtiler.,determiners,bir,∅,dizi,899
+Ben ufaklığın dikkatini çekecek eğlenceli bir oyuncak aldım.,Ben ufaklığın dikkatini çekecek eğlenceli oyuncak aldım.,determiners,bir,∅,oyuncak,900
+Yine marketten indirimde olan bir deterjan aldım.,Yine marketten indirimde olan deterjan aldım.,determiners,bir,∅,deterjan,901
+Bana bol fındık ve tarçın içeren enfes bir kek yaptılar.,Bana bol fındık ve tarçın içeren enfes kek yaptılar.,determiners,bir,∅,kek,902
+Ayrıca dün akşam lezzeti damağımda kalan bir tatlı yedim.,Ayrıca dün akşam lezzeti damağımda kalan tatlı yedim.,determiners,bir,∅,tatlı,903
+Ben bu sabah beni kendime getiren bir kahve içtim.,Ben bu sabah beni kendime getiren kahve içtim.,determiners,bir,∅,kahve,904
+Ağzında kekremsi tat bırakan bir kahve içti.,Ağzında kekremsi tat bırakan kahve içti.,determiners,bir,∅,kahve,905
+Sonra o kafede tadına doyamadığımız bir salata yedik.,Sonra o kafede tadına doyamadığımız salata yedik.,determiners,bir,∅,salata,906
+Zara merve rengi griye çalan modern bir hırka seçti.,Zara merve rengi griye çalan modern hırka seçti.,determiners,bir,∅,hırka,907
+Sevgili nazan rengi kırmızıya çalan bir elbise beğendi.,Sevgili nazan rengi kırmızıya çalan elbise beğendi.,determiners,bir,∅,elbise,908
+Evde ders çalışmak için sabahları kalabalık olmayan bir kafe arıyorum.,Evde ders çalışmak için sabahları kalabalık olmayan kafe arıyorum.,determiners,bir,∅,kafe,909
+Bu akşam yemeğine eşlik etmesi için lezzetli bir çorba yaptım.,Bu akşam yemeğine eşlik etmesi için lezzetli çorba yaptım.,determiners,bir,∅,çorba,910
+Öncelikle herkesin önerdiği harika bir film izledik.,Öncelikle herkesin önerdiği harika film izledik.,determiners,bir,∅,film,911
+Daha yeni açılan butikten ustanın tasarladığı bir kolye seçtik.,Daha yeni açılan butikten ustanın tasarladığı kolye seçtik.,determiners,bir,∅,kolye,912
+Akşam ders çalışmak için sabahları kalabalık olmayan bir kafe arıyorum.,Akşam ders çalışmak için sabahları kalabalık olmayan kafe arıyorum.,determiners,bir,∅,kafe,913
+İstanbul kitap kulübünde heyecan verici bir roman okuduk.,İstanbul kitap kulübünde heyecan verici roman okuduk.,determiners,bir,∅,roman,914
+Bugün marketten fiyatı uygun olan bir peynir aldım.,Bugün marketten fiyatı uygun olan peynir aldım.,determiners,bir,∅,peynir,915
+Öncelikle düğün hediyesi olarak bütçemizi zorlamayan bir takı alacağız.,Öncelikle düğün hediyesi olarak bütçemizi zorlamayan takı alacağız.,determiners,bir,∅,takı,916
+Antik parkta heyecan verici bir yarış izledik.,Antik parkta heyecan verici yarış izledik.,determiners,bir,∅,yarış,917
+Her pastanede özenle hazırlanan bir pasta aldık.,Her pastanede özenle hazırlanan pasta aldık.,determiners,bir,∅,pasta,918
+Onların i̇çinde bolca ceviz ve tarçın olan bir kek yaptılar.,Onların i̇çinde bolca ceviz ve tarçın olan kek yaptılar.,determiners,bir,∅,kek,919
+Ahmet rengi yeşile çalan parlak bir gömlek satın aldı.,Ahmet rengi yeşile çalan parlak gömlek satın aldı.,determiners,bir,∅,gömlek,920
+Beni büyükannemin tarifine göre yapılan bir reçel tattırdı.,Beni büyükannemin tarifine göre yapılan reçel tattırdı.,determiners,bir,∅,reçel,921
+Biz pazar sabahı ailece keyif aldığımız bir kahvaltı yaptık.,Biz pazar sabahı ailece keyif aldığımız kahvaltı yaptık.,determiners,bir,∅,kahvaltı,922
+Ali ahmet rengi yeşile çalan parlak bir gömlek satın aldı.,Ali ahmet rengi yeşile çalan parlak gömlek satın aldı.,determiners,bir,∅,gömlek,923
+Antik tiyatroda oyuncuların büyük özveriyle canlandırdığı bir oyun izledik.,Antik tiyatroda oyuncuların büyük özveriyle canlandırdığı oyun izledik.,determiners,bir,∅,oyun,924
+Ve yarın plajda okumak için sürükleyici bir roman aldım.,Ve yarın plajda okumak için sürükleyici roman aldım.,determiners,bir,∅,roman,925
+Sergide sanatçının ustalıkla çizdiği bir portre gördük.,Sergide sanatçının ustalıkla çizdiği portre gördük.,determiners,bir,∅,portre,926
+Bir kitap kulübünde heyecan verici bir roman okuduk.,Bir kitap kulübünde heyecan verici roman okuduk.,determiners,bir,∅,roman,927
+Ayrıca yeni açılan kafede şefin önerdiği nefis bir tabak denedik.,Ayrıca yeni açılan kafede şefin önerdiği nefis tabak denedik.,determiners,bir,∅,tabak,928
+Ve pazar sabahı ailece keyif aldığımız bir kahvaltı yaptık.,Ve pazar sabahı ailece keyif aldığımız kahvaltı yaptık.,determiners,bir,∅,kahvaltı,929
+Düğün hediyesi olarak bütçemizi zorlamayan bir takı alacağız.,Düğün hediyesi olarak bütçemizi zorlamayan takı alacağız.,determiners,bir,∅,takı,930
+Öğretmen müdüre İngilizce'ye çevirisini yaptırdığı önemli bir belge teslim etti.,Öğretmen müdüre İngilizce'ye çevirisini yaptırdığı önemli belge teslim etti.,determiners,bir,∅,belge,931
+Dün sabah kahvaltısında yemek için doyurucu bir sandviç aldım.,Dün sabah kahvaltısında yemek için doyurucu sandviç aldım.,determiners,bir,∅,sandviç,932
+Sevgili arkadaşıma hediye etmek için şık bir saat seçtim.,Sevgili arkadaşıma hediye etmek için şık saat seçtim.,determiners,bir,∅,saat,933
+Sony stüdyolarında özenle kaydedilen bir şarkı dinledik.,Sony stüdyolarında özenle kaydedilen şarkı dinledik.,determiners,bir,∅,şarkı,934
+Marco picasso'nun yaşamının anlatıldığı bir sergi gezdik.,Marco picasso'nun yaşamının anlatıldığı sergi gezdik.,determiners,bir,∅,sergi,935
+İstanbul dönerken götürmek için çok tüketilen bir peynir seçtim.,İstanbul dönerken götürmek için çok tüketilen peynir seçtim.,determiners,bir,∅,peynir,936
+Ardından avukata Rusça'ya çevirisini yaptırdığı bir sözleşme iletti.,Ardından avukata Rusça'ya çevirisini yaptırdığı sözleşme iletti.,determiners,bir,∅,sözleşme,937
+Okulda çok beğenilen bir proje sunduk.,Okulda çok beğenilen proje sunduk.,determiners,bir,∅,proje,938
+Evde huzurlu bir atmosfer yaratmak için hoş bir mum yaktım.,Evde huzurlu bir atmosfer yaratmak için hoş mum yaktım.,determiners,bir,∅,mum,939
+Bu sergide sanatçının ustalıkla çizdiği bir portre gördük.,Bu sergide sanatçının ustalıkla çizdiği portre gördük.,determiners,bir,∅,portre,940
+Sonra patrona Japonca'ya çevirisini yaptırdığı bir rapor sundu.,Sonra patrona Japonca'ya çevirisini yaptırdığı rapor sundu.,determiners,bir,∅,rapor,941
+Bana büyükannemin tarifine göre yapılan bir reçel tattırdı.,Bana büyükannemin tarifine göre yapılan reçel tattırdı.,determiners,bir,∅,reçel,942
+Bizim ofise mis gibi kokan bir çiçek geldi.,Bizim ofise mis gibi kokan çiçek geldi.,determiners,bir,∅,çiçek,943
+Dün kitap kulübünde heyecan verici bir roman okuduk.,Dün kitap kulübünde heyecan verici roman okuduk.,determiners,bir,∅,roman,944
+Yine mimar Sinan'ın hayatının anlatıldığı bir belgesel izledik.,Yine mimar Sinan'ın hayatının anlatıldığı belgesel izledik.,determiners,bir,∅,belgesel,945
+Hemen köşedeki dükkandan fiyatı uygun olan bir çanta aldım.,Hemen köşedeki dükkandan fiyatı uygun olan çanta aldım.,determiners,bir,∅,çanta,946
+Bu ofise mis gibi kokan bir çiçek geldi.,Bu ofise mis gibi kokan çiçek geldi.,determiners,bir,∅,çiçek,947
+Eski müdüre İngilizce'ye çevirisini yaptırdığı önemli bir belge teslim etti.,Eski müdüre İngilizce'ye çevirisini yaptırdığı önemli belge teslim etti.,determiners,bir,∅,belge,948
+Ve mezuniyet kutlaması için fiyatı makul sayılabilecek bir araç aldılar.,Ve mezuniyet kutlaması için fiyatı makul sayılabilecek araç aldılar.,determiners,bir,∅,araç,949
+Arkadaşlar geçen hafta indirime giren bir bilgisayar satın aldım.,Arkadaşlar geçen hafta indirime giren bilgisayar satın aldım.,determiners,bir,∅,bilgisayar,950
+Dizi seyretmek için arkadaşların tavsiye ettiği bir dizi seçtik.,Dizi seyretmek için arkadaşların tavsiye ettiği dizi seçtik.,determiners,bir,∅,dizi,951
+Yakın ormanda hızlıca koşan bir geyik fark ettik.,Yakın ormanda hızlıca koşan geyik fark ettik.,determiners,bir,∅,geyik,952
+Bir laboratuvarda çok etkili bir ilaç test ettiler.,Bir laboratuvarda çok etkili ilaç test ettiler.,determiners,bir,∅,ilaç,953
+Alman notere Almanca çevirisini yaptırdığı önemli bir belge verdi.,Alman notere Almanca çevirisini yaptırdığı önemli belge verdi.,determiners,bir,∅,belge,954
+Kendisi bankaya Korece'ye çevirisini yaptırdığı bir sözleşme verdi.,Kendisi bankaya Korece'ye çevirisini yaptırdığı sözleşme verdi.,determiners,bir,∅,sözleşme,955
+Bir akşam yemeğine eşlik etmesi için lezzetli bir çorba yaptım.,Bir akşam yemeğine eşlik etmesi için lezzetli çorba yaptım.,determiners,bir,∅,çorba,956
+Yine leonardo da Vinci'nin hayatının anlatıldığı etkileyici bir film izledik.,Yine leonardo da Vinci'nin hayatının anlatıldığı etkileyici film izledik.,determiners,bir,∅,film,957
+Ayrıca mezuniyet hediyesi olarak fiyatı uygun gelen bir araba alırız.,Ayrıca mezuniyet hediyesi olarak fiyatı uygun gelen araba alırız.,determiners,bir,∅,araba,958
+Yarın plajda okumak için sürükleyici bir roman aldım.,Yarın plajda okumak için sürükleyici roman aldım.,determiners,bir,∅,roman,959
+Ormanda hızlıca koşan bir geyik fark ettik.,Ormanda hızlıca koşan geyik fark ettik.,determiners,bir,∅,geyik,960
+Bu piknik için rahatça oturacağımız geniş bir battaniye aldım.,Bu piknik için rahatça oturacağımız geniş battaniye aldım.,determiners,bir,∅,battaniye,961
+Ayrıca zeynep rengi sarıya çalan desenli bir ceket denedi.,Ayrıca zeynep rengi sarıya çalan desenli ceket denedi.,determiners,bir,∅,ceket,962
+Yalnız geçen sene köyde kerpiçten yapılan bir baraka gördüm.,Yalnız geçen sene köyde kerpiçten yapılan baraka gördüm.,determiners,bir,∅,baraka,963
+Bir konferansta ilginç bir sunum dinledik.,Bir konferansta ilginç sunum dinledik.,determiners,bir,∅,sunum,964
+Küçük ahmet rengi yeşile çalan parlak bir gömlek satın aldı.,Küçük ahmet rengi yeşile çalan parlak gömlek satın aldı.,determiners,bir,∅,gömlek,965
+Ayrıca köşedeki dükkandan fiyatı uygun olan bir çanta aldım.,Ayrıca köşedeki dükkandan fiyatı uygun olan çanta aldım.,determiners,bir,∅,çanta,966
+Bugün annemin dolabında sakladığı bir mektup buldum.,Bugün annemin dolabında sakladığı mektup buldum.,determiners,bir,∅,mektup,967
+Bir köşedeki dükkandan fiyatı uygun olan bir çanta aldım.,Bir köşedeki dükkandan fiyatı uygun olan çanta aldım.,determiners,bir,∅,çanta,968
+Yine otobüste okumak için eğlenceli bir dergi aldım.,Yine otobüste okumak için eğlenceli dergi aldım.,determiners,bir,∅,dergi,969
+Kırmızı zeynep rengi sarıya çalan desenli bir ceket denedi.,Kırmızı zeynep rengi sarıya çalan desenli ceket denedi.,determiners,bir,∅,ceket,970
+Kız arkadaşıma hediye etmek için şık bir saat seçtim.,Kız arkadaşıma hediye etmek için şık saat seçtim.,determiners,bir,∅,saat,971
+Şimdi yeni işimde bana yardımcı olacak bir ajanda satın aldım.,Şimdi yeni işimde bana yardımcı olacak ajanda satın aldım.,determiners,bir,∅,ajanda,972
+Bugün parkta heyecan verici bir yarış izledik.,Bugün parkta heyecan verici yarış izledik.,determiners,bir,∅,yarış,973
+Ben ders çalışmak için sabahları kalabalık olmayan bir kafe arıyorum.,Ben ders çalışmak için sabahları kalabalık olmayan kafe arıyorum.,determiners,bir,∅,kafe,974
+Yemek i̇çinde bol miktarda badem ve kakao olan bir pasta yaptılar.,Yemek i̇çinde bol miktarda badem ve kakao olan pasta yaptılar.,determiners,bir,∅,pasta,975
+Size düğün hediyesi olarak bütçemizi zorlamayan bir takı alacağız.,Size düğün hediyesi olarak bütçemizi zorlamayan takı alacağız.,determiners,bir,∅,takı,976
+Sevgili leonardo da Vinci'nin hayatının anlatıldığı etkileyici bir film izledik.,Sevgili leonardo da Vinci'nin hayatının anlatıldığı etkileyici film izledik.,determiners,bir,∅,film,977
+İçinde bolca ceviz ve tarçın olan bir kek yaptılar.,İçinde bolca ceviz ve tarçın olan kek yaptılar.,determiners,bir,∅,kek,978
+O yolda dikkatle yürüyen bir adam gördüm.,O yolda dikkatle yürüyen adam gördüm.,determiners,bir,∅,adam,979
+Sonra bütün gün beni tok tutan sağlıklı bir smoothie içtim.,Sonra bütün gün beni tok tutan sağlıklı smoothie içtim.,determiners,bir,∅,smoothie,980
+İlk ders sırasında öğretmen faydalı bir öneri sundu.,İlk ders sırasında öğretmen faydalı öneri sundu.,determiners,bir,∅,öneri,981
+Öğretmen müdüre İtalyanca'ya çevirisini yaptırdığı bir doküman götürdü.,Öğretmen müdüre İtalyanca'ya çevirisini yaptırdığı doküman götürdü.,determiners,bir,∅,doküman,982
+Yine notere Almanca çevirisini yaptırdığı önemli bir belge verdi.,Yine notere Almanca çevirisini yaptırdığı önemli belge verdi.,determiners,bir,∅,belge,983
+Bu sömestr tatilinde sürükleyici bir roman okudum.,Bu sömestr tatilinde sürükleyici roman okudum.,determiners,bir,∅,roman,984
+Doğum günü hediyesi olarak fiyatı bize makul gelen bir bileklik seçtik.,Doğum günü hediyesi olarak fiyatı bize makul gelen bileklik seçtik.,determiners,bir,∅,bileklik,985
+Bu sabah kahvaltısında yemek için doyurucu bir sandviç aldım.,Bu sabah kahvaltısında yemek için doyurucu sandviç aldım.,determiners,bir,∅,sandviç,986
+Büyük marketten indirimde olan bir deterjan aldım.,Büyük marketten indirimde olan deterjan aldım.,determiners,bir,∅,deterjan,987
+Dün deniz kenarında serinleten bir rüzgar hissettik.,Dün deniz kenarında serinleten rüzgar hissettik.,determiners,bir,∅,rüzgar,988
+Son sömestr tatilinde sürükleyici bir roman okudum.,Son sömestr tatilinde sürükleyici roman okudum.,determiners,bir,∅,roman,989
+Sonra zeynep rengi sarıya çalan desenli bir ceket denedi.,Sonra zeynep rengi sarıya çalan desenli ceket denedi.,determiners,bir,∅,ceket,990
+2. ders sırasında öğretmen faydalı bir öneri sundu.,2. ders sırasında öğretmen faydalı öneri sundu.,determiners,bir,∅,öneri,991
+Pembe beyaz dantel detayları içeren zarif bir gelinlik denedim.,Pembe beyaz dantel detayları içeren zarif gelinlik denedim.,determiners,bir,∅,gelinlik,992
+Ve o kafede tadına doyamadığımız bir salata yedik.,Ve o kafede tadına doyamadığımız salata yedik.,determiners,bir,∅,salata,993
+Uzun sömestr tatilinde sürükleyici bir roman okudum.,Uzun sömestr tatilinde sürükleyici roman okudum.,determiners,bir,∅,roman,994
+Dün mimar Sinan'ın hayatının anlatıldığı bir belgesel izledik.,Dün mimar Sinan'ın hayatının anlatıldığı belgesel izledik.,determiners,bir,∅,belgesel,995
+Yine büyükannemin tarifine göre yapılan bir reçel tattırdı.,Yine büyükannemin tarifine göre yapılan reçel tattırdı.,determiners,bir,∅,reçel,996
+Onu bebeğin eline sallayınca ses çıkaran bir oyuncak verdi.,Onu bebeğin eline sallayınca ses çıkaran oyuncak verdi.,determiners,bir,∅,oyuncak,997
+Sonra büyükannemin tarifine göre yapılan bir reçel tattırdı.,Sonra büyükannemin tarifine göre yapılan reçel tattırdı.,determiners,bir,∅,reçel,998
+Bugün sabah kahvaltısında yemek için doyurucu bir sandviç aldım.,Bugün sabah kahvaltısında yemek için doyurucu sandviç aldım.,determiners,bir,∅,sandviç,999
+Küçük marketten fiyatı uygun olan bir peynir aldım.,Küçük marketten fiyatı uygun olan peynir aldım.,determiners,bir,∅,peynir,1000

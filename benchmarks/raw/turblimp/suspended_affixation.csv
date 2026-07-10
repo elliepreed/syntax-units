@@ -1,0 +1,1001 @@
+sentence_good,sentence_bad,linguistic_phenomenon,good_cue,bad_cue,critical_region,item_id
+Ben kurabiyeleri pişirdim ve soğumaya bıraktım.,Ben kurabiyeleri pişir ve soğumaya bıraktım.,suspended_affixation,pişirdim,pişir,bıraktım,1
+Sabah kahvaltı hazırladı ve ailesiyle zaman geçirdi.,Sabah kahvaltı hazırla ve ailesiyle zaman geçirdi.,suspended_affixation,hazırladı,hazırla,geçirdi,2
+Ardından ders notlarını temize çektim ve gruba attım.,Ardından ders notlarını temize çek ve gruba attım.,suspended_affixation,çektim,çek,attım,3
+Herkes uçağa bindiler ve memlekete gittiler.,Herkes uçağa bin ve memlekete gittiler.,suspended_affixation,bindiler,bin,gittiler,4
+Ben telefonu şarja koydum ve biraz dolunca açtım.,Ben telefonu şarja koy ve biraz dolunca açtım.,suspended_affixation,koydum,koy,açtım,5
+Ben kapıyı açtım ve misafirleri karşıladım.,Ben kapıyı aç ve misafirleri karşıladım.,suspended_affixation,açtım,aç,karşıladım,6
+Bu sabah ufaklığı bakkala gönderdim ve taze ekmek aldırdım.,Bu sabah ufaklığı bakkala gönder ve taze ekmek aldırdım.,suspended_affixation,gönderdim,gönder,aldırdım,7
+Kitapları düzenlediler ve raflara yerleştirdiler.,Kitapları düzenle ve raflara yerleştirdiler.,suspended_affixation,düzenlediler,düzenle,yerleştirdiler,8
+Sonra konser bileti aldım ve arkadaşıma haber verdim.,Sonra konser bileti al ve arkadaşıma haber verdim.,suspended_affixation,aldım,al,verdim,9
+Biz çocuklara masal okudum ve uyuttum.,Biz çocuklara masal oku ve uyuttum.,suspended_affixation,okudum,oku,uyuttum,10
+Sonra arabanın lastiklerini değiştirdim ve balans ayarı yaptırdım.,Sonra arabanın lastiklerini değiştir ve balans ayarı yaptırdım.,suspended_affixation,değiştirdim,değiştir,yaptırdım,11
+Kadın kıyafetleri ütüledi ve oğluna verdi.,Kadın kıyafetleri ütüle ve oğluna verdi.,suspended_affixation,ütüledi,ütüle,verdi,12
+Bu yemeği ısıttım ve yedim.,Bu yemeği ısıt ve yedim.,suspended_affixation,ısıttım,ısıt,yedim,13
+Bende dün pazara uğradım ve bir sürü sebze aldım.,Bende dün pazara uğra ve bir sürü sebze aldım.,suspended_affixation,uğradım,uğra,aldım,14
+Evde spor yaptım ve duş aldım.,Evde spor yap ve duş aldım.,suspended_affixation,yaptım,yap,aldım,15
+2 kurabiye pişirdim ve komşulara dağıttım.,2 kurabiye pişir ve komşulara dağıttım.,suspended_affixation,pişirdim,pişir,dağıttım,16
+Ben çok çalıştım ve sınavı geçtim.,Ben çok çalış ve sınavı geçtim.,suspended_affixation,çalıştım,çalış,geçtim,17
+Dün trafikte sıkıştım ve geç kaldım.,Dün trafikte sıkış ve geç kaldım.,suspended_affixation,sıkıştım,sıkış,kaldım,18
+Bu kitapları düzenlediler ve raflara yerleştirdiler.,Bu kitapları düzenle ve raflara yerleştirdiler.,suspended_affixation,düzenlediler,düzenle,yerleştirdiler,19
+Kurabiye pişirdim ve komşulara dağıttım.,Kurabiye pişir ve komşulara dağıttım.,suspended_affixation,pişirdim,pişir,dağıttım,20
+Bir sabah ufaklığı bakkala gönderdim ve taze ekmek aldırdım.,Bir sabah ufaklığı bakkala gönder ve taze ekmek aldırdım.,suspended_affixation,gönderdim,gönder,aldırdım,21
+Diğer arkadaşlarımla buluştuk ve sinemaya gittik.,Diğer arkadaşlarımla buluş ve sinemaya gittik.,suspended_affixation,buluştuk,buluş,gittik,22
+Uluslararası festivale yüksek katılım sağlandı ve yoğun ilgi gösterildi.,Uluslararası festivale yüksek katılım sağlan ve yoğun ilgi gösterildi.,suspended_affixation,sağlandı,sağlan,gösterildi,23
+Ben raporu inceledim ve onayladım.,Ben raporu incele ve onayladım.,suspended_affixation,inceledim,incele,onayladım,24
+İlk konsere gittim ve çok eğlendim.,İlk konsere git ve çok eğlendim.,suspended_affixation,gittim,git,eğlendim,25
+Dün maçı izledik ve sonucu tartıştık.,Dün maçı izle ve sonucu tartıştık.,suspended_affixation,izledik,izle,tartıştık,26
+Böylece ruhsatsız olduğu tespit edilen işletme mühürlendi ve kapatıldı.,Böylece ruhsatsız olduğu tespit edilen işletme mühürlen ve kapatıldı.,suspended_affixation,mühürlendi,mühürlen,kapatıldı,27
+Ben kek pişirdim ve üstünü süsledim.,Ben kek pişir ve üstünü süsledim.,suspended_affixation,pişirdim,pişir,süsledim,28
+Kontrol raporu hazırladım ve müdüre sundum.,Kontrol raporu hazırla ve müdüre sundum.,suspended_affixation,hazırladım,hazırla,sundum,29
+Yürüyüşe çıktı ve manzarayı izledi.,Yürüyüşe çık ve manzarayı izledi.,suspended_affixation,çıktı,çık,izledi,30
+Eski mobilyaları monte ettik ve yerine yerleştirdik.,Eski mobilyaları monte et ve yerine yerleştirdik.,suspended_affixation,ettik,et,yerleştirdik,31
+Biraz yürüyüş yaptık ve güzelce terledik.,Biraz yürüyüş yap ve güzelce terledik.,suspended_affixation,yaptık,yap,terledik,32
+Bu festivale yüksek katılım sağlandı ve yoğun ilgi gösterildi.,Bu festivale yüksek katılım sağlan ve yoğun ilgi gösterildi.,suspended_affixation,sağlandı,sağlan,gösterildi,33
+Şimdi kapıyı açtım ve misafirleri karşıladım.,Şimdi kapıyı aç ve misafirleri karşıladım.,suspended_affixation,açtım,aç,karşıladım,34
+Dün konsere gittim ve çok eğlendim.,Dün konsere git ve çok eğlendim.,suspended_affixation,gittim,git,eğlendim,35
+Ardından kek pişirdim ve üstünü süsledim.,Ardından kek pişir ve üstünü süsledim.,suspended_affixation,pişirdim,pişir,süsledim,36
+Bugün köpeği gezdirdim ve sonra eve getirdim.,Bugün köpeği gezdir ve sonra eve getirdim.,suspended_affixation,gezdirdim,gezdir,getirdim,37
+Bazı çiçekleri suladım ve toprağını değiştirdim.,Bazı çiçekleri sula ve toprağını değiştirdim.,suspended_affixation,suladım,sula,değiştirdim,38
+Bana gelen mesajları kontrol etti ve cevapladı.,Bana gelen mesajları kontrol et ve cevapladı.,suspended_affixation,etti,et,cevapladı,39
+Cumartesi sabah ufaklığı bakkala gönderdim ve taze ekmek aldırdım.,Cumartesi sabah ufaklığı bakkala gönder ve taze ekmek aldırdım.,suspended_affixation,gönderdim,gönder,aldırdım,40
+Yine uçağa bindiler ve memlekete gittiler.,Yine uçağa bin ve memlekete gittiler.,suspended_affixation,bindiler,bin,gittiler,41
+Önce sınav kağıtlarını okudum ve notlandırdım.,Önce sınav kağıtlarını oku ve notlandırdım.,suspended_affixation,okudum,oku,notlandırdım,42
+Eski ders notlarını temize çektim ve gruba attım.,Eski ders notlarını temize çek ve gruba attım.,suspended_affixation,çektim,çek,attım,43
+Önce bitkileri suladım ve dallarını budadım.,Önce bitkileri sula ve dallarını budadım.,suspended_affixation,suladım,sula,budadım,44
+Önce kıyafetleri katladım ve bavula yerleştirdim.,Önce kıyafetleri katla ve bavula yerleştirdim.,suspended_affixation,katladım,katla,yerleştirdim,45
+Önce yeni takvimi astım ve önemli tarihleri işaretledim.,Önce yeni takvimi as ve önemli tarihleri işaretledim.,suspended_affixation,astım,as,işaretledim,46
+Ben kedimi sevdim ve mamasını verdim.,Ben kedimi sev ve mamasını verdim.,suspended_affixation,sevdim,sev,verdim,47
+Akşam arkadaşlarımla buluştuk ve sinemaya gittik.,Akşam arkadaşlarımla buluş ve sinemaya gittik.,suspended_affixation,buluştuk,buluş,gittik,48
+Hemen arabayı yıkadım ve cilaladım.,Hemen arabayı yıka ve cilaladım.,suspended_affixation,yıkadım,yıka,cilaladım,49
+Ek raporu hazırladım ve müdüre sundum.,Ek raporu hazırla ve müdüre sundum.,suspended_affixation,hazırladım,hazırla,sundum,50
+2 yemek sipariş ettim ve gelmesini bekledim.,2 yemek sipariş et ve gelmesini bekledim.,suspended_affixation,ettim,et,bekledim,51
+Sonra telefonumu şarj ettim ve mesajları kontrol ettim.,Sonra telefonumu şarj et ve mesajları kontrol ettim.,suspended_affixation,ettim,et,ettim,52
+Ben yemeği ısıttım ve yedim.,Ben yemeği ısıt ve yedim.,suspended_affixation,ısıttım,ısıt,yedim,53
+Çok güzel bir kahve yaptım ve içtim.,Çok güzel bir kahve yap ve içtim.,suspended_affixation,yaptım,yap,içtim,54
+Almanca çalıştım ve arkadaşlarımla pratik yaptım.,Almanca çalış ve arkadaşlarımla pratik yaptım.,suspended_affixation,çalıştım,çalış,yaptım,55
+Küçük kediyi veterinere götürdüler ve aşı yaptırdılar.,Küçük kediyi veterinere götür ve aşı yaptırdılar.,suspended_affixation,götürdüler,götür,yaptırdılar,56
+Yani çok çalıştım ve sınavı geçtim.,Yani çok çalış ve sınavı geçtim.,suspended_affixation,çalıştım,çalış,geçtim,57
+Ben spor yaptım ve duş aldım.,Ben spor yap ve duş aldım.,suspended_affixation,yaptım,yap,aldım,58
+Bugün konsere gittim ve çok eğlendim.,Bugün konsere git ve çok eğlendim.,suspended_affixation,gittim,git,eğlendim,59
+Ardından kıyafetleri yıkadım ve kuruttum.,Ardından kıyafetleri yıka ve kuruttum.,suspended_affixation,yıkadım,yıka,kuruttum,60
+İngilizce almanca çalıştım ve arkadaşlarımla pratik yaptım.,İngilizce almanca çalış ve arkadaşlarımla pratik yaptım.,suspended_affixation,çalıştım,çalış,yaptım,61
+Biz maçı izledik ve sonucu tartıştık.,Biz maçı izle ve sonucu tartıştık.,suspended_affixation,izledik,izle,tartıştık,62
+Bugün kedimi veterinere götürdüm ve aşı yaptırdım.,Bugün kedimi veterinere götür ve aşı yaptırdım.,suspended_affixation,götürdüm,götür,yaptırdım,63
+Sonra kahvemi içtim ve gazeteyi okudum.,Sonra kahvemi iç ve gazeteyi okudum.,suspended_affixation,içtim,iç,okudum,64
+Bugün menüye yeni bir tarif koyuldu ve çok beğenildi.,Bugün menüye yeni bir tarif koyul ve çok beğenildi.,suspended_affixation,koyuldu,koyul,beğenildi,65
+Ben köpeği gezdirdim ve sonra eve getirdim.,Ben köpeği gezdir ve sonra eve getirdim.,suspended_affixation,gezdirdim,gezdir,getirdim,66
+Eski kıyafetleri katladım ve çekmeceye koydum.,Eski kıyafetleri katla ve çekmeceye koydum.,suspended_affixation,katladım,katla,koydum,67
+Bir hafta sonu pikniğe gittik ve mangal yaktık.,Bir hafta sonu pikniğe git ve mangal yaktık.,suspended_affixation,gittik,git,yaktık,68
+Bir akşam kızlarla partiye gittik ve çok eğlendik.,Bir akşam kızlarla partiye git ve çok eğlendik.,suspended_affixation,gittik,git,eğlendik,69
+Ardından yürüyüşe çıktı ve manzarayı izledi.,Ardından yürüyüşe çık ve manzarayı izledi.,suspended_affixation,çıktı,çık,izledi,70
+Bebek kazağı ördü ve sevgilisine hediye etti.,Bebek kazağı ör ve sevgilisine hediye etti.,suspended_affixation,ördü,ör,etti,71
+Gece trafikte sıkıştım ve geç kaldım.,Gece trafikte sıkış ve geç kaldım.,suspended_affixation,sıkıştım,sıkış,kaldım,72
+Önce maçı izledik ve sonucu tartıştık.,Önce maçı izle ve sonucu tartıştık.,suspended_affixation,izledik,izle,tartıştık,73
+Ben konsere gittim ve şarkılara eşlik ettim.,Ben konsere git ve şarkılara eşlik ettim.,suspended_affixation,gittim,git,ettim,74
+Ben kıyafetleri yıkadım ve kuruttum.,Ben kıyafetleri yıka ve kuruttum.,suspended_affixation,yıkadım,yıka,kuruttum,75
+Hemen kuşuma yem verdim ve suyunu tazeledim.,Hemen kuşuma yem ver ve suyunu tazeledim.,suspended_affixation,verdim,ver,tazeledim,76
+Ve kedimi veterinere götürdüm ve muayene ettirdim.,Ve kedimi veterinere götür ve muayene ettirdim.,suspended_affixation,götürdüm,götür,ettirdim,77
+Sonra aşure yaptık ve komşulara dağıttık.,Sonra aşure yap ve komşulara dağıttık.,suspended_affixation,yaptık,yap,dağıttık,78
+Öncelikle mobilyaları monte ettik ve yerine yerleştirdik.,Öncelikle mobilyaları monte et ve yerine yerleştirdik.,suspended_affixation,ettik,et,yerleştirdik,79
+Kaza yaptım ve hastaneye gittim.,Kaza yap ve hastaneye gittim.,suspended_affixation,yaptım,yap,gittim,80
+Ardından yemeği ısıttım ve yedim.,Ardından yemeği ısıt ve yedim.,suspended_affixation,ısıttım,ısıt,yedim,81
+Bu çiçekleri suladım ve toprağını değiştirdim.,Bu çiçekleri sula ve toprağını değiştirdim.,suspended_affixation,suladım,sula,değiştirdim,82
+O bebeği sevdim ve kucağıma aldım.,O bebeği sev ve kucağıma aldım.,suspended_affixation,sevdim,sev,aldım,83
+Sonra arabayı yıkadım ve içini temizledim.,Sonra arabayı yıka ve içini temizledim.,suspended_affixation,yıkadım,yıka,temizledim,84
+Akşam yemek yedim ve su içtim.,Akşam yemek ye ve su içtim.,suspended_affixation,yedim,ye,içtim,85
+Kütüphaneye gitti ve kitap aldı.,Kütüphaneye git ve kitap aldı.,suspended_affixation,gitti,git,aldı,86
+Şimdi kedimi veterinere götürdüm ve muayene ettirdim.,Şimdi kedimi veterinere götür ve muayene ettirdim.,suspended_affixation,götürdüm,götür,ettirdim,87
+Uçağa bindiler ve memlekete gittiler.,Uçağa bin ve memlekete gittiler.,suspended_affixation,bindiler,bin,gittiler,88
+Konser bileti aldım ve arkadaşıma haber verdim.,Konser bileti al ve arkadaşıma haber verdim.,suspended_affixation,aldım,al,verdim,89
+Kadın yürüyüşe çıktı ve manzarayı izledi.,Kadın yürüyüşe çık ve manzarayı izledi.,suspended_affixation,çıktı,çık,izledi,90
+Daha sabah ufaklığı bakkala gönderdim ve taze ekmek aldırdım.,Daha sabah ufaklığı bakkala gönder ve taze ekmek aldırdım.,suspended_affixation,gönderdim,gönder,aldırdım,91
+Öncelikle köpeği gezdirdim ve sonra eve getirdim.,Öncelikle köpeği gezdir ve sonra eve getirdim.,suspended_affixation,gezdirdim,gezdir,getirdim,92
+Ben konsere bilet aldım ve arkadaşımla gittim.,Ben konsere bilet al ve arkadaşımla gittim.,suspended_affixation,aldım,al,gittim,93
+Bu çocuklara masal okudum ve uyuttum.,Bu çocuklara masal oku ve uyuttum.,suspended_affixation,okudum,oku,uyuttum,94
+Herkes kütüphaneye gitti ve kitap aldı.,Herkes kütüphaneye git ve kitap aldı.,suspended_affixation,gitti,git,aldı,95
+Yine annemle pazara çıktık ve meyve aldık.,Yine annemle pazara çık ve meyve aldık.,suspended_affixation,çıktık,çık,aldık,96
+Biz aşure yaptık ve komşulara dağıttık.,Biz aşure yap ve komşulara dağıttık.,suspended_affixation,yaptık,yap,dağıttık,97
+Ardından bulaşıkları yıkadım ve makineye yerleştirdim.,Ardından bulaşıkları yıka ve makineye yerleştirdim.,suspended_affixation,yıkadım,yıka,yerleştirdim,98
+Cumartesi akşam kızlarla partiye gittik ve çok eğlendik.,Cumartesi akşam kızlarla partiye git ve çok eğlendik.,suspended_affixation,gittik,git,eğlendik,99
+Adam kıyafetleri ütüledi ve oğluna verdi.,Adam kıyafetleri ütüle ve oğluna verdi.,suspended_affixation,ütüledi,ütüle,verdi,100
+Akşam kütüphaneden kitap aldım ve okudum.,Akşam kütüphaneden kitap al ve okudum.,suspended_affixation,aldım,al,okudum,101
+Yine stüdyoda şarkıyı kaydettiler ve sosyal medyada paylaştılar.,Yine stüdyoda şarkıyı kaydet ve sosyal medyada paylaştılar.,suspended_affixation,kaydettiler,kaydet,paylaştılar,102
+Bir projeyi tamamladın ve sunumu hazırladın.,Bir projeyi tamamla ve sunumu hazırladın.,suspended_affixation,tamamladın,tamamla,hazırladın,103
+Hemen yüzme havuzuna girdim ve yüzdüm.,Hemen yüzme havuzuna gir ve yüzdüm.,suspended_affixation,girdim,gir,yüzdüm,104
+Ardından kurabiyeleri pişirdim ve soğumaya bıraktım.,Ardından kurabiyeleri pişir ve soğumaya bıraktım.,suspended_affixation,pişirdim,pişir,bıraktım,105
+Köpeği gezdirdim ve sonra eve getirdim.,Köpeği gezdir ve sonra eve getirdim.,suspended_affixation,gezdirdim,gezdir,getirdim,106
+Öncelikle sınav kağıtlarını okudum ve notlandırdım.,Öncelikle sınav kağıtlarını oku ve notlandırdım.,suspended_affixation,okudum,oku,notlandırdım,107
+Artık konser biletlerini ayırttım ve arkadaşlarıma haber verdim.,Artık konser biletlerini ayırt ve arkadaşlarıma haber verdim.,suspended_affixation,ayırttım,ayırt,verdim,108
+Ardından kapıyı açtım ve misafirleri karşıladım.,Ardından kapıyı aç ve misafirleri karşıladım.,suspended_affixation,açtım,aç,karşıladım,109
+Kurabiyeleri pişirdim ve soğumaya bıraktım.,Kurabiyeleri pişir ve soğumaya bıraktım.,suspended_affixation,pişirdim,pişir,bıraktım,110
+Hemen aşure yaptık ve komşulara dağıttık.,Hemen aşure yap ve komşulara dağıttık.,suspended_affixation,yaptık,yap,dağıttık,111
+Biraz spor yaptım ve duş aldım.,Biraz spor yap ve duş aldım.,suspended_affixation,yaptım,yap,aldım,112
+Ardından yeni bir işe başladı ve hemen uyum sağladı.,Ardından yeni bir işe başla ve hemen uyum sağladı.,suspended_affixation,başladı,başla,sağladı,113
+Yine aşure yaptık ve komşulara dağıttık.,Yine aşure yap ve komşulara dağıttık.,suspended_affixation,yaptık,yap,dağıttık,114
+Hemen bisiklete bindik ve parkta tur attık.,Hemen bisiklete bin ve parkta tur attık.,suspended_affixation,bindik,bin,attık,115
+Bu kazağı ördü ve sevgilisine hediye etti.,Bu kazağı ör ve sevgilisine hediye etti.,suspended_affixation,ördü,ör,etti,116
+Bir yemek yedim ve su içtim.,Bir yemek ye ve su içtim.,suspended_affixation,yedim,ye,içtim,117
+Sonra yemek sipariş ettim ve kapıda ödedim.,Sonra yemek sipariş et ve kapıda ödedim.,suspended_affixation,ettim,et,ödettim,118
+Ödevlerimi bitirdim ve oyun oynamaya başladım.,Ödevlerimi bitir ve oyun oynamaya başladım.,suspended_affixation,bitirdim,bitir,başladım,119
+Kız kıyafetleri ütüledi ve oğluna verdi.,Kız kıyafetleri ütüle ve oğluna verdi.,suspended_affixation,ütüledi,ütüle,verdi,120
+Ben bulaşıkları yıkadım ve makineye yerleştirdim.,Ben bulaşıkları yıka ve makineye yerleştirdim.,suspended_affixation,yıkadım,yıka,yerleştirdim,121
+Mehmet yarışa katıldı ve iyi bir derece aldı.,Mehmet yarışa katıl ve iyi bir derece aldı.,suspended_affixation,katıldı,katıl,aldı,122
+Diğer ders notlarını temize çektim ve gruba attım.,Diğer ders notlarını temize çek ve gruba attım.,suspended_affixation,çektim,çek,attım,123
+Bir konsere gittim ve şarkılara eşlik ettim.,Bir konsere git ve şarkılara eşlik ettim.,suspended_affixation,gittim,git,ettim,124
+Dün spor yaptım ve duş aldım.,Dün spor yap ve duş aldım.,suspended_affixation,yaptım,yap,aldım,125
+Ve kaza yaptım ve hastaneye gittim.,Ve kaza yap ve hastaneye gittim.,suspended_affixation,yaptım,yap,gittim,126
+Çantamı hazırladım ve yola çıktım.,Çantamı hazırla ve yola çıktım.,suspended_affixation,hazırladım,hazırla,çıktım,127
+Bir konsere gittim ve çok eğlendim.,Bir konsere git ve çok eğlendim.,suspended_affixation,gittim,git,eğlendim,128
+Öncelikle çok çalıştım ve sınavı geçtim.,Öncelikle çok çalış ve sınavı geçtim.,suspended_affixation,çalıştım,çalış,geçtim,129
+Çok güzel bir kahve yaptım ve içtim.,Çok güzel bir kahve yap ve içtim.,suspended_affixation,yaptım,yap,içtim,130
+Ayşe öznur ablasının nişan töreni için giyindi ve süslendi.,Ayşe öznur ablasının nişan töreni için giyin ve süslendi.,suspended_affixation,giyindi,giyin,süslendi,131
+Diğer raftaki kitaplara göz attım ve beğendiğimi aldım.,Diğer raftaki kitaplara göz at ve beğendiğimi aldım.,suspended_affixation,attım,at,aldım,132
+Ardından köpeğimi taradım ve tüylerini topladım.,Ardından köpeğimi tara ve tüylerini topladım.,suspended_affixation,taradım,tara,topladım,133
+Çok almanca çalıştım ve arkadaşlarımla pratik yaptım.,Çok almanca çalış ve arkadaşlarımla pratik yaptım.,suspended_affixation,çalıştım,çalış,yaptım,134
+Tüm bahçeyi temizledim ve çiçek ektim.,Tüm bahçeyi temizle ve çiçek ektim.,suspended_affixation,temizledim,temizle,ektim,135
+Ve dün pazara uğradım ve bir sürü sebze aldım.,Ve dün pazara uğra ve bir sürü sebze aldım.,suspended_affixation,uğradım,uğra,aldım,136
+Kişi gelen mesajları kontrol etti ve cevapladı.,Kişi gelen mesajları kontrol et ve cevapladı.,suspended_affixation,etti,et,cevapladı,137
+Öznur ablasının nişan töreni için giyindi ve süslendi.,Öznur ablasının nişan töreni için giyin ve süslendi.,suspended_affixation,giyindi,giyin,süslendi,138
+Ardından mobilyaları monte ettik ve yerine yerleştirdik.,Ardından mobilyaları monte et ve yerine yerleştirdik.,suspended_affixation,ettik,et,yerleştirdik,139
+Yürüyüş yaptık ve güzelce terledik.,Yürüyüş yap ve güzelce terledik.,suspended_affixation,yaptık,yap,terledik,140
+İlk akşam kızlarla partiye gittik ve çok eğlendik.,İlk akşam kızlarla partiye git ve çok eğlendik.,suspended_affixation,gittik,git,eğlendik,141
+Hemen yemeği ısıttım ve yedim.,Hemen yemeği ısıt ve yedim.,suspended_affixation,ısıttım,ısıt,yedim,142
+3 şarkı söyledim ve dans ettim.,3 şarkı söyle ve dans ettim.,suspended_affixation,söyledim,söyle,ettim,143
+Kütüphaneden kitap aldım ve okudum.,Kütüphaneden kitap al ve okudum.,suspended_affixation,aldım,al,okudum,144
+Bütün kurabiyeleri pişirdim ve soğumaya bıraktım.,Bütün kurabiyeleri pişir ve soğumaya bıraktım.,suspended_affixation,pişirdim,pişir,bıraktım,145
+Tüm kıyafetleri ütüledim ve dolaba astım.,Tüm kıyafetleri ütüle ve dolaba astım.,suspended_affixation,ütüledim,ütüle,astım,146
+Önce telefonumu şarj ettim ve mesajları kontrol ettim.,Önce telefonumu şarj et ve mesajları kontrol ettim.,suspended_affixation,ettim,et,ettim,147
+Hemen sınav kağıtlarını okudum ve notlandırdım.,Hemen sınav kağıtlarını oku ve notlandırdım.,suspended_affixation,okudum,oku,notlandırdım,148
+Şimdi arabanın lastiklerini değiştirdim ve balans ayarı yaptırdım.,Şimdi arabanın lastiklerini değiştir ve balans ayarı yaptırdım.,suspended_affixation,değiştirdim,değiştir,yaptırdım,149
+Pazar sabah erken kalktım ve koşuya çıktım.,Pazar sabah erken kalk ve koşuya çıktım.,suspended_affixation,kalktım,kalk,çıktım,150
+Ben konser biletlerini ayırttım ve arkadaşlarıma haber verdim.,Ben konser biletlerini ayırt ve arkadaşlarıma haber verdim.,suspended_affixation,ayırttım,ayırt,verdim,151
+Bu kıyafetleri ütüledim ve dolaba astım.,Bu kıyafetleri ütüle ve dolaba astım.,suspended_affixation,ütüledim,ütüle,astım,152
+Önce kek pişirdim ve üstünü süsledim.,Önce kek pişir ve üstünü süsledim.,suspended_affixation,pişirdim,pişir,süsledim,153
+Uzun yürüyüş yaptık ve güzelce terledik.,Uzun yürüyüş yap ve güzelce terledik.,suspended_affixation,yaptık,yap,terledik,154
+5 kurabiye pişirdim ve komşulara dağıttım.,5 kurabiye pişir ve komşulara dağıttım.,suspended_affixation,pişirdim,pişir,dağıttım,155
+Bütün kıyafetleri katladım ve bavula yerleştirdim.,Bütün kıyafetleri katla ve bavula yerleştirdim.,suspended_affixation,katladım,katla,yerleştirdim,156
+Sonra arabayı yıkadım ve cilaladım.,Sonra arabayı yıka ve cilaladım.,suspended_affixation,yıkadım,yıka,cilaladım,157
+İki kardeşimle kavga ettik ve sonra barıştık.,İki kardeşimle kavga et ve sonra barıştık.,suspended_affixation,ettik,et,barıştık,158
+Sabah sabah ufaklığı bakkala gönderdim ve taze ekmek aldırdım.,Sabah sabah ufaklığı bakkala gönder ve taze ekmek aldırdım.,suspended_affixation,gönderdim,gönder,aldırdım,159
+Ben kıyafetleri katladım ve bavula yerleştirdim.,Ben kıyafetleri katla ve bavula yerleştirdim.,suspended_affixation,katladım,katla,yerleştirdim,160
+Artık çantamı hazırladım ve yola çıktım.,Artık çantamı hazırla ve yola çıktım.,suspended_affixation,hazırladım,hazırla,çıktım,161
+Türkçe almanca çalıştım ve arkadaşlarımla pratik yaptım.,Türkçe almanca çalış ve arkadaşlarımla pratik yaptım.,suspended_affixation,çalıştım,çalış,yaptım,162
+Önce arabanın lastiklerini değiştirdim ve balans ayarı yaptırdım.,Önce arabanın lastiklerini değiştir ve balans ayarı yaptırdım.,suspended_affixation,değiştirdim,değiştir,yaptırdım,163
+Tüm bulaşıkları yıkadım ve makineye yerleştirdim.,Tüm bulaşıkları yıka ve makineye yerleştirdim.,suspended_affixation,yıkadım,yıka,yerleştirdim,164
+Öncelikle yeni takvimi astım ve önemli tarihleri işaretledim.,Öncelikle yeni takvimi as ve önemli tarihleri işaretledim.,suspended_affixation,astım,as,işaretledim,165
+Ben dün pazara uğradım ve bir sürü sebze aldım.,Ben dün pazara uğra ve bir sürü sebze aldım.,suspended_affixation,uğradım,uğra,aldım,166
+Sonra öznur ablasının nişan töreni için giyindi ve süslendi.,Sonra öznur ablasının nişan töreni için giyin ve süslendi.,suspended_affixation,giyindi,giyin,süslendi,167
+Tüm ders notlarını temize çektim ve gruba attım.,Tüm ders notlarını temize çek ve gruba attım.,suspended_affixation,çektim,çek,attım,168
+Kızı öznur ablasının nişan töreni için giyindi ve süslendi.,Kızı öznur ablasının nişan töreni için giyin ve süslendi.,suspended_affixation,giyindi,giyin,süslendi,169
+Bugün spor yaptım ve duş aldım.,Bugün spor yap ve duş aldım.,suspended_affixation,yaptım,yap,aldım,170
+Bugün güzel bir kahve yaptım ve içtim.,Bugün güzel bir kahve yap ve içtim.,suspended_affixation,yaptım,yap,içtim,171
+Sonra çiçekleri suladım ve toprağını değiştirdim.,Sonra çiçekleri sula ve toprağını değiştirdim.,suspended_affixation,suladım,sula,değiştirdim,172
+10 kurabiye pişirdim ve komşulara dağıttım.,10 kurabiye pişir ve komşulara dağıttım.,suspended_affixation,pişirdim,pişir,dağıttım,173
+Anne öznur ablasının nişan töreni için giyindi ve süslendi.,Anne öznur ablasının nişan töreni için giyin ve süslendi.,suspended_affixation,giyindi,giyin,süslendi,174
+Oto kaza yaptı ve polisi aradı.,Oto kaza yap ve polisi aradı.,suspended_affixation,yaptı,yap,aradı,175
+Önce bulaşıkları yıkadım ve makineye yerleştirdim.,Önce bulaşıkları yıka ve makineye yerleştirdim.,suspended_affixation,yıkadım,yıka,yerleştirdim,176
+Yeni aldığım elbiseyi denedim ve çok beğendim.,Yeni aldığım elbiseyi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,177
+Büyük festivale yüksek katılım sağlandı ve yoğun ilgi gösterildi.,Büyük festivale yüksek katılım sağlan ve yoğun ilgi gösterildi.,suspended_affixation,sağlandı,sağlan,gösterildi,178
+Güzel fotoğraf çekti ve albüme koydu.,Güzel fotoğraf çek ve albüme koydu.,suspended_affixation,çekti,çek,koydu,179
+Öncelikle telefonu şarja koydum ve biraz dolunca açtım.,Öncelikle telefonu şarja koy ve biraz dolunca açtım.,suspended_affixation,koydum,koy,açtım,180
+Sabah kahvemi içtim ve gazeteyi okudum.,Sabah kahvemi iç ve gazeteyi okudum.,suspended_affixation,içtim,iç,okudum,181
+Halk yürüyüşe çıktı ve manzarayı izledi.,Halk yürüyüşe çık ve manzarayı izledi.,suspended_affixation,çıktı,çık,izledi,182
+Hemen çantamı hazırladım ve yola çıktım.,Hemen çantamı hazırla ve yola çıktım.,suspended_affixation,hazırladım,hazırla,çıktım,183
+Öncelikle kek pişirdim ve üstünü süsledim.,Öncelikle kek pişir ve üstünü süsledim.,suspended_affixation,pişirdim,pişir,süsledim,184
+Sonra ödevlerimi bitirdim ve oyun oynamaya başladım.,Sonra ödevlerimi bitir ve oyun oynamaya başladım.,suspended_affixation,bitirdim,bitir,başladım,185
+Kadın kazağı ördü ve sevgilisine hediye etti.,Kadın kazağı ör ve sevgilisine hediye etti.,suspended_affixation,ördü,ör,etti,186
+Telefonu şarja koydum ve biraz dolunca açtım.,Telefonu şarja koy ve biraz dolunca açtım.,suspended_affixation,koydum,koy,açtım,187
+Sonra yüzme havuzuna girdim ve yüzdüm.,Sonra yüzme havuzuna gir ve yüzdüm.,suspended_affixation,girdim,gir,yüzdüm,188
+Büyük kaza yaptı ve polisi aradı.,Büyük kaza yap ve polisi aradı.,suspended_affixation,yaptı,yap,aradı,189
+Yine yeni şarkı besteledim ve kaydettim.,Yine yeni şarkı beste ve kaydettim.,suspended_affixation,besteledim,beste,kaydettim,190
+Bu konsere gittim ve çok eğlendim.,Bu konsere git ve çok eğlendim.,suspended_affixation,gittim,git,eğlendim,191
+Eski kıyafetleri katladım ve dolaba koydum.,Eski kıyafetleri katla ve dolaba koydum.,suspended_affixation,katladım,katla,koydum,192
+Ayrıca ruhsatsız olduğu tespit edilen işletme mühürlendi ve kapatıldı.,Ayrıca ruhsatsız olduğu tespit edilen işletme mühürlen ve kapatıldı.,suspended_affixation,mühürlendi,mühürlen,kapatıldı,193
+Sonra hafta sonu pikniğe gittik ve mangal yaktık.,Sonra hafta sonu pikniğe git ve mangal yaktık.,suspended_affixation,gittik,git,yaktık,194
+İki yemek sipariş ettim ve gelmesini bekledim.,İki yemek sipariş et ve gelmesini bekledim.,suspended_affixation,ettim,et,bekledim,195
+Akşam kızlarla partiye gittik ve çok eğlendik.,Akşam kızlarla partiye git ve çok eğlendik.,suspended_affixation,gittik,git,eğlendik,196
+Sonra bahçeyi temizledim ve çiçek ektim.,Sonra bahçeyi temizle ve çiçek ektim.,suspended_affixation,temizledim,temizle,ektim,197
+Mehmet öznur ablasının nişan töreni için giyindi ve süslendi.,Mehmet öznur ablasının nişan töreni için giyin ve süslendi.,suspended_affixation,giyindi,giyin,süslendi,198
+Bugün annemle pazara çıktık ve meyve aldık.,Bugün annemle pazara çık ve meyve aldık.,suspended_affixation,çıktık,çık,aldık,199
+Ayrıca festivale yüksek katılım sağlandı ve yoğun ilgi gösterildi.,Ayrıca festivale yüksek katılım sağlan ve yoğun ilgi gösterildi.,suspended_affixation,sağlandı,sağlan,gösterildi,200
+Ve raporu inceledim ve onayladım.,Ve raporu incele ve onayladım.,suspended_affixation,inceledim,incele,onayladım,201
+Hemen kapıyı açtım ve misafirleri karşıladım.,Hemen kapıyı aç ve misafirleri karşıladım.,suspended_affixation,açtım,aç,karşıladım,202
+Artık arabayı park ettim ve alışveriş merkezine girdim.,Artık arabayı park et ve alışveriş merkezine girdim.,suspended_affixation,ettim,et,girdim,203
+Bir kazağı ördü ve sevgilisine hediye etti.,Bir kazağı ör ve sevgilisine hediye etti.,suspended_affixation,ördü,ör,etti,204
+Ömer yeni bir iş buldu ve para kazanmaya başladı.,Ömer yeni bir iş bul ve para kazanmaya başladı.,suspended_affixation,buldu,bul,başladı,205
+Küçük bebeği sevdim ve kucağıma aldım.,Küçük bebeği sev ve kucağıma aldım.,suspended_affixation,sevdim,sev,aldım,206
+Çocuklar yatak örtüsünü değiştirdiler ve yatağı topladılar.,Çocuklar yatak örtüsünü değiştir ve yatağı topladılar.,suspended_affixation,değiştirdiler,değiştir,topladılar,207
+Sonra uçağa bindiler ve memlekete gittiler.,Sonra uçağa bin ve memlekete gittiler.,suspended_affixation,bindiler,bin,gittiler,208
+Toplantıya katıldım ve fikirlerimi paylaştım.,Toplantıya katıl ve fikirlerimi paylaştım.,suspended_affixation,katıldım,katıl,paylaştım,209
+Yemek sipariş ettim ve gelmesini bekledim.,Yemek sipariş et ve gelmesini bekledim.,suspended_affixation,ettim,et,bekledim,210
+Şimdi köpeğimi taradım ve tüylerini topladım.,Şimdi köpeğimi tara ve tüylerini topladım.,suspended_affixation,taradım,tara,topladım,211
+Bütün kıyafetleri katladım ve dolaba koydum.,Bütün kıyafetleri katla ve dolaba koydum.,suspended_affixation,katladım,katla,koydum,212
+Sonra kuşuma yem verdim ve suyunu tazeledim.,Sonra kuşuma yem ver ve suyunu tazeledim.,suspended_affixation,verdim,ver,tazeledim,213
+Çay kahvemi içtim ve gazeteyi okudum.,Çay kahvemi iç ve gazeteyi okudum.,suspended_affixation,içtim,iç,okudum,214
+Ardından kıyafetleri katladım ve çekmeceye koydum.,Ardından kıyafetleri katla ve çekmeceye koydum.,suspended_affixation,katladım,katla,koydum,215
+Küçük bitkileri suladım ve dallarını budadım.,Küçük bitkileri sula ve dallarını budadım.,suspended_affixation,suladım,sula,budadım,216
+Artık yeni bir işe başladı ve hemen uyum sağladı.,Artık yeni bir işe başla ve hemen uyum sağladı.,suspended_affixation,başladı,başla,sağladı,217
+Bir maçı izledik ve sonucu tartıştık.,Bir maçı izle ve sonucu tartıştık.,suspended_affixation,izledik,izle,tartıştık,218
+2 yemek sipariş ettim ve kapıda ödedim.,2 yemek sipariş et ve kapıda ödedim.,suspended_affixation,ettim,et,ödettim,219
+Ve gelen mesajları kontrol etti ve cevapladı.,Ve gelen mesajları kontrol et ve cevapladı.,suspended_affixation,etti,et,cevapladı,220
+Arkadaşlar uçağa bindiler ve memlekete gittiler.,Arkadaşlar uçağa bin ve memlekete gittiler.,suspended_affixation,bindiler,bin,gittiler,221
+Bugün projeyi tamamladık ve sunuma hazırladık.,Bugün projeyi tamamla ve sunuma hazırladık.,suspended_affixation,tamamladık,tamamla,hazırladık,222
+Ben ödevlerimi bitirdim ve oyun oynamaya başladım.,Ben ödevlerimi bitir ve oyun oynamaya başladım.,suspended_affixation,bitirdim,bitir,başladım,223
+Önce kıyafetleri ütüledim ve dolaba astım.,Önce kıyafetleri ütüle ve dolaba astım.,suspended_affixation,ütüledim,ütüle,astım,224
+Önce arabayı yıkadım ve cilaladım.,Önce arabayı yıka ve cilaladım.,suspended_affixation,yıkadım,yıka,cilaladım,225
+Sonra şarkı söyledim ve dans ettim.,Sonra şarkı söyle ve dans ettim.,suspended_affixation,söyledim,söyle,ettim,226
+Dün sabah erken kalktım ve koşuya çıktım.,Dün sabah erken kalk ve koşuya çıktım.,suspended_affixation,kalktım,kalk,çıktım,227
+Ardından yatak örtüsünü değiştirdiler ve yatağı topladılar.,Ardından yatak örtüsünü değiştir ve yatağı topladılar.,suspended_affixation,değiştirdiler,değiştir,topladılar,228
+Ardından kıyafetleri katladım ve bavula yerleştirdim.,Ardından kıyafetleri katla ve bavula yerleştirdim.,suspended_affixation,katladım,katla,yerleştirdim,229
+Şarkı söyledim ve dans ettim.,Şarkı söyle ve dans ettim.,suspended_affixation,söyledim,söyle,ettim,230
+Çok çok çalıştım ve sınavı geçtim.,Çok çok çalış ve sınavı geçtim.,suspended_affixation,çalıştım,çalış,geçtim,231
+O yeni bir iş buldu ve para kazanmaya başladı.,O yeni bir iş bul ve para kazanmaya başladı.,suspended_affixation,buldu,bul,başladı,232
+Köpeğimi taradım ve tüylerini topladım.,Köpeğimi tara ve tüylerini topladım.,suspended_affixation,taradım,tara,topladım,233
+Ayrıca dün pazara uğradım ve bir sürü sebze aldım.,Ayrıca dün pazara uğra ve bir sürü sebze aldım.,suspended_affixation,uğradım,uğra,aldım,234
+Bir konsere gittim ve çok eğlendim.,Bir konsere git ve çok eğlendim.,suspended_affixation,gittim,git,eğlendim,235
+Ardından uçağa bindiler ve memlekete gittiler.,Ardından uçağa bin ve memlekete gittiler.,suspended_affixation,bindiler,bin,gittiler,236
+Bugün konsere gittim ve dans ettim.,Bugün konsere git ve dans ettim.,suspended_affixation,gittim,git,ettim,237
+5 kediyi veterinere götürdüler ve aşı yaptırdılar.,5 kediyi veterinere götür ve aşı yaptırdılar.,suspended_affixation,götürdüler,götür,yaptırdılar,238
+İki kuşuma yem verdim ve suyunu tazeledim.,İki kuşuma yem ver ve suyunu tazeledim.,suspended_affixation,verdim,ver,tazeledim,239
+İki yeni şarkı besteledim ve kaydettim.,İki yeni şarkı beste ve kaydettim.,suspended_affixation,besteledim,beste,kaydettim,240
+Akşam spor yaptım ve duş aldım.,Akşam spor yap ve duş aldım.,suspended_affixation,yaptım,yap,aldım,241
+Tüm kıyafetleri katladım ve bavula yerleştirdim.,Tüm kıyafetleri katla ve bavula yerleştirdim.,suspended_affixation,katladım,katla,yerleştirdim,242
+Öncelikle arabanın lastiklerini değiştirdim ve balans ayarı yaptırdım.,Öncelikle arabanın lastiklerini değiştir ve balans ayarı yaptırdım.,suspended_affixation,değiştirdim,değiştir,yaptırdım,243
+Sonra öznur ablasının nişan töreni için giyindi ve süslendi.,Sonra öznur ablasının nişan töreni için giyin ve süslendi.,suspended_affixation,giyindi,giyin,süslendi,244
+Hemen yeni bir iş buldu ve para kazanmaya başladı.,Hemen yeni bir iş bul ve para kazanmaya başladı.,suspended_affixation,buldu,bul,başladı,245
+Tam trafikte sıkıştım ve geç kaldım.,Tam trafikte sıkış ve geç kaldım.,suspended_affixation,sıkıştım,sıkış,kaldım,246
+Sonra kıyafetleri ütüledi ve oğluna verdi.,Sonra kıyafetleri ütüle ve oğluna verdi.,suspended_affixation,ütüledi,ütüle,verdi,247
+Çok yorgun olduğum için yattım ve erkenden uyudum.,Çok yorgun olduğum için yat ve erkenden uyudum.,suspended_affixation,yattım,yat,uyudum,248
+Ben çiçekleri suladım ve toprağını değiştirdim.,Ben çiçekleri sula ve toprağını değiştirdim.,suspended_affixation,suladım,sula,değiştirdim,249
+Biz projeyi tamamladık ve sunuma hazırladık.,Biz projeyi tamamla ve sunuma hazırladık.,suspended_affixation,tamamladık,tamamla,hazırladık,250
+Yine köpeğimi taradım ve tüylerini topladım.,Yine köpeğimi tara ve tüylerini topladım.,suspended_affixation,taradım,tara,topladım,251
+Sonra bahçeyi temizledim ve çiçek ektim.,Sonra bahçeyi temizle ve çiçek ektim.,suspended_affixation,temizledim,temizle,ektim,252
+Burada arkadaşlarımla buluştuk ve sinemaya gittik.,Burada arkadaşlarımla buluş ve sinemaya gittik.,suspended_affixation,buluştuk,buluş,gittik,253
+Tüm çiçekleri suladım ve toprağını değiştirdim.,Tüm çiçekleri sula ve toprağını değiştirdim.,suspended_affixation,suladım,sula,değiştirdim,254
+Yine kedimi veterinere götürdüm ve aşı yaptırdım.,Yine kedimi veterinere götür ve aşı yaptırdım.,suspended_affixation,götürdüm,götür,yaptırdım,255
+Eve kahvaltı hazırladı ve ailesiyle zaman geçirdi.,Eve kahvaltı hazırla ve ailesiyle zaman geçirdi.,suspended_affixation,hazırladı,hazırla,geçirdi,256
+Kedimi veterinere götürdüm ve muayene ettirdim.,Kedimi veterinere götür ve muayene ettirdim.,suspended_affixation,götürdüm,götür,ettirdim,257
+Çocuklara masal okudum ve uyuttum.,Çocuklara masal oku ve uyuttum.,suspended_affixation,okudum,oku,uyuttum,258
+3. projeyi tamamladın ve sunumu hazırladın.,3. projeyi tamamla ve sunumu hazırladın.,suspended_affixation,tamamladın,tamamla,hazırladın,259
+Akşam yemek sipariş ettim ve gelmesini bekledim.,Akşam yemek sipariş et ve gelmesini bekledim.,suspended_affixation,ettim,et,bekledim,260
+Raporu inceledim ve onayladım.,Raporu incele ve onayladım.,suspended_affixation,inceledim,incele,onayladım,261
+Daha yorgun olduğum için yattım ve erkenden uyudum.,Daha yorgun olduğum için yat ve erkenden uyudum.,suspended_affixation,yattım,yat,uyudum,262
+Burada yemek yaptılar ve misafirleri ağırladılar.,Burada yemek yap ve misafirleri ağırladılar.,suspended_affixation,yaptılar,yap,ağırladılar,263
+Ayrıca menüye yeni bir tarif koyuldu ve çok beğenildi.,Ayrıca menüye yeni bir tarif koyul ve çok beğenildi.,suspended_affixation,koyuldu,koyul,beğenildi,264
+Bir yeni şarkı besteledim ve kaydettim.,Bir yeni şarkı beste ve kaydettim.,suspended_affixation,besteledim,beste,kaydettim,265
+Bir kurabiye pişirdim ve komşulara dağıttım.,Bir kurabiye pişir ve komşulara dağıttım.,suspended_affixation,pişirdim,pişir,dağıttım,266
+Ben köpeğimi taradım ve tüylerini topladım.,Ben köpeğimi tara ve tüylerini topladım.,suspended_affixation,taradım,tara,topladım,267
+Ona gelen mesajları kontrol etti ve cevapladı.,Ona gelen mesajları kontrol et ve cevapladı.,suspended_affixation,etti,et,cevapladı,268
+Bugün maçı izledik ve sonucu tartıştık.,Bugün maçı izle ve sonucu tartıştık.,suspended_affixation,izledik,izle,tartıştık,269
+Genç yarışa katıldı ve iyi bir derece aldı.,Genç yarışa katıl ve iyi bir derece aldı.,suspended_affixation,katıldı,katıl,aldı,270
+Sonra yeni bir iş buldu ve para kazanmaya başladı.,Sonra yeni bir iş bul ve para kazanmaya başladı.,suspended_affixation,buldu,bul,başladı,271
+Burada almanca çalıştım ve arkadaşlarımla pratik yaptım.,Burada almanca çalış ve arkadaşlarımla pratik yaptım.,suspended_affixation,çalıştım,çalış,yaptım,272
+Önce yüzme havuzuna girdim ve yüzdüm.,Önce yüzme havuzuna gir ve yüzdüm.,suspended_affixation,girdim,gir,yüzdüm,273
+Yarışmada birinci oldu ve ödül aldı.,Yarışmada birinci ol ve ödül aldı.,suspended_affixation,oldu,ol,aldı,274
+Adam kırmızı ışıkta durdu ve bekledi.,Adam kırmızı ışıkta dur ve bekledi.,suspended_affixation,durdu,dur,bekledi,275
+Sonra çok çalıştım ve sınavı geçtim.,Sonra çok çalış ve sınavı geçtim.,suspended_affixation,çalıştım,çalış,geçtim,276
+Küçük kardeşimle kavga ettik ve sonra barıştık.,Küçük kardeşimle kavga et ve sonra barıştık.,suspended_affixation,ettik,et,barıştık,277
+Önce kapıyı açtım ve misafirleri karşıladım.,Önce kapıyı aç ve misafirleri karşıladım.,suspended_affixation,açtım,aç,karşıladım,278
+Bir kek pişirdim ve üstünü süsledim.,Bir kek pişir ve üstünü süsledim.,suspended_affixation,pişirdim,pişir,süsledim,279
+Kız kardeşimle kavga ettik ve sonra barıştık.,Kız kardeşimle kavga et ve sonra barıştık.,suspended_affixation,ettik,et,barıştık,280
+Bir konser bileti aldım ve arkadaşıma haber verdim.,Bir konser bileti al ve arkadaşıma haber verdim.,suspended_affixation,aldım,al,verdim,281
+Eski kıyafetleri katladım ve bavula yerleştirdim.,Eski kıyafetleri katla ve bavula yerleştirdim.,suspended_affixation,katladım,katla,yerleştirdim,282
+İlk bebeği sevdim ve kucağıma aldım.,İlk bebeği sev ve kucağıma aldım.,suspended_affixation,sevdim,sev,aldım,283
+Rahat müzik dinledim ve rahatladım.,Rahat müzik dinle ve rahatladım.,suspended_affixation,dinledim,dinle,rahatladım,284
+Mercedes kaza yaptı ve polisi aradı.,Mercedes kaza yap ve polisi aradı.,suspended_affixation,yaptı,yap,aradı,285
+Sonra yemeği ısıttım ve yedim.,Sonra yemeği ısıt ve yedim.,suspended_affixation,ısıttım,ısıt,yedim,286
+1 yemek sipariş ettim ve kapıda ödedim.,1 yemek sipariş et ve kapıda ödedim.,suspended_affixation,ettim,et,ödettim,287
+Önce spor salonuna kaydoldu ve düzenli gitmeye başladı.,Önce spor salonuna kaydol ve düzenli gitmeye başladı.,suspended_affixation,kaydoldu,kaydol,başladı,288
+Önce ders notlarını temize çektim ve gruba attım.,Önce ders notlarını temize çek ve gruba attım.,suspended_affixation,çektim,çek,attım,289
+Ardından şarkı söyledim ve dans ettim.,Ardından şarkı söyle ve dans ettim.,suspended_affixation,söyledim,söyle,ettim,290
+Merhaba yeni tarifi denedim ve çok beğendim.,Merhaba yeni tarifi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,291
+Erkek kardeşimle kavga ettik ve sonra barıştık.,Erkek kardeşimle kavga et ve sonra barıştık.,suspended_affixation,ettik,et,barıştık,292
+Sonra trafikte sıkıştım ve geç kaldım.,Sonra trafikte sıkış ve geç kaldım.,suspended_affixation,sıkıştım,sıkış,kaldım,293
+Bu kediyi veterinere götürdüler ve aşı yaptırdılar.,Bu kediyi veterinere götür ve aşı yaptırdılar.,suspended_affixation,götürdüler,götür,yaptırdılar,294
+Kendi kedimi veterinere götürdüm ve aşı yaptırdım.,Kendi kedimi veterinere götür ve aşı yaptırdım.,suspended_affixation,götürdüm,götür,yaptırdım,295
+Önce kardeşimle kavga ettik ve sonra barıştık.,Önce kardeşimle kavga et ve sonra barıştık.,suspended_affixation,ettik,et,barıştık,296
+Arkadaşlar yemek yaptılar ve misafirleri ağırladılar.,Arkadaşlar yemek yap ve misafirleri ağırladılar.,suspended_affixation,yaptılar,yap,ağırladılar,297
+Bu hafta sonu pikniğe gittik ve mangal yaktık.,Bu hafta sonu pikniğe git ve mangal yaktık.,suspended_affixation,gittik,git,yaktık,298
+Cumartesi sabah erken kalktım ve koşuya çıktım.,Cumartesi sabah erken kalk ve koşuya çıktım.,suspended_affixation,kalktım,kalk,çıktım,299
+Öncelikle arabayı park ettim ve alışveriş merkezine girdim.,Öncelikle arabayı park et ve alışveriş merkezine girdim.,suspended_affixation,ettim,et,girdim,300
+Yapılan festivale yüksek katılım sağlandı ve yoğun ilgi gösterildi.,Yapılan festivale yüksek katılım sağlan ve yoğun ilgi gösterildi.,suspended_affixation,sağlandı,sağlan,gösterildi,301
+Önce köpeğimi taradım ve tüylerini topladım.,Önce köpeğimi tara ve tüylerini topladım.,suspended_affixation,taradım,tara,topladım,302
+Her hafta sonu pikniğe gittik ve mangal yaktık.,Her hafta sonu pikniğe git ve mangal yaktık.,suspended_affixation,gittik,git,yaktık,303
+Bu konsere bilet aldım ve arkadaşımla gittim.,Bu konsere bilet al ve arkadaşımla gittim.,suspended_affixation,aldım,al,gittim,304
+Arkadaşlarımla buluştuk ve sinemaya gittik.,Arkadaşlarımla buluş ve sinemaya gittik.,suspended_affixation,buluştuk,buluş,gittik,305
+Konsere gittim ve şarkılara eşlik ettim.,Konsere git ve şarkılara eşlik ettim.,suspended_affixation,gittim,git,ettim,306
+Bugün konser biletlerini ayırttım ve arkadaşlarıma haber verdim.,Bugün konser biletlerini ayırt ve arkadaşlarıma haber verdim.,suspended_affixation,ayırttım,ayırt,verdim,307
+Biz bisiklete bindik ve parkta tur attık.,Biz bisiklete bin ve parkta tur attık.,suspended_affixation,bindik,bin,attık,308
+Sonra spor salonuna kaydoldu ve düzenli gitmeye başladı.,Sonra spor salonuna kaydol ve düzenli gitmeye başladı.,suspended_affixation,kaydoldu,kaydol,başladı,309
+Onlar stüdyoda şarkıyı kaydettiler ve sosyal medyada paylaştılar.,Onlar stüdyoda şarkıyı kaydet ve sosyal medyada paylaştılar.,suspended_affixation,kaydettiler,kaydet,paylaştılar,310
+Siyah kıyafetleri katladım ve dolaba koydum.,Siyah kıyafetleri katla ve dolaba koydum.,suspended_affixation,katladım,katla,koydum,311
+Çok yorgun olduğum için yattım ve erkenden uyudum.,Çok yorgun olduğum için yat ve erkenden uyudum.,suspended_affixation,yattım,yat,uyudum,312
+Bütün bulaşıkları yıkadım ve makineye yerleştirdim.,Bütün bulaşıkları yıka ve makineye yerleştirdim.,suspended_affixation,yıkadım,yıka,yerleştirdim,313
+Her sabah erken kalktım ve koşuya çıktım.,Her sabah erken kalk ve koşuya çıktım.,suspended_affixation,kalktım,kalk,çıktım,314
+Dün kedimi veterinere götürdüm ve muayene ettirdim.,Dün kedimi veterinere götür ve muayene ettirdim.,suspended_affixation,götürdüm,götür,ettirdim,315
+Baba kıyafetleri ütüledi ve oğluna verdi.,Baba kıyafetleri ütüle ve oğluna verdi.,suspended_affixation,ütüledi,ütüle,verdi,316
+Önce kuşuma yem verdim ve suyunu tazeledim.,Önce kuşuma yem ver ve suyunu tazeledim.,suspended_affixation,verdim,ver,tazeledim,317
+Küçük çocuklara masal okudum ve uyuttum.,Küçük çocuklara masal oku ve uyuttum.,suspended_affixation,okudum,oku,uyuttum,318
+Yine trafikte sıkıştım ve geç kaldım.,Yine trafikte sıkış ve geç kaldım.,suspended_affixation,sıkıştım,sıkış,kaldım,319
+Bir yürüyüş yaptık ve güzelce terledik.,Bir yürüyüş yap ve güzelce terledik.,suspended_affixation,yaptık,yap,terledik,320
+Akşam yemeği ısıttım ve yedim.,Akşam yemeği ısıt ve yedim.,suspended_affixation,ısıttım,ısıt,yedim,321
+Önce kitapları düzenlediler ve raflara yerleştirdiler.,Önce kitapları düzenle ve raflara yerleştirdiler.,suspended_affixation,düzenlediler,düzenle,yerleştirdiler,322
+Sonra yatak örtüsünü değiştirdiler ve yatağı topladılar.,Sonra yatak örtüsünü değiştir ve yatağı topladılar.,suspended_affixation,değiştirdiler,değiştir,topladılar,323
+Genç yarışmada birinci oldu ve ödül aldı.,Genç yarışmada birinci ol ve ödül aldı.,suspended_affixation,oldu,ol,aldı,324
+Ve öznur ablasının nişan töreni için giyindi ve süslendi.,Ve öznur ablasının nişan töreni için giyin ve süslendi.,suspended_affixation,giyindi,giyin,süslendi,325
+Ben yemek sipariş ettim ve gelmesini bekledim.,Ben yemek sipariş et ve gelmesini bekledim.,suspended_affixation,ettim,et,bekledim,326
+Adam yürüyüşe çıktı ve manzarayı izledi.,Adam yürüyüşe çık ve manzarayı izledi.,suspended_affixation,çıktı,çık,izledi,327
+Yine yürüyüş yaptık ve güzelce terledik.,Yine yürüyüş yap ve güzelce terledik.,suspended_affixation,yaptık,yap,terledik,328
+Sonra arkadaşlarımla buluştuk ve sinemaya gittik.,Sonra arkadaşlarımla buluş ve sinemaya gittik.,suspended_affixation,buluştuk,buluş,gittik,329
+Dün kedimi veterinere götürdüm ve aşı yaptırdım.,Dün kedimi veterinere götür ve aşı yaptırdım.,suspended_affixation,götürdüm,götür,yaptırdım,330
+Sonra bisiklete bindik ve parkta tur attık.,Sonra bisiklete bin ve parkta tur attık.,suspended_affixation,bindik,bin,attık,331
+Ve mobilyaları monte ettik ve yerine yerleştirdik.,Ve mobilyaları monte et ve yerine yerleştirdik.,suspended_affixation,ettik,et,yerleştirdik,332
+Tüm festivale yüksek katılım sağlandı ve yoğun ilgi gösterildi.,Tüm festivale yüksek katılım sağlan ve yoğun ilgi gösterildi.,suspended_affixation,sağlandı,sağlan,gösterildi,333
+Arkadaşlar toplantıya katıldım ve fikirlerimi paylaştım.,Arkadaşlar toplantıya katıl ve fikirlerimi paylaştım.,suspended_affixation,katıldım,katıl,paylaştım,334
+Bugün arabanın lastiklerini değiştirdim ve balans ayarı yaptırdım.,Bugün arabanın lastiklerini değiştir ve balans ayarı yaptırdım.,suspended_affixation,değiştirdim,değiştir,yaptırdım,335
+Artık menüye yeni bir tarif koyuldu ve çok beğenildi.,Artık menüye yeni bir tarif koyul ve çok beğenildi.,suspended_affixation,koyuldu,koyul,beğenildi,336
+Küçük kazağı ördü ve sevgilisine hediye etti.,Küçük kazağı ör ve sevgilisine hediye etti.,suspended_affixation,ördü,ör,etti,337
+Ardından kıyafetleri katladım ve dolaba koydum.,Ardından kıyafetleri katla ve dolaba koydum.,suspended_affixation,katladım,katla,koydum,338
+Yakın arkadaşlarımla buluştuk ve sinemaya gittik.,Yakın arkadaşlarımla buluş ve sinemaya gittik.,suspended_affixation,buluştuk,buluş,gittik,339
+Ardından yeni takvimi astım ve önemli tarihleri işaretledim.,Ardından yeni takvimi as ve önemli tarihleri işaretledim.,suspended_affixation,astım,as,işaretledim,340
+İlk köpeği gezdirdim ve sonra eve getirdim.,İlk köpeği gezdir ve sonra eve getirdim.,suspended_affixation,gezdirdim,gezdir,getirdim,341
+Konsere bilet aldım ve arkadaşımla gittim.,Konsere bilet al ve arkadaşımla gittim.,suspended_affixation,aldım,al,gittim,342
+Akşam bisiklete bindik ve parkta tur attık.,Akşam bisiklete bin ve parkta tur attık.,suspended_affixation,bindik,bin,attık,343
+Sonra kıyafetleri ütüledim ve dolaba astım.,Sonra kıyafetleri ütüle ve dolaba astım.,suspended_affixation,ütüledim,ütüle,astım,344
+Ve trafikte sıkıştım ve geç kaldım.,Ve trafikte sıkış ve geç kaldım.,suspended_affixation,sıkıştım,sıkış,kaldım,345
+Projeyi tamamladın ve sunumu hazırladın.,Projeyi tamamla ve sunumu hazırladın.,suspended_affixation,tamamladın,tamamla,hazırladın,346
+Ardından kıyafetleri ütüledim ve dolaba astım.,Ardından kıyafetleri ütüle ve dolaba astım.,suspended_affixation,ütüledim,ütüle,astım,347
+Önce telefonu şarja koydum ve biraz dolunca açtım.,Önce telefonu şarja koy ve biraz dolunca açtım.,suspended_affixation,koydum,koy,açtım,348
+Dün konsere gittim ve dans ettim.,Dün konsere git ve dans ettim.,suspended_affixation,gittim,git,ettim,349
+Sonra yorgun olduğum için yattım ve erkenden uyudum.,Sonra yorgun olduğum için yat ve erkenden uyudum.,suspended_affixation,yattım,yat,uyudum,350
+Sonra kaza yaptım ve hastaneye gittim.,Sonra kaza yap ve hastaneye gittim.,suspended_affixation,yaptım,yap,gittim,351
+Ardından bisiklete bindik ve parkta tur attık.,Ardından bisiklete bin ve parkta tur attık.,suspended_affixation,bindik,bin,attık,352
+4 yeni şarkı besteledim ve kaydettim.,4 yeni şarkı beste ve kaydettim.,suspended_affixation,besteledim,beste,kaydettim,353
+Sonra ruhsatsız olduğu tespit edilen işletme mühürlendi ve kapatıldı.,Sonra ruhsatsız olduğu tespit edilen işletme mühürlen ve kapatıldı.,suspended_affixation,mühürlendi,mühürlen,kapatıldı,354
+Ama çok çalıştım ve sınavı geçtim.,Ama çok çalış ve sınavı geçtim.,suspended_affixation,çalıştım,çalış,geçtim,355
+Hemen spor salonuna kaydoldu ve düzenli gitmeye başladı.,Hemen spor salonuna kaydol ve düzenli gitmeye başladı.,suspended_affixation,kaydoldu,kaydol,başladı,356
+Önce kurabiyeleri pişirdim ve soğumaya bıraktım.,Önce kurabiyeleri pişir ve soğumaya bıraktım.,suspended_affixation,pişirdim,pişir,bıraktım,357
+En yeni tarifi denedim ve çok beğendim.,En yeni tarifi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,358
+O konsere gittim ve dans ettim.,O konsere git ve dans ettim.,suspended_affixation,gittim,git,ettim,359
+Kedimi veterinere götürdüm ve aşı yaptırdım.,Kedimi veterinere götür ve aşı yaptırdım.,suspended_affixation,götürdüm,götür,yaptırdım,360
+Güzel yürüyüş yaptık ve güzelce terledik.,Güzel yürüyüş yap ve güzelce terledik.,suspended_affixation,yaptık,yap,terledik,361
+Onlar uçağa bindiler ve memlekete gittiler.,Onlar uçağa bin ve memlekete gittiler.,suspended_affixation,bindiler,bin,gittiler,362
+Sonra kıyafetleri yıkadım ve kuruttum.,Sonra kıyafetleri yıka ve kuruttum.,suspended_affixation,yıkadım,yıka,kuruttum,363
+Sonra projeyi tamamladın ve sunumu hazırladın.,Sonra projeyi tamamla ve sunumu hazırladın.,suspended_affixation,tamamladın,tamamla,hazırladın,364
+Yine yatak örtüsünü değiştirdiler ve yatağı topladılar.,Yine yatak örtüsünü değiştir ve yatağı topladılar.,suspended_affixation,değiştirdiler,değiştir,topladılar,365
+Önce kırmızı ışıkta durdu ve bekledi.,Önce kırmızı ışıkta dur ve bekledi.,suspended_affixation,durdu,dur,bekledi,366
+Akşam akşam kızlarla partiye gittik ve çok eğlendik.,Akşam akşam kızlarla partiye git ve çok eğlendik.,suspended_affixation,gittik,git,eğlendik,367
+Ben yeni aldığım elbiseyi denedim ve çok beğendim.,Ben yeni aldığım elbiseyi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,368
+Arkadaşlar dün pazara uğradım ve bir sürü sebze aldım.,Arkadaşlar dün pazara uğra ve bir sürü sebze aldım.,suspended_affixation,uğradım,uğra,aldım,369
+Yine raftaki kitaplara göz attım ve beğendiğimi aldım.,Yine raftaki kitaplara göz at ve beğendiğimi aldım.,suspended_affixation,attım,at,aldım,370
+Hemen konsere gittim ve şarkılara eşlik ettim.,Hemen konsere git ve şarkılara eşlik ettim.,suspended_affixation,gittim,git,ettim,371
+Dün akşam kızlarla partiye gittik ve çok eğlendik.,Dün akşam kızlarla partiye git ve çok eğlendik.,suspended_affixation,gittik,git,eğlendik,372
+Kendi kedimi sevdim ve mamasını verdim.,Kendi kedimi sev ve mamasını verdim.,suspended_affixation,sevdim,sev,verdim,373
+Ben kurabiye pişirdim ve komşulara dağıttım.,Ben kurabiye pişir ve komşulara dağıttım.,suspended_affixation,pişirdim,pişir,dağıttım,374
+Yine yeni aldığım elbiseyi denedim ve çok beğendim.,Yine yeni aldığım elbiseyi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,375
+Sonra kedimi veterinere götürdüm ve aşı yaptırdım.,Sonra kedimi veterinere götür ve aşı yaptırdım.,suspended_affixation,götürdüm,götür,yaptırdım,376
+Onlar yatak örtüsünü değiştirdiler ve yatağı topladılar.,Onlar yatak örtüsünü değiştir ve yatağı topladılar.,suspended_affixation,değiştirdiler,değiştir,topladılar,377
+Ben konsere gittim ve dans ettim.,Ben konsere git ve dans ettim.,suspended_affixation,gittim,git,ettim,378
+Sonra kedimi veterinere götürdüm ve muayene ettirdim.,Sonra kedimi veterinere götür ve muayene ettirdim.,suspended_affixation,götürdüm,götür,ettirdim,379
+Önce kedimi veterinere götürdüm ve aşı yaptırdım.,Önce kedimi veterinere götür ve aşı yaptırdım.,suspended_affixation,götürdüm,götür,yaptırdım,380
+Bu kıyafetleri yıkadım ve kuruttum.,Bu kıyafetleri yıka ve kuruttum.,suspended_affixation,yıkadım,yıka,kuruttum,381
+Sonra arabayı yıkadım ve içini temizledim.,Sonra arabayı yıka ve içini temizledim.,suspended_affixation,yıkadım,yıka,temizledim,382
+Tüm kıyafetleri katladım ve dolaba koydum.,Tüm kıyafetleri katla ve dolaba koydum.,suspended_affixation,katladım,katla,koydum,383
+Ben çocuklara masal okudum ve uyuttum.,Ben çocuklara masal oku ve uyuttum.,suspended_affixation,okudum,oku,uyuttum,384
+Onlar kitapları düzenlediler ve raflara yerleştirdiler.,Onlar kitapları düzenle ve raflara yerleştirdiler.,suspended_affixation,düzenlediler,düzenle,yerleştirdiler,385
+Ağır kaza yaptı ve polisi aradı.,Ağır kaza yap ve polisi aradı.,suspended_affixation,yaptı,yap,aradı,386
+Üzerine kek pişirdim ve üstünü süsledim.,Üzerine kek pişir ve üstünü süsledim.,suspended_affixation,pişirdim,pişir,süsledim,387
+Sonra gelen mesajları kontrol etti ve cevapladı.,Sonra gelen mesajları kontrol et ve cevapladı.,suspended_affixation,etti,et,cevapladı,388
+Konsere gittim ve çok eğlendim.,Konsere git ve çok eğlendim.,suspended_affixation,gittim,git,eğlendim,389
+Bu kıyafetleri katladım ve dolaba koydum.,Bu kıyafetleri katla ve dolaba koydum.,suspended_affixation,katladım,katla,koydum,390
+Öğrenciler yürüyüşe çıktı ve manzarayı izledi.,Öğrenciler yürüyüşe çık ve manzarayı izledi.,suspended_affixation,çıktı,çık,izledi,391
+Hazır çantamı hazırladım ve yola çıktım.,Hazır çantamı hazırla ve yola çıktım.,suspended_affixation,hazırladım,hazırla,çıktım,392
+Biz annemle pazara çıktık ve meyve aldık.,Biz annemle pazara çık ve meyve aldık.,suspended_affixation,çıktık,çık,aldık,393
+Evde kek pişirdim ve üstünü süsledim.,Evde kek pişir ve üstünü süsledim.,suspended_affixation,pişirdim,pişir,süsledim,394
+Öncelikle yüzme havuzuna girdim ve yüzdüm.,Öncelikle yüzme havuzuna gir ve yüzdüm.,suspended_affixation,girdim,gir,yüzdüm,395
+Ben trafikte sıkıştım ve geç kaldım.,Ben trafikte sıkış ve geç kaldım.,suspended_affixation,sıkıştım,sıkış,kaldım,396
+Yorgun olduğum için yattım ve erkenden uyudum.,Yorgun olduğum için yat ve erkenden uyudum.,suspended_affixation,yattım,yat,uyudum,397
+Sonra yürüyüşe çıktı ve manzarayı izledi.,Sonra yürüyüşe çık ve manzarayı izledi.,suspended_affixation,çıktı,çık,izledi,398
+Dün kütüphaneden kitap aldım ve okudum.,Dün kütüphaneden kitap al ve okudum.,suspended_affixation,aldım,al,okudum,399
+Güzel kazağı ördü ve sevgilisine hediye etti.,Güzel kazağı ör ve sevgilisine hediye etti.,suspended_affixation,ördü,ör,etti,400
+Bugün telefonumu şarj ettim ve mesajları kontrol ettim.,Bugün telefonumu şarj et ve mesajları kontrol ettim.,suspended_affixation,ettim,et,ettim,401
+Sonra kıyafetleri yıkadım ve kuruttum.,Sonra kıyafetleri yıka ve kuruttum.,suspended_affixation,yıkadım,yıka,kuruttum,402
+İlk konsere gittim ve şarkılara eşlik ettim.,İlk konsere git ve şarkılara eşlik ettim.,suspended_affixation,gittim,git,ettim,403
+Iki kardeşimle kavga ettik ve sonra barıştık.,Iki kardeşimle kavga et ve sonra barıştık.,suspended_affixation,ettik,et,barıştık,404
+Hemen yeni takvimi astım ve önemli tarihleri işaretledim.,Hemen yeni takvimi as ve önemli tarihleri işaretledim.,suspended_affixation,astım,as,işaretledim,405
+Bir yeni şarkı besteledim ve kaydettim.,Bir yeni şarkı beste ve kaydettim.,suspended_affixation,besteledim,beste,kaydettim,406
+Şimdi telefonumu şarj ettim ve mesajları kontrol ettim.,Şimdi telefonumu şarj et ve mesajları kontrol ettim.,suspended_affixation,ettim,et,ettim,407
+Ben kedimi veterinere götürdüm ve aşı yaptırdım.,Ben kedimi veterinere götür ve aşı yaptırdım.,suspended_affixation,götürdüm,götür,yaptırdım,408
+Tüm kitapları düzenlediler ve raflara yerleştirdiler.,Tüm kitapları düzenle ve raflara yerleştirdiler.,suspended_affixation,düzenlediler,düzenle,yerleştirdiler,409
+Ardından arabayı yıkadım ve cilaladım.,Ardından arabayı yıka ve cilaladım.,suspended_affixation,yıkadım,yıka,cilaladım,410
+İlk konser biletlerini ayırttım ve arkadaşlarıma haber verdim.,İlk konser biletlerini ayırt ve arkadaşlarıma haber verdim.,suspended_affixation,ayırttım,ayırt,verdim,411
+Az yemek yedim ve su içtim.,Az yemek ye ve su içtim.,suspended_affixation,yedim,ye,içtim,412
+Telefonumu şarj ettim ve mesajları kontrol ettim.,Telefonumu şarj et ve mesajları kontrol ettim.,suspended_affixation,ettim,et,ettim,413
+Yeni şarkı besteledim ve kaydettim.,Yeni şarkı beste ve kaydettim.,suspended_affixation,besteledim,beste,kaydettim,414
+Sonra konsere gittim ve dans ettim.,Sonra konsere git ve dans ettim.,suspended_affixation,gittim,git,ettim,415
+Bir stüdyoda şarkıyı kaydettiler ve sosyal medyada paylaştılar.,Bir stüdyoda şarkıyı kaydet ve sosyal medyada paylaştılar.,suspended_affixation,kaydettiler,kaydet,paylaştılar,416
+Birçok fotoğraf çekti ve albüme koydu.,Birçok fotoğraf çek ve albüme koydu.,suspended_affixation,çekti,çek,koydu,417
+Bir kırmızı ışıkta durdu ve bekledi.,Bir kırmızı ışıkta dur ve bekledi.,suspended_affixation,durdu,dur,bekledi,418
+Tüm konser biletlerini ayırttım ve arkadaşlarıma haber verdim.,Tüm konser biletlerini ayırt ve arkadaşlarıma haber verdim.,suspended_affixation,ayırttım,ayırt,verdim,419
+Önce yatak örtüsünü değiştirdiler ve yatağı topladılar.,Önce yatak örtüsünü değiştir ve yatağı topladılar.,suspended_affixation,değiştirdiler,değiştir,topladılar,420
+Artık kapıyı açtım ve misafirleri karşıladım.,Artık kapıyı aç ve misafirleri karşıladım.,suspended_affixation,açtım,aç,karşıladım,421
+Bugün yeni aldığım elbiseyi denedim ve çok beğendim.,Bugün yeni aldığım elbiseyi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,422
+Müzik dinledim ve rahatladım.,Müzik dinle ve rahatladım.,suspended_affixation,dinledim,dinle,rahatladım,423
+Ben toplantıya katıldım ve fikirlerimi paylaştım.,Ben toplantıya katıl ve fikirlerimi paylaştım.,suspended_affixation,katıldım,katıl,paylaştım,424
+Çift stüdyoda şarkıyı kaydettiler ve sosyal medyada paylaştılar.,Çift stüdyoda şarkıyı kaydet ve sosyal medyada paylaştılar.,suspended_affixation,kaydettiler,kaydet,paylaştılar,425
+Trafikte sıkıştım ve geç kaldım.,Trafikte sıkış ve geç kaldım.,suspended_affixation,sıkıştım,sıkış,kaldım,426
+Güzel yemek yedim ve su içtim.,Güzel yemek ye ve su içtim.,suspended_affixation,yedim,ye,içtim,427
+Dün köpeği gezdirdim ve sonra eve getirdim.,Dün köpeği gezdir ve sonra eve getirdim.,suspended_affixation,gezdirdim,gezdir,getirdim,428
+Çocuklar uçağa bindiler ve memlekete gittiler.,Çocuklar uçağa bin ve memlekete gittiler.,suspended_affixation,bindiler,bin,gittiler,429
+Dün toplantıya katıldım ve fikirlerimi paylaştım.,Dün toplantıya katıl ve fikirlerimi paylaştım.,suspended_affixation,katıldım,katıl,paylaştım,430
+Hemen arabayı park ettim ve alışveriş merkezine girdim.,Hemen arabayı park et ve alışveriş merkezine girdim.,suspended_affixation,ettim,et,girdim,431
+Sürücü kırmızı ışıkta durdu ve bekledi.,Sürücü kırmızı ışıkta dur ve bekledi.,suspended_affixation,durdu,dur,bekledi,432
+Arabayı yıkadım ve cilaladım.,Arabayı yıka ve cilaladım.,suspended_affixation,yıkadım,yıka,cilaladım,433
+Ben raporu hazırladım ve müdüre sundum.,Ben raporu hazırla ve müdüre sundum.,suspended_affixation,hazırladım,hazırla,sundum,434
+2 aşure yaptık ve komşulara dağıttık.,2 aşure yap ve komşulara dağıttık.,suspended_affixation,yaptık,yap,dağıttık,435
+Akşam konsere bilet aldım ve arkadaşımla gittim.,Akşam konsere bilet al ve arkadaşımla gittim.,suspended_affixation,aldım,al,gittim,436
+Pazartesi sabah erken kalktım ve koşuya çıktım.,Pazartesi sabah erken kalk ve koşuya çıktım.,suspended_affixation,kalktım,kalk,çıktım,437
+Öncelikle arabayı yıkadım ve içini temizledim.,Öncelikle arabayı yıka ve içini temizledim.,suspended_affixation,yıkadım,yıka,temizledim,438
+Bir kahvemi içtim ve gazeteyi okudum.,Bir kahvemi iç ve gazeteyi okudum.,suspended_affixation,içtim,iç,okudum,439
+Diğer mobilyaları monte ettik ve yerine yerleştirdik.,Diğer mobilyaları monte et ve yerine yerleştirdik.,suspended_affixation,ettik,et,yerleştirdik,440
+Tüm bulaşıkları yıkadım ve makineye yerleştirdim.,Tüm bulaşıkları yıka ve makineye yerleştirdim.,suspended_affixation,yıkadım,yıka,yerleştirdim,441
+Sonra arabayı yıkadım ve cilaladım.,Sonra arabayı yıka ve cilaladım.,suspended_affixation,yıkadım,yıka,cilaladım,442
+Yeni mobilyaları monte ettik ve yerine yerleştirdik.,Yeni mobilyaları monte et ve yerine yerleştirdik.,suspended_affixation,ettik,et,yerleştirdik,443
+O bebeği sevdim ve kucağıma aldım.,O bebeği sev ve kucağıma aldım.,suspended_affixation,sevdim,sev,aldım,444
+Temel yeni bir işe başladı ve hemen uyum sağladı.,Temel yeni bir işe başla ve hemen uyum sağladı.,suspended_affixation,başladı,başla,sağladı,445
+Kendi kazağı ördü ve sevgilisine hediye etti.,Kendi kazağı ör ve sevgilisine hediye etti.,suspended_affixation,ördü,ör,etti,446
+Küçük kuşuma yem verdim ve suyunu tazeledim.,Küçük kuşuma yem ver ve suyunu tazeledim.,suspended_affixation,verdim,ver,tazeledim,447
+Güzel yemek yaptılar ve misafirleri ağırladılar.,Güzel yemek yap ve misafirleri ağırladılar.,suspended_affixation,yaptılar,yap,ağırladılar,448
+Maçı izledik ve sonucu tartıştık.,Maçı izle ve sonucu tartıştık.,suspended_affixation,izledik,izle,tartıştık,449
+Dün konsere bilet aldım ve arkadaşımla gittim.,Dün konsere bilet al ve arkadaşımla gittim.,suspended_affixation,aldım,al,gittim,450
+Geçen hafta sonu pikniğe gittik ve mangal yaktık.,Geçen hafta sonu pikniğe git ve mangal yaktık.,suspended_affixation,gittik,git,yaktık,451
+Ben sınav kağıtlarını okudum ve notlandırdım.,Ben sınav kağıtlarını oku ve notlandırdım.,suspended_affixation,okudum,oku,notlandırdım,452
+Sadece müzik dinledim ve rahatladım.,Sadece müzik dinle ve rahatladım.,suspended_affixation,dinledim,dinle,rahatladım,453
+Ardından çocuklara masal okudum ve uyuttum.,Ardından çocuklara masal oku ve uyuttum.,suspended_affixation,okudum,oku,uyuttum,454
+İki kediyi veterinere götürdüler ve aşı yaptırdılar.,İki kediyi veterinere götür ve aşı yaptırdılar.,suspended_affixation,götürdüler,götür,yaptırdılar,455
+Ardından kediyi veterinere götürdüler ve aşı yaptırdılar.,Ardından kediyi veterinere götür ve aşı yaptırdılar.,suspended_affixation,götürdüler,götür,yaptırdılar,456
+Öğrenciler kitapları düzenlediler ve raflara yerleştirdiler.,Öğrenciler kitapları düzenle ve raflara yerleştirdiler.,suspended_affixation,düzenlediler,düzenle,yerleştirdiler,457
+Bir spor salonuna kaydoldu ve düzenli gitmeye başladı.,Bir spor salonuna kaydol ve düzenli gitmeye başladı.,suspended_affixation,kaydoldu,kaydol,başladı,458
+Dün yeni aldığım elbiseyi denedim ve çok beğendim.,Dün yeni aldığım elbiseyi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,459
+İzmir yarışmada birinci oldu ve ödül aldı.,İzmir yarışmada birinci ol ve ödül aldı.,suspended_affixation,oldu,ol,aldı,460
+Bir yemek sipariş ettim ve gelmesini bekledim.,Bir yemek sipariş et ve gelmesini bekledim.,suspended_affixation,ettim,et,bekledim,461
+Tüm sınav kağıtlarını okudum ve notlandırdım.,Tüm sınav kağıtlarını oku ve notlandırdım.,suspended_affixation,okudum,oku,notlandırdım,462
+Ardından kahvemi içtim ve gazeteyi okudum.,Ardından kahvemi iç ve gazeteyi okudum.,suspended_affixation,içtim,iç,okudum,463
+Ardından yüzme havuzuna girdim ve yüzdüm.,Ardından yüzme havuzuna gir ve yüzdüm.,suspended_affixation,girdim,gir,yüzdüm,464
+Yine konsere gittim ve dans ettim.,Yine konsere git ve dans ettim.,suspended_affixation,gittim,git,ettim,465
+Sonunda projeyi tamamladık ve sunuma hazırladık.,Sonunda projeyi tamamla ve sunuma hazırladık.,suspended_affixation,tamamladık,tamamla,hazırladık,466
+Hemen yatak örtüsünü değiştirdiler ve yatağı topladılar.,Hemen yatak örtüsünü değiştir ve yatağı topladılar.,suspended_affixation,değiştirdiler,değiştir,topladılar,467
+Bu yeni tarifi denedim ve çok beğendim.,Bu yeni tarifi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,468
+Ardından çantamı hazırladım ve yola çıktım.,Ardından çantamı hazırla ve yola çıktım.,suspended_affixation,hazırladım,hazırla,çıktım,469
+Gelen mesajları kontrol etti ve cevapladı.,Gelen mesajları kontrol et ve cevapladı.,suspended_affixation,etti,et,cevapladı,470
+Adam yeni bir işe başladı ve hemen uyum sağladı.,Adam yeni bir işe başla ve hemen uyum sağladı.,suspended_affixation,başladı,başla,sağladı,471
+Tüm raporu inceledim ve onayladım.,Tüm raporu incele ve onayladım.,suspended_affixation,inceledim,incele,onayladım,472
+Ardından raftaki kitaplara göz attım ve beğendiğimi aldım.,Ardından raftaki kitaplara göz at ve beğendiğimi aldım.,suspended_affixation,attım,at,aldım,473
+20 fotoğraf çekti ve albüme koydu.,20 fotoğraf çek ve albüme koydu.,suspended_affixation,çekti,çek,koydu,474
+Yine toplantıya katıldım ve fikirlerimi paylaştım.,Yine toplantıya katıl ve fikirlerimi paylaştım.,suspended_affixation,katıldım,katıl,paylaştım,475
+Kıyafetleri yıkadım ve kuruttum.,Kıyafetleri yıka ve kuruttum.,suspended_affixation,yıkadım,yıka,kuruttum,476
+İki şarkı söyledim ve dans ettim.,İki şarkı söyle ve dans ettim.,suspended_affixation,söyledim,söyle,ettim,477
+Hemen arabayı yıkadım ve içini temizledim.,Hemen arabayı yıka ve içini temizledim.,suspended_affixation,yıkadım,yıka,temizledim,478
+Hakan yarışa katıldı ve iyi bir derece aldı.,Hakan yarışa katıl ve iyi bir derece aldı.,suspended_affixation,katıldı,katıl,aldı,479
+10 fotoğraf çekti ve albüme koydu.,10 fotoğraf çek ve albüme koydu.,suspended_affixation,çekti,çek,koydu,480
+Sonra raftaki kitaplara göz attım ve beğendiğimi aldım.,Sonra raftaki kitaplara göz at ve beğendiğimi aldım.,suspended_affixation,attım,at,aldım,481
+Sonra yemek yedim ve su içtim.,Sonra yemek ye ve su içtim.,suspended_affixation,yedim,ye,içtim,482
+Ama kedimi sevdim ve mamasını verdim.,Ama kedimi sev ve mamasını verdim.,suspended_affixation,sevdim,sev,verdim,483
+Şimdi spor salonuna kaydoldu ve düzenli gitmeye başladı.,Şimdi spor salonuna kaydol ve düzenli gitmeye başladı.,suspended_affixation,kaydoldu,kaydol,başladı,484
+Evde yemek yaptılar ve misafirleri ağırladılar.,Evde yemek yap ve misafirleri ağırladılar.,suspended_affixation,yaptılar,yap,ağırladılar,485
+Yine arabanın lastiklerini değiştirdim ve balans ayarı yaptırdım.,Yine arabanın lastiklerini değiştir ve balans ayarı yaptırdım.,suspended_affixation,değiştirdim,değiştir,yaptırdım,486
+Antalya yarışmada birinci oldu ve ödül aldı.,Antalya yarışmada birinci ol ve ödül aldı.,suspended_affixation,oldu,ol,aldı,487
+Bir konsere bilet aldım ve arkadaşımla gittim.,Bir konsere bilet al ve arkadaşımla gittim.,suspended_affixation,aldım,al,gittim,488
+Merhaba yeni aldığım elbiseyi denedim ve çok beğendim.,Merhaba yeni aldığım elbiseyi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,489
+Anne kahvaltı hazırladı ve ailesiyle zaman geçirdi.,Anne kahvaltı hazırla ve ailesiyle zaman geçirdi.,suspended_affixation,hazırladı,hazırla,geçirdi,490
+Yine kurabiye pişirdim ve komşulara dağıttım.,Yine kurabiye pişir ve komşulara dağıttım.,suspended_affixation,pişirdim,pişir,dağıttım,491
+Mustafa yarışa katıldı ve iyi bir derece aldı.,Mustafa yarışa katıl ve iyi bir derece aldı.,suspended_affixation,katıldı,katıl,aldı,492
+Ben kaza yaptım ve hastaneye gittim.,Ben kaza yap ve hastaneye gittim.,suspended_affixation,yaptım,yap,gittim,493
+Bu bebeği sevdim ve kucağıma aldım.,Bu bebeği sev ve kucağıma aldım.,suspended_affixation,sevdim,sev,aldım,494
+Sonra sabah ufaklığı bakkala gönderdim ve taze ekmek aldırdım.,Sonra sabah ufaklığı bakkala gönder ve taze ekmek aldırdım.,suspended_affixation,gönderdim,gönder,aldırdım,495
+3 yemek yedim ve su içtim.,3 yemek ye ve su içtim.,suspended_affixation,yedim,ye,içtim,496
+Kazağı ördü ve sevgilisine hediye etti.,Kazağı ör ve sevgilisine hediye etti.,suspended_affixation,ördü,ör,etti,497
+Türkiye yarışmada birinci oldu ve ödül aldı.,Türkiye yarışmada birinci ol ve ödül aldı.,suspended_affixation,oldu,ol,aldı,498
+Bir projeyi tamamladık ve sunuma hazırladık.,Bir projeyi tamamla ve sunuma hazırladık.,suspended_affixation,tamamladık,tamamla,hazırladık,499
+Ardından kütüphaneye gitti ve kitap aldı.,Ardından kütüphaneye git ve kitap aldı.,suspended_affixation,gitti,git,aldı,500
+Büyük kardeşimle kavga ettik ve sonra barıştık.,Büyük kardeşimle kavga et ve sonra barıştık.,suspended_affixation,ettik,et,barıştık,501
+Kahvaltı hazırladı ve ailesiyle zaman geçirdi.,Kahvaltı hazırla ve ailesiyle zaman geçirdi.,suspended_affixation,hazırladı,hazırla,geçirdi,502
+Sabah annemle pazara çıktık ve meyve aldık.,Sabah annemle pazara çık ve meyve aldık.,suspended_affixation,çıktık,çık,aldık,503
+Kahvemi içtim ve gazeteyi okudum.,Kahvemi iç ve gazeteyi okudum.,suspended_affixation,içtim,iç,okudum,504
+Bu raporu inceledim ve onayladım.,Bu raporu incele ve onayladım.,suspended_affixation,inceledim,incele,onayladım,505
+Bulaşıkları yıkadım ve makineye yerleştirdim.,Bulaşıkları yıka ve makineye yerleştirdim.,suspended_affixation,yıkadım,yıka,yerleştirdim,506
+Ancak ruhsatsız olduğu tespit edilen işletme mühürlendi ve kapatıldı.,Ancak ruhsatsız olduğu tespit edilen işletme mühürlen ve kapatıldı.,suspended_affixation,mühürlendi,mühürlen,kapatıldı,507
+Kuşuma yem verdim ve suyunu tazeledim.,Kuşuma yem ver ve suyunu tazeledim.,suspended_affixation,verdim,ver,tazeledim,508
+Sonra yemeği ısıttım ve yedim.,Sonra yemeği ısıt ve yedim.,suspended_affixation,ısıttım,ısıt,yedim,509
+Küçük kedimi veterinere götürdüm ve aşı yaptırdım.,Küçük kedimi veterinere götür ve aşı yaptırdım.,suspended_affixation,götürdüm,götür,yaptırdım,510
+Bu yarışmada birinci oldu ve ödül aldı.,Bu yarışmada birinci ol ve ödül aldı.,suspended_affixation,oldu,ol,aldı,511
+Stüdyoda şarkıyı kaydettiler ve sosyal medyada paylaştılar.,Stüdyoda şarkıyı kaydet ve sosyal medyada paylaştılar.,suspended_affixation,kaydettiler,kaydet,paylaştılar,512
+O konsere bilet aldım ve arkadaşımla gittim.,O konsere bilet al ve arkadaşımla gittim.,suspended_affixation,aldım,al,gittim,513
+Fotoğraf çekti ve albüme koydu.,Fotoğraf çek ve albüme koydu.,suspended_affixation,çekti,çek,koydu,514
+Bu akşam kızlarla partiye gittik ve çok eğlendik.,Bu akşam kızlarla partiye git ve çok eğlendik.,suspended_affixation,gittik,git,eğlendik,515
+Sınav kağıtlarını okudum ve notlandırdım.,Sınav kağıtlarını oku ve notlandırdım.,suspended_affixation,okudum,oku,notlandırdım,516
+Sadece yemek sipariş ettim ve gelmesini bekledim.,Sadece yemek sipariş et ve gelmesini bekledim.,suspended_affixation,ettim,et,bekledim,517
+Hemen raftaki kitaplara göz attım ve beğendiğimi aldım.,Hemen raftaki kitaplara göz at ve beğendiğimi aldım.,suspended_affixation,attım,at,aldım,518
+Ardından müzik dinledim ve rahatladım.,Ardından müzik dinle ve rahatladım.,suspended_affixation,dinledim,dinle,rahatladım,519
+Evde almanca çalıştım ve arkadaşlarımla pratik yaptım.,Evde almanca çalış ve arkadaşlarımla pratik yaptım.,suspended_affixation,çalıştım,çalış,yaptım,520
+Annemle pazara çıktık ve meyve aldık.,Annemle pazara çık ve meyve aldık.,suspended_affixation,çıktık,çık,aldık,521
+Teknik raporu hazırladım ve müdüre sundum.,Teknik raporu hazırla ve müdüre sundum.,suspended_affixation,hazırladım,hazırla,sundum,522
+3 fotoğraf çekti ve albüme koydu.,3 fotoğraf çek ve albüme koydu.,suspended_affixation,çekti,çek,koydu,523
+Sabah spor yaptım ve duş aldım.,Sabah spor yap ve duş aldım.,suspended_affixation,yaptım,yap,aldım,524
+Hemen uçağa bindiler ve memlekete gittiler.,Hemen uçağa bin ve memlekete gittiler.,suspended_affixation,bindiler,bin,gittiler,525
+Sonra bulaşıkları yıkadım ve makineye yerleştirdim.,Sonra bulaşıkları yıka ve makineye yerleştirdim.,suspended_affixation,yıkadım,yıka,yerleştirdim,526
+Hemen arkadaşlarımla buluştuk ve sinemaya gittik.,Hemen arkadaşlarımla buluş ve sinemaya gittik.,suspended_affixation,buluştuk,buluş,gittik,527
+Bu kedimi sevdim ve mamasını verdim.,Bu kedimi sev ve mamasını verdim.,suspended_affixation,sevdim,sev,verdim,528
+O sabah erken kalktım ve koşuya çıktım.,O sabah erken kalk ve koşuya çıktım.,suspended_affixation,kalktım,kalk,çıktım,529
+Ardından sınav kağıtlarını okudum ve notlandırdım.,Ardından sınav kağıtlarını oku ve notlandırdım.,suspended_affixation,okudum,oku,notlandırdım,530
+Önce yemeği ısıttım ve yedim.,Önce yemeği ısıt ve yedim.,suspended_affixation,ısıttım,ısıt,yedim,531
+Çiçekleri suladım ve toprağını değiştirdim.,Çiçekleri sula ve toprağını değiştirdim.,suspended_affixation,suladım,sula,değiştirdim,532
+Bugün kütüphaneden kitap aldım ve okudum.,Bugün kütüphaneden kitap al ve okudum.,suspended_affixation,aldım,al,okudum,533
+Sadece spor yaptım ve duş aldım.,Sadece spor yap ve duş aldım.,suspended_affixation,yaptım,yap,aldım,534
+Yine sabah erken kalktım ve koşuya çıktım.,Yine sabah erken kalk ve koşuya çıktım.,suspended_affixation,kalktım,kalk,çıktım,535
+Öğrenciler stüdyoda şarkıyı kaydettiler ve sosyal medyada paylaştılar.,Öğrenciler stüdyoda şarkıyı kaydet ve sosyal medyada paylaştılar.,suspended_affixation,kaydettiler,kaydet,paylaştılar,536
+Kek pişirdim ve üstünü süsledim.,Kek pişir ve üstünü süsledim.,suspended_affixation,pişirdim,pişir,süsledim,537
+Ardından bahçeyi temizledim ve çiçek ektim.,Ardından bahçeyi temizle ve çiçek ektim.,suspended_affixation,temizledim,temizle,ektim,538
+Sen projeyi tamamladın ve sunumu hazırladın.,Sen projeyi tamamla ve sunumu hazırladın.,suspended_affixation,tamamladın,tamamla,hazırladın,539
+Çok şarkı söyledim ve dans ettim.,Çok şarkı söyle ve dans ettim.,suspended_affixation,söyledim,söyle,ettim,540
+Kıyafetleri ütüledi ve oğluna verdi.,Kıyafetleri ütüle ve oğluna verdi.,suspended_affixation,ütüledi,ütüle,verdi,541
+Kendi köpeğimi taradım ve tüylerini topladım.,Kendi köpeğimi tara ve tüylerini topladım.,suspended_affixation,taradım,tara,topladım,542
+Tüm ödevlerimi bitirdim ve oyun oynamaya başladım.,Tüm ödevlerimi bitir ve oyun oynamaya başladım.,suspended_affixation,bitirdim,bitir,başladım,543
+Sonra yeni bir işe başladı ve hemen uyum sağladı.,Sonra yeni bir işe başla ve hemen uyum sağladı.,suspended_affixation,başladı,başla,sağladı,544
+O sabah ufaklığı bakkala gönderdim ve taze ekmek aldırdım.,O sabah ufaklığı bakkala gönder ve taze ekmek aldırdım.,suspended_affixation,gönderdim,gönder,aldırdım,545
+Sonra bisiklete bindik ve parkta tur attık.,Sonra bisiklete bin ve parkta tur attık.,suspended_affixation,bindik,bin,attık,546
+Bu yeni aldığım elbiseyi denedim ve çok beğendim.,Bu yeni aldığım elbiseyi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,547
+İki aşure yaptık ve komşulara dağıttık.,İki aşure yap ve komşulara dağıttık.,suspended_affixation,yaptık,yap,dağıttık,548
+Böylece spor salonuna kaydoldu ve düzenli gitmeye başladı.,Böylece spor salonuna kaydol ve düzenli gitmeye başladı.,suspended_affixation,kaydoldu,kaydol,başladı,549
+Bir yeni tarifi denedim ve çok beğendim.,Bir yeni tarifi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,550
+Sonra telefonu şarja koydum ve biraz dolunca açtım.,Sonra telefonu şarja koy ve biraz dolunca açtım.,suspended_affixation,koydum,koy,açtım,551
+5 yemek sipariş ettim ve kapıda ödedim.,5 yemek sipariş et ve kapıda ödedim.,suspended_affixation,ettim,et,ödettim,552
+Dün annemle pazara çıktık ve meyve aldık.,Dün annemle pazara çık ve meyve aldık.,suspended_affixation,çıktık,çık,aldık,553
+Kadınlar yatak örtüsünü değiştirdiler ve yatağı topladılar.,Kadınlar yatak örtüsünü değiştir ve yatağı topladılar.,suspended_affixation,değiştirdiler,değiştir,topladılar,554
+Bu maçı izledik ve sonucu tartıştık.,Bu maçı izle ve sonucu tartıştık.,suspended_affixation,izledik,izle,tartıştık,555
+Bütün çiçekleri suladım ve toprağını değiştirdim.,Bütün çiçekleri sula ve toprağını değiştirdim.,suspended_affixation,suladım,sula,değiştirdim,556
+Ben arabayı yıkadım ve cilaladım.,Ben arabayı yıka ve cilaladım.,suspended_affixation,yıkadım,yıka,cilaladım,557
+Adam yeni bir iş buldu ve para kazanmaya başladı.,Adam yeni bir iş bul ve para kazanmaya başladı.,suspended_affixation,buldu,bul,başladı,558
+Sonra konsere bilet aldım ve arkadaşımla gittim.,Sonra konsere bilet al ve arkadaşımla gittim.,suspended_affixation,aldım,al,gittim,559
+Polis kırmızı ışıkta durdu ve bekledi.,Polis kırmızı ışıkta dur ve bekledi.,suspended_affixation,durdu,dur,bekledi,560
+Tüm projeyi tamamladık ve sunuma hazırladık.,Tüm projeyi tamamla ve sunuma hazırladık.,suspended_affixation,tamamladık,tamamla,hazırladık,561
+Yine dün pazara uğradım ve bir sürü sebze aldım.,Yine dün pazara uğra ve bir sürü sebze aldım.,suspended_affixation,uğradım,uğra,aldım,562
+1 yeni şarkı besteledim ve kaydettim.,1 yeni şarkı beste ve kaydettim.,suspended_affixation,besteledim,beste,kaydettim,563
+Kapıyı açtım ve misafirleri karşıladım.,Kapıyı aç ve misafirleri karşıladım.,suspended_affixation,açtım,aç,karşıladım,564
+Hep şarkı söyledim ve dans ettim.,Hep şarkı söyle ve dans ettim.,suspended_affixation,söyledim,söyle,ettim,565
+Bütün kıyafetleri yıkadım ve kuruttum.,Bütün kıyafetleri yıka ve kuruttum.,suspended_affixation,yıkadım,yıka,kuruttum,566
+Tüm kurabiyeleri pişirdim ve soğumaya bıraktım.,Tüm kurabiyeleri pişir ve soğumaya bıraktım.,suspended_affixation,pişirdim,pişir,bıraktım,567
+Ve ruhsatsız olduğu tespit edilen işletme mühürlendi ve kapatıldı.,Ve ruhsatsız olduğu tespit edilen işletme mühürlen ve kapatıldı.,suspended_affixation,mühürlendi,mühürlen,kapatıldı,568
+Okul ödevlerimi bitirdim ve oyun oynamaya başladım.,Okul ödevlerimi bitir ve oyun oynamaya başladım.,suspended_affixation,bitirdim,bitir,başladım,569
+Ben kedimi sevdim ve mamasını verdim.,Ben kedimi sev ve mamasını verdim.,suspended_affixation,sevdim,sev,verdim,570
+O akşam kızlarla partiye gittik ve çok eğlendik.,O akşam kızlarla partiye git ve çok eğlendik.,suspended_affixation,gittik,git,eğlendik,571
+Bir konsere gittim ve dans ettim.,Bir konsere git ve dans ettim.,suspended_affixation,gittim,git,ettim,572
+Raftaki kitaplara göz attım ve beğendiğimi aldım.,Raftaki kitaplara göz at ve beğendiğimi aldım.,suspended_affixation,attım,at,aldım,573
+Öncelikle konser biletlerini ayırttım ve arkadaşlarıma haber verdim.,Öncelikle konser biletlerini ayırt ve arkadaşlarıma haber verdim.,suspended_affixation,ayırttım,ayırt,verdim,574
+Böylece menüye yeni bir tarif koyuldu ve çok beğenildi.,Böylece menüye yeni bir tarif koyul ve çok beğenildi.,suspended_affixation,koyuldu,koyul,beğenildi,575
+İlk raporu hazırladım ve müdüre sundum.,İlk raporu hazırla ve müdüre sundum.,suspended_affixation,hazırladım,hazırla,sundum,576
+Küçük kaza yaptım ve hastaneye gittim.,Küçük kaza yap ve hastaneye gittim.,suspended_affixation,yaptım,yap,gittim,577
+Şimdi raftaki kitaplara göz attım ve beğendiğimi aldım.,Şimdi raftaki kitaplara göz at ve beğendiğimi aldım.,suspended_affixation,attım,at,aldım,578
+Bir şarkı söyledim ve dans ettim.,Bir şarkı söyle ve dans ettim.,suspended_affixation,söyledim,söyle,ettim,579
+Hemen kitapları düzenlediler ve raflara yerleştirdiler.,Hemen kitapları düzenle ve raflara yerleştirdiler.,suspended_affixation,düzenlediler,düzenle,yerleştirdiler,580
+Diğer kıyafetleri katladım ve çekmeceye koydum.,Diğer kıyafetleri katla ve çekmeceye koydum.,suspended_affixation,katladım,katla,koydum,581
+Iki yeni şarkı besteledim ve kaydettim.,Iki yeni şarkı beste ve kaydettim.,suspended_affixation,besteledim,beste,kaydettim,582
+Hemen kütüphaneye gitti ve kitap aldı.,Hemen kütüphaneye git ve kitap aldı.,suspended_affixation,gitti,git,aldı,583
+Kıyafetleri katladım ve dolaba koydum.,Kıyafetleri katla ve dolaba koydum.,suspended_affixation,katladım,katla,koydum,584
+4 yemek sipariş ettim ve kapıda ödedim.,4 yemek sipariş et ve kapıda ödedim.,suspended_affixation,ettim,et,ödettim,585
+Yeni menüye yeni bir tarif koyuldu ve çok beğenildi.,Yeni menüye yeni bir tarif koyul ve çok beğenildi.,suspended_affixation,koyuldu,koyul,beğenildi,586
+Aynı akşam kızlarla partiye gittik ve çok eğlendik.,Aynı akşam kızlarla partiye git ve çok eğlendik.,suspended_affixation,gittik,git,eğlendik,587
+Sabah kütüphaneden kitap aldım ve okudum.,Sabah kütüphaneden kitap al ve okudum.,suspended_affixation,aldım,al,okudum,588
+Öncelikle kıyafetleri yıkadım ve kuruttum.,Öncelikle kıyafetleri yıka ve kuruttum.,suspended_affixation,yıkadım,yıka,kuruttum,589
+Sonra sınav kağıtlarını okudum ve notlandırdım.,Sonra sınav kağıtlarını oku ve notlandırdım.,suspended_affixation,okudum,oku,notlandırdım,590
+Her festivale yüksek katılım sağlandı ve yoğun ilgi gösterildi.,Her festivale yüksek katılım sağlan ve yoğun ilgi gösterildi.,suspended_affixation,sağlandı,sağlan,gösterildi,591
+Ben arabayı yıkadım ve içini temizledim.,Ben arabayı yıka ve içini temizledim.,suspended_affixation,yıkadım,yıka,temizledim,592
+Bebeği sevdim ve kucağıma aldım.,Bebeği sev ve kucağıma aldım.,suspended_affixation,sevdim,sev,aldım,593
+Bu kıyafetleri katladım ve çekmeceye koydum.,Bu kıyafetleri katla ve çekmeceye koydum.,suspended_affixation,katladım,katla,koydum,594
+Sonra kazağı ördü ve sevgilisine hediye etti.,Sonra kazağı ör ve sevgilisine hediye etti.,suspended_affixation,ördü,ör,etti,595
+Şimdi projeyi tamamladın ve sunumu hazırladın.,Şimdi projeyi tamamla ve sunumu hazırladın.,suspended_affixation,tamamladın,tamamla,hazırladın,596
+O kıyafetleri ütüledi ve oğluna verdi.,O kıyafetleri ütüle ve oğluna verdi.,suspended_affixation,ütüledi,ütüle,verdi,597
+Ben arabayı park ettim ve alışveriş merkezine girdim.,Ben arabayı park et ve alışveriş merkezine girdim.,suspended_affixation,ettim,et,girdim,598
+Sürücü kaza yaptı ve polisi aradı.,Sürücü kaza yap ve polisi aradı.,suspended_affixation,yaptı,yap,aradı,599
+Yatak örtüsünü değiştirdiler ve yatağı topladılar.,Yatak örtüsünü değiştir ve yatağı topladılar.,suspended_affixation,değiştirdiler,değiştir,topladılar,600
+Alex yeni bir işe başladı ve hemen uyum sağladı.,Alex yeni bir işe başla ve hemen uyum sağladı.,suspended_affixation,başladı,başla,sağladı,601
+3 kediyi veterinere götürdüler ve aşı yaptırdılar.,3 kediyi veterinere götür ve aşı yaptırdılar.,suspended_affixation,götürdüler,götür,yaptırdılar,602
+İlgili ruhsatsız olduğu tespit edilen işletme mühürlendi ve kapatıldı.,İlgili ruhsatsız olduğu tespit edilen işletme mühürlen ve kapatıldı.,suspended_affixation,mühürlendi,mühürlen,kapatıldı,603
+Ardından raporu inceledim ve onayladım.,Ardından raporu incele ve onayladım.,suspended_affixation,inceledim,incele,onayladım,604
+Hemen konser biletlerini ayırttım ve arkadaşlarıma haber verdim.,Hemen konser biletlerini ayırt ve arkadaşlarıma haber verdim.,suspended_affixation,ayırttım,ayırt,verdim,605
+Öncelikle bahçeyi temizledim ve çiçek ektim.,Öncelikle bahçeyi temizle ve çiçek ektim.,suspended_affixation,temizledim,temizle,ektim,606
+Sabah ufaklığı bakkala gönderdim ve taze ekmek aldırdım.,Sabah ufaklığı bakkala gönder ve taze ekmek aldırdım.,suspended_affixation,gönderdim,gönder,aldırdım,607
+Ardından kuşuma yem verdim ve suyunu tazeledim.,Ardından kuşuma yem ver ve suyunu tazeledim.,suspended_affixation,verdim,ver,tazeledim,608
+Bugün konsere bilet aldım ve arkadaşımla gittim.,Bugün konsere bilet al ve arkadaşımla gittim.,suspended_affixation,aldım,al,gittim,609
+Sonra yemek sipariş ettim ve gelmesini bekledim.,Sonra yemek sipariş et ve gelmesini bekledim.,suspended_affixation,ettim,et,bekledim,610
+Önce arabayı park ettim ve alışveriş merkezine girdim.,Önce arabayı park et ve alışveriş merkezine girdim.,suspended_affixation,ettim,et,girdim,611
+Şimdi konser bileti aldım ve arkadaşıma haber verdim.,Şimdi konser bileti al ve arkadaşıma haber verdim.,suspended_affixation,aldım,al,verdim,612
+İlk arabayı yıkadım ve içini temizledim.,İlk arabayı yıka ve içini temizledim.,suspended_affixation,yıkadım,yıka,temizledim,613
+O kedimi sevdim ve mamasını verdim.,O kedimi sev ve mamasını verdim.,suspended_affixation,sevdim,sev,verdim,614
+Sonra kek pişirdim ve üstünü süsledim.,Sonra kek pişir ve üstünü süsledim.,suspended_affixation,pişirdim,pişir,süsledim,615
+Akşam çocuklara masal okudum ve uyuttum.,Akşam çocuklara masal oku ve uyuttum.,suspended_affixation,okudum,oku,uyuttum,616
+Bugün toplantıya katıldım ve fikirlerimi paylaştım.,Bugün toplantıya katıl ve fikirlerimi paylaştım.,suspended_affixation,katıldım,katıl,paylaştım,617
+Ben kuşuma yem verdim ve suyunu tazeledim.,Ben kuşuma yem ver ve suyunu tazeledim.,suspended_affixation,verdim,ver,tazeledim,618
+Bir şarkı söyledim ve dans ettim.,Bir şarkı söyle ve dans ettim.,suspended_affixation,söyledim,söyle,ettim,619
+Şimdi çiçekleri suladım ve toprağını değiştirdim.,Şimdi çiçekleri sula ve toprağını değiştirdim.,suspended_affixation,suladım,sula,değiştirdim,620
+Ayrıca hafta sonu pikniğe gittik ve mangal yaktık.,Ayrıca hafta sonu pikniğe git ve mangal yaktık.,suspended_affixation,gittik,git,yaktık,621
+Bu menüye yeni bir tarif koyuldu ve çok beğenildi.,Bu menüye yeni bir tarif koyul ve çok beğenildi.,suspended_affixation,koyuldu,koyul,beğenildi,622
+Aydın yarışa katıldı ve iyi bir derece aldı.,Aydın yarışa katıl ve iyi bir derece aldı.,suspended_affixation,katıldı,katıl,aldı,623
+Ben konser bileti aldım ve arkadaşıma haber verdim.,Ben konser bileti al ve arkadaşıma haber verdim.,suspended_affixation,aldım,al,verdim,624
+Bu konsere gittim ve şarkılara eşlik ettim.,Bu konsere git ve şarkılara eşlik ettim.,suspended_affixation,gittim,git,ettim,625
+Akşam yorgun olduğum için yattım ve erkenden uyudum.,Akşam yorgun olduğum için yat ve erkenden uyudum.,suspended_affixation,yattım,yat,uyudum,626
+Hemen kapıyı açtım ve misafirleri karşıladım.,Hemen kapıyı aç ve misafirleri karşıladım.,suspended_affixation,açtım,aç,karşıladım,627
+Yarışa katıldı ve iyi bir derece aldı.,Yarışa katıl ve iyi bir derece aldı.,suspended_affixation,katıldı,katıl,aldı,628
+Kendi çantamı hazırladım ve yola çıktım.,Kendi çantamı hazırla ve yola çıktım.,suspended_affixation,hazırladım,hazırla,çıktım,629
+Ardından stüdyoda şarkıyı kaydettiler ve sosyal medyada paylaştılar.,Ardından stüdyoda şarkıyı kaydet ve sosyal medyada paylaştılar.,suspended_affixation,kaydettiler,kaydet,paylaştılar,630
+Sabah yorgun olduğum için yattım ve erkenden uyudum.,Sabah yorgun olduğum için yat ve erkenden uyudum.,suspended_affixation,yattım,yat,uyudum,631
+Sonra kıyafetleri katladım ve dolaba koydum.,Sonra kıyafetleri katla ve dolaba koydum.,suspended_affixation,katladım,katla,koydum,632
+Herkes gelen mesajları kontrol etti ve cevapladı.,Herkes gelen mesajları kontrol et ve cevapladı.,suspended_affixation,etti,et,cevapladı,633
+Yine hafta sonu pikniğe gittik ve mangal yaktık.,Yine hafta sonu pikniğe git ve mangal yaktık.,suspended_affixation,gittik,git,yaktık,634
+Bu projeyi tamamladık ve sunuma hazırladık.,Bu projeyi tamamla ve sunuma hazırladık.,suspended_affixation,tamamladık,tamamla,hazırladık,635
+Şimdi bisiklete bindik ve parkta tur attık.,Şimdi bisiklete bin ve parkta tur attık.,suspended_affixation,bindik,bin,attık,636
+Bir yürüyüş yaptık ve güzelce terledik.,Bir yürüyüş yap ve güzelce terledik.,suspended_affixation,yaptık,yap,terledik,637
+Sonra konsere gittim ve çok eğlendim.,Sonra konsere git ve çok eğlendim.,suspended_affixation,gittim,git,eğlendim,638
+Sonra kurabiye pişirdim ve komşulara dağıttım.,Sonra kurabiye pişir ve komşulara dağıttım.,suspended_affixation,pişirdim,pişir,dağıttım,639
+Kendi yemek yaptılar ve misafirleri ağırladılar.,Kendi yemek yap ve misafirleri ağırladılar.,suspended_affixation,yaptılar,yap,ağırladılar,640
+Ulusal festivale yüksek katılım sağlandı ve yoğun ilgi gösterildi.,Ulusal festivale yüksek katılım sağlan ve yoğun ilgi gösterildi.,suspended_affixation,sağlandı,sağlan,gösterildi,641
+Adam yarışa katıldı ve iyi bir derece aldı.,Adam yarışa katıl ve iyi bir derece aldı.,suspended_affixation,katıldı,katıl,aldı,642
+Ve menüye yeni bir tarif koyuldu ve çok beğenildi.,Ve menüye yeni bir tarif koyul ve çok beğenildi.,suspended_affixation,koyuldu,koyul,beğenildi,643
+Diğer kıyafetleri katladım ve bavula yerleştirdim.,Diğer kıyafetleri katla ve bavula yerleştirdim.,suspended_affixation,katladım,katla,yerleştirdim,644
+Sonra çantamı hazırladım ve yola çıktım.,Sonra çantamı hazırla ve yola çıktım.,suspended_affixation,hazırladım,hazırla,çıktım,645
+Sonunda projeyi tamamladın ve sunumu hazırladın.,Sonunda projeyi tamamla ve sunumu hazırladın.,suspended_affixation,tamamladın,tamamla,hazırladın,646
+Ardından arabayı park ettim ve alışveriş merkezine girdim.,Ardından arabayı park et ve alışveriş merkezine girdim.,suspended_affixation,ettim,et,girdim,647
+Tüm kıyafetleri katladım ve çekmeceye koydum.,Tüm kıyafetleri katla ve çekmeceye koydum.,suspended_affixation,katladım,katla,koydum,648
+Evet çok çalıştım ve sınavı geçtim.,Evet çok çalış ve sınavı geçtim.,suspended_affixation,çalıştım,çalış,geçtim,649
+Bahçeyi temizledim ve çiçek ektim.,Bahçeyi temizle ve çiçek ektim.,suspended_affixation,temizledim,temizle,ektim,650
+Sonra kütüphaneye gitti ve kitap aldı.,Sonra kütüphaneye git ve kitap aldı.,suspended_affixation,gitti,git,aldı,651
+Bir kaza yaptım ve hastaneye gittim.,Bir kaza yap ve hastaneye gittim.,suspended_affixation,yaptım,yap,gittim,652
+Arabanın lastiklerini değiştirdim ve balans ayarı yaptırdım.,Arabanın lastiklerini değiştir ve balans ayarı yaptırdım.,suspended_affixation,değiştirdim,değiştir,yaptırdım,653
+Bir müzik dinledim ve rahatladım.,Bir müzik dinle ve rahatladım.,suspended_affixation,dinledim,dinle,rahatladım,654
+İki yemek yedim ve su içtim.,İki yemek ye ve su içtim.,suspended_affixation,yedim,ye,içtim,655
+Ben telefonumu şarj ettim ve mesajları kontrol ettim.,Ben telefonumu şarj et ve mesajları kontrol ettim.,suspended_affixation,ettim,et,ettim,656
+Fatih yarışa katıldı ve iyi bir derece aldı.,Fatih yarışa katıl ve iyi bir derece aldı.,suspended_affixation,katıldı,katıl,aldı,657
+Artık ödevlerimi bitirdim ve oyun oynamaya başladım.,Artık ödevlerimi bitir ve oyun oynamaya başladım.,suspended_affixation,bitirdim,bitir,başladım,658
+Bugün kedimi veterinere götürdüm ve muayene ettirdim.,Bugün kedimi veterinere götür ve muayene ettirdim.,suspended_affixation,götürdüm,götür,ettirdim,659
+Sonra kurabiyeleri pişirdim ve soğumaya bıraktım.,Sonra kurabiyeleri pişir ve soğumaya bıraktım.,suspended_affixation,pişirdim,pişir,bıraktım,660
+Yeni bir işe başladı ve hemen uyum sağladı.,Yeni bir işe başla ve hemen uyum sağladı.,suspended_affixation,başladı,başla,sağladı,661
+Ardından arabanın lastiklerini değiştirdim ve balans ayarı yaptırdım.,Ardından arabanın lastiklerini değiştir ve balans ayarı yaptırdım.,suspended_affixation,değiştirdim,değiştir,yaptırdım,662
+Arkadaşlar yeni tarifi denedim ve çok beğendim.,Arkadaşlar yeni tarifi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,663
+Burada arabayı park ettim ve alışveriş merkezine girdim.,Burada arabayı park et ve alışveriş merkezine girdim.,suspended_affixation,ettim,et,girdim,664
+Bir kaza yaptım ve hastaneye gittim.,Bir kaza yap ve hastaneye gittim.,suspended_affixation,yaptım,yap,gittim,665
+Araç kaza yaptı ve polisi aradı.,Araç kaza yap ve polisi aradı.,suspended_affixation,yaptı,yap,aradı,666
+Kısa yürüyüş yaptık ve güzelce terledik.,Kısa yürüyüş yap ve güzelce terledik.,suspended_affixation,yaptık,yap,terledik,667
+Sonra kitapları düzenlediler ve raflara yerleştirdiler.,Sonra kitapları düzenle ve raflara yerleştirdiler.,suspended_affixation,düzenlediler,düzenle,yerleştirdiler,668
+Biraz müzik dinledim ve rahatladım.,Biraz müzik dinle ve rahatladım.,suspended_affixation,dinledim,dinle,rahatladım,669
+Ardından telefonu şarja koydum ve biraz dolunca açtım.,Ardından telefonu şarja koy ve biraz dolunca açtım.,suspended_affixation,koydum,koy,açtım,670
+Ben toplantıya katıldım ve fikirlerimi paylaştım.,Ben toplantıya katıl ve fikirlerimi paylaştım.,suspended_affixation,katıldım,katıl,paylaştım,671
+Teknik raporu inceledim ve onayladım.,Teknik raporu incele ve onayladım.,suspended_affixation,inceledim,incele,onayladım,672
+Bir trafikte sıkıştım ve geç kaldım.,Bir trafikte sıkış ve geç kaldım.,suspended_affixation,sıkıştım,sıkış,kaldım,673
+Sonra kütüphaneden kitap aldım ve okudum.,Sonra kütüphaneden kitap al ve okudum.,suspended_affixation,aldım,al,okudum,674
+Sonra köpeği gezdirdim ve sonra eve getirdim.,Sonra köpeği gezdir ve sonra eve getirdim.,suspended_affixation,gezdirdim,gezdir,getirdim,675
+Biz hafta sonu pikniğe gittik ve mangal yaktık.,Biz hafta sonu pikniğe git ve mangal yaktık.,suspended_affixation,gittik,git,yaktık,676
+30 fotoğraf çekti ve albüme koydu.,30 fotoğraf çek ve albüme koydu.,suspended_affixation,çekti,çek,koydu,677
+Konya yarışmada birinci oldu ve ödül aldı.,Konya yarışmada birinci ol ve ödül aldı.,suspended_affixation,oldu,ol,aldı,678
+Bugün konser bileti aldım ve arkadaşıma haber verdim.,Bugün konser bileti al ve arkadaşıma haber verdim.,suspended_affixation,aldım,al,verdim,679
+Öncelikle kapıyı açtım ve misafirleri karşıladım.,Öncelikle kapıyı aç ve misafirleri karşıladım.,suspended_affixation,açtım,aç,karşıladım,680
+Bir bebeği sevdim ve kucağıma aldım.,Bir bebeği sev ve kucağıma aldım.,suspended_affixation,sevdim,sev,aldım,681
+Tüm mobilyaları monte ettik ve yerine yerleştirdik.,Tüm mobilyaları monte et ve yerine yerleştirdik.,suspended_affixation,ettik,et,yerleştirdik,682
+Kırmızı ışıkta durdu ve bekledi.,Kırmızı ışıkta dur ve bekledi.,suspended_affixation,durdu,dur,bekledi,683
+Hemen yemek yaptılar ve misafirleri ağırladılar.,Hemen yemek yap ve misafirleri ağırladılar.,suspended_affixation,yaptılar,yap,ağırladılar,684
+En güzel bir kahve yaptım ve içtim.,En güzel bir kahve yap ve içtim.,suspended_affixation,yaptım,yap,içtim,685
+Yine kaza yaptım ve hastaneye gittim.,Yine kaza yap ve hastaneye gittim.,suspended_affixation,yaptım,yap,gittim,686
+Sonra kardeşimle kavga ettik ve sonra barıştık.,Sonra kardeşimle kavga et ve sonra barıştık.,suspended_affixation,ettik,et,barıştık,687
+Sonra yeni takvimi astım ve önemli tarihleri işaretledim.,Sonra yeni takvimi as ve önemli tarihleri işaretledim.,suspended_affixation,astım,as,işaretledim,688
+Yemeği ısıttım ve yedim.,Yemeği ısıt ve yedim.,suspended_affixation,ısıttım,ısıt,yedim,689
+Yüzme havuzuna girdim ve yüzdüm.,Yüzme havuzuna gir ve yüzdüm.,suspended_affixation,girdim,gir,yüzdüm,690
+Kediyi veterinere götürdüler ve aşı yaptırdılar.,Kediyi veterinere götür ve aşı yaptırdılar.,suspended_affixation,götürdüler,götür,yaptırdılar,691
+Arabayı yıkadım ve içini temizledim.,Arabayı yıka ve içini temizledim.,suspended_affixation,yıkadım,yıka,temizledim,692
+Hafta sonu pikniğe gittik ve mangal yaktık.,Hafta sonu pikniğe git ve mangal yaktık.,suspended_affixation,gittik,git,yaktık,693
+Yemek yaptılar ve misafirleri ağırladılar.,Yemek yap ve misafirleri ağırladılar.,suspended_affixation,yaptılar,yap,ağırladılar,694
+Sonra akşam kızlarla partiye gittik ve çok eğlendik.,Sonra akşam kızlarla partiye git ve çok eğlendik.,suspended_affixation,gittik,git,eğlendik,695
+Özel stüdyoda şarkıyı kaydettiler ve sosyal medyada paylaştılar.,Özel stüdyoda şarkıyı kaydet ve sosyal medyada paylaştılar.,suspended_affixation,kaydettiler,kaydet,paylaştılar,696
+Sonra kahvaltı hazırladı ve ailesiyle zaman geçirdi.,Sonra kahvaltı hazırla ve ailesiyle zaman geçirdi.,suspended_affixation,hazırladı,hazırla,geçirdi,697
+Hemen köpeği gezdirdim ve sonra eve getirdim.,Hemen köpeği gezdir ve sonra eve getirdim.,suspended_affixation,gezdirdim,gezdir,getirdim,698
+Ben şarkı söyledim ve dans ettim.,Ben şarkı söyle ve dans ettim.,suspended_affixation,söyledim,söyle,ettim,699
+Ben arkadaşlarımla buluştuk ve sinemaya gittik.,Ben arkadaşlarımla buluş ve sinemaya gittik.,suspended_affixation,buluştuk,buluş,gittik,700
+Bu bulaşıkları yıkadım ve makineye yerleştirdim.,Bu bulaşıkları yıka ve makineye yerleştirdim.,suspended_affixation,yıkadım,yıka,yerleştirdim,701
+2 yeni şarkı besteledim ve kaydettim.,2 yeni şarkı beste ve kaydettim.,suspended_affixation,besteledim,beste,kaydettim,702
+İnce kek pişirdim ve üstünü süsledim.,İnce kek pişir ve üstünü süsledim.,suspended_affixation,pişirdim,pişir,süsledim,703
+Bütün çocuklara masal okudum ve uyuttum.,Bütün çocuklara masal oku ve uyuttum.,suspended_affixation,okudum,oku,uyuttum,704
+Bugün konsere gittim ve şarkılara eşlik ettim.,Bugün konsere git ve şarkılara eşlik ettim.,suspended_affixation,gittim,git,ettim,705
+Hemen telefonu şarja koydum ve biraz dolunca açtım.,Hemen telefonu şarja koy ve biraz dolunca açtım.,suspended_affixation,koydum,koy,açtım,706
+Ben almanca çalıştım ve arkadaşlarımla pratik yaptım.,Ben almanca çalış ve arkadaşlarımla pratik yaptım.,suspended_affixation,çalıştım,çalış,yaptım,707
+Ve kedimi sevdim ve mamasını verdim.,Ve kedimi sev ve mamasını verdim.,suspended_affixation,sevdim,sev,verdim,708
+Sonra güzel bir kahve yaptım ve içtim.,Sonra güzel bir kahve yap ve içtim.,suspended_affixation,yaptım,yap,içtim,709
+Önce arabayı yıkadım ve içini temizledim.,Önce arabayı yıka ve içini temizledim.,suspended_affixation,yıkadım,yıka,temizledim,710
+Yine yeni tarifi denedim ve çok beğendim.,Yine yeni tarifi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,711
+Akşam annemle pazara çıktık ve meyve aldık.,Akşam annemle pazara çık ve meyve aldık.,suspended_affixation,çıktık,çık,aldık,712
+3 projeyi tamamladık ve sunuma hazırladık.,3 projeyi tamamla ve sunuma hazırladık.,suspended_affixation,tamamladık,tamamla,hazırladık,713
+Bir yemek sipariş ettim ve kapıda ödedim.,Bir yemek sipariş et ve kapıda ödedim.,suspended_affixation,ettim,et,ödettim,714
+Yemek sipariş ettim ve kapıda ödedim.,Yemek sipariş et ve kapıda ödedim.,suspended_affixation,ettim,et,ödettim,715
+Sabah erken kalktım ve koşuya çıktım.,Sabah erken kalk ve koşuya çıktım.,suspended_affixation,kalktım,kalk,çıktım,716
+Ve yarışmada birinci oldu ve ödül aldı.,Ve yarışmada birinci ol ve ödül aldı.,suspended_affixation,oldu,ol,aldı,717
+Bir aşure yaptık ve komşulara dağıttık.,Bir aşure yap ve komşulara dağıttık.,suspended_affixation,yaptık,yap,dağıttık,718
+Önce çantamı hazırladım ve yola çıktım.,Önce çantamı hazırla ve yola çıktım.,suspended_affixation,hazırladım,hazırla,çıktım,719
+Bu yeni tarifi denedim ve çok beğendim.,Bu yeni tarifi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,720
+Bu sabah erken kalktım ve koşuya çıktım.,Bu sabah erken kalk ve koşuya çıktım.,suspended_affixation,kalktım,kalk,çıktım,721
+Hemen köpeğimi taradım ve tüylerini topladım.,Hemen köpeğimi tara ve tüylerini topladım.,suspended_affixation,taradım,tara,topladım,722
+Sonra kırmızı ışıkta durdu ve bekledi.,Sonra kırmızı ışıkta dur ve bekledi.,suspended_affixation,durdu,dur,bekledi,723
+Hemen yüzme havuzuna girdim ve yüzdüm.,Hemen yüzme havuzuna gir ve yüzdüm.,suspended_affixation,girdim,gir,yüzdüm,724
+Ardından kırmızı ışıkta durdu ve bekledi.,Ardından kırmızı ışıkta dur ve bekledi.,suspended_affixation,durdu,dur,bekledi,725
+Sonra annemle pazara çıktık ve meyve aldık.,Sonra annemle pazara çık ve meyve aldık.,suspended_affixation,çıktık,çık,aldık,726
+Ben yeni tarifi denedim ve çok beğendim.,Ben yeni tarifi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,727
+Şimdi menüye yeni bir tarif koyuldu ve çok beğenildi.,Şimdi menüye yeni bir tarif koyul ve çok beğenildi.,suspended_affixation,koyuldu,koyul,beğenildi,728
+Dün sabah ufaklığı bakkala gönderdim ve taze ekmek aldırdım.,Dün sabah ufaklığı bakkala gönder ve taze ekmek aldırdım.,suspended_affixation,gönderdim,gönder,aldırdım,729
+Evde kurabiye pişirdim ve komşulara dağıttım.,Evde kurabiye pişir ve komşulara dağıttım.,suspended_affixation,pişirdim,pişir,dağıttım,730
+Bu projeyi tamamladın ve sunumu hazırladın.,Bu projeyi tamamla ve sunumu hazırladın.,suspended_affixation,tamamladın,tamamla,hazırladın,731
+3 aşure yaptık ve komşulara dağıttık.,3 aşure yap ve komşulara dağıttık.,suspended_affixation,yaptık,yap,dağıttık,732
+Adam gelen mesajları kontrol etti ve cevapladı.,Adam gelen mesajları kontrol et ve cevapladı.,suspended_affixation,etti,et,cevapladı,733
+Daha çok çalıştım ve sınavı geçtim.,Daha çok çalış ve sınavı geçtim.,suspended_affixation,çalıştım,çalış,geçtim,734
+Yine bisiklete bindik ve parkta tur attık.,Yine bisiklete bin ve parkta tur attık.,suspended_affixation,bindik,bin,attık,735
+Sonra çocuklara masal okudum ve uyuttum.,Sonra çocuklara masal oku ve uyuttum.,suspended_affixation,okudum,oku,uyuttum,736
+Anne kıyafetleri ütüledi ve oğluna verdi.,Anne kıyafetleri ütüle ve oğluna verdi.,suspended_affixation,ütüledi,ütüle,verdi,737
+Ardından ödevlerimi bitirdim ve oyun oynamaya başladım.,Ardından ödevlerimi bitir ve oyun oynamaya başladım.,suspended_affixation,bitirdim,bitir,başladım,738
+Ben yüzme havuzuna girdim ve yüzdüm.,Ben yüzme havuzuna gir ve yüzdüm.,suspended_affixation,girdim,gir,yüzdüm,739
+Ağır kaza yaptım ve hastaneye gittim.,Ağır kaza yap ve hastaneye gittim.,suspended_affixation,yaptım,yap,gittim,740
+Sadece almanca çalıştım ve arkadaşlarımla pratik yaptım.,Sadece almanca çalış ve arkadaşlarımla pratik yaptım.,suspended_affixation,çalıştım,çalış,yaptım,741
+Araç kırmızı ışıkta durdu ve bekledi.,Araç kırmızı ışıkta dur ve bekledi.,suspended_affixation,durdu,dur,bekledi,742
+Sonra kurabiyeleri pişirdim ve soğumaya bıraktım.,Sonra kurabiyeleri pişir ve soğumaya bıraktım.,suspended_affixation,pişirdim,pişir,bıraktım,743
+Sonra maçı izledik ve sonucu tartıştık.,Sonra maçı izle ve sonucu tartıştık.,suspended_affixation,izledik,izle,tartıştık,744
+Şimdi arabayı yıkadım ve içini temizledim.,Şimdi arabayı yıka ve içini temizledim.,suspended_affixation,yıkadım,yıka,temizledim,745
+Bitkileri suladım ve dallarını budadım.,Bitkileri sula ve dallarını budadım.,suspended_affixation,suladım,sula,budadım,746
+İlk konsere gittim ve dans ettim.,İlk konsere git ve dans ettim.,suspended_affixation,gittim,git,ettim,747
+Böylece yeni bir işe başladı ve hemen uyum sağladı.,Böylece yeni bir işe başla ve hemen uyum sağladı.,suspended_affixation,başladı,başla,sağladı,748
+Çok fotoğraf çekti ve albüme koydu.,Çok fotoğraf çek ve albüme koydu.,suspended_affixation,çekti,çek,koydu,749
+Spor salonuna kaydoldu ve düzenli gitmeye başladı.,Spor salonuna kaydol ve düzenli gitmeye başladı.,suspended_affixation,kaydoldu,kaydol,başladı,750
+Hemen telefonumu şarj ettim ve mesajları kontrol ettim.,Hemen telefonumu şarj et ve mesajları kontrol ettim.,suspended_affixation,ettim,et,ettim,751
+2 kediyi veterinere götürdüler ve aşı yaptırdılar.,2 kediyi veterinere götür ve aşı yaptırdılar.,suspended_affixation,götürdüler,götür,yaptırdılar,752
+Bütün mobilyaları monte ettik ve yerine yerleştirdik.,Bütün mobilyaları monte et ve yerine yerleştirdik.,suspended_affixation,ettik,et,yerleştirdik,753
+Polis kaza yaptı ve polisi aradı.,Polis kaza yap ve polisi aradı.,suspended_affixation,yaptı,yap,aradı,754
+Akşam kedimi veterinere götürdüm ve muayene ettirdim.,Akşam kedimi veterinere götür ve muayene ettirdim.,suspended_affixation,götürdüm,götür,ettirdim,755
+Sonra arabayı park ettim ve alışveriş merkezine girdim.,Sonra arabayı park et ve alışveriş merkezine girdim.,suspended_affixation,ettim,et,girdim,756
+Sonra kapıyı açtım ve misafirleri karşıladım.,Sonra kapıyı aç ve misafirleri karşıladım.,suspended_affixation,açtım,aç,karşıladım,757
+Ben yeni bir işe başladı ve hemen uyum sağladı.,Ben yeni bir işe başla ve hemen uyum sağladı.,suspended_affixation,başladı,başla,sağladı,758
+Ardından yeni bir iş buldu ve para kazanmaya başladı.,Ardından yeni bir iş bul ve para kazanmaya başladı.,suspended_affixation,buldu,bul,başladı,759
+Yine güzel bir kahve yaptım ve içtim.,Yine güzel bir kahve yap ve içtim.,suspended_affixation,yaptım,yap,içtim,760
+Bu bitkileri suladım ve dallarını budadım.,Bu bitkileri sula ve dallarını budadım.,suspended_affixation,suladım,sula,budadım,761
+Ardından ruhsatsız olduğu tespit edilen işletme mühürlendi ve kapatıldı.,Ardından ruhsatsız olduğu tespit edilen işletme mühürlen ve kapatıldı.,suspended_affixation,mühürlendi,mühürlen,kapatıldı,762
+Ben çantamı hazırladım ve yola çıktım.,Ben çantamı hazırla ve yola çıktım.,suspended_affixation,hazırladım,hazırla,çıktım,763
+Şimdi yeni takvimi astım ve önemli tarihleri işaretledim.,Şimdi yeni takvimi as ve önemli tarihleri işaretledim.,suspended_affixation,astım,as,işaretledim,764
+Sonra müzik dinledim ve rahatladım.,Sonra müzik dinle ve rahatladım.,suspended_affixation,dinledim,dinle,rahatladım,765
+Bir kuşuma yem verdim ve suyunu tazeledim.,Bir kuşuma yem ver ve suyunu tazeledim.,suspended_affixation,verdim,ver,tazeledim,766
+Bir konser bileti aldım ve arkadaşıma haber verdim.,Bir konser bileti al ve arkadaşıma haber verdim.,suspended_affixation,aldım,al,verdim,767
+Hemen kıyafetleri ütüledim ve dolaba astım.,Hemen kıyafetleri ütüle ve dolaba astım.,suspended_affixation,ütüledim,ütüle,astım,768
+Sonra spor yaptım ve duş aldım.,Sonra spor yap ve duş aldım.,suspended_affixation,yaptım,yap,aldım,769
+Tüm çantamı hazırladım ve yola çıktım.,Tüm çantamı hazırla ve yola çıktım.,suspended_affixation,hazırladım,hazırla,çıktım,770
+Bazı kıyafetleri katladım ve çekmeceye koydum.,Bazı kıyafetleri katla ve çekmeceye koydum.,suspended_affixation,katladım,katla,koydum,771
+Öğrenciler yarışmada birinci oldu ve ödül aldı.,Öğrenciler yarışmada birinci ol ve ödül aldı.,suspended_affixation,oldu,ol,aldı,772
+En yeni aldığım elbiseyi denedim ve çok beğendim.,En yeni aldığım elbiseyi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,773
+Sonra yüzme havuzuna girdim ve yüzdüm.,Sonra yüzme havuzuna gir ve yüzdüm.,suspended_affixation,girdim,gir,yüzdüm,774
+Yine yeni takvimi astım ve önemli tarihleri işaretledim.,Yine yeni takvimi as ve önemli tarihleri işaretledim.,suspended_affixation,astım,as,işaretledim,775
+Ve kırmızı ışıkta durdu ve bekledi.,Ve kırmızı ışıkta dur ve bekledi.,suspended_affixation,durdu,dur,bekledi,776
+İlk kahvemi içtim ve gazeteyi okudum.,İlk kahvemi iç ve gazeteyi okudum.,suspended_affixation,içtim,iç,okudum,777
+Ne güzel bir kahve yaptım ve içtim.,Ne güzel bir kahve yap ve içtim.,suspended_affixation,yaptım,yap,içtim,778
+Güzel yemek yaptılar ve misafirleri ağırladılar.,Güzel yemek yap ve misafirleri ağırladılar.,suspended_affixation,yaptılar,yap,ağırladılar,779
+Sonra almanca çalıştım ve arkadaşlarımla pratik yaptım.,Sonra almanca çalış ve arkadaşlarımla pratik yaptım.,suspended_affixation,çalıştım,çalış,yaptım,780
+Gece yorgun olduğum için yattım ve erkenden uyudum.,Gece yorgun olduğum için yat ve erkenden uyudum.,suspended_affixation,yattım,yat,uyudum,781
+Bir raftaki kitaplara göz attım ve beğendiğimi aldım.,Bir raftaki kitaplara göz at ve beğendiğimi aldım.,suspended_affixation,attım,at,aldım,782
+Kıyafetleri ütüledim ve dolaba astım.,Kıyafetleri ütüle ve dolaba astım.,suspended_affixation,ütüledim,ütüle,astım,783
+Ayrıca toplantıya katıldım ve fikirlerimi paylaştım.,Ayrıca toplantıya katıl ve fikirlerimi paylaştım.,suspended_affixation,katıldım,katıl,paylaştım,784
+Küçük çiçekleri suladım ve toprağını değiştirdim.,Küçük çiçekleri sula ve toprağını değiştirdim.,suspended_affixation,suladım,sula,değiştirdim,785
+Böylece ödevlerimi bitirdim ve oyun oynamaya başladım.,Böylece ödevlerimi bitir ve oyun oynamaya başladım.,suspended_affixation,bitirdim,bitir,başladım,786
+Güzel bir kahve yaptım ve içtim.,Güzel bir kahve yap ve içtim.,suspended_affixation,yaptım,yap,içtim,787
+Artık yorgun olduğum için yattım ve erkenden uyudum.,Artık yorgun olduğum için yat ve erkenden uyudum.,suspended_affixation,yattım,yat,uyudum,788
+Menüye yeni bir tarif koyuldu ve çok beğenildi.,Menüye yeni bir tarif koyul ve çok beğenildi.,suspended_affixation,koyuldu,koyul,beğenildi,789
+Bütün kıyafetleri ütüledim ve dolaba astım.,Bütün kıyafetleri ütüle ve dolaba astım.,suspended_affixation,ütüledim,ütüle,astım,790
+Onlar yemek yaptılar ve misafirleri ağırladılar.,Onlar yemek yap ve misafirleri ağırladılar.,suspended_affixation,yaptılar,yap,ağırladılar,791
+Raporu hazırladım ve müdüre sundum.,Raporu hazırla ve müdüre sundum.,suspended_affixation,hazırladım,hazırla,sundum,792
+Ben konsere gittim ve çok eğlendim.,Ben konsere git ve çok eğlendim.,suspended_affixation,gittim,git,eğlendim,793
+Doktor kıyafetleri ütüledi ve oğluna verdi.,Doktor kıyafetleri ütüle ve oğluna verdi.,suspended_affixation,ütüledi,ütüle,verdi,794
+Ben almanca çalıştım ve arkadaşlarımla pratik yaptım.,Ben almanca çalış ve arkadaşlarımla pratik yaptım.,suspended_affixation,çalıştım,çalış,yaptım,795
+Bu kurabiyeleri pişirdim ve soğumaya bıraktım.,Bu kurabiyeleri pişir ve soğumaya bıraktım.,suspended_affixation,pişirdim,pişir,bıraktım,796
+Daha yeni aldığım elbiseyi denedim ve çok beğendim.,Daha yeni aldığım elbiseyi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,797
+Konsere gittim ve dans ettim.,Konsere git ve dans ettim.,suspended_affixation,gittim,git,ettim,798
+Yine menüye yeni bir tarif koyuldu ve çok beğenildi.,Yine menüye yeni bir tarif koyul ve çok beğenildi.,suspended_affixation,koyuldu,koyul,beğenildi,799
+Diğer bulaşıkları yıkadım ve makineye yerleştirdim.,Diğer bulaşıkları yıka ve makineye yerleştirdim.,suspended_affixation,yıkadım,yıka,yerleştirdim,800
+Bütün kıyafetleri katladım ve çekmeceye koydum.,Bütün kıyafetleri katla ve çekmeceye koydum.,suspended_affixation,katladım,katla,koydum,801
+Yine konsere gittim ve çok eğlendim.,Yine konsere git ve çok eğlendim.,suspended_affixation,gittim,git,eğlendim,802
+Genç kaza yaptı ve polisi aradı.,Genç kaza yap ve polisi aradı.,suspended_affixation,yaptı,yap,aradı,803
+Android telefonumu şarj ettim ve mesajları kontrol ettim.,Android telefonumu şarj et ve mesajları kontrol ettim.,suspended_affixation,ettim,et,ettim,804
+3 yeni şarkı besteledim ve kaydettim.,3 yeni şarkı beste ve kaydettim.,suspended_affixation,besteledim,beste,kaydettim,805
+Öncelikle kedimi veterinere götürdüm ve muayene ettirdim.,Öncelikle kedimi veterinere götür ve muayene ettirdim.,suspended_affixation,götürdüm,götür,ettirdim,806
+Bu konsere gittim ve dans ettim.,Bu konsere git ve dans ettim.,suspended_affixation,gittim,git,ettim,807
+Ve bebeği sevdim ve kucağıma aldım.,Ve bebeği sev ve kucağıma aldım.,suspended_affixation,sevdim,sev,aldım,808
+Şimdi telefonu şarja koydum ve biraz dolunca açtım.,Şimdi telefonu şarja koy ve biraz dolunca açtım.,suspended_affixation,koydum,koy,açtım,809
+Ardından spor salonuna kaydoldu ve düzenli gitmeye başladı.,Ardından spor salonuna kaydol ve düzenli gitmeye başladı.,suspended_affixation,kaydoldu,kaydol,başladı,810
+Öncelikle ders notlarını temize çektim ve gruba attım.,Öncelikle ders notlarını temize çek ve gruba attım.,suspended_affixation,çektim,çek,attım,811
+Hemen ödevlerimi bitirdim ve oyun oynamaya başladım.,Hemen ödevlerimi bitir ve oyun oynamaya başladım.,suspended_affixation,bitirdim,bitir,başladım,812
+Yine kütüphaneden kitap aldım ve okudum.,Yine kütüphaneden kitap al ve okudum.,suspended_affixation,aldım,al,okudum,813
+Kendi stüdyoda şarkıyı kaydettiler ve sosyal medyada paylaştılar.,Kendi stüdyoda şarkıyı kaydet ve sosyal medyada paylaştılar.,suspended_affixation,kaydettiler,kaydet,paylaştılar,814
+Sonra stüdyoda şarkıyı kaydettiler ve sosyal medyada paylaştılar.,Sonra stüdyoda şarkıyı kaydet ve sosyal medyada paylaştılar.,suspended_affixation,kaydettiler,kaydet,paylaştılar,815
+Evde yeni aldığım elbiseyi denedim ve çok beğendim.,Evde yeni aldığım elbiseyi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,816
+Önce müzik dinledim ve rahatladım.,Önce müzik dinle ve rahatladım.,suspended_affixation,dinledim,dinle,rahatladım,817
+</s> öznur ablasının nişan töreni için giyindi ve süslendi.,</s> öznur ablasının nişan töreni için giyin ve süslendi.,suspended_affixation,giyindi,giyin,süslendi,818
+Artık yeni bir iş buldu ve para kazanmaya başladı.,Artık yeni bir iş bul ve para kazanmaya başladı.,suspended_affixation,buldu,bul,başladı,819
+Evde aşure yaptık ve komşulara dağıttık.,Evde aşure yap ve komşulara dağıttık.,suspended_affixation,yaptık,yap,dağıttık,820
+Bazı bitkileri suladım ve dallarını budadım.,Bazı bitkileri sula ve dallarını budadım.,suspended_affixation,suladım,sula,budadım,821
+Biz yemek yedim ve su içtim.,Biz yemek ye ve su içtim.,suspended_affixation,yedim,ye,içtim,822
+Ruhsatsız olduğu tespit edilen işletme mühürlendi ve kapatıldı.,Ruhsatsız olduğu tespit edilen işletme mühürlen ve kapatıldı.,suspended_affixation,mühürlendi,mühürlen,kapatıldı,823
+2 yemek yedim ve su içtim.,2 yemek ye ve su içtim.,suspended_affixation,yedim,ye,içtim,824
+Öncelikle toplantıya katıldım ve fikirlerimi paylaştım.,Öncelikle toplantıya katıl ve fikirlerimi paylaştım.,suspended_affixation,katıldım,katıl,paylaştım,825
+Böylece yeni bir iş buldu ve para kazanmaya başladı.,Böylece yeni bir iş bul ve para kazanmaya başladı.,suspended_affixation,buldu,bul,başladı,826
+Tüm bitkileri suladım ve dallarını budadım.,Tüm bitkileri sula ve dallarını budadım.,suspended_affixation,suladım,sula,budadım,827
+İki maçı izledik ve sonucu tartıştık.,İki maçı izle ve sonucu tartıştık.,suspended_affixation,izledik,izle,tartıştık,828
+Kendisi fotoğraf çekti ve albüme koydu.,Kendisi fotoğraf çek ve albüme koydu.,suspended_affixation,çekti,çek,koydu,829
+Bu toplantıya katıldım ve fikirlerimi paylaştım.,Bu toplantıya katıl ve fikirlerimi paylaştım.,suspended_affixation,katıldım,katıl,paylaştım,830
+Kız kütüphaneye gitti ve kitap aldı.,Kız kütüphaneye git ve kitap aldı.,suspended_affixation,gitti,git,aldı,831
+Yapılan ruhsatsız olduğu tespit edilen işletme mühürlendi ve kapatıldı.,Yapılan ruhsatsız olduğu tespit edilen işletme mühürlen ve kapatıldı.,suspended_affixation,mühürlendi,mühürlen,kapatıldı,832
+Sonra konsere gittim ve şarkılara eşlik ettim.,Sonra konsere git ve şarkılara eşlik ettim.,suspended_affixation,gittim,git,ettim,833
+Bir kütüphaneden kitap aldım ve okudum.,Bir kütüphaneden kitap al ve okudum.,suspended_affixation,aldım,al,okudum,834
+Arabayı park ettim ve alışveriş merkezine girdim.,Arabayı park et ve alışveriş merkezine girdim.,suspended_affixation,ettim,et,girdim,835
+Hemen konser bileti aldım ve arkadaşıma haber verdim.,Hemen konser bileti al ve arkadaşıma haber verdim.,suspended_affixation,aldım,al,verdim,836
+Akşam kahvaltı hazırladı ve ailesiyle zaman geçirdi.,Akşam kahvaltı hazırla ve ailesiyle zaman geçirdi.,suspended_affixation,hazırladı,hazırla,geçirdi,837
+Hazır yemeği ısıttım ve yedim.,Hazır yemeği ısıt ve yedim.,suspended_affixation,ısıttım,ısıt,yedim,838
+Yine sınav kağıtlarını okudum ve notlandırdım.,Yine sınav kağıtlarını oku ve notlandırdım.,suspended_affixation,okudum,oku,notlandırdım,839
+Ben çok çalıştım ve sınavı geçtim.,Ben çok çalış ve sınavı geçtim.,suspended_affixation,çalıştım,çalış,geçtim,840
+Diğer bitkileri suladım ve dallarını budadım.,Diğer bitkileri sula ve dallarını budadım.,suspended_affixation,suladım,sula,budadım,841
+İlgili raporu inceledim ve onayladım.,İlgili raporu incele ve onayladım.,suspended_affixation,inceledim,incele,onayladım,842
+Burada köpeği gezdirdim ve sonra eve getirdim.,Burada köpeği gezdir ve sonra eve getirdim.,suspended_affixation,gezdirdim,gezdir,getirdim,843
+Şimdi arabayı yıkadım ve cilaladım.,Şimdi arabayı yıka ve cilaladım.,suspended_affixation,yıkadım,yıka,cilaladım,844
+Bütün ders notlarını temize çektim ve gruba attım.,Bütün ders notlarını temize çek ve gruba attım.,suspended_affixation,çektim,çek,attım,845
+Ardından kıyafetleri ütüledi ve oğluna verdi.,Ardından kıyafetleri ütüle ve oğluna verdi.,suspended_affixation,ütüledi,ütüle,verdi,846
+Yine telefonu şarja koydum ve biraz dolunca açtım.,Yine telefonu şarja koy ve biraz dolunca açtım.,suspended_affixation,koydum,koy,açtım,847
+3 yemek sipariş ettim ve kapıda ödedim.,3 yemek sipariş et ve kapıda ödedim.,suspended_affixation,ettim,et,ödettim,848
+Ardından arabayı yıkadım ve içini temizledim.,Ardından arabayı yıka ve içini temizledim.,suspended_affixation,yıkadım,yıka,temizledim,849
+Ben annemle pazara çıktık ve meyve aldık.,Ben annemle pazara çık ve meyve aldık.,suspended_affixation,çıktık,çık,aldık,850
+Diğer çiçekleri suladım ve toprağını değiştirdim.,Diğer çiçekleri sula ve toprağını değiştirdim.,suspended_affixation,suladım,sula,değiştirdim,851
+Ben arabanın lastiklerini değiştirdim ve balans ayarı yaptırdım.,Ben arabanın lastiklerini değiştir ve balans ayarı yaptırdım.,suspended_affixation,değiştirdim,değiştir,yaptırdım,852
+Bu bebeği sevdim ve kucağıma aldım.,Bu bebeği sev ve kucağıma aldım.,suspended_affixation,sevdim,sev,aldım,853
+Akşam bahçeyi temizledim ve çiçek ektim.,Akşam bahçeyi temizle ve çiçek ektim.,suspended_affixation,temizledim,temizle,ektim,854
+Akşam kahvemi içtim ve gazeteyi okudum.,Akşam kahvemi iç ve gazeteyi okudum.,suspended_affixation,içtim,iç,okudum,855
+Bugün sabah erken kalktım ve koşuya çıktım.,Bugün sabah erken kalk ve koşuya çıktım.,suspended_affixation,kalktım,kalk,çıktım,856
+Yine festivale yüksek katılım sağlandı ve yoğun ilgi gösterildi.,Yine festivale yüksek katılım sağlan ve yoğun ilgi gösterildi.,suspended_affixation,sağlandı,sağlan,gösterildi,857
+O kazağı ördü ve sevgilisine hediye etti.,O kazağı ör ve sevgilisine hediye etti.,suspended_affixation,ördü,ör,etti,858
+Festivale yüksek katılım sağlandı ve yoğun ilgi gösterildi.,Festivale yüksek katılım sağlan ve yoğun ilgi gösterildi.,suspended_affixation,sağlandı,sağlan,gösterildi,859
+Motor kaza yaptı ve polisi aradı.,Motor kaza yap ve polisi aradı.,suspended_affixation,yaptı,yap,aradı,860
+Bu raporu hazırladım ve müdüre sundum.,Bu raporu hazırla ve müdüre sundum.,suspended_affixation,hazırladım,hazırla,sundum,861
+Bugün arabayı yıkadım ve cilaladım.,Bugün arabayı yıka ve cilaladım.,suspended_affixation,yıkadım,yıka,cilaladım,862
+Yine kedimi veterinere götürdüm ve muayene ettirdim.,Yine kedimi veterinere götür ve muayene ettirdim.,suspended_affixation,götürdüm,götür,ettirdim,863
+Kız öznur ablasının nişan töreni için giyindi ve süslendi.,Kız öznur ablasının nişan töreni için giyin ve süslendi.,suspended_affixation,giyindi,giyin,süslendi,864
+Bir uçağa bindiler ve memlekete gittiler.,Bir uçağa bin ve memlekete gittiler.,suspended_affixation,bindiler,bin,gittiler,865
+Böylece projeyi tamamladık ve sunuma hazırladık.,Böylece projeyi tamamla ve sunuma hazırladık.,suspended_affixation,tamamladık,tamamla,hazırladık,866
+Kız arkadaşlarımla buluştuk ve sinemaya gittik.,Kız arkadaşlarımla buluş ve sinemaya gittik.,suspended_affixation,buluştuk,buluş,gittik,867
+Şimdi konser biletlerini ayırttım ve arkadaşlarıma haber verdim.,Şimdi konser biletlerini ayırt ve arkadaşlarıma haber verdim.,suspended_affixation,ayırttım,ayırt,verdim,868
+Yine konsere gittim ve şarkılara eşlik ettim.,Yine konsere git ve şarkılara eşlik ettim.,suspended_affixation,gittim,git,ettim,869
+Arkadaşlar hafta sonu pikniğe gittik ve mangal yaktık.,Arkadaşlar hafta sonu pikniğe git ve mangal yaktık.,suspended_affixation,gittik,git,yaktık,870
+Sonra ders notlarını temize çektim ve gruba attım.,Sonra ders notlarını temize çek ve gruba attım.,suspended_affixation,çektim,çek,attım,871
+Bir bisiklete bindik ve parkta tur attık.,Bir bisiklete bin ve parkta tur attık.,suspended_affixation,bindik,bin,attık,872
+Ben kütüphaneye gitti ve kitap aldı.,Ben kütüphaneye git ve kitap aldı.,suspended_affixation,gitti,git,aldı,873
+3 projeyi tamamladın ve sunumu hazırladın.,3 projeyi tamamla ve sunumu hazırladın.,suspended_affixation,tamamladın,tamamla,hazırladın,874
+Çocuklar yürüyüşe çıktı ve manzarayı izledi.,Çocuklar yürüyüşe çık ve manzarayı izledi.,suspended_affixation,çıktı,çık,izledi,875
+Ben kardeşimle kavga ettik ve sonra barıştık.,Ben kardeşimle kavga et ve sonra barıştık.,suspended_affixation,ettik,et,barıştık,876
+Güzel kahvaltı hazırladı ve ailesiyle zaman geçirdi.,Güzel kahvaltı hazırla ve ailesiyle zaman geçirdi.,suspended_affixation,hazırladı,hazırla,geçirdi,877
+Ayrıca raporu inceledim ve onayladım.,Ayrıca raporu incele ve onayladım.,suspended_affixation,inceledim,incele,onayladım,878
+Yine ruhsatsız olduğu tespit edilen işletme mühürlendi ve kapatıldı.,Yine ruhsatsız olduğu tespit edilen işletme mühürlen ve kapatıldı.,suspended_affixation,mühürlendi,mühürlen,kapatıldı,879
+Mehmet spor salonuna kaydoldu ve düzenli gitmeye başladı.,Mehmet spor salonuna kaydol ve düzenli gitmeye başladı.,suspended_affixation,kaydoldu,kaydol,başladı,880
+Gece annemle pazara çıktık ve meyve aldık.,Gece annemle pazara çık ve meyve aldık.,suspended_affixation,çıktık,çık,aldık,881
+Kardeşimle kavga ettik ve sonra barıştık.,Kardeşimle kavga et ve sonra barıştık.,suspended_affixation,ettik,et,barıştık,882
+Kedimi sevdim ve mamasını verdim.,Kedimi sev ve mamasını verdim.,suspended_affixation,sevdim,sev,verdim,883
+Önce köpeği gezdirdim ve sonra eve getirdim.,Önce köpeği gezdir ve sonra eve getirdim.,suspended_affixation,gezdirdim,gezdir,getirdim,884
+Bol yürüyüş yaptık ve güzelce terledik.,Bol yürüyüş yap ve güzelce terledik.,suspended_affixation,yaptık,yap,terledik,885
+Tüm kıyafetleri yıkadım ve kuruttum.,Tüm kıyafetleri yıka ve kuruttum.,suspended_affixation,yıkadım,yıka,kuruttum,886
+Hemen yemek sipariş ettim ve kapıda ödedim.,Hemen yemek sipariş et ve kapıda ödedim.,suspended_affixation,ettim,et,ödettim,887
+Ben kütüphaneden kitap aldım ve okudum.,Ben kütüphaneden kitap al ve okudum.,suspended_affixation,aldım,al,okudum,888
+Ayrıca arabanın lastiklerini değiştirdim ve balans ayarı yaptırdım.,Ayrıca arabanın lastiklerini değiştir ve balans ayarı yaptırdım.,suspended_affixation,değiştirdim,değiştir,yaptırdım,889
+Konser biletlerini ayırttım ve arkadaşlarıma haber verdim.,Konser biletlerini ayırt ve arkadaşlarıma haber verdim.,suspended_affixation,ayırttım,ayırt,verdim,890
+Herkes yürüyüşe çıktı ve manzarayı izledi.,Herkes yürüyüşe çık ve manzarayı izledi.,suspended_affixation,çıktı,çık,izledi,891
+Ben bebeği sevdim ve kucağıma aldım.,Ben bebeği sev ve kucağıma aldım.,suspended_affixation,sevdim,sev,aldım,892
+Ben kedimi veterinere götürdüm ve muayene ettirdim.,Ben kedimi veterinere götür ve muayene ettirdim.,suspended_affixation,götürdüm,götür,ettirdim,893
+Ben kıyafetleri katladım ve çekmeceye koydum.,Ben kıyafetleri katla ve çekmeceye koydum.,suspended_affixation,katladım,katla,koydum,894
+Klasik müzik dinledim ve rahatladım.,Klasik müzik dinle ve rahatladım.,suspended_affixation,dinledim,dinle,rahatladım,895
+Sonra kıyafetleri katladım ve bavula yerleştirdim.,Sonra kıyafetleri katla ve bavula yerleştirdim.,suspended_affixation,katladım,katla,yerleştirdim,896
+50 fotoğraf çekti ve albüme koydu.,50 fotoğraf çek ve albüme koydu.,suspended_affixation,çekti,çek,koydu,897
+Ben yeni takvimi astım ve önemli tarihleri işaretledim.,Ben yeni takvimi as ve önemli tarihleri işaretledim.,suspended_affixation,astım,as,işaretledim,898
+Bütün bahçeyi temizledim ve çiçek ektim.,Bütün bahçeyi temizle ve çiçek ektim.,suspended_affixation,temizledim,temizle,ektim,899
+Ardından telefonumu şarj ettim ve mesajları kontrol ettim.,Ardından telefonumu şarj et ve mesajları kontrol ettim.,suspended_affixation,ettim,et,ettim,900
+Küçük köpeğimi taradım ve tüylerini topladım.,Küçük köpeğimi tara ve tüylerini topladım.,suspended_affixation,taradım,tara,topladım,901
+Sonra bitkileri suladım ve dallarını budadım.,Sonra bitkileri sula ve dallarını budadım.,suspended_affixation,suladım,sula,budadım,902
+Bugün bahçeyi temizledim ve çiçek ektim.,Bugün bahçeyi temizle ve çiçek ektim.,suspended_affixation,temizledim,temizle,ektim,903
+Çok çalıştım ve sınavı geçtim.,Çok çalış ve sınavı geçtim.,suspended_affixation,çalıştım,çalış,geçtim,904
+Sonra raporu inceledim ve onayladım.,Sonra raporu incele ve onayladım.,suspended_affixation,inceledim,incele,onayladım,905
+Sonra konser biletlerini ayırttım ve arkadaşlarıma haber verdim.,Sonra konser biletlerini ayırt ve arkadaşlarıma haber verdim.,suspended_affixation,ayırttım,ayırt,verdim,906
+Diğer kıyafetleri ütüledim ve dolaba astım.,Diğer kıyafetleri ütüle ve dolaba astım.,suspended_affixation,ütüledim,ütüle,astım,907
+Size gelen mesajları kontrol etti ve cevapladı.,Size gelen mesajları kontrol et ve cevapladı.,suspended_affixation,etti,et,cevapladı,908
+Hemen yeni bir işe başladı ve hemen uyum sağladı.,Hemen yeni bir işe başla ve hemen uyum sağladı.,suspended_affixation,başladı,başla,sağladı,909
+Deniz yarışa katıldı ve iyi bir derece aldı.,Deniz yarışa katıl ve iyi bir derece aldı.,suspended_affixation,katıldı,katıl,aldı,910
+Çalışma raporu hazırladım ve müdüre sundum.,Çalışma raporu hazırla ve müdüre sundum.,suspended_affixation,hazırladım,hazırla,sundum,911
+Sonra kedimi sevdim ve mamasını verdim.,Sonra kedimi sev ve mamasını verdim.,suspended_affixation,sevdim,sev,verdim,912
+Ben kıyafetleri ütüledim ve dolaba astım.,Ben kıyafetleri ütüle ve dolaba astım.,suspended_affixation,ütüledim,ütüle,astım,913
+Hemen yemek sipariş ettim ve gelmesini bekledim.,Hemen yemek sipariş et ve gelmesini bekledim.,suspended_affixation,ettim,et,bekledim,914
+Uzun yürüyüş yaptık ve güzelce terledik.,Uzun yürüyüş yap ve güzelce terledik.,suspended_affixation,yaptık,yap,terledik,915
+Hemen kütüphaneden kitap aldım ve okudum.,Hemen kütüphaneden kitap al ve okudum.,suspended_affixation,aldım,al,okudum,916
+Mobilyaları monte ettik ve yerine yerleştirdik.,Mobilyaları monte et ve yerine yerleştirdik.,suspended_affixation,ettik,et,yerleştirdik,917
+Kadın kütüphaneye gitti ve kitap aldı.,Kadın kütüphaneye git ve kitap aldı.,suspended_affixation,gitti,git,aldı,918
+Dün konsere gittim ve şarkılara eşlik ettim.,Dün konsere git ve şarkılara eşlik ettim.,suspended_affixation,gittim,git,ettim,919
+Bir raporu hazırladım ve müdüre sundum.,Bir raporu hazırla ve müdüre sundum.,suspended_affixation,hazırladım,hazırla,sundum,920
+Bütün bitkileri suladım ve dallarını budadım.,Bütün bitkileri sula ve dallarını budadım.,suspended_affixation,suladım,sula,budadım,921
+Tam arabayı park ettim ve alışveriş merkezine girdim.,Tam arabayı park et ve alışveriş merkezine girdim.,suspended_affixation,ettim,et,girdim,922
+Sonra mobilyaları monte ettik ve yerine yerleştirdik.,Sonra mobilyaları monte et ve yerine yerleştirdik.,suspended_affixation,ettik,et,yerleştirdik,923
+Önce kıyafetleri yıkadım ve kuruttum.,Önce kıyafetleri yıka ve kuruttum.,suspended_affixation,yıkadım,yıka,kuruttum,924
+Ama dün pazara uğradım ve bir sürü sebze aldım.,Ama dün pazara uğra ve bir sürü sebze aldım.,suspended_affixation,uğradım,uğra,aldım,925
+Önce bahçeyi temizledim ve çiçek ektim.,Önce bahçeyi temizle ve çiçek ektim.,suspended_affixation,temizledim,temizle,ektim,926
+Önce kahvemi içtim ve gazeteyi okudum.,Önce kahvemi iç ve gazeteyi okudum.,suspended_affixation,içtim,iç,okudum,927
+Ardından arkadaşlarımla buluştuk ve sinemaya gittik.,Ardından arkadaşlarımla buluş ve sinemaya gittik.,suspended_affixation,buluştuk,buluş,gittik,928
+Sonra telefonu şarja koydum ve biraz dolunca açtım.,Sonra telefonu şarja koy ve biraz dolunca açtım.,suspended_affixation,koydum,koy,açtım,929
+Ben raftaki kitaplara göz attım ve beğendiğimi aldım.,Ben raftaki kitaplara göz at ve beğendiğimi aldım.,suspended_affixation,attım,at,aldım,930
+Bir projeyi tamamladın ve sunumu hazırladın.,Bir projeyi tamamla ve sunumu hazırladın.,suspended_affixation,tamamladın,tamamla,hazırladın,931
+Dün pazara uğradım ve bir sürü sebze aldım.,Dün pazara uğra ve bir sürü sebze aldım.,suspended_affixation,uğradım,uğra,aldım,932
+Yeni bir iş buldu ve para kazanmaya başladı.,Yeni bir iş bul ve para kazanmaya başladı.,suspended_affixation,buldu,bul,başladı,933
+Diğer kurabiyeleri pişirdim ve soğumaya bıraktım.,Diğer kurabiyeleri pişir ve soğumaya bıraktım.,suspended_affixation,pişirdim,pişir,bıraktım,934
+Spor yaptım ve duş aldım.,Spor yap ve duş aldım.,suspended_affixation,yaptım,yap,aldım,935
+Şimdi yüzme havuzuna girdim ve yüzdüm.,Şimdi yüzme havuzuna gir ve yüzdüm.,suspended_affixation,girdim,gir,yüzdüm,936
+2 konser bileti aldım ve arkadaşıma haber verdim.,2 konser bileti al ve arkadaşıma haber verdim.,suspended_affixation,aldım,al,verdim,937
+Evet dün pazara uğradım ve bir sürü sebze aldım.,Evet dün pazara uğra ve bir sürü sebze aldım.,suspended_affixation,uğradım,uğra,aldım,938
+Diğer kıyafetleri katladım ve dolaba koydum.,Diğer kıyafetleri katla ve dolaba koydum.,suspended_affixation,katladım,katla,koydum,939
+Güzel müzik dinledim ve rahatladım.,Güzel müzik dinle ve rahatladım.,suspended_affixation,dinledim,dinle,rahatladım,940
+Bu kıyafetleri katladım ve bavula yerleştirdim.,Bu kıyafetleri katla ve bavula yerleştirdim.,suspended_affixation,katladım,katla,yerleştirdim,941
+3 yemek sipariş ettim ve gelmesini bekledim.,3 yemek sipariş et ve gelmesini bekledim.,suspended_affixation,ettim,et,bekledim,942
+Ardından bitkileri suladım ve dallarını budadım.,Ardından bitkileri sula ve dallarını budadım.,suspended_affixation,suladım,sula,budadım,943
+Eve gelen mesajları kontrol etti ve cevapladı.,Eve gelen mesajları kontrol et ve cevapladı.,suspended_affixation,etti,et,cevapladı,944
+Bugün trafikte sıkıştım ve geç kaldım.,Bugün trafikte sıkış ve geç kaldım.,suspended_affixation,sıkıştım,sıkış,kaldım,945
+Ömer kütüphaneye gitti ve kitap aldı.,Ömer kütüphaneye git ve kitap aldı.,suspended_affixation,gitti,git,aldı,946
+Kendi kahvemi içtim ve gazeteyi okudum.,Kendi kahvemi iç ve gazeteyi okudum.,suspended_affixation,içtim,iç,okudum,947
+Sonra kediyi veterinere götürdüler ve aşı yaptırdılar.,Sonra kediyi veterinere götür ve aşı yaptırdılar.,suspended_affixation,götürdüler,götür,yaptırdılar,948
+Herkes yatak örtüsünü değiştirdiler ve yatağı topladılar.,Herkes yatak örtüsünü değiştir ve yatağı topladılar.,suspended_affixation,değiştirdiler,değiştir,topladılar,949
+Aşure yaptık ve komşulara dağıttık.,Aşure yap ve komşulara dağıttık.,suspended_affixation,yaptık,yap,dağıttık,950
+Adam kütüphaneye gitti ve kitap aldı.,Adam kütüphaneye git ve kitap aldı.,suspended_affixation,gitti,git,aldı,951
+Bütün kitapları düzenlediler ve raflara yerleştirdiler.,Bütün kitapları düzenle ve raflara yerleştirdiler.,suspended_affixation,düzenlediler,düzenle,yerleştirdiler,952
+Yeni takvimi astım ve önemli tarihleri işaretledim.,Yeni takvimi as ve önemli tarihleri işaretledim.,suspended_affixation,astım,as,işaretledim,953
+Bütün ödevlerimi bitirdim ve oyun oynamaya başladım.,Bütün ödevlerimi bitir ve oyun oynamaya başladım.,suspended_affixation,bitirdim,bitir,başladım,954
+Bu güzel bir kahve yaptım ve içtim.,Bu güzel bir kahve yap ve içtim.,suspended_affixation,yaptım,yap,içtim,955
+Ben dün pazara uğradım ve bir sürü sebze aldım.,Ben dün pazara uğra ve bir sürü sebze aldım.,suspended_affixation,uğradım,uğra,aldım,956
+Kıyafetleri katladım ve çekmeceye koydum.,Kıyafetleri katla ve çekmeceye koydum.,suspended_affixation,katladım,katla,koydum,957
+Adana yarışmada birinci oldu ve ödül aldı.,Adana yarışmada birinci ol ve ödül aldı.,suspended_affixation,oldu,ol,aldı,958
+Öncelikle arabayı yıkadım ve cilaladım.,Öncelikle arabayı yıka ve cilaladım.,suspended_affixation,yıkadım,yıka,cilaladım,959
+Bisiklete bindik ve parkta tur attık.,Bisiklete bin ve parkta tur attık.,suspended_affixation,bindik,bin,attık,960
+Ardından kahvaltı hazırladı ve ailesiyle zaman geçirdi.,Ardından kahvaltı hazırla ve ailesiyle zaman geçirdi.,suspended_affixation,hazırladı,hazırla,geçirdi,961
+3 kurabiye pişirdim ve komşulara dağıttım.,3 kurabiye pişir ve komşulara dağıttım.,suspended_affixation,pişirdim,pişir,dağıttım,962
+Önce raftaki kitaplara göz attım ve beğendiğimi aldım.,Önce raftaki kitaplara göz at ve beğendiğimi aldım.,suspended_affixation,attım,at,aldım,963
+Projeyi tamamladık ve sunuma hazırladık.,Projeyi tamamla ve sunuma hazırladık.,suspended_affixation,tamamladık,tamamla,hazırladık,964
+Önce kahvaltı hazırladı ve ailesiyle zaman geçirdi.,Önce kahvaltı hazırla ve ailesiyle zaman geçirdi.,suspended_affixation,hazırladı,hazırla,geçirdi,965
+Ders notlarını temize çektim ve gruba attım.,Ders notlarını temize çek ve gruba attım.,suspended_affixation,çektim,çek,attım,966
+Ben kıyafetleri katladım ve dolaba koydum.,Ben kıyafetleri katla ve dolaba koydum.,suspended_affixation,katladım,katla,koydum,967
+Bugün sabah ufaklığı bakkala gönderdim ve taze ekmek aldırdım.,Bugün sabah ufaklığı bakkala gönder ve taze ekmek aldırdım.,suspended_affixation,gönderdim,gönder,aldırdım,968
+Akşam kuşuma yem verdim ve suyunu tazeledim.,Akşam kuşuma yem ver ve suyunu tazeledim.,suspended_affixation,verdim,ver,tazeledim,969
+Bugün yeni takvimi astım ve önemli tarihleri işaretledim.,Bugün yeni takvimi as ve önemli tarihleri işaretledim.,suspended_affixation,astım,as,işaretledim,970
+Sonra köpeğimi taradım ve tüylerini topladım.,Sonra köpeğimi tara ve tüylerini topladım.,suspended_affixation,taradım,tara,topladım,971
+Bende kaza yaptım ve hastaneye gittim.,Bende kaza yap ve hastaneye gittim.,suspended_affixation,yaptım,yap,gittim,972
+Öncelikle telefonumu şarj ettim ve mesajları kontrol ettim.,Öncelikle telefonumu şarj et ve mesajları kontrol ettim.,suspended_affixation,ettim,et,ettim,973
+Artık spor salonuna kaydoldu ve düzenli gitmeye başladı.,Artık spor salonuna kaydol ve düzenli gitmeye başladı.,suspended_affixation,kaydoldu,kaydol,başladı,974
+Bir kedimi sevdim ve mamasını verdim.,Bir kedimi sev ve mamasını verdim.,suspended_affixation,sevdim,sev,verdim,975
+Bugün çocuklara masal okudum ve uyuttum.,Bugün çocuklara masal oku ve uyuttum.,suspended_affixation,okudum,oku,uyuttum,976
+Bugün yeni tarifi denedim ve çok beğendim.,Bugün yeni tarifi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,977
+4 kediyi veterinere götürdüler ve aşı yaptırdılar.,4 kediyi veterinere götür ve aşı yaptırdılar.,suspended_affixation,götürdüler,götür,yaptırdılar,978
+Yeni tarifi denedim ve çok beğendim.,Yeni tarifi dene ve çok beğendim.,suspended_affixation,denedim,dene,beğendim,979
+Ben yorgun olduğum için yattım ve erkenden uyudum.,Ben yorgun olduğum için yat ve erkenden uyudum.,suspended_affixation,yattım,yat,uyudum,980
+Kıyafetleri katladım ve bavula yerleştirdim.,Kıyafetleri katla ve bavula yerleştirdim.,suspended_affixation,katladım,katla,yerleştirdim,981
+Bütün sınav kağıtlarını okudum ve notlandırdım.,Bütün sınav kağıtlarını oku ve notlandırdım.,suspended_affixation,okudum,oku,notlandırdım,982
+Sabah güzel bir kahve yaptım ve içtim.,Sabah güzel bir kahve yap ve içtim.,suspended_affixation,yaptım,yap,içtim,983
+Yemek yedim ve su içtim.,Yemek ye ve su içtim.,suspended_affixation,yedim,ye,içtim,984
+Ben ders notlarını temize çektim ve gruba attım.,Ben ders notlarını temize çek ve gruba attım.,suspended_affixation,çektim,çek,attım,985
+Mehmet yeni bir iş buldu ve para kazanmaya başladı.,Mehmet yeni bir iş bul ve para kazanmaya başladı.,suspended_affixation,buldu,bul,başladı,986
+Kaza yaptı ve polisi aradı.,Kaza yap ve polisi aradı.,suspended_affixation,yaptı,yap,aradı,987
+Evde kahvaltı hazırladı ve ailesiyle zaman geçirdi.,Evde kahvaltı hazırla ve ailesiyle zaman geçirdi.,suspended_affixation,hazırladı,hazırla,geçirdi,988
+Araştırma raporu hazırladım ve müdüre sundum.,Araştırma raporu hazırla ve müdüre sundum.,suspended_affixation,hazırladım,hazırla,sundum,989
+Ömer yarışa katıldı ve iyi bir derece aldı.,Ömer yarışa katıl ve iyi bir derece aldı.,suspended_affixation,katıldı,katıl,aldı,990
+Çocuklar yemek yaptılar ve misafirleri ağırladılar.,Çocuklar yemek yap ve misafirleri ağırladılar.,suspended_affixation,yaptılar,yap,ağırladılar,991
+İlk konsere bilet aldım ve arkadaşımla gittim.,İlk konsere bilet al ve arkadaşımla gittim.,suspended_affixation,aldım,al,gittim,992
+İlk maçı izledik ve sonucu tartıştık.,İlk maçı izle ve sonucu tartıştık.,suspended_affixation,izledik,izle,tartıştık,993
+İki yemek sipariş ettim ve kapıda ödedim.,İki yemek sipariş et ve kapıda ödedim.,suspended_affixation,ettim,et,ödettim,994
+Bir yürüyüşe çıktı ve manzarayı izledi.,Bir yürüyüşe çık ve manzarayı izledi.,suspended_affixation,çıktı,çık,izledi,995
+Ardından kitapları düzenlediler ve raflara yerleştirdiler.,Ardından kitapları düzenle ve raflara yerleştirdiler.,suspended_affixation,düzenlediler,düzenle,yerleştirdiler,996
+Sonra kıyafetleri katladım ve çekmeceye koydum.,Sonra kıyafetleri katla ve çekmeceye koydum.,suspended_affixation,katladım,katla,koydum,997
+Temel projeyi tamamladık ve sunuma hazırladık.,Temel projeyi tamamla ve sunuma hazırladık.,suspended_affixation,tamamladık,tamamla,hazırladık,998
+İki konser bileti aldım ve arkadaşıma haber verdim.,İki konser bileti al ve arkadaşıma haber verdim.,suspended_affixation,aldım,al,verdim,999
+Öncelikle kedimi veterinere götürdüm ve aşı yaptırdım.,Öncelikle kedimi veterinere götür ve aşı yaptırdım.,suspended_affixation,götürdüm,götür,yaptırdım,1000

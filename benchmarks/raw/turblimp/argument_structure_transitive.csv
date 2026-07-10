@@ -1,0 +1,1001 @@
+sentence_good,sentence_bad,linguistic_phenomenon,good_cue,bad_cue,critical_region,item_id
+Herkes bu olaya çok üzüldüler.,Herkes bu olayı çok üzüldüler.,argument_structure_transitive,olaya,olayı,üzüldüler,1
+İl müdürümüz bize çok kızdı.,İl müdürümüz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,2
+Peki bu müjdeye çok sevindim.,Peki bu müjdeyi çok sevindim.,argument_structure_transitive,müjdeye,müjdeyi,sevindim,3
+Yine bu türküye bayılıyorum.,Yine bu türküyü bayılıyorum.,argument_structure_transitive,türküye,türküyü,bayılıyorum,4
+İşte bu habere çok sevindim.,İşte bu haberi çok sevindim.,argument_structure_transitive,habere,haberi,sevindim,5
+Herkes ona büyük saygı duyuyorum.,Herkes onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,6
+Ve kedim balkondan düştü.,Ve kedim balkonu düştü.,argument_structure_transitive,balkondan,balkonu,düştü,7
+Hemen bu diziye bayılıyoruz.,Hemen bu diziyi bayılıyoruz.,argument_structure_transitive,diziye,diziyi,bayılıyoruz,8
+İşte zorlu bir süreçten sonra elde ettiğin bu başarıya sevindim.,İşte zorlu bir süreçten sonra elde ettiğin bu başarıyı sevindim.,argument_structure_transitive,başarıya,başarıyı,sevindim,9
+Yeni bir işe girdim.,Yeni bir işi girdim.,argument_structure_transitive,işe,işi,girdim,10
+Şube müdürümüz bize çok kızdı.,Şube müdürümüz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,11
+Ve onun tepkisine çok şaşırdım.,Ve onun tepkisini çok şaşırdım.,argument_structure_transitive,tepkisine,tepkisini,şaşırdım,12
+Fakat onun tepkisine çok şaşırdım.,Fakat onun tepkisini çok şaşırdım.,argument_structure_transitive,tepkisine,tepkisini,şaşırdım,13
+Kaba müşteri genç garsonla resmen dalga geçti.,Kaba müşteri genç garsona resmen dalga geçti.,argument_structure_transitive,garsonla,garsona,dalga geçti,14
+Onun doğruyu söylediğine inanıyorum.,Onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,15
+Yalnız sana her zaman güveniyorum.,Yalnız seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,16
+Yaşlı hemşire hanım yaşlı hastayla özel olarak ilgileniyor.,Yaşlı hemşire hanım yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,17
+Annemin sözlerine kulak verdim.,Annemin sözlerini kulak verdim.,argument_structure_transitive,sözlerine,sözlerini,verdim,18
+Yine tatile çıkma fikrine çok ısındım.,Yine tatile çıkma fikrini çok ısındım.,argument_structure_transitive,fikrine,fikrini,ısındım,19
+5- i̇nternette her gördüğün habere körü körüne inanma.,5- i̇nternette her gördüğün haberi körü körüne inanma.,argument_structure_transitive,habere,haberi,inanma,20
+Tatil için Bodrum'da karar kılmışlar.,Tatil için Bodrum'a karar kılmışlar.,argument_structure_transitive,Bodrum'da,Bodrum'a,karar kılmışlar,21
+Gerçekten bu gözlüğü çok beğendim.,Gerçekten bu gözlüğe çok beğendim.,argument_structure_transitive,gözlüğü,gözlüğe,beğendim,22
+Önce annemin sözlerine kulak verdim.,Önce annemin sözlerini kulak verdim.,argument_structure_transitive,sözlerine,sözlerini,verdim,23
+Yine bu konuya çok kafa yordum.,Yine bu konuyu çok kafa yordum.,argument_structure_transitive,konuya,konuyu,yordum,24
+Çünkü ben artık ona sadece gülüyorum.,Çünkü ben artık onu sadece gülüyorum.,argument_structure_transitive,ona,onu,gülüyorum,25
+4- kumara fazla kapılmamalısın.,4- kumarı fazla kapılmamalısın.,argument_structure_transitive,kumara,kumarı,kapılmamalısın,26
+İki arkadaşımın doğum gününü unuttum.,İki arkadaşımın doğum gününe unuttum.,argument_structure_transitive,doğum gününü,doğum gününe,unuttum,27
+Bu soruna çok kafa yordum.,Bu sorunu çok kafa yordum.,argument_structure_transitive,soruna,sorunu,yordum,28
+Yine bu heykellere hayran kaldım.,Yine bu heykelleri hayran kaldım.,argument_structure_transitive,heykellere,heykelleri,hayran kaldım,29
+Şimdi ben artık ona sadece gülüyorum.,Şimdi ben artık onu sadece gülüyorum.,argument_structure_transitive,ona,onu,gülüyorum,30
+İşte annemin sözlerine kulak verdim.,İşte annemin sözlerini kulak verdim.,argument_structure_transitive,sözlerine,sözlerini,verdim,31
+Bu bu fikre sıcak baktı.,Bu bu fikri sıcak baktı.,argument_structure_transitive,fikre,fikri,baktı,32
+Çok gözden kaçan hataya çok üzüldüm.,Çok gözden kaçan hatayı çok üzüldüm.,argument_structure_transitive,hataya,hatayı,üzüldüm,33
+Şimdi yeni projeye başlamaya karar verdiler.,Şimdi yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,34
+Ve köpeğim merdivenlerden düştü.,Ve köpeğim merdivenleri düştü.,argument_structure_transitive,merdivenlerden,merdivenleri,düştü,35
+İnternette her okuduğun şeye körü körüne inanma.,İnternette her okuduğun şeyi körü körüne inanma.,argument_structure_transitive,şeye,şeyi,inanma,36
+Ben bu soruna çok kafa yordum.,Ben bu sorunu çok kafa yordum.,argument_structure_transitive,soruna,sorunu,yordum,37
+Ben babamın öğütlerine kulak verdim.,Ben babamın öğütlerini kulak verdim.,argument_structure_transitive,öğütlerine,öğütlerini,verdim,38
+Valla bu kasabayı çok seviyorum.,Valla bu kasabaya çok seviyorum.,argument_structure_transitive,kasabayı,kasabaya,seviyorum,39
+Ben eşimin kararlarına çok güvenirim.,Ben eşimin kararlarını çok güvenirim.,argument_structure_transitive,kararlarına,kararlarını,güvenirim,40
+Şimdi bu habere çok sevindim.,Şimdi bu haberi çok sevindim.,argument_structure_transitive,habere,haberi,sevindim,41
+En muhalefet partisi erken seçimde hala ısrar ediyor.,En muhalefet partisi erken seçimi hala ısrar ediyor.,argument_structure_transitive,seçimde,seçimi,ısrar ediyor,42
+Hele dün yaptıklarından sonra sana çok kırıldım.,Hele dün yaptıklarından sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,43
+4 muhalefet partisi erken seçimde hala ısrar ediyor.,4 muhalefet partisi erken seçimi hala ısrar ediyor.,argument_structure_transitive,seçimde,seçimi,ısrar ediyor,44
+Sadece onun doğruyu söylediğine inanıyorum.,Sadece onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,45
+Burada hemşire hanım yaşlı hastayla özel olarak ilgileniyor.,Burada hemşire hanım yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,46
+Ben bu heykellere hayran kaldım.,Ben bu heykelleri hayran kaldım.,argument_structure_transitive,heykellere,heykelleri,hayran kaldım,47
+Şimdi bu diziye bayılıyoruz.,Şimdi bu diziyi bayılıyoruz.,argument_structure_transitive,diziye,diziyi,bayılıyoruz,48
+Evet bu konuya çok kafa yordum.,Evet bu konuyu çok kafa yordum.,argument_structure_transitive,konuya,konuyu,yordum,49
+Evet bu yarışmaya günlerce çalıştım.,Evet bu yarışmayı günlerce çalıştım.,argument_structure_transitive,yarışmaya,yarışmayı,çalıştım,50
+Ben bu olaya çok üzüldüler.,Ben bu olayı çok üzüldüler.,argument_structure_transitive,olaya,olayı,üzüldüler,51
+Erdoğan bu olaya çok üzüldüler.,Erdoğan bu olayı çok üzüldüler.,argument_structure_transitive,olaya,olayı,üzüldüler,52
+Ben yarın size de gelirim.,Ben yarın sizi de gelirim.,argument_structure_transitive,size,sizi,gelirim,53
+Artık senin bu tavırlarından bıktım.,Artık senin bu tavırlarına bıktım.,argument_structure_transitive,tavırlarından,tavırlarına,bıktım,54
+Işte bu müjdeye çok sevindim.,Işte bu müjdeyi çok sevindim.,argument_structure_transitive,müjdeye,müjdeyi,sevindim,55
+Bir tatil için Bodrum'da karar kılmışlar.,Bir tatil için Bodrum'a karar kılmışlar.,argument_structure_transitive,Bodrum'da,Bodrum'a,karar kılmışlar,56
+Ayrıca bu projeye çok önem veriyoruz.,Ayrıca bu projeyi çok önem veriyoruz.,argument_structure_transitive,projeye,projeyi,veriyoruz,57
+Valla seni buralarda görmeye son zamanlarda iyice alıştım.,Valla seni buralarda görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,58
+Valla şu yeniliklere oldum olası alışamadım.,Valla şu yenilikleri oldum olası alışamadım.,argument_structure_transitive,yeniliklere,yenilikleri,alışamadım,59
+Fakat dün söylediklerinden sonra sana çok kırıldım.,Fakat dün söylediklerinden sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,60
+Online oyunlara fazla kapılmamalısın.,Online oyunları fazla kapılmamalısın.,argument_structure_transitive,oyunlara,oyunları,kapılmamalısın,61
+Çünkü seni burada görmeye son zamanlarda iyice alıştım.,Çünkü seni burada görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,62
+3- i̇nternette her gördüğün habere körü körüne inanma.,3- i̇nternette her gördüğün haberi körü körüne inanma.,argument_structure_transitive,habere,haberi,inanma,63
+Çünkü bizim kuşumuz komşunun kedisinden baya korkuyormuş.,Çünkü bizim kuşumuz komşunun kedisini baya korkuyormuş.,argument_structure_transitive,kedisinden,kedisini,korkuyormuş,64
+Sadece sana her zaman güveniyorum.,Sadece seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,65
+Bu kasabayı çok seviyorum.,Bu kasabaya çok seviyorum.,argument_structure_transitive,kasabayı,kasabaya,seviyorum,66
+Tüm komşularımla iyi geçiniyorum.,Tüm komşularımı iyi geçiniyorum.,argument_structure_transitive,komşularımla,komşularımı,geçiniyorum,67
+Bir doktor bey yaşlı hastayla özel olarak ilgileniyor.,Bir doktor bey yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,68
+Biz bu projeye çok önem veriyoruz.,Biz bu projeyi çok önem veriyoruz.,argument_structure_transitive,projeye,projeyi,veriyoruz,69
+Ama onun söylediklerine katılıyorum.,Ama onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,70
+Ve onun söylediklerine katılıyorum.,Ve onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,71
+Yalnız şu yeniliklere oldum olası alışamadım.,Yalnız şu yenilikleri oldum olası alışamadım.,argument_structure_transitive,yeniliklere,yenilikleri,alışamadım,72
+Ve babam her zaman bana destek olur.,Ve babam her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,73
+Köpeğim merdivenlerden düştü.,Köpeğim merdivenleri düştü.,argument_structure_transitive,merdivenlerden,merdivenleri,düştü,74
+Bir konsere katılmayı düşünüyorlar.,Bir konsere katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,75
+Benim kedim balkondan düştü.,Benim kedim balkonu düştü.,argument_structure_transitive,balkondan,balkonu,düştü,76
+Ve eşimin kararlarına çok güvenirim.,Ve eşimin kararlarını çok güvenirim.,argument_structure_transitive,kararlarına,kararlarını,güvenirim,77
+7- i̇nternette her okuduğun şeye körü körüne inanma.,7- i̇nternette her okuduğun şeyi körü körüne inanma.,argument_structure_transitive,şeye,şeyi,inanma,78
+Gerçekten bu kitap serisine bayıldım.,Gerçekten bu kitap serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,79
+Sadece sana her zaman güveniyorum.,Sadece seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,80
+O bizim ufaklık sıra arkadaşından baya hoşlanıyormuş.,O bizim ufaklık sıra arkadaşını baya hoşlanıyormuş.,argument_structure_transitive,arkadaşından,arkadaşını,hoşlanıyormuş,81
+Ama babam her zaman bana destek olur.,Ama babam her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,82
+Onlar bu fikre sıcak baktı.,Onlar bu fikri sıcak baktı.,argument_structure_transitive,fikre,fikri,baktı,83
+Evet onun doğruyu söylediğine inanıyorum.,Evet onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,84
+Aslında tatile çıkma fikrine çok ısındım.,Aslında tatile çıkma fikrini çok ısındım.,argument_structure_transitive,fikrine,fikrini,ısındım,85
+Ve köpeğim merdivenlerden düştü.,Ve köpeğim merdivenleri düştü.,argument_structure_transitive,merdivenlerden,merdivenleri,düştü,86
+Ancak onun tepkisine çok şaşırdım.,Ancak onun tepkisini çok şaşırdım.,argument_structure_transitive,tepkisine,tepkisini,şaşırdım,87
+Ve ben artık ona sadece gülüyorum.,Ve ben artık onu sadece gülüyorum.,argument_structure_transitive,ona,onu,gülüyorum,88
+Ben onun söylediklerine katılıyorum.,Ben onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,89
+Ancak bizim kuşumuz komşunun kedisinden baya korkuyormuş.,Ancak bizim kuşumuz komşunun kedisini baya korkuyormuş.,argument_structure_transitive,kedisinden,kedisini,korkuyormuş,90
+Çünkü bu fikre çok önem veriyoruz.,Çünkü bu fikri çok önem veriyoruz.,argument_structure_transitive,fikre,fikri,veriyoruz,91
+Başkan saygısız çalışan yaşlı kadınla resmen alay etti.,Başkan saygısız çalışan yaşlı kadına resmen alay etti.,argument_structure_transitive,kadınla,kadına,alay etti,92
+Hatta onun tepkisine çok şaşırdım.,Hatta onun tepkisini çok şaşırdım.,argument_structure_transitive,tepkisine,tepkisini,şaşırdım,93
+Bir seminere katılmaya karar verdim.,Bir semineri katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,94
+Bunu bütün gece onu düşündüm.,Bunu bütün gece ondan düşündüm.,argument_structure_transitive,onu,ondan,düşündüm,95
+Ben annemin sözlerine kulak verdim.,Ben annemin sözlerini kulak verdim.,argument_structure_transitive,sözlerine,sözlerini,verdim,96
+Bu gözden kaçan detaya çok üzüldüm.,Bu gözden kaçan detayı çok üzüldüm.,argument_structure_transitive,detaya,detayı,üzüldüm,97
+Yalnız şu değişikliklere oldum olası alışamadım.,Yalnız şu değişiklikleri oldum olası alışamadım.,argument_structure_transitive,değişikliklere,değişiklikleri,alışamadım,98
+Şimdi yeni bir hobiye başladık.,Şimdi yeni bir hobiyi başladık.,argument_structure_transitive,hobiye,hobiyi,başladık,99
+Ama ben artık ona sadece gülüyorum.,Ama ben artık onu sadece gülüyorum.,argument_structure_transitive,ona,onu,gülüyorum,100
+Ben bu şarkıya bayılıyorum.,Ben bu şarkıyı bayılıyorum.,argument_structure_transitive,şarkıya,şarkıyı,bayılıyorum,101
+Evet bu diziye bayılıyoruz.,Evet bu diziyi bayılıyoruz.,argument_structure_transitive,diziye,diziyi,bayılıyoruz,102
+Bir gözden kaçan detaya çok üzüldüm.,Bir gözden kaçan detayı çok üzüldüm.,argument_structure_transitive,detaya,detayı,üzüldüm,103
+İşte bu heykellere hayran kaldım.,İşte bu heykelleri hayran kaldım.,argument_structure_transitive,heykellere,heykelleri,hayran kaldım,104
+İki kardeşimin mezuniyetini unuttum.,İki kardeşimin mezuniyetine unuttum.,argument_structure_transitive,mezuniyetini,mezuniyetine,unuttum,105
+Evet yeni bir işe girdim.,Evet yeni bir işi girdim.,argument_structure_transitive,işe,işi,girdim,106
+Ayrıca ona büyük saygı duyuyorum.,Ayrıca onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,107
+Evet bu türküye bayılıyorum.,Evet bu türküyü bayılıyorum.,argument_structure_transitive,türküye,türküyü,bayılıyorum,108
+Ben bu yarışmaya günlerce çalıştım.,Ben bu yarışmayı günlerce çalıştım.,argument_structure_transitive,yarışmaya,yarışmayı,çalıştım,109
+Sadece eşimin zevkine çok güvenirim.,Sadece eşimin zevkini çok güvenirim.,argument_structure_transitive,zevkine,zevkini,güvenirim,110
+Ve eşimin zevkine çok güvenirim.,Ve eşimin zevkini çok güvenirim.,argument_structure_transitive,zevkine,zevkini,güvenirim,111
+Onlar yeni projeye başlamaya karar verdiler.,Onlar yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,112
+Anne babam her zaman bana destek olur.,Anne babam her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,113
+Ben sana her zaman güveniyorum.,Ben seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,114
+Bu bütün gece onu düşündüm.,Bu bütün gece ondan düşündüm.,argument_structure_transitive,onu,ondan,düşündüm,115
+Ve tatile çıkma fikrine çok ısındım.,Ve tatile çıkma fikrini çok ısındım.,argument_structure_transitive,fikrine,fikrini,ısındım,116
+Fakat kaba müşteri genç garsonla resmen dalga geçti.,Fakat kaba müşteri genç garsona resmen dalga geçti.,argument_structure_transitive,garsonla,garsona,dalga geçti,117
+Aslında onun söylediklerine katılıyorum.,Aslında onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,118
+Ama seni buralarda görmeye son zamanlarda iyice alıştım.,Ama seni buralarda görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,119
+İşte bu şarkıya bayılıyorum.,İşte bu şarkıyı bayılıyorum.,argument_structure_transitive,şarkıya,şarkıyı,bayılıyorum,120
+Ayrıca akrabalarımla iyi geçiniyorum.,Ayrıca akrabalarımı iyi geçiniyorum.,argument_structure_transitive,akrabalarımla,akrabalarımı,geçiniyorum,121
+Bu sınava günlerce çalıştım.,Bu sınavı günlerce çalıştım.,argument_structure_transitive,sınava,sınavı,çalıştım,122
+Ben bütün gece onu düşündüm.,Ben bütün gece ondan düşündüm.,argument_structure_transitive,onu,ondan,düşündüm,123
+Çok zorlu bir süreçten sonra elde ettiğin bu başarıya sevindim.,Çok zorlu bir süreçten sonra elde ettiğin bu başarıyı sevindim.,argument_structure_transitive,başarıya,başarıyı,sevindim,124
+Valla bu şehri çok seviyorum.,Valla bu şehre çok seviyorum.,argument_structure_transitive,şehri,şehre,seviyorum,125
+Sonra babamın öğütlerine kulak verdim.,Sonra babamın öğütlerini kulak verdim.,argument_structure_transitive,öğütlerine,öğütlerini,verdim,126
+Yeni oyunlara fazla kapılmamalısın.,Yeni oyunları fazla kapılmamalısın.,argument_structure_transitive,oyunlara,oyunları,kapılmamalısın,127
+İlk balayı için Urla'da karar kılmışlar.,İlk balayı için Urla'ya karar kılmışlar.,argument_structure_transitive,Urla'da,Urla'ya,karar kılmışlar,128
+Bu kaba müşteri genç garsonla resmen dalga geçti.,Bu kaba müşteri genç garsona resmen dalga geçti.,argument_structure_transitive,garsonla,garsona,dalga geçti,129
+</s> etkinliğe katılmayı düşünüyorlar.,</s> etkinliğe katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,130
+Onlar yeni projeye başlamaya karar verdiler.,Onlar yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,131
+Biz konsere katılmayı düşünüyorlar.,Biz konsere katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,132
+Bu son duruma çok şaşırdım.,Bu son durumu çok şaşırdım.,argument_structure_transitive,duruma,durumu,şaşırdım,133
+Arkadaşlar yeni bir hobiye başladık.,Arkadaşlar yeni bir hobiyi başladık.,argument_structure_transitive,hobiye,hobiyi,başladık,134
+Hükümet bu fikre sıcak baktı.,Hükümet bu fikri sıcak baktı.,argument_structure_transitive,fikre,fikri,baktı,135
+Benim köpeğim merdivenlerden düştü.,Benim köpeğim merdivenleri düştü.,argument_structure_transitive,merdivenlerden,merdivenleri,düştü,136
+Merhaba yarın size de gelirim.,Merhaba yarın sizi de gelirim.,argument_structure_transitive,size,sizi,gelirim,137
+İşte dün söylediklerinden sonra sana çok kırıldım.,İşte dün söylediklerinden sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,138
+Eşimin kararlarına çok güvenirim.,Eşimin kararlarını çok güvenirim.,argument_structure_transitive,kararlarına,kararlarını,güvenirim,139
+Ben ona koşulsuz destek oluyorum.,Ben onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,140
+Bu gözden kaçan detaya çok üzüldüm.,Bu gözden kaçan detayı çok üzüldüm.,argument_structure_transitive,detaya,detayı,üzüldüm,141
+Ah bu şarkıya bayılıyorum.,Ah bu şarkıyı bayılıyorum.,argument_structure_transitive,şarkıya,şarkıyı,bayılıyorum,142
+Çok bu konuya çok kafa yordum.,Çok bu konuyu çok kafa yordum.,argument_structure_transitive,konuya,konuyu,yordum,143
+O gözden kaçan hataya çok üzüldüm.,O gözden kaçan hatayı çok üzüldüm.,argument_structure_transitive,hataya,hatayı,üzüldüm,144
+Fakat son duruma çok şaşırdım.,Fakat son durumu çok şaşırdım.,argument_structure_transitive,duruma,durumu,şaşırdım,145
+Yalnız eşimin zevkine çok güvenirim.,Yalnız eşimin zevkini çok güvenirim.,argument_structure_transitive,zevkine,zevkini,güvenirim,146
+Trump bu öneriye sıcak baktı.,Trump bu öneriyi sıcak baktı.,argument_structure_transitive,öneriye,öneriyi,baktı,147
+Bu tatile çıkma planına çok ısındım.,Bu tatile çıkma planını çok ısındım.,argument_structure_transitive,planına,planını,ısındım,148
+Ve bu şehri çok seviyorum.,Ve bu şehre çok seviyorum.,argument_structure_transitive,şehri,şehre,seviyorum,149
+Ve sana her zaman güveniyorum.,Ve seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,150
+Arkadaşlar akrabalarımla iyi geçiniyorum.,Arkadaşlar akrabalarımı iyi geçiniyorum.,argument_structure_transitive,akrabalarımla,akrabalarımı,geçiniyorum,151
+Fakat bizim ufaklık sıra arkadaşından baya hoşlanıyormuş.,Fakat bizim ufaklık sıra arkadaşını baya hoşlanıyormuş.,argument_structure_transitive,arkadaşından,arkadaşını,hoşlanıyormuş,152
+Sonra tatile çıkma planına çok ısındım.,Sonra tatile çıkma planını çok ısındım.,argument_structure_transitive,planına,planını,ısındım,153
+Ben seni burada görmeye son zamanlarda iyice alıştım.,Ben seni burada görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,154
+Bir konferansa katılmaya karar verdim.,Bir konferansı katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,155
+Çocuklar bu duruma çok üzüldüler.,Çocuklar bu durumu çok üzüldüler.,argument_structure_transitive,duruma,durumu,üzüldüler,156
+Konsere katılmayı düşünüyorlar.,Konsere katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,157
+Matematik öğretmenimiz bize çok kızdı.,Matematik öğretmenimiz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,158
+Ben yarın onlara da uğrarım.,Ben yarın onları da uğrarım.,argument_structure_transitive,onlara,onları,uğrarım,159
+Benim bu kitap serisine bayıldım.,Benim bu kitap serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,160
+Sevgili babam her zaman bana destek olur.,Sevgili babam her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,161
+Zorlu bir süreçten sonra elde ettiğin bu başarıya sevindim.,Zorlu bir süreçten sonra elde ettiğin bu başarıyı sevindim.,argument_structure_transitive,başarıya,başarıyı,sevindim,162
+Ayrıca onun söylediklerine katılıyorum.,Ayrıca onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,163
+Fakat onun cevabına çok şaşırdım.,Fakat onun cevabını çok şaşırdım.,argument_structure_transitive,cevabına,cevabını,şaşırdım,164
+Başbakan bu öneriye sıcak baktı.,Başbakan bu öneriyi sıcak baktı.,argument_structure_transitive,öneriye,öneriyi,baktı,165
+Tüm akrabalarımla iyi geçiniyorum.,Tüm akrabalarımı iyi geçiniyorum.,argument_structure_transitive,akrabalarımla,akrabalarımı,geçiniyorum,166
+Bu yarışmaya günlerce çalıştım.,Bu yarışmayı günlerce çalıştım.,argument_structure_transitive,yarışmaya,yarışmayı,çalıştım,167
+İşte onun cevabına çok şaşırdım.,İşte onun cevabını çok şaşırdım.,argument_structure_transitive,cevabına,cevabını,şaşırdım,168
+Seni buralarda görmeye son zamanlarda iyice alıştım.,Seni buralarda görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,169
+Türkiye bu olaya çok üzüldüler.,Türkiye bu olayı çok üzüldüler.,argument_structure_transitive,olaya,olayı,üzüldüler,170
+Bir seminere katılmaya karar verdim.,Bir semineri katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,171
+Çok bu gözlüğü çok beğendim.,Çok bu gözlüğe çok beğendim.,argument_structure_transitive,gözlüğü,gözlüğe,beğendim,172
+Yeni bir kursa girdim.,Yeni bir kursu girdim.,argument_structure_transitive,kursa,kursu,girdim,173
+Yine annemin sözlerine kulak verdim.,Yine annemin sözlerini kulak verdim.,argument_structure_transitive,sözlerine,sözlerini,verdim,174
+Fakat şu değişikliklere oldum olası alışamadım.,Fakat şu değişiklikleri oldum olası alışamadım.,argument_structure_transitive,değişikliklere,değişiklikleri,alışamadım,175
+Bu seminere katılmaya karar verdim.,Bu semineri katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,176
+Bugün yeni bir işe girdim.,Bugün yeni bir işi girdim.,argument_structure_transitive,işe,işi,girdim,177
+Dün bu konuya çok kafa yordum.,Dün bu konuyu çok kafa yordum.,argument_structure_transitive,konuya,konuyu,yordum,178
+İkinci balayı için Urla'da karar kılmışlar.,İkinci balayı için Urla'ya karar kılmışlar.,argument_structure_transitive,Urla'da,Urla'ya,karar kılmışlar,179
+Uzun tatil için Bodrum'da karar kılmışlar.,Uzun tatil için Bodrum'a karar kılmışlar.,argument_structure_transitive,Bodrum'da,Bodrum'a,karar kılmışlar,180
+Ben ona büyük saygı duyuyorum.,Ben onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,181
+Herkes bu duruma çok üzüldüler.,Herkes bu durumu çok üzüldüler.,argument_structure_transitive,duruma,durumu,üzüldüler,182
+Ancak onun cevabına çok şaşırdım.,Ancak onun cevabını çok şaşırdım.,argument_structure_transitive,cevabına,cevabını,şaşırdım,183
+Ben ona büyük saygı duyuyorum.,Ben onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,184
+Özellikle tatile çıkma planına çok ısındım.,Özellikle tatile çıkma planını çok ısındım.,argument_structure_transitive,planına,planını,ısındım,185
+5- i̇nternette her okuduğun şeye körü körüne inanma.,5- i̇nternette her okuduğun şeyi körü körüne inanma.,argument_structure_transitive,şeye,şeyi,inanma,186
+2- i̇nternette her okuduğun şeye körü körüne inanma.,2- i̇nternette her okuduğun şeyi körü körüne inanma.,argument_structure_transitive,şeye,şeyi,inanma,187
+Onu bütün gece onu düşündüm.,Onu bütün gece ondan düşündüm.,argument_structure_transitive,onu,ondan,düşündüm,188
+Sonra yeni bir hobiye başladık.,Sonra yeni bir hobiyi başladık.,argument_structure_transitive,hobiye,hobiyi,başladık,189
+Bir kumara fazla kapılmamalısın.,Bir kumarı fazla kapılmamalısın.,argument_structure_transitive,kumara,kumarı,kapılmamalısın,190
+Ancak kaba müşteri genç garsonla resmen dalga geçti.,Ancak kaba müşteri genç garsona resmen dalga geçti.,argument_structure_transitive,garsonla,garsona,dalga geçti,191
+Ben bu gözlüğü çok beğendim.,Ben bu gözlüğe çok beğendim.,argument_structure_transitive,gözlüğü,gözlüğe,beğendim,192
+Ama bu kitap serisine bayıldım.,Ama bu kitap serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,193
+Fakat bizim kuşumuz komşunun kedisinden baya korkuyormuş.,Fakat bizim kuşumuz komşunun kedisini baya korkuyormuş.,argument_structure_transitive,kedisinden,kedisini,korkuyormuş,194
+Ve zorlu bir maratondan sonra elde ettiğin bu zafere sevindim.,Ve zorlu bir maratondan sonra elde ettiğin bu zaferi sevindim.,argument_structure_transitive,zafere,zaferi,sevindim,195
+Evet bu kitap serisine bayıldım.,Evet bu kitap serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,196
+Ben ona büyük saygı duyuyorum.,Ben onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,197
+Diğer akrabalarımla iyi geçiniyorum.,Diğer akrabalarımı iyi geçiniyorum.,argument_structure_transitive,akrabalarımla,akrabalarımı,geçiniyorum,198
+Eğitim müdürümüz bize çok kızdı.,Eğitim müdürümüz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,199
+Öncelikle bu tabloya hayran kaldım.,Öncelikle bu tabloyu hayran kaldım.,argument_structure_transitive,tabloya,tabloyu,hayran kaldım,200
+Bu bu olaya çok üzüldüler.,Bu bu olayı çok üzüldüler.,argument_structure_transitive,olaya,olayı,üzüldüler,201
+Arkadaşlar bu sınava günlerce çalıştım.,Arkadaşlar bu sınavı günlerce çalıştım.,argument_structure_transitive,sınava,sınavı,çalıştım,202
+Ayrıca bu kasabayı çok seviyorum.,Ayrıca bu kasabaya çok seviyorum.,argument_structure_transitive,kasabayı,kasabaya,seviyorum,203
+Ben yeni bir kursa girdim.,Ben yeni bir kursu girdim.,argument_structure_transitive,kursa,kursu,girdim,204
+Dün yaptıklarından sonra sana çok kırıldım.,Dün yaptıklarından sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,205
+Aslında şu değişikliklere oldum olası alışamadım.,Aslında şu değişiklikleri oldum olası alışamadım.,argument_structure_transitive,değişikliklere,değişiklikleri,alışamadım,206
+Bütün gün seni düşündüm.,Bütün gün senden düşündüm.,argument_structure_transitive,seni,senden,düşündüm,207
+Bu konsere katılmayı düşünüyorlar.,Bu konsere katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,208
+İki köpeğim merdivenlerden düştü.,İki köpeğim merdivenleri düştü.,argument_structure_transitive,merdivenlerden,merdivenleri,düştü,209
+Sonra kedim balkondan düştü.,Sonra kedim balkonu düştü.,argument_structure_transitive,balkondan,balkonu,düştü,210
+Ben ona koşulsuz destek oluyorum.,Ben onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,211
+7- i̇nternette her gördüğün habere körü körüne inanma.,7- i̇nternette her gördüğün haberi körü körüne inanma.,argument_structure_transitive,habere,haberi,inanma,212
+Ve senin bu hallerinden bıktım.,Ve senin bu hallerine bıktım.,argument_structure_transitive,hallerinden,hallerine,bıktım,213
+Ve bu heykellere hayran kaldım.,Ve bu heykelleri hayran kaldım.,argument_structure_transitive,heykellere,heykelleri,hayran kaldım,214
+Yine onun cevabına çok şaşırdım.,Yine onun cevabını çok şaşırdım.,argument_structure_transitive,cevabına,cevabını,şaşırdım,215
+Bende bu saati çok beğendim.,Bende bu saate çok beğendim.,argument_structure_transitive,saati,saate,beğendim,216
+Küçük oyunlara fazla kapılmamalısın.,Küçük oyunları fazla kapılmamalısın.,argument_structure_transitive,oyunlara,oyunları,kapılmamalısın,217
+İşte zorlu bir maratondan sonra elde ettiğin bu zafere sevindim.,İşte zorlu bir maratondan sonra elde ettiğin bu zaferi sevindim.,argument_structure_transitive,zafere,zaferi,sevindim,218
+O konferansa katılmaya karar verdim.,O konferansı katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,219
+Sevgili eda hediyesine resmen bayıldı.,Sevgili eda hediyesini resmen bayıldı.,argument_structure_transitive,hediyesine,hediyesini,bayıldı,220
+Sen dün söylediklerinden sonra sana çok kırıldım.,Sen dün söylediklerinden sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,221
+Sonra onun cevabına çok şaşırdım.,Sonra onun cevabını çok şaşırdım.,argument_structure_transitive,cevabına,cevabını,şaşırdım,222
+Onlar bu duruma çok üzüldüler.,Onlar bu durumu çok üzüldüler.,argument_structure_transitive,duruma,durumu,üzüldüler,223
+Ve annem her zaman bana destek olur.,Ve annem her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,224
+Sonra tatile çıkma fikrine çok ısındım.,Sonra tatile çıkma fikrini çok ısındım.,argument_structure_transitive,fikrine,fikrini,ısındım,225
+Sonra annemin sözlerine kulak verdim.,Sonra annemin sözlerini kulak verdim.,argument_structure_transitive,sözlerine,sözlerini,verdim,226
+Bu gözden kaçan hataya çok üzüldüm.,Bu gözden kaçan hatayı çok üzüldüm.,argument_structure_transitive,hataya,hatayı,üzüldüm,227
+Artık bu filme bayılıyoruz.,Artık bu filmi bayılıyoruz.,argument_structure_transitive,filme,filmi,bayılıyoruz,228
+Ona koşulsuz destek oluyorum.,Onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,229
+Ve yarın size de gelirim.,Ve yarın sizi de gelirim.,argument_structure_transitive,size,sizi,gelirim,230
+Anne eda hediyesine resmen bayıldı.,Anne eda hediyesini resmen bayıldı.,argument_structure_transitive,hediyesine,hediyesini,bayıldı,231
+Ve annemin sözlerine kulak verdim.,Ve annemin sözlerini kulak verdim.,argument_structure_transitive,sözlerine,sözlerini,verdim,232
+Güzel tatil için Bodrum'da karar kılmışlar.,Güzel tatil için Bodrum'a karar kılmışlar.,argument_structure_transitive,Bodrum'da,Bodrum'a,karar kılmışlar,233
+Herkes bu öneriye sıcak baktı.,Herkes bu öneriyi sıcak baktı.,argument_structure_transitive,öneriye,öneriyi,baktı,234
+Ben tartışmaya girmeyi sevmem.,Ben tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,235
+Ama bizim ufaklık sıra arkadaşından baya hoşlanıyormuş.,Ama bizim ufaklık sıra arkadaşını baya hoşlanıyormuş.,argument_structure_transitive,arkadaşından,arkadaşını,hoşlanıyormuş,236
+Yine bu soruna çok kafa yordum.,Yine bu sorunu çok kafa yordum.,argument_structure_transitive,soruna,sorunu,yordum,237
+• i̇nternette her gördüğün habere körü körüne inanma.,• i̇nternette her gördüğün haberi körü körüne inanma.,argument_structure_transitive,habere,haberi,inanma,238
+Aslında tartışmaya girmeyi sevmem.,Aslında tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,239
+Ben bu gözlüğü çok beğendim.,Ben bu gözlüğe çok beğendim.,argument_structure_transitive,gözlüğü,gözlüğe,beğendim,240
+Evet onun söylediklerine katılıyorum.,Evet onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,241
+Ama ona büyük saygı duyuyorum.,Ama onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,242
+Ama onun doğruyu söylediğine inanıyorum.,Ama onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,243
+Ama dün söylediklerinden sonra sana çok kırıldım.,Ama dün söylediklerinden sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,244
+Kısa tatil için Bodrum'da karar kılmışlar.,Kısa tatil için Bodrum'a karar kılmışlar.,argument_structure_transitive,Bodrum'da,Bodrum'a,karar kılmışlar,245
+Ve yarın onlara da uğrarım.,Ve yarın onları da uğrarım.,argument_structure_transitive,onlara,onları,uğrarım,246
+Ama tartışmaya girmeyi sevmem.,Ama tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,247
+Ben son duruma çok şaşırdım.,Ben son durumu çok şaşırdım.,argument_structure_transitive,duruma,durumu,şaşırdım,248
+Bugün bu filme bayılıyoruz.,Bugün bu filmi bayılıyoruz.,argument_structure_transitive,filme,filmi,bayılıyoruz,249
+3. kumara fazla kapılmamalısın.,3. kumarı fazla kapılmamalısın.,argument_structure_transitive,kumara,kumarı,kapılmamalısın,250
+Ben bu heykellere hayran kaldım.,Ben bu heykelleri hayran kaldım.,argument_structure_transitive,heykellere,heykelleri,hayran kaldım,251
+Ben onun cevabına çok şaşırdım.,Ben onun cevabını çok şaşırdım.,argument_structure_transitive,cevabına,cevabını,şaşırdım,252
+Ama şu değişikliklere oldum olası alışamadım.,Ama şu değişiklikleri oldum olası alışamadım.,argument_structure_transitive,değişikliklere,değişiklikleri,alışamadım,253
+O gözden kaçan detaya çok üzüldüm.,O gözden kaçan detayı çok üzüldüm.,argument_structure_transitive,detaya,detayı,üzüldüm,254
+Özellikle bu gözlüğü çok beğendim.,Özellikle bu gözlüğe çok beğendim.,argument_structure_transitive,gözlüğü,gözlüğe,beğendim,255
+Bende bu şarkıya bayılıyorum.,Bende bu şarkıyı bayılıyorum.,argument_structure_transitive,şarkıya,şarkıyı,bayılıyorum,256
+Artık senin bu hallerinden bıktım.,Artık senin bu hallerine bıktım.,argument_structure_transitive,hallerinden,hallerine,bıktım,257
+Hemşire hanım yaşlı hastayla özel olarak ilgileniyor.,Hemşire hanım yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,258
+Ancak dün yaptıklarından sonra sana çok kırıldım.,Ancak dün yaptıklarından sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,259
+Ve ben artık sana sadece acıyorum.,Ve ben artık seni sadece acıyorum.,argument_structure_transitive,sana,seni,acıyorum,260
+Polisi saygısız çalışan yaşlı kadınla resmen alay etti.,Polisi saygısız çalışan yaşlı kadına resmen alay etti.,argument_structure_transitive,kadınla,kadına,alay etti,261
+Kız kardeşimin mezuniyetini unuttum.,Kız kardeşimin mezuniyetine unuttum.,argument_structure_transitive,mezuniyetini,mezuniyetine,unuttum,262
+Ama senin bu tavırlarından bıktım.,Ama senin bu tavırlarına bıktım.,argument_structure_transitive,tavırlarından,tavırlarına,bıktım,263
+Merhaba yeni bir spora başladık.,Merhaba yeni bir sporu başladık.,argument_structure_transitive,spora,sporu,başladık,264
+Artık bu diziye bayılıyoruz.,Artık bu diziyi bayılıyoruz.,argument_structure_transitive,diziye,diziyi,bayılıyoruz,265
+İşte son gelişmeye çok şaşırdım.,İşte son gelişmeyi çok şaşırdım.,argument_structure_transitive,gelişmeye,gelişmeyi,şaşırdım,266
+Bu saati çok beğendim.,Bu saate çok beğendim.,argument_structure_transitive,saati,saate,beğendim,267
+Çünkü ona koşulsuz destek oluyorum.,Çünkü onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,268
+Hangi etkinliğe katılmayı düşünüyorlar.,Hangi etkinliğe katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,269
+Ama bu gözlüğü çok beğendim.,Ama bu gözlüğe çok beğendim.,argument_structure_transitive,gözlüğü,gözlüğe,beğendim,270
+Sabah tatile çıkma planına çok ısındım.,Sabah tatile çıkma planını çok ısındım.,argument_structure_transitive,planına,planını,ısındım,271
+Gerçekten bu türküye bayılıyorum.,Gerçekten bu türküyü bayılıyorum.,argument_structure_transitive,türküye,türküyü,bayılıyorum,272
+Ama sana her zaman güveniyorum.,Ama seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,273
+Bu etkinliğe katılmayı düşünüyorlar.,Bu etkinliğe katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,274
+Erdoğan bu duruma çok üzüldüler.,Erdoğan bu durumu çok üzüldüler.,argument_structure_transitive,duruma,durumu,üzüldüler,275
+Ünlü eda yeni elbisesine resmen hayran kaldı.,Ünlü eda yeni elbisesini resmen hayran kaldı.,argument_structure_transitive,elbisesine,elbisesini,hayran kaldı,276
+Şu oyunlara fazla kapılmamalısın.,Şu oyunları fazla kapılmamalısın.,argument_structure_transitive,oyunlara,oyunları,kapılmamalısın,277
+Herkes ona büyük saygı duyuyorum.,Herkes onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,278
+Tek gözden kaçan detaya çok üzüldüm.,Tek gözden kaçan detayı çok üzüldüm.,argument_structure_transitive,detaya,detayı,üzüldüm,279
+Bir köpeğim merdivenlerden düştü.,Bir köpeğim merdivenleri düştü.,argument_structure_transitive,merdivenlerden,merdivenleri,düştü,280
+Ve zorlu bir süreçten sonra elde ettiğin bu başarıya sevindim.,Ve zorlu bir süreçten sonra elde ettiğin bu başarıyı sevindim.,argument_structure_transitive,başarıya,başarıyı,sevindim,281
+Ben kedim balkondan düştü.,Ben kedim balkonu düştü.,argument_structure_transitive,balkondan,balkonu,düştü,282
+İşte bu diziye bayılıyoruz.,İşte bu diziyi bayılıyoruz.,argument_structure_transitive,diziye,diziyi,bayılıyoruz,283
+Uluslararası konferansa katılmaya karar verdim.,Uluslararası konferansı katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,284
+Ben bu saati çok beğendim.,Ben bu saate çok beğendim.,argument_structure_transitive,saati,saate,beğendim,285
+Bir yeni projeye başlamaya karar verdiler.,Bir yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,286
+Sonra bu konuya çok kafa yordum.,Sonra bu konuyu çok kafa yordum.,argument_structure_transitive,konuya,konuyu,yordum,287
+Ben yeni bir işe girdim.,Ben yeni bir işi girdim.,argument_structure_transitive,işe,işi,girdim,288
+Arkadaşımın doğum gününü unuttum.,Arkadaşımın doğum gününe unuttum.,argument_structure_transitive,doğum gününü,doğum gününe,unuttum,289
+Ayrıca eşimin kararlarına çok güvenirim.,Ayrıca eşimin kararlarını çok güvenirim.,argument_structure_transitive,kararlarına,kararlarını,güvenirim,290
+Ancak eşimin kararlarına çok güvenirim.,Ancak eşimin kararlarını çok güvenirim.,argument_structure_transitive,kararlarına,kararlarını,güvenirim,291
+Ah bu türküye bayılıyorum.,Ah bu türküyü bayılıyorum.,argument_structure_transitive,türküye,türküyü,bayılıyorum,292
+Da etkinliğe katılmayı düşünüyorlar.,Da etkinliğe katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,293
+Yeni komşularımla iyi geçiniyorum.,Yeni komşularımı iyi geçiniyorum.,argument_structure_transitive,komşularımla,komşularımı,geçiniyorum,294
+Hadi bu diziye bayılıyoruz.,Hadi bu diziyi bayılıyoruz.,argument_structure_transitive,diziye,diziyi,bayılıyoruz,295
+Bu bizim ufaklık sıra arkadaşından baya hoşlanıyormuş.,Bu bizim ufaklık sıra arkadaşını baya hoşlanıyormuş.,argument_structure_transitive,arkadaşından,arkadaşını,hoşlanıyormuş,296
+Ben onun söylediklerine katılıyorum.,Ben onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,297
+Bende bu kitap serisine bayıldım.,Bende bu kitap serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,298
+Senin bu tavırlarından bıktım.,Senin bu tavırlarına bıktım.,argument_structure_transitive,tavırlarından,tavırlarına,bıktım,299
+Gerçekten bu film serisine bayıldım.,Gerçekten bu film serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,300
+3- kumara fazla kapılmamalısın.,3- kumarı fazla kapılmamalısın.,argument_structure_transitive,kumara,kumarı,kapılmamalısın,301
+Sevgili kardeşimin mezuniyetini unuttum.,Sevgili kardeşimin mezuniyetine unuttum.,argument_structure_transitive,mezuniyetini,mezuniyetine,unuttum,302
+İki yeni projeye başlamaya karar verdiler.,İki yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,303
+Bende bu film serisine bayıldım.,Bende bu film serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,304
+Senin bu hallerinden bıktım.,Senin bu hallerine bıktım.,argument_structure_transitive,hallerinden,hallerine,bıktım,305
+Ve yeni bir hobiye başladık.,Ve yeni bir hobiyi başladık.,argument_structure_transitive,hobiye,hobiyi,başladık,306
+Sonra bütün gece onu düşündüm.,Sonra bütün gece ondan düşündüm.,argument_structure_transitive,onu,ondan,düşündüm,307
+3. i̇nternette her okuduğun şeye körü körüne inanma.,3. i̇nternette her okuduğun şeyi körü körüne inanma.,argument_structure_transitive,şeye,şeyi,inanma,308
+Ama ben artık sana sadece acıyorum.,Ama ben artık seni sadece acıyorum.,argument_structure_transitive,sana,seni,acıyorum,309
+Şimdi yeni projeye başlamaya karar verdiler.,Şimdi yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,310
+Polis saygısız çalışan yaşlı kadınla resmen alay etti.,Polis saygısız çalışan yaşlı kadına resmen alay etti.,argument_structure_transitive,kadınla,kadına,alay etti,311
+İşte bu filme bayılıyoruz.,İşte bu filmi bayılıyoruz.,argument_structure_transitive,filme,filmi,bayılıyoruz,312
+Bu kitap serisine bayıldım.,Bu kitap serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,313
+Ben artık sana sadece acıyorum.,Ben artık seni sadece acıyorum.,argument_structure_transitive,sana,seni,acıyorum,314
+Sayın müdürümüz bize çok kızdı.,Sayın müdürümüz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,315
+Ayrıca onun söylediklerine katılıyorum.,Ayrıca onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,316
+Büyük balayı için Urla'da karar kılmışlar.,Büyük balayı için Urla'ya karar kılmışlar.,argument_structure_transitive,Urla'da,Urla'ya,karar kılmışlar,317
+Yeni projeye başlamaya karar verdiler.,Yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,318
+4- i̇nternette her okuduğun şeye körü körüne inanma.,4- i̇nternette her okuduğun şeyi körü körüne inanma.,argument_structure_transitive,şeye,şeyi,inanma,319
+Benim babam her zaman bana destek olur.,Benim babam her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,320
+Ve zorlu bir süreçten sonra elde ettiğin bu başarıya sevindim.,Ve zorlu bir süreçten sonra elde ettiğin bu başarıyı sevindim.,argument_structure_transitive,başarıya,başarıyı,sevindim,321
+Ve onun doğruyu söylediğine inanıyorum.,Ve onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,322
+Oyunlara fazla kapılmamalısın.,Oyunları fazla kapılmamalısın.,argument_structure_transitive,oyunlara,oyunları,kapılmamalısın,323
+Öğrenciler bu fikre sıcak baktı.,Öğrenciler bu fikri sıcak baktı.,argument_structure_transitive,fikre,fikri,baktı,324
+Bu yeni projeye başlamaya karar verdiler.,Bu yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,325
+Arkadaşlar bu yarışmaya günlerce çalıştım.,Arkadaşlar bu yarışmayı günlerce çalıştım.,argument_structure_transitive,yarışmaya,yarışmayı,çalıştım,326
+Annem her zaman bana destek olur.,Annem her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,327
+Bu bu duruma çok üzüldüler.,Bu bu durumu çok üzüldüler.,argument_structure_transitive,duruma,durumu,üzüldüler,328
+Bir kedim balkondan düştü.,Bir kedim balkonu düştü.,argument_structure_transitive,balkondan,balkonu,düştü,329
+Emniyet müdürümüz bize çok kızdı.,Emniyet müdürümüz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,330
+</s> eda hediyesine resmen bayıldı.,</s> eda hediyesini resmen bayıldı.,argument_structure_transitive,hediyesine,hediyesini,bayıldı,331
+Sonra yeni projeye başlamaya karar verdiler.,Sonra yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,332
+Ama hükümet partisi yeni yasada hala ısrar ediyor.,Ama hükümet partisi yeni yasayı hala ısrar ediyor.,argument_structure_transitive,yasada,yasayı,ısrar ediyor,333
+Ve ona büyük saygı duyuyorum.,Ve onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,334
+Benim gözden kaçan hataya çok üzüldüm.,Benim gözden kaçan hatayı çok üzüldüm.,argument_structure_transitive,hataya,hatayı,üzüldüm,335
+Bir tartışmaya girmeyi sevmem.,Bir tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,336
+Sadece sana her zaman güveniyorum.,Sadece seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,337
+Onun söylediklerine katılıyorum.,Onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,338
+Ben annem her zaman bana destek olur.,Ben annem her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,339
+Nur eda yeni elbisesine resmen hayran kaldı.,Nur eda yeni elbisesini resmen hayran kaldı.,argument_structure_transitive,elbisesine,elbisesini,hayran kaldı,340
+Eda hediyesine resmen bayıldı.,Eda hediyesini resmen bayıldı.,argument_structure_transitive,hediyesine,hediyesini,bayıldı,341
+Yeni bir hobiye başladık.,Yeni bir hobiyi başladık.,argument_structure_transitive,hobiye,hobiyi,başladık,342
+Biz bu diziye bayılıyoruz.,Biz bu diziyi bayılıyoruz.,argument_structure_transitive,diziye,diziyi,bayılıyoruz,343
+Saygısız çalışan yaşlı kadınla resmen alay etti.,Saygısız çalışan yaşlı kadına resmen alay etti.,argument_structure_transitive,kadınla,kadına,alay etti,344
+Şu gözden kaçan detaya çok üzüldüm.,Şu gözden kaçan detayı çok üzüldüm.,argument_structure_transitive,detaya,detayı,üzüldüm,345
+Sadece eşimin zevkine çok güvenirim.,Sadece eşimin zevkini çok güvenirim.,argument_structure_transitive,zevkine,zevkini,güvenirim,346
+Komşularımla iyi geçiniyorum.,Komşularımı iyi geçiniyorum.,argument_structure_transitive,komşularımla,komşularımı,geçiniyorum,347
+Okul müdürümüz bize çok kızdı.,Okul müdürümüz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,348
+Ve bu müjdeye çok sevindim.,Ve bu müjdeyi çok sevindim.,argument_structure_transitive,müjdeye,müjdeyi,sevindim,349
+Sonra kedim balkondan düştü.,Sonra kedim balkonu düştü.,argument_structure_transitive,balkondan,balkonu,düştü,350
+Ama bu kasabayı çok seviyorum.,Ama bu kasabaya çok seviyorum.,argument_structure_transitive,kasabayı,kasabaya,seviyorum,351
+Ona koşulsuz destek oluyorum.,Onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,352
+Biz ona büyük saygı duyuyorum.,Biz onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,353
+Eski arkadaşımın doğum gününü unuttum.,Eski arkadaşımın doğum gününe unuttum.,argument_structure_transitive,doğum gününü,doğum gününe,unuttum,354
+Ben bu sınava günlerce çalıştım.,Ben bu sınavı günlerce çalıştım.,argument_structure_transitive,sınava,sınavı,çalıştım,355
+Ve onun cevabına çok şaşırdım.,Ve onun cevabını çok şaşırdım.,argument_structure_transitive,cevabına,cevabını,şaşırdım,356
+Yani şu değişikliklere oldum olası alışamadım.,Yani şu değişiklikleri oldum olası alışamadım.,argument_structure_transitive,değişikliklere,değişiklikleri,alışamadım,357
+Bir yeni projeye başlamaya karar verdiler.,Bir yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,358
+Ve ona koşulsuz destek oluyorum.,Ve onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,359
+Kadın hemşire hanım yaşlı hastayla özel olarak ilgileniyor.,Kadın hemşire hanım yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,360
+Ile etkinliğe katılmayı düşünüyorlar.,Ile etkinliğe katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,361
+En son duruma çok şaşırdım.,En son durumu çok şaşırdım.,argument_structure_transitive,duruma,durumu,şaşırdım,362
+Şu bizim ufaklık sıra arkadaşından baya hoşlanıyormuş.,Şu bizim ufaklık sıra arkadaşını baya hoşlanıyormuş.,argument_structure_transitive,arkadaşından,arkadaşını,hoşlanıyormuş,363
+Bir bu soruna çok kafa yordum.,Bir bu sorunu çok kafa yordum.,argument_structure_transitive,soruna,sorunu,yordum,364
+Benim kardeşimin mezuniyetini unuttum.,Benim kardeşimin mezuniyetine unuttum.,argument_structure_transitive,mezuniyetini,mezuniyetine,unuttum,365
+İşçi saygısız çalışan yaşlı kadınla resmen alay etti.,İşçi saygısız çalışan yaşlı kadına resmen alay etti.,argument_structure_transitive,kadınla,kadına,alay etti,366
+Ama onun tepkisine çok şaşırdım.,Ama onun tepkisini çok şaşırdım.,argument_structure_transitive,tepkisine,tepkisini,şaşırdım,367
+3- i̇nternette her okuduğun şeye körü körüne inanma.,3- i̇nternette her okuduğun şeyi körü körüne inanma.,argument_structure_transitive,şeye,şeyi,inanma,368
+Gece bütün gün seni düşündüm.,Gece bütün gün senden düşündüm.,argument_structure_transitive,seni,senden,düşündüm,369
+Dün bütün gün seni düşündüm.,Dün bütün gün senden düşündüm.,argument_structure_transitive,seni,senden,düşündüm,370
+Ben şu değişikliklere oldum olası alışamadım.,Ben şu değişiklikleri oldum olası alışamadım.,argument_structure_transitive,değişikliklere,değişiklikleri,alışamadım,371
+Bir yeni projeye başlamaya karar verdiler.,Bir yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,372
+Çünkü babam her zaman bana destek olur.,Çünkü babam her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,373
+Nedir bu müjdeye çok sevindim.,Nedir bu müjdeyi çok sevindim.,argument_structure_transitive,müjdeye,müjdeyi,sevindim,374
+Önce bu filme bayılıyoruz.,Önce bu filmi bayılıyoruz.,argument_structure_transitive,filme,filmi,bayılıyoruz,375
+O son duruma çok şaşırdım.,O son durumu çok şaşırdım.,argument_structure_transitive,duruma,durumu,şaşırdım,376
+Bu bu duruma çok üzüldüler.,Bu bu durumu çok üzüldüler.,argument_structure_transitive,duruma,durumu,üzüldüler,377
+Çok zorlu bir maratondan sonra elde ettiğin bu zafere sevindim.,Çok zorlu bir maratondan sonra elde ettiğin bu zaferi sevindim.,argument_structure_transitive,zafere,zaferi,sevindim,378
+Evet bu kasabayı çok seviyorum.,Evet bu kasabaya çok seviyorum.,argument_structure_transitive,kasabayı,kasabaya,seviyorum,379
+Ben bu tabloya hayran kaldım.,Ben bu tabloyu hayran kaldım.,argument_structure_transitive,tabloya,tabloyu,hayran kaldım,380
+Ben bu kitap serisine bayıldım.,Ben bu kitap serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,381
+Sevgili arkadaşımın doğum gününü unuttum.,Sevgili arkadaşımın doğum gününe unuttum.,argument_structure_transitive,doğum gününü,doğum gününe,unuttum,382
+Ben şu yeniliklere oldum olası alışamadım.,Ben şu yenilikleri oldum olası alışamadım.,argument_structure_transitive,yeniliklere,yenilikleri,alışamadım,383
+Sonra yeni projeye başlamaya karar verdiler.,Sonra yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,384
+Herkes bu tabloya hayran kaldım.,Herkes bu tabloyu hayran kaldım.,argument_structure_transitive,tabloya,tabloyu,hayran kaldım,385
+6- i̇nternette her okuduğun şeye körü körüne inanma.,6- i̇nternette her okuduğun şeyi körü körüne inanma.,argument_structure_transitive,şeye,şeyi,inanma,386
+Herkes bu heykellere hayran kaldım.,Herkes bu heykelleri hayran kaldım.,argument_structure_transitive,heykellere,heykelleri,hayran kaldım,387
+Gerçekten bu saati çok beğendim.,Gerçekten bu saate çok beğendim.,argument_structure_transitive,saati,saate,beğendim,388
+Benim köpeğim merdivenlerden düştü.,Benim köpeğim merdivenleri düştü.,argument_structure_transitive,merdivenlerden,merdivenleri,düştü,389
+Bu son duruma çok şaşırdım.,Bu son durumu çok şaşırdım.,argument_structure_transitive,duruma,durumu,şaşırdım,390
+Yeni projeye başlamaya karar verdiler.,Yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,391
+Ve onun söylediklerine katılıyorum.,Ve onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,392
+Bu doktor bey yaşlı hastayla özel olarak ilgileniyor.,Bu doktor bey yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,393
+Yine yeni bir spora başladık.,Yine yeni bir sporu başladık.,argument_structure_transitive,spora,sporu,başladık,394
+Yeni balayı için Urla'da karar kılmışlar.,Yeni balayı için Urla'ya karar kılmışlar.,argument_structure_transitive,Urla'da,Urla'ya,karar kılmışlar,395
+Ben bu kasabayı çok seviyorum.,Ben bu kasabaya çok seviyorum.,argument_structure_transitive,kasabayı,kasabaya,seviyorum,396
+Ama bu film serisine bayıldım.,Ama bu film serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,397
+Ayşe eda hediyesine resmen bayıldı.,Ayşe eda hediyesini resmen bayıldı.,argument_structure_transitive,hediyesine,hediyesini,bayıldı,398
+Öncelikle tatile çıkma planına çok ısındım.,Öncelikle tatile çıkma planını çok ısındım.,argument_structure_transitive,planına,planını,ısındım,399
+Yine bu saati çok beğendim.,Yine bu saate çok beğendim.,argument_structure_transitive,saati,saate,beğendim,400
+Bayram tatil için Bodrum'da karar kılmışlar.,Bayram tatil için Bodrum'a karar kılmışlar.,argument_structure_transitive,Bodrum'da,Bodrum'a,karar kılmışlar,401
+En son gelişmeye çok şaşırdım.,En son gelişmeyi çok şaşırdım.,argument_structure_transitive,gelişmeye,gelişmeyi,şaşırdım,402
+Bu tartışmaya girmeyi sevmem.,Bu tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,403
+Yalnız sana her zaman güveniyorum.,Yalnız seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,404
+Biz bu filme bayılıyoruz.,Biz bu filmi bayılıyoruz.,argument_structure_transitive,filme,filmi,bayılıyoruz,405
+Artık senin bu tavırlarından bıktım.,Artık senin bu tavırlarına bıktım.,argument_structure_transitive,tavırlarından,tavırlarına,bıktım,406
+Ve bütün gece onu düşündüm.,Ve bütün gece ondan düşündüm.,argument_structure_transitive,onu,ondan,düşündüm,407
+Son duruma çok şaşırdım.,Son durumu çok şaşırdım.,argument_structure_transitive,duruma,durumu,şaşırdım,408
+Alman hükümet partisi yeni yasada hala ısrar ediyor.,Alman hükümet partisi yeni yasayı hala ısrar ediyor.,argument_structure_transitive,yasada,yasayı,ısrar ediyor,409
+Çünkü seni buralarda görmeye son zamanlarda iyice alıştım.,Çünkü seni buralarda görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,410
+Sadece annemin sözlerine kulak verdim.,Sadece annemin sözlerini kulak verdim.,argument_structure_transitive,sözlerine,sözlerini,verdim,411
+2 konsere katılmayı düşünüyorlar.,2 konsere katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,412
+Erdoğan bu fikre sıcak baktı.,Erdoğan bu fikri sıcak baktı.,argument_structure_transitive,fikre,fikri,baktı,413
+Bu duruma çok üzüldüler.,Bu durumu çok üzüldüler.,argument_structure_transitive,duruma,durumu,üzüldüler,414
+Ona büyük saygı duyuyorum.,Onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,415
+Ve onun doğruyu söylediğine inanıyorum.,Ve onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,416
+Gözden kaçan detaya çok üzüldüm.,Gözden kaçan detayı çok üzüldüm.,argument_structure_transitive,detaya,detayı,üzüldüm,417
+2- i̇nternette her gördüğün habere körü körüne inanma.,2- i̇nternette her gördüğün haberi körü körüne inanma.,argument_structure_transitive,habere,haberi,inanma,418
+Bu bu fikre sıcak baktı.,Bu bu fikri sıcak baktı.,argument_structure_transitive,fikre,fikri,baktı,419
+Ama ona büyük saygı duyuyorum.,Ama onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,420
+Sadece babamın öğütlerine kulak verdim.,Sadece babamın öğütlerini kulak verdim.,argument_structure_transitive,öğütlerine,öğütlerini,verdim,421
+Bu bu soruna çok kafa yordum.,Bu bu sorunu çok kafa yordum.,argument_structure_transitive,soruna,sorunu,yordum,422
+Fakat son gelişmeye çok şaşırdım.,Fakat son gelişmeyi çok şaşırdım.,argument_structure_transitive,gelişmeye,gelişmeyi,şaşırdım,423
+Çünkü ona büyük saygı duyuyorum.,Çünkü onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,424
+Evde yeni bir spora başladık.,Evde yeni bir sporu başladık.,argument_structure_transitive,spora,sporu,başladık,425
+Özellikle bu tabloya hayran kaldım.,Özellikle bu tabloyu hayran kaldım.,argument_structure_transitive,tabloya,tabloyu,hayran kaldım,426
+Ben bu türküye bayılıyorum.,Ben bu türküyü bayılıyorum.,argument_structure_transitive,türküye,türküyü,bayılıyorum,427
+Uzun tatile çıkma fikrine çok ısındım.,Uzun tatile çıkma fikrini çok ısındım.,argument_structure_transitive,fikrine,fikrini,ısındım,428
+Öyle zorlu bir maratondan sonra elde ettiğin bu zafere sevindim.,Öyle zorlu bir maratondan sonra elde ettiğin bu zaferi sevindim.,argument_structure_transitive,zafere,zaferi,sevindim,429
+Küçük kardeşimin mezuniyetini unuttum.,Küçük kardeşimin mezuniyetine unuttum.,argument_structure_transitive,mezuniyetini,mezuniyetine,unuttum,430
+Ancak bu fikre çok önem veriyoruz.,Ancak bu fikri çok önem veriyoruz.,argument_structure_transitive,fikre,fikri,veriyoruz,431
+Sonra bütün gün seni düşündüm.,Sonra bütün gün senden düşündüm.,argument_structure_transitive,seni,senden,düşündüm,432
+Ve seminere katılmaya karar verdim.,Ve semineri katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,433
+O bütün gece onu düşündüm.,O bütün gece ondan düşündüm.,argument_structure_transitive,onu,ondan,düşündüm,434
+Sayın doktor bey yaşlı hastayla özel olarak ilgileniyor.,Sayın doktor bey yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,435
+Arkadaşlar yeni bir kursa girdim.,Arkadaşlar yeni bir kursu girdim.,argument_structure_transitive,kursa,kursu,girdim,436
+Bu öneriye sıcak baktı.,Bu öneriyi sıcak baktı.,argument_structure_transitive,öneriye,öneriyi,baktı,437
+Ama bu heykellere hayran kaldım.,Ama bu heykelleri hayran kaldım.,argument_structure_transitive,heykellere,heykelleri,hayran kaldım,438
+Ama sana her zaman güveniyorum.,Ama seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,439
+Bir yeni projeye başlamaya karar verdiler.,Bir yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,440
+Ben bu sınava günlerce çalıştım.,Ben bu sınavı günlerce çalıştım.,argument_structure_transitive,sınava,sınavı,çalıştım,441
+Şimdi onun doğruyu söylediğine inanıyorum.,Şimdi onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,442
+İcra müdürümüz bize çok kızdı.,İcra müdürümüz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,443
+Gün bütün gün seni düşündüm.,Gün bütün gün senden düşündüm.,argument_structure_transitive,seni,senden,düşündüm,444
+Ve kedim balkondan düştü.,Ve kedim balkonu düştü.,argument_structure_transitive,balkondan,balkonu,düştü,445
+Çok bu saati çok beğendim.,Çok bu saate çok beğendim.,argument_structure_transitive,saati,saate,beğendim,446
+Ayrıca bu heykellere hayran kaldım.,Ayrıca bu heykelleri hayran kaldım.,argument_structure_transitive,heykellere,heykelleri,hayran kaldım,447
+Ve zorlu bir maratondan sonra elde ettiğin bu zafere sevindim.,Ve zorlu bir maratondan sonra elde ettiğin bu zaferi sevindim.,argument_structure_transitive,zafere,zaferi,sevindim,448
+Yeni eda yeni elbisesine resmen hayran kaldı.,Yeni eda yeni elbisesini resmen hayran kaldı.,argument_structure_transitive,elbisesine,elbisesini,hayran kaldı,449
+Bugün bütün gün seni düşündüm.,Bugün bütün gün senden düşündüm.,argument_structure_transitive,seni,senden,düşündüm,450
+Aslında seni burada görmeye son zamanlarda iyice alıştım.,Aslında seni burada görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,451
+Yarın size de gelirim.,Yarın sizi de gelirim.,argument_structure_transitive,size,sizi,gelirim,452
+Belki yarın onlara da uğrarım.,Belki yarın onları da uğrarım.,argument_structure_transitive,onlara,onları,uğrarım,453
+Gözden kaçan hataya çok üzüldüm.,Gözden kaçan hatayı çok üzüldüm.,argument_structure_transitive,hataya,hatayı,üzüldüm,454
+İnşallah yarın size de gelirim.,İnşallah yarın sizi de gelirim.,argument_structure_transitive,size,sizi,gelirim,455
+Ben ona koşulsuz destek oluyorum.,Ben onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,456
+Ve bu habere çok sevindim.,Ve bu haberi çok sevindim.,argument_structure_transitive,habere,haberi,sevindim,457
+Tatile çıkma planına çok ısındım.,Tatile çıkma planını çok ısındım.,argument_structure_transitive,planına,planını,ısındım,458
+Ben bu türküye bayılıyorum.,Ben bu türküyü bayılıyorum.,argument_structure_transitive,türküye,türküyü,bayılıyorum,459
+Evet onun söylediklerine katılıyorum.,Evet onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,460
+Bütün akrabalarımla iyi geçiniyorum.,Bütün akrabalarımı iyi geçiniyorum.,argument_structure_transitive,akrabalarımla,akrabalarımı,geçiniyorum,461
+Ve dün yaptıklarından sonra sana çok kırıldım.,Ve dün yaptıklarından sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,462
+Çünkü annem her zaman bana destek olur.,Çünkü annem her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,463
+Ama ona koşulsuz destek oluyorum.,Ama onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,464
+Yine bu film serisine bayıldım.,Yine bu film serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,465
+Ve yeni projeye başlamaya karar verdiler.,Ve yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,466
+Bu yeni projeye başlamaya karar verdiler.,Bu yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,467
+Evet ona koşulsuz destek oluyorum.,Evet onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,468
+Ve bu diziye bayılıyoruz.,Ve bu diziyi bayılıyoruz.,argument_structure_transitive,diziye,diziyi,bayılıyoruz,469
+Kumara fazla kapılmamalısın.,Kumarı fazla kapılmamalısın.,argument_structure_transitive,kumara,kumarı,kapılmamalısın,470
+Ama bu şehri çok seviyorum.,Ama bu şehre çok seviyorum.,argument_structure_transitive,şehri,şehre,seviyorum,471
+Artık seni burada görmeye son zamanlarda iyice alıştım.,Artık seni burada görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,472
+Şimdi komşularımla iyi geçiniyorum.,Şimdi komşularımı iyi geçiniyorum.,argument_structure_transitive,komşularımla,komşularımı,geçiniyorum,473
+Bütün komşularımla iyi geçiniyorum.,Bütün komşularımı iyi geçiniyorum.,argument_structure_transitive,komşularımla,komşularımı,geçiniyorum,474
+Hemen bu filme bayılıyoruz.,Hemen bu filmi bayılıyoruz.,argument_structure_transitive,filme,filmi,bayılıyoruz,475
+Şimdi yeni bir işe girdim.,Şimdi yeni bir işi girdim.,argument_structure_transitive,işe,işi,girdim,476
+Uzman hemşire hanım yaşlı hastayla özel olarak ilgileniyor.,Uzman hemşire hanım yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,477
+Hatta bizim kuşumuz komşunun kedisinden baya korkuyormuş.,Hatta bizim kuşumuz komşunun kedisini baya korkuyormuş.,argument_structure_transitive,kedisinden,kedisini,korkuyormuş,478
+Çok bu soruna çok kafa yordum.,Çok bu sorunu çok kafa yordum.,argument_structure_transitive,soruna,sorunu,yordum,479
+Biz bu fikre çok önem veriyoruz.,Biz bu fikri çok önem veriyoruz.,argument_structure_transitive,fikre,fikri,veriyoruz,480
+Bu müjdeye çok sevindim.,Bu müjdeyi çok sevindim.,argument_structure_transitive,müjdeye,müjdeyi,sevindim,481
+Bazı oyunlara fazla kapılmamalısın.,Bazı oyunları fazla kapılmamalısın.,argument_structure_transitive,oyunlara,oyunları,kapılmamalısın,482
+Bu diziye bayılıyoruz.,Bu diziyi bayılıyoruz.,argument_structure_transitive,diziye,diziyi,bayılıyoruz,483
+Biz ona büyük saygı duyuyorum.,Biz onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,484
+Daha yeni bir kursa girdim.,Daha yeni bir kursu girdim.,argument_structure_transitive,kursa,kursu,girdim,485
+Evet bu film serisine bayıldım.,Evet bu film serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,486
+İşte yarın onlara da uğrarım.,İşte yarın onları da uğrarım.,argument_structure_transitive,onlara,onları,uğrarım,487
+Kardeşimin mezuniyetini unuttum.,Kardeşimin mezuniyetine unuttum.,argument_structure_transitive,mezuniyetini,mezuniyetine,unuttum,488
+Klasik oyunlara fazla kapılmamalısın.,Klasik oyunları fazla kapılmamalısın.,argument_structure_transitive,oyunlara,oyunları,kapılmamalısın,489
+Hep bu soruna çok kafa yordum.,Hep bu sorunu çok kafa yordum.,argument_structure_transitive,soruna,sorunu,yordum,490
+Sonra seminere katılmaya karar verdim.,Sonra semineri katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,491
+Eşimin zevkine çok güvenirim.,Eşimin zevkini çok güvenirim.,argument_structure_transitive,zevkine,zevkini,güvenirim,492
+Sadece eşimin kararlarına çok güvenirim.,Sadece eşimin kararlarını çok güvenirim.,argument_structure_transitive,kararlarına,kararlarını,güvenirim,493
+Diğer komşularımla iyi geçiniyorum.,Diğer komşularımı iyi geçiniyorum.,argument_structure_transitive,komşularımla,komşularımı,geçiniyorum,494
+Çünkü tartışmaya girmeyi sevmem.,Çünkü tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,495
+Bütün gece onu düşündüm.,Bütün gece ondan düşündüm.,argument_structure_transitive,onu,ondan,düşündüm,496
+Yine yeni bir işe girdim.,Yine yeni bir işi girdim.,argument_structure_transitive,işe,işi,girdim,497
+Bende bu türküye bayılıyorum.,Bende bu türküyü bayılıyorum.,argument_structure_transitive,türküye,türküyü,bayılıyorum,498
+Biz bu olaya çok üzüldüler.,Biz bu olayı çok üzüldüler.,argument_structure_transitive,olaya,olayı,üzüldüler,499
+Evet seni burada görmeye son zamanlarda iyice alıştım.,Evet seni burada görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,500
+Yani ona koşulsuz destek oluyorum.,Yani onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,501
+Akrabalarımla iyi geçiniyorum.,Akrabalarımı iyi geçiniyorum.,argument_structure_transitive,akrabalarımla,akrabalarımı,geçiniyorum,502
+Ve eşimin zevkine çok güvenirim.,Ve eşimin zevkini çok güvenirim.,argument_structure_transitive,zevkine,zevkini,güvenirim,503
+Bu gözlüğü çok beğendim.,Bu gözlüğe çok beğendim.,argument_structure_transitive,gözlüğü,gözlüğe,beğendim,504
+Fakat şu yeniliklere oldum olası alışamadım.,Fakat şu yenilikleri oldum olası alışamadım.,argument_structure_transitive,yeniliklere,yenilikleri,alışamadım,505
+Herkes eda yeni elbisesine resmen hayran kaldı.,Herkes eda yeni elbisesini resmen hayran kaldı.,argument_structure_transitive,elbisesine,elbisesini,hayran kaldı,506
+Ben komşularımla iyi geçiniyorum.,Ben komşularımı iyi geçiniyorum.,argument_structure_transitive,komşularımla,komşularımı,geçiniyorum,507
+Çünkü ona büyük saygı duyuyorum.,Çünkü onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,508
+Çok bu gözlüğü çok beğendim.,Çok bu gözlüğe çok beğendim.,argument_structure_transitive,gözlüğü,gözlüğe,beğendim,509
+Hiç tartışmaya girmeyi sevmem.,Hiç tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,510
+Seni burada görmeye son zamanlarda iyice alıştım.,Seni burada görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,511
+Şu değişikliklere oldum olası alışamadım.,Şu değişiklikleri oldum olası alışamadım.,argument_structure_transitive,değişikliklere,değişiklikleri,alışamadım,512
+Zorlu bir maratondan sonra elde ettiğin bu zafere sevindim.,Zorlu bir maratondan sonra elde ettiğin bu zaferi sevindim.,argument_structure_transitive,zafere,zaferi,sevindim,513
+Kesinlikle onun söylediklerine katılıyorum.,Kesinlikle onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,514
+Türkçe öğretmenimiz bize çok kızdı.,Türkçe öğretmenimiz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,515
+Oldukça zorlu bir süreçten sonra elde ettiğin bu başarıya sevindim.,Oldukça zorlu bir süreçten sonra elde ettiğin bu başarıyı sevindim.,argument_structure_transitive,başarıya,başarıyı,sevindim,516
+Özellikle bu projeye çok önem veriyoruz.,Özellikle bu projeyi çok önem veriyoruz.,argument_structure_transitive,projeye,projeyi,veriyoruz,517
+Yeni muhalefet partisi erken seçimde hala ısrar ediyor.,Yeni muhalefet partisi erken seçimi hala ısrar ediyor.,argument_structure_transitive,seçimde,seçimi,ısrar ediyor,518
+Onun söylediklerine katılıyorum.,Onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,519
+Bugün yeni bir spora başladık.,Bugün yeni bir sporu başladık.,argument_structure_transitive,spora,sporu,başladık,520
+Bir kardeşimin mezuniyetini unuttum.,Bir kardeşimin mezuniyetine unuttum.,argument_structure_transitive,mezuniyetini,mezuniyetine,unuttum,521
+Ve senin bu tavırlarından bıktım.,Ve senin bu tavırlarına bıktım.,argument_structure_transitive,tavırlarından,tavırlarına,bıktım,522
+Çok tartışmaya girmeyi sevmem.,Çok tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,523
+Bu gözden kaçan hataya çok üzüldüm.,Bu gözden kaçan hatayı çok üzüldüm.,argument_structure_transitive,hataya,hatayı,üzüldüm,524
+Kendi akrabalarımla iyi geçiniyorum.,Kendi akrabalarımı iyi geçiniyorum.,argument_structure_transitive,akrabalarımla,akrabalarımı,geçiniyorum,525
+Erdoğan bu öneriye sıcak baktı.,Erdoğan bu öneriyi sıcak baktı.,argument_structure_transitive,öneriye,öneriyi,baktı,526
+Öncelikle şu değişikliklere oldum olası alışamadım.,Öncelikle şu değişiklikleri oldum olası alışamadım.,argument_structure_transitive,değişikliklere,değişiklikleri,alışamadım,527
+İlçe müdürümüz bize çok kızdı.,İlçe müdürümüz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,528
+Sadece onun doğruyu söylediğine inanıyorum.,Sadece onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,529
+Artık tatile çıkma planına çok ısındım.,Artık tatile çıkma planını çok ısındım.,argument_structure_transitive,planına,planını,ısındım,530
+Ama bu türküye bayılıyorum.,Ama bu türküyü bayılıyorum.,argument_structure_transitive,türküye,türküyü,bayılıyorum,531
+Bugün bu fikre çok önem veriyoruz.,Bugün bu fikri çok önem veriyoruz.,argument_structure_transitive,fikre,fikri,veriyoruz,532
+Kendi köpeğim merdivenlerden düştü.,Kendi köpeğim merdivenleri düştü.,argument_structure_transitive,merdivenlerden,merdivenleri,düştü,533
+Başkan bu öneriye sıcak baktı.,Başkan bu öneriyi sıcak baktı.,argument_structure_transitive,öneriye,öneriyi,baktı,534
+Yine yeni bir hobiye başladık.,Yine yeni bir hobiyi başladık.,argument_structure_transitive,hobiye,hobiyi,başladık,535
+Ancak onun doğruyu söylediğine inanıyorum.,Ancak onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,536
+Ben bu tabloya hayran kaldım.,Ben bu tabloyu hayran kaldım.,argument_structure_transitive,tabloya,tabloyu,hayran kaldım,537
+Ve eda hediyesine resmen bayıldı.,Ve eda hediyesini resmen bayıldı.,argument_structure_transitive,hediyesine,hediyesini,bayıldı,538
+Ana babam her zaman bana destek olur.,Ana babam her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,539
+Ancak onun doğruyu söylediğine inanıyorum.,Ancak onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,540
+Tartışmaya girmeyi sevmem.,Tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,541
+Sana her zaman güveniyorum.,Seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,542
+Eda yeni elbisesine resmen hayran kaldı.,Eda yeni elbisesini resmen hayran kaldı.,argument_structure_transitive,elbisesine,elbisesini,hayran kaldı,543
+En zorlu bir maratondan sonra elde ettiğin bu zafere sevindim.,En zorlu bir maratondan sonra elde ettiğin bu zaferi sevindim.,argument_structure_transitive,zafere,zaferi,sevindim,544
+Ve annemin sözlerine kulak verdim.,Ve annemin sözlerini kulak verdim.,argument_structure_transitive,sözlerine,sözlerini,verdim,545
+Ben onun doğruyu söylediğine inanıyorum.,Ben onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,546
+Bir yeni bir işe girdim.,Bir yeni bir işi girdim.,argument_structure_transitive,işe,işi,girdim,547
+Bizim ufaklık sıra arkadaşından baya hoşlanıyormuş.,Bizim ufaklık sıra arkadaşını baya hoşlanıyormuş.,argument_structure_transitive,arkadaşından,arkadaşını,hoşlanıyormuş,548
+Aslında onun söylediklerine katılıyorum.,Aslında onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,549
+Ve seminere katılmaya karar verdim.,Ve semineri katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,550
+Yarın onlara da uğrarım.,Yarın onları da uğrarım.,argument_structure_transitive,onlara,onları,uğrarım,551
+Senin dün söylediklerinden sonra sana çok kırıldım.,Senin dün söylediklerinden sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,552
+Eğer konsere katılmayı düşünüyorlar.,Eğer konsere katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,553
+Önce babamın öğütlerine kulak verdim.,Önce babamın öğütlerini kulak verdim.,argument_structure_transitive,öğütlerine,öğütlerini,verdim,554
+Bir konferansa katılmaya karar verdim.,Bir konferansı katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,555
+Ayrıca bu film serisine bayıldım.,Ayrıca bu film serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,556
+Bir bu konuya çok kafa yordum.,Bir bu konuyu çok kafa yordum.,argument_structure_transitive,konuya,konuyu,yordum,557
+Evet ben artık sana sadece acıyorum.,Evet ben artık seni sadece acıyorum.,argument_structure_transitive,sana,seni,acıyorum,558
+Ama bizim kuşumuz komşunun kedisinden baya korkuyormuş.,Ama bizim kuşumuz komşunun kedisini baya korkuyormuş.,argument_structure_transitive,kedisinden,kedisini,korkuyormuş,559
+Seminere katılmaya karar verdim.,Semineri katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,560
+Ben bu kasabayı çok seviyorum.,Ben bu kasabaya çok seviyorum.,argument_structure_transitive,kasabayı,kasabaya,seviyorum,561
+Çünkü ben artık sana sadece acıyorum.,Çünkü ben artık seni sadece acıyorum.,argument_structure_transitive,sana,seni,acıyorum,562
+Sonra yeni bir işe girdim.,Sonra yeni bir işi girdim.,argument_structure_transitive,işe,işi,girdim,563
+Şimdi senin bu tavırlarından bıktım.,Şimdi senin bu tavırlarına bıktım.,argument_structure_transitive,tavırlarından,tavırlarına,bıktım,564
+Çok zorlu bir süreçten sonra elde ettiğin bu başarıya sevindim.,Çok zorlu bir süreçten sonra elde ettiğin bu başarıyı sevindim.,argument_structure_transitive,başarıya,başarıyı,sevindim,565
+Bu konferansa katılmaya karar verdim.,Bu konferansı katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,566
+Ama kumara fazla kapılmamalısın.,Ama kumarı fazla kapılmamalısın.,argument_structure_transitive,kumara,kumarı,kapılmamalısın,567
+Büyük muhalefet partisi erken seçimde hala ısrar ediyor.,Büyük muhalefet partisi erken seçimi hala ısrar ediyor.,argument_structure_transitive,seçimde,seçimi,ısrar ediyor,568
+Doktor bey yaşlı hastayla özel olarak ilgileniyor.,Doktor bey yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,569
+Ben eşimin zevkine çok güvenirim.,Ben eşimin zevkini çok güvenirim.,argument_structure_transitive,zevkine,zevkini,güvenirim,570
+Hükümet bu öneriye sıcak baktı.,Hükümet bu öneriyi sıcak baktı.,argument_structure_transitive,öneriye,öneriyi,baktı,571
+Ama ona koşulsuz destek oluyorum.,Ama onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,572
+Gece bütün gün seni düşündüm.,Gece bütün gün senden düşündüm.,argument_structure_transitive,seni,senden,düşündüm,573
+Bu zorlu bir süreçten sonra elde ettiğin bu başarıya sevindim.,Bu zorlu bir süreçten sonra elde ettiğin bu başarıyı sevindim.,argument_structure_transitive,başarıya,başarıyı,sevindim,574
+Ben seminere katılmaya karar verdim.,Ben semineri katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,575
+Aslında seni buralarda görmeye son zamanlarda iyice alıştım.,Aslında seni buralarda görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,576
+Ve ona büyük saygı duyuyorum.,Ve onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,577
+Hep sana her zaman güveniyorum.,Hep seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,578
+Anne annem her zaman bana destek olur.,Anne annem her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,579
+Ben onun tepkisine çok şaşırdım.,Ben onun tepkisini çok şaşırdım.,argument_structure_transitive,tepkisine,tepkisini,şaşırdım,580
+Eski hükümet partisi yeni yasada hala ısrar ediyor.,Eski hükümet partisi yeni yasayı hala ısrar ediyor.,argument_structure_transitive,yasada,yasayı,ısrar ediyor,581
+Bir tatile çıkma planına çok ısındım.,Bir tatile çıkma planını çok ısındım.,argument_structure_transitive,planına,planını,ısındım,582
+Bir balayı için Urla'da karar kılmışlar.,Bir balayı için Urla'ya karar kılmışlar.,argument_structure_transitive,Urla'da,Urla'ya,karar kılmışlar,583
+Ayrıca bizim ufaklık sıra arkadaşından baya hoşlanıyormuş.,Ayrıca bizim ufaklık sıra arkadaşını baya hoşlanıyormuş.,argument_structure_transitive,arkadaşından,arkadaşını,hoşlanıyormuş,584
+Cumhurbaşkanı bu öneriye sıcak baktı.,Cumhurbaşkanı bu öneriyi sıcak baktı.,argument_structure_transitive,öneriye,öneriyi,baktı,585
+Ancak kumara fazla kapılmamalısın.,Ancak kumarı fazla kapılmamalısın.,argument_structure_transitive,kumara,kumarı,kapılmamalısın,586
+Belki yarın size de gelirim.,Belki yarın sizi de gelirim.,argument_structure_transitive,size,sizi,gelirim,587
+Ancak son duruma çok şaşırdım.,Ancak son durumu çok şaşırdım.,argument_structure_transitive,duruma,durumu,şaşırdım,588
+Öğretmenimiz bize çok kızdı.,Öğretmenimiz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,589
+Bir yeni bir hobiye başladık.,Bir yeni bir hobiyi başladık.,argument_structure_transitive,hobiye,hobiyi,başladık,590
+Arkadaşlar yarın size de gelirim.,Arkadaşlar yarın sizi de gelirim.,argument_structure_transitive,size,sizi,gelirim,591
+Çok tartışmaya girmeyi sevmem.,Çok tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,592
+Ve akrabalarımla iyi geçiniyorum.,Ve akrabalarımı iyi geçiniyorum.,argument_structure_transitive,akrabalarımla,akrabalarımı,geçiniyorum,593
+Ankara bu olaya çok üzüldüler.,Ankara bu olayı çok üzüldüler.,argument_structure_transitive,olaya,olayı,üzüldüler,594
+Ve etkinliğe katılmayı düşünüyorlar.,Ve etkinliğe katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,595
+Küçük eda hediyesine resmen bayıldı.,Küçük eda hediyesini resmen bayıldı.,argument_structure_transitive,hediyesine,hediyesini,bayıldı,596
+Ben sana her zaman güveniyorum.,Ben seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,597
+Bu konsere katılmayı düşünüyorlar.,Bu konsere katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,598
+Bu türküye bayılıyorum.,Bu türküyü bayılıyorum.,argument_structure_transitive,türküye,türküyü,bayılıyorum,599
+O bu soruna çok kafa yordum.,O bu sorunu çok kafa yordum.,argument_structure_transitive,soruna,sorunu,yordum,600
+Özellikle annem her zaman bana destek olur.,Özellikle annem her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,601
+İki kaba müşteri genç garsonla resmen dalga geçti.,İki kaba müşteri genç garsona resmen dalga geçti.,argument_structure_transitive,garsonla,garsona,dalga geçti,602
+Sonra yeni bir kursa girdim.,Sonra yeni bir kursu girdim.,argument_structure_transitive,kursa,kursu,girdim,603
+Çünkü bizim ufaklık sıra arkadaşından baya hoşlanıyormuş.,Çünkü bizim ufaklık sıra arkadaşını baya hoşlanıyormuş.,argument_structure_transitive,arkadaşından,arkadaşını,hoşlanıyormuş,604
+Ancak bu habere çok sevindim.,Ancak bu haberi çok sevindim.,argument_structure_transitive,habere,haberi,sevindim,605
+Hiç tartışmaya girmeyi sevmem.,Hiç tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,606
+Ve bu yarışmaya günlerce çalıştım.,Ve bu yarışmayı günlerce çalıştım.,argument_structure_transitive,yarışmaya,yarışmayı,çalıştım,607
+3. komşularımla iyi geçiniyorum.,3. komşularımı iyi geçiniyorum.,argument_structure_transitive,komşularımla,komşularımı,geçiniyorum,608
+Beni bütün gece onu düşündüm.,Beni bütün gece ondan düşündüm.,argument_structure_transitive,onu,ondan,düşündüm,609
+Bu hemşire hanım yaşlı hastayla özel olarak ilgileniyor.,Bu hemşire hanım yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,610
+Bu konuya çok kafa yordum.,Bu konuyu çok kafa yordum.,argument_structure_transitive,konuya,konuyu,yordum,611
+Ben onun söylediklerine katılıyorum.,Ben onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,612
+Ana annem her zaman bana destek olur.,Ana annem her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,613
+Ünlü doktor bey yaşlı hastayla özel olarak ilgileniyor.,Ünlü doktor bey yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,614
+Artık tatile çıkma fikrine çok ısındım.,Artık tatile çıkma fikrini çok ısındım.,argument_structure_transitive,fikrine,fikrini,ısındım,615
+Sadece sana her zaman güveniyorum.,Sadece seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,616
+Sevgili eda hediyesine resmen bayıldı.,Sevgili eda hediyesini resmen bayıldı.,argument_structure_transitive,hediyesine,hediyesini,bayıldı,617
+Çünkü onun doğruyu söylediğine inanıyorum.,Çünkü onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,618
+Yani ben artık ona sadece gülüyorum.,Yani ben artık onu sadece gülüyorum.,argument_structure_transitive,ona,onu,gülüyorum,619
+Ve ona büyük saygı duyuyorum.,Ve onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,620
+Çift balayı için Urla'da karar kılmışlar.,Çift balayı için Urla'ya karar kılmışlar.,argument_structure_transitive,Urla'da,Urla'ya,karar kılmışlar,621
+Ve ben artık ona sadece gülüyorum.,Ve ben artık onu sadece gülüyorum.,argument_structure_transitive,ona,onu,gülüyorum,622
+Yani ona koşulsuz destek oluyorum.,Yani onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,623
+Tatile çıkma fikrine çok ısındım.,Tatile çıkma fikrini çok ısındım.,argument_structure_transitive,fikrine,fikrini,ısındım,624
+Hadi yarın onlara da uğrarım.,Hadi yarın onları da uğrarım.,argument_structure_transitive,onlara,onları,uğrarım,625
+İnternette her gördüğün habere körü körüne inanma.,İnternette her gördüğün haberi körü körüne inanma.,argument_structure_transitive,habere,haberi,inanma,626
+Ben onun doğruyu söylediğine inanıyorum.,Ben onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,627
+Ve ona koşulsuz destek oluyorum.,Ve onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,628
+Ana öğretmenimiz bize çok kızdı.,Ana öğretmenimiz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,629
+Yani şu yeniliklere oldum olası alışamadım.,Yani şu yenilikleri oldum olası alışamadım.,argument_structure_transitive,yeniliklere,yenilikleri,alışamadım,630
+Evet bu sınava günlerce çalıştım.,Evet bu sınavı günlerce çalıştım.,argument_structure_transitive,sınava,sınavı,çalıştım,631
+Ben arkadaşımın doğum gününü unuttum.,Ben arkadaşımın doğum gününe unuttum.,argument_structure_transitive,doğum gününü,doğum gününe,unuttum,632
+Online oyunlara fazla kapılmamalısın.,Online oyunları fazla kapılmamalısın.,argument_structure_transitive,oyunlara,oyunları,kapılmamalısın,633
+Ve bu sınava günlerce çalıştım.,Ve bu sınavı günlerce çalıştım.,argument_structure_transitive,sınava,sınavı,çalıştım,634
+Son gelişmeye çok şaşırdım.,Son gelişmeyi çok şaşırdım.,argument_structure_transitive,gelişmeye,gelişmeyi,şaşırdım,635
+Yine bu gözlüğü çok beğendim.,Yine bu gözlüğe çok beğendim.,argument_structure_transitive,gözlüğü,gözlüğe,beğendim,636
+Bu oyunlara fazla kapılmamalısın.,Bu oyunları fazla kapılmamalısın.,argument_structure_transitive,oyunlara,oyunları,kapılmamalısın,637
+Şu son duruma çok şaşırdım.,Şu son durumu çok şaşırdım.,argument_structure_transitive,duruma,durumu,şaşırdım,638
+Sonra bu soruna çok kafa yordum.,Sonra bu sorunu çok kafa yordum.,argument_structure_transitive,soruna,sorunu,yordum,639
+6- i̇nternette her gördüğün habere körü körüne inanma.,6- i̇nternette her gördüğün haberi körü körüne inanma.,argument_structure_transitive,habere,haberi,inanma,640
+Sana her zaman güveniyorum.,Seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,641
+Ama tartışmaya girmeyi sevmem.,Ama tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,642
+Bu habere çok sevindim.,Bu haberi çok sevindim.,argument_structure_transitive,habere,haberi,sevindim,643
+Ah senin bu hallerinden bıktım.,Ah senin bu hallerine bıktım.,argument_structure_transitive,hallerinden,hallerine,bıktım,644
+Ve yeni bir işe girdim.,Ve yeni bir işi girdim.,argument_structure_transitive,işe,işi,girdim,645
+Bu şehri çok seviyorum.,Bu şehre çok seviyorum.,argument_structure_transitive,şehri,şehre,seviyorum,646
+Ama bu şarkıya bayılıyorum.,Ama bu şarkıyı bayılıyorum.,argument_structure_transitive,şarkıya,şarkıyı,bayılıyorum,647
+Ya senin bu hallerinden bıktım.,Ya senin bu hallerine bıktım.,argument_structure_transitive,hallerinden,hallerine,bıktım,648
+Ben eşimin kararlarına çok güvenirim.,Ben eşimin kararlarını çok güvenirim.,argument_structure_transitive,kararlarına,kararlarını,güvenirim,649
+Çünkü ona koşulsuz destek oluyorum.,Çünkü onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,650
+İşte senin bu tavırlarından bıktım.,İşte senin bu tavırlarına bıktım.,argument_structure_transitive,tavırlarından,tavırlarına,bıktım,651
+Ben bu şehri çok seviyorum.,Ben bu şehre çok seviyorum.,argument_structure_transitive,şehri,şehre,seviyorum,652
+Ben onun doğruyu söylediğine inanıyorum.,Ben onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,653
+Biz bu yarışmaya günlerce çalıştım.,Biz bu yarışmayı günlerce çalıştım.,argument_structure_transitive,yarışmaya,yarışmayı,çalıştım,654
+İşte bu müjdeye çok sevindim.,İşte bu müjdeyi çok sevindim.,argument_structure_transitive,müjdeye,müjdeyi,sevindim,655
+Çünkü onun doğruyu söylediğine inanıyorum.,Çünkü onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,656
+Bende bu kasabayı çok seviyorum.,Bende bu kasabaya çok seviyorum.,argument_structure_transitive,kasabayı,kasabaya,seviyorum,657
+Bende bu gözlüğü çok beğendim.,Bende bu gözlüğe çok beğendim.,argument_structure_transitive,gözlüğü,gözlüğe,beğendim,658
+Onun cevabına çok şaşırdım.,Onun cevabını çok şaşırdım.,argument_structure_transitive,cevabına,cevabını,şaşırdım,659
+Ben bu habere çok sevindim.,Ben bu haberi çok sevindim.,argument_structure_transitive,habere,haberi,sevindim,660
+Ve ona koşulsuz destek oluyorum.,Ve onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,661
+Ve ona koşulsuz destek oluyorum.,Ve onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,662
+Aslında bu sınava günlerce çalıştım.,Aslında bu sınavı günlerce çalıştım.,argument_structure_transitive,sınava,sınavı,çalıştım,663
+Benim annem her zaman bana destek olur.,Benim annem her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,664
+Yine gözden kaçan hataya çok üzüldüm.,Yine gözden kaçan hatayı çok üzüldüm.,argument_structure_transitive,hataya,hatayı,üzüldüm,665
+Onun tepkisine çok şaşırdım.,Onun tepkisini çok şaşırdım.,argument_structure_transitive,tepkisine,tepkisini,şaşırdım,666
+Ama kaba müşteri genç garsonla resmen dalga geçti.,Ama kaba müşteri genç garsona resmen dalga geçti.,argument_structure_transitive,garsonla,garsona,dalga geçti,667
+Ben senin bu hallerinden bıktım.,Ben senin bu hallerine bıktım.,argument_structure_transitive,hallerinden,hallerine,bıktım,668
+Ben yeni bir spora başladık.,Ben yeni bir sporu başladık.,argument_structure_transitive,spora,sporu,başladık,669
+Ancak şu değişikliklere oldum olası alışamadım.,Ancak şu değişiklikleri oldum olası alışamadım.,argument_structure_transitive,değişikliklere,değişiklikleri,alışamadım,670
+Ve bu fikre çok önem veriyoruz.,Ve bu fikri çok önem veriyoruz.,argument_structure_transitive,fikre,fikri,veriyoruz,671
+Evet bu şarkıya bayılıyorum.,Evet bu şarkıyı bayılıyorum.,argument_structure_transitive,şarkıya,şarkıyı,bayılıyorum,672
+Bu fikre çok önem veriyoruz.,Bu fikri çok önem veriyoruz.,argument_structure_transitive,fikre,fikri,veriyoruz,673
+Güzel eda yeni elbisesine resmen hayran kaldı.,Güzel eda yeni elbisesini resmen hayran kaldı.,argument_structure_transitive,elbisesine,elbisesini,hayran kaldı,674
+Bir gözden kaçan hataya çok üzüldüm.,Bir gözden kaçan hatayı çok üzüldüm.,argument_structure_transitive,hataya,hatayı,üzüldüm,675
+Onun doğruyu söylediğine inanıyorum.,Onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,676
+Çünkü bu projeye çok önem veriyoruz.,Çünkü bu projeyi çok önem veriyoruz.,argument_structure_transitive,projeye,projeyi,veriyoruz,677
+Ve seni burada görmeye son zamanlarda iyice alıştım.,Ve seni burada görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,678
+Çok bu saati çok beğendim.,Çok bu saate çok beğendim.,argument_structure_transitive,saati,saate,beğendim,679
+Inşallah yarın onlara da uğrarım.,Inşallah yarın onları da uğrarım.,argument_structure_transitive,onlara,onları,uğrarım,680
+Hatta tatile çıkma planına çok ısındım.,Hatta tatile çıkma planını çok ısındım.,argument_structure_transitive,planına,planını,ısındım,681
+Artık senin bu hallerinden bıktım.,Artık senin bu hallerine bıktım.,argument_structure_transitive,hallerinden,hallerine,bıktım,682
+Çok kaba müşteri genç garsonla resmen dalga geçti.,Çok kaba müşteri genç garsona resmen dalga geçti.,argument_structure_transitive,garsonla,garsona,dalga geçti,683
+Hemen tatile çıkma planına çok ısındım.,Hemen tatile çıkma planını çok ısındım.,argument_structure_transitive,planına,planını,ısındım,684
+Öncelikle bu habere çok sevindim.,Öncelikle bu haberi çok sevindim.,argument_structure_transitive,habere,haberi,sevindim,685
+Yine onun söylediklerine katılıyorum.,Yine onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,686
+Ana muhalefet partisi erken seçimde hala ısrar ediyor.,Ana muhalefet partisi erken seçimi hala ısrar ediyor.,argument_structure_transitive,seçimde,seçimi,ısrar ediyor,687
+İşte köpeğim merdivenlerden düştü.,İşte köpeğim merdivenleri düştü.,argument_structure_transitive,merdivenlerden,merdivenleri,düştü,688
+Ben bütün gün seni düşündüm.,Ben bütün gün senden düşündüm.,argument_structure_transitive,seni,senden,düşündüm,689
+Ve yeni projeye başlamaya karar verdiler.,Ve yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,690
+Büyük eda yeni elbisesine resmen hayran kaldı.,Büyük eda yeni elbisesini resmen hayran kaldı.,argument_structure_transitive,elbisesine,elbisesini,hayran kaldı,691
+Ben konferansa katılmaya karar verdim.,Ben konferansı katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,692
+İşte yarın size de gelirim.,İşte yarın sizi de gelirim.,argument_structure_transitive,size,sizi,gelirim,693
+Ama bu müjdeye çok sevindim.,Ama bu müjdeyi çok sevindim.,argument_structure_transitive,müjdeye,müjdeyi,sevindim,694
+Bu bu şehri çok seviyorum.,Bu bu şehre çok seviyorum.,argument_structure_transitive,şehri,şehre,seviyorum,695
+Bir hemşire hanım yaşlı hastayla özel olarak ilgileniyor.,Bir hemşire hanım yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,696
+Herkes bu fikre sıcak baktı.,Herkes bu fikri sıcak baktı.,argument_structure_transitive,fikre,fikri,baktı,697
+Bu tatil için Bodrum'da karar kılmışlar.,Bu tatil için Bodrum'a karar kılmışlar.,argument_structure_transitive,Bodrum'da,Bodrum'a,karar kılmışlar,698
+Bu tartışmaya girmeyi sevmem.,Bu tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,699
+Evet onun doğruyu söylediğine inanıyorum.,Evet onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,700
+Bu bu şehri çok seviyorum.,Bu bu şehre çok seviyorum.,argument_structure_transitive,şehri,şehre,seviyorum,701
+Anne eda hediyesine resmen bayıldı.,Anne eda hediyesini resmen bayıldı.,argument_structure_transitive,hediyesine,hediyesini,bayıldı,702
+Ama ben artık sana sadece acıyorum.,Ama ben artık seni sadece acıyorum.,argument_structure_transitive,sana,seni,acıyorum,703
+Çünkü bu sınava günlerce çalıştım.,Çünkü bu sınavı günlerce çalıştım.,argument_structure_transitive,sınava,sınavı,çalıştım,704
+Evet ona koşulsuz destek oluyorum.,Evet onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,705
+Çocuklar bu olaya çok üzüldüler.,Çocuklar bu olayı çok üzüldüler.,argument_structure_transitive,olaya,olayı,üzüldüler,706
+Ben kardeşimin mezuniyetini unuttum.,Ben kardeşimin mezuniyetine unuttum.,argument_structure_transitive,mezuniyetini,mezuniyetine,unuttum,707
+Kedim balkondan düştü.,Kedim balkonu düştü.,argument_structure_transitive,balkondan,balkonu,düştü,708
+Yine bu kitap serisine bayıldım.,Yine bu kitap serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,709
+Onu bütün gece onu düşündüm.,Onu bütün gece ondan düşündüm.,argument_structure_transitive,onu,ondan,düşündüm,710
+Ama dün yaptıklarından sonra sana çok kırıldım.,Ama dün yaptıklarından sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,711
+Ben akrabalarımla iyi geçiniyorum.,Ben akrabalarımı iyi geçiniyorum.,argument_structure_transitive,akrabalarımla,akrabalarımı,geçiniyorum,712
+Çünkü tartışmaya girmeyi sevmem.,Çünkü tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,713
+Mutlu tatil için Bodrum'da karar kılmışlar.,Mutlu tatil için Bodrum'a karar kılmışlar.,argument_structure_transitive,Bodrum'da,Bodrum'a,karar kılmışlar,714
+Evet bu şehri çok seviyorum.,Evet bu şehre çok seviyorum.,argument_structure_transitive,şehri,şehre,seviyorum,715
+Bu son gelişmeye çok şaşırdım.,Bu son gelişmeyi çok şaşırdım.,argument_structure_transitive,gelişmeye,gelişmeyi,şaşırdım,716
+Çünkü senin bu tavırlarından bıktım.,Çünkü senin bu tavırlarına bıktım.,argument_structure_transitive,tavırlarından,tavırlarına,bıktım,717
+Hele dün söylediklerinden sonra sana çok kırıldım.,Hele dün söylediklerinden sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,718
+Bu oyunlara fazla kapılmamalısın.,Bu oyunları fazla kapılmamalısın.,argument_structure_transitive,oyunlara,oyunları,kapılmamalısın,719
+Bu heykellere hayran kaldım.,Bu heykelleri hayran kaldım.,argument_structure_transitive,heykellere,heykelleri,hayran kaldım,720
+Evet seni buralarda görmeye son zamanlarda iyice alıştım.,Evet seni buralarda görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,721
+Çünkü eşimin zevkine çok güvenirim.,Çünkü eşimin zevkini çok güvenirim.,argument_structure_transitive,zevkine,zevkini,güvenirim,722
+Ve bütün gün seni düşündüm.,Ve bütün gün senden düşündüm.,argument_structure_transitive,seni,senden,düşündüm,723
+Sevgili öğretmenimiz bize çok kızdı.,Sevgili öğretmenimiz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,724
+Bu projeye çok önem veriyoruz.,Bu projeyi çok önem veriyoruz.,argument_structure_transitive,projeye,projeyi,veriyoruz,725
+Ama seni burada görmeye son zamanlarda iyice alıştım.,Ama seni burada görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,726
+Bende bu tabloya hayran kaldım.,Bende bu tabloyu hayran kaldım.,argument_structure_transitive,tabloya,tabloyu,hayran kaldım,727
+Ve babamın öğütlerine kulak verdim.,Ve babamın öğütlerini kulak verdim.,argument_structure_transitive,öğütlerine,öğütlerini,verdim,728
+Çok zorlu bir maratondan sonra elde ettiğin bu zafere sevindim.,Çok zorlu bir maratondan sonra elde ettiğin bu zaferi sevindim.,argument_structure_transitive,zafere,zaferi,sevindim,729
+Ayrıca bizim kuşumuz komşunun kedisinden baya korkuyormuş.,Ayrıca bizim kuşumuz komşunun kedisini baya korkuyormuş.,argument_structure_transitive,kedisinden,kedisini,korkuyormuş,730
+Kadın saygısız çalışan yaşlı kadınla resmen alay etti.,Kadın saygısız çalışan yaşlı kadına resmen alay etti.,argument_structure_transitive,kadınla,kadına,alay etti,731
+Ve onun cevabına çok şaşırdım.,Ve onun cevabını çok şaşırdım.,argument_structure_transitive,cevabına,cevabını,şaşırdım,732
+Ben bu yarışmaya günlerce çalıştım.,Ben bu yarışmayı günlerce çalıştım.,argument_structure_transitive,yarışmaya,yarışmayı,çalıştım,733
+Ben seni buralarda görmeye son zamanlarda iyice alıştım.,Ben seni buralarda görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,734
+Bir arkadaşımın doğum gününü unuttum.,Bir arkadaşımın doğum gününe unuttum.,argument_structure_transitive,doğum gününü,doğum gününe,unuttum,735
+Ve yeni bir spora başladık.,Ve yeni bir sporu başladık.,argument_structure_transitive,spora,sporu,başladık,736
+Merhaba yeni bir işe girdim.,Merhaba yeni bir işi girdim.,argument_structure_transitive,işe,işi,girdim,737
+Yalnız seni burada görmeye son zamanlarda iyice alıştım.,Yalnız seni burada görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,738
+Ben sana her zaman güveniyorum.,Ben seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,739
+Bu olaya çok üzüldüler.,Bu olayı çok üzüldüler.,argument_structure_transitive,olaya,olayı,üzüldüler,740
+Ben onun doğruyu söylediğine inanıyorum.,Ben onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,741
+Erkek arkadaşımın doğum gününü unuttum.,Erkek arkadaşımın doğum gününe unuttum.,argument_structure_transitive,doğum gününü,doğum gününe,unuttum,742
+Bu etkinliğe katılmayı düşünüyorlar.,Bu etkinliğe katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,743
+Yine babamın öğütlerine kulak verdim.,Yine babamın öğütlerini kulak verdim.,argument_structure_transitive,öğütlerine,öğütlerini,verdim,744
+Arkadaşlar şu yeniliklere oldum olası alışamadım.,Arkadaşlar şu yenilikleri oldum olası alışamadım.,argument_structure_transitive,yeniliklere,yenilikleri,alışamadım,745
+Ama eşimin zevkine çok güvenirim.,Ama eşimin zevkini çok güvenirim.,argument_structure_transitive,zevkine,zevkini,güvenirim,746
+Hep sana her zaman güveniyorum.,Hep seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,747
+Yaz tatil için Bodrum'da karar kılmışlar.,Yaz tatil için Bodrum'a karar kılmışlar.,argument_structure_transitive,Bodrum'da,Bodrum'a,karar kılmışlar,748
+Öncelikle bu projeye çok önem veriyoruz.,Öncelikle bu projeyi çok önem veriyoruz.,argument_structure_transitive,projeye,projeyi,veriyoruz,749
+Ve bizim kuşumuz komşunun kedisinden baya korkuyormuş.,Ve bizim kuşumuz komşunun kedisini baya korkuyormuş.,argument_structure_transitive,kedisinden,kedisini,korkuyormuş,750
+Ve bizim ufaklık sıra arkadaşından baya hoşlanıyormuş.,Ve bizim ufaklık sıra arkadaşını baya hoşlanıyormuş.,argument_structure_transitive,arkadaşından,arkadaşını,hoşlanıyormuş,751
+İşte bu fikre çok önem veriyoruz.,İşte bu fikri çok önem veriyoruz.,argument_structure_transitive,fikre,fikri,veriyoruz,752
+Ayrıca ona koşulsuz destek oluyorum.,Ayrıca onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,753
+Bizim öğretmenimiz bize çok kızdı.,Bizim öğretmenimiz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,754
+Ve kardeşimin mezuniyetini unuttum.,Ve kardeşimin mezuniyetine unuttum.,argument_structure_transitive,mezuniyetini,mezuniyetine,unuttum,755
+Yine bu kasabayı çok seviyorum.,Yine bu kasabaya çok seviyorum.,argument_structure_transitive,kasabayı,kasabaya,seviyorum,756
+Ben senin bu tavırlarından bıktım.,Ben senin bu tavırlarına bıktım.,argument_structure_transitive,tavırlarından,tavırlarına,bıktım,757
+Sürücü saygısız çalışan yaşlı kadınla resmen alay etti.,Sürücü saygısız çalışan yaşlı kadına resmen alay etti.,argument_structure_transitive,kadınla,kadına,alay etti,758
+Tartışmaya girmeyi sevmem.,Tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,759
+Ben tartışmaya girmeyi sevmem.,Ben tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,760
+Bugün yeni bir kursa girdim.,Bugün yeni bir kursu girdim.,argument_structure_transitive,kursa,kursu,girdim,761
+Babam her zaman bana destek olur.,Babam her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,762
+Ünlü eda yeni elbisesine resmen hayran kaldı.,Ünlü eda yeni elbisesini resmen hayran kaldı.,argument_structure_transitive,elbisesine,elbisesini,hayran kaldı,763
+Yine bu şarkıya bayılıyorum.,Yine bu şarkıyı bayılıyorum.,argument_structure_transitive,şarkıya,şarkıyı,bayılıyorum,764
+Çünkü bu yarışmaya günlerce çalıştım.,Çünkü bu yarışmayı günlerce çalıştım.,argument_structure_transitive,yarışmaya,yarışmayı,çalıştım,765
+Ben ona koşulsuz destek oluyorum.,Ben onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,766
+Özellikle bu film serisine bayıldım.,Özellikle bu film serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,767
+Ve dün söylediklerinden sonra sana çok kırıldım.,Ve dün söylediklerinden sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,768
+Bir konsere katılmayı düşünüyorlar.,Bir konsere katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,769
+Bu kumara fazla kapılmamalısın.,Bu kumarı fazla kapılmamalısın.,argument_structure_transitive,kumara,kumarı,kapılmamalısın,770
+Şimdi bu müjdeye çok sevindim.,Şimdi bu müjdeyi çok sevindim.,argument_structure_transitive,müjdeye,müjdeyi,sevindim,771
+Artık eşimin kararlarına çok güvenirim.,Artık eşimin kararlarını çok güvenirim.,argument_structure_transitive,kararlarına,kararlarını,güvenirim,772
+Güzel bu müjdeye çok sevindim.,Güzel bu müjdeyi çok sevindim.,argument_structure_transitive,müjdeye,müjdeyi,sevindim,773
+Şimdi bu filme bayılıyoruz.,Şimdi bu filmi bayılıyoruz.,argument_structure_transitive,filme,filmi,bayılıyoruz,774
+Biz bu fikre çok önem veriyoruz.,Biz bu fikri çok önem veriyoruz.,argument_structure_transitive,fikre,fikri,veriyoruz,775
+Hadi yarın size de gelirim.,Hadi yarın sizi de gelirim.,argument_structure_transitive,size,sizi,gelirim,776
+Ben seni buralarda görmeye son zamanlarda iyice alıştım.,Ben seni buralarda görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,777
+Herkes bu fikre sıcak baktı.,Herkes bu fikri sıcak baktı.,argument_structure_transitive,fikre,fikri,baktı,778
+Senin dün yaptıklarından sonra sana çok kırıldım.,Senin dün yaptıklarından sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,779
+Çünkü sana her zaman güveniyorum.,Çünkü seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,780
+Ama son gelişmeye çok şaşırdım.,Ama son gelişmeyi çok şaşırdım.,argument_structure_transitive,gelişmeye,gelişmeyi,şaşırdım,781
+4. i̇nternette her okuduğun şeye körü körüne inanma.,4. i̇nternette her okuduğun şeyi körü körüne inanma.,argument_structure_transitive,şeye,şeyi,inanma,782
+İşte onun tepkisine çok şaşırdım.,İşte onun tepkisini çok şaşırdım.,argument_structure_transitive,tepkisine,tepkisini,şaşırdım,783
+Ben dün söylediklerinden sonra sana çok kırıldım.,Ben dün söylediklerinden sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,784
+Yine bu tabloya hayran kaldım.,Yine bu tabloyu hayran kaldım.,argument_structure_transitive,tabloya,tabloyu,hayran kaldım,785
+Ama babamın öğütlerine kulak verdim.,Ama babamın öğütlerini kulak verdim.,argument_structure_transitive,öğütlerine,öğütlerini,verdim,786
+Ben bu film serisine bayıldım.,Ben bu film serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,787
+Ben bu kitap serisine bayıldım.,Ben bu kitap serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,788
+Bir tartışmaya girmeyi sevmem.,Bir tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,789
+CHP hükümet partisi yeni yasada hala ısrar ediyor.,CHP hükümet partisi yeni yasayı hala ısrar ediyor.,argument_structure_transitive,yasada,yasayı,ısrar ediyor,790
+Sevgili annem her zaman bana destek olur.,Sevgili annem her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,791
+Konferansa katılmaya karar verdim.,Konferansı katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,792
+Şu yeniliklere oldum olası alışamadım.,Şu yenilikleri oldum olası alışamadım.,argument_structure_transitive,yeniliklere,yenilikleri,alışamadım,793
+Merhaba yeni bir kursa girdim.,Merhaba yeni bir kursu girdim.,argument_structure_transitive,kursa,kursu,girdim,794
+Milli eda yeni elbisesine resmen hayran kaldı.,Milli eda yeni elbisesini resmen hayran kaldı.,argument_structure_transitive,elbisesine,elbisesini,hayran kaldı,795
+Son gözden kaçan detaya çok üzüldüm.,Son gözden kaçan detayı çok üzüldüm.,argument_structure_transitive,detaya,detayı,üzüldüm,796
+Valla bu türküye bayılıyorum.,Valla bu türküyü bayılıyorum.,argument_structure_transitive,türküye,türküyü,bayılıyorum,797
+Fakat hükümet partisi yeni yasada hala ısrar ediyor.,Fakat hükümet partisi yeni yasayı hala ısrar ediyor.,argument_structure_transitive,yasada,yasayı,ısrar ediyor,798
+Daha kaba müşteri genç garsonla resmen dalga geçti.,Daha kaba müşteri genç garsona resmen dalga geçti.,argument_structure_transitive,garsonla,garsona,dalga geçti,799
+Öncelikle bu müjdeye çok sevindim.,Öncelikle bu müjdeyi çok sevindim.,argument_structure_transitive,müjdeye,müjdeyi,sevindim,800
+Ben yarın size de gelirim.,Ben yarın sizi de gelirim.,argument_structure_transitive,size,sizi,gelirim,801
+Ben bu şehri çok seviyorum.,Ben bu şehre çok seviyorum.,argument_structure_transitive,şehri,şehre,seviyorum,802
+Fakat dün yaptıklarından sonra sana çok kırıldım.,Fakat dün yaptıklarından sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,803
+Ben senin bu hallerinden bıktım.,Ben senin bu hallerine bıktım.,argument_structure_transitive,hallerinden,hallerine,bıktım,804
+Benim bu film serisine bayıldım.,Benim bu film serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,805
+Gerçekten bu tabloya hayran kaldım.,Gerçekten bu tabloyu hayran kaldım.,argument_structure_transitive,tabloya,tabloyu,hayran kaldım,806
+O gözden kaçan detaya çok üzüldüm.,O gözden kaçan detayı çok üzüldüm.,argument_structure_transitive,detaya,detayı,üzüldüm,807
+Benim komşularımla iyi geçiniyorum.,Benim komşularımı iyi geçiniyorum.,argument_structure_transitive,komşularımla,komşularımı,geçiniyorum,808
+Ve bu soruna çok kafa yordum.,Ve bu sorunu çok kafa yordum.,argument_structure_transitive,soruna,sorunu,yordum,809
+Bu seminere katılmaya karar verdim.,Bu semineri katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,810
+İşte bu yarışmaya günlerce çalıştım.,İşte bu yarışmayı günlerce çalıştım.,argument_structure_transitive,yarışmaya,yarışmayı,çalıştım,811
+Burada doktor bey yaşlı hastayla özel olarak ilgileniyor.,Burada doktor bey yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,812
+Biz bu sınava günlerce çalıştım.,Biz bu sınavı günlerce çalıştım.,argument_structure_transitive,sınava,sınavı,çalıştım,813
+Ve konferansa katılmaya karar verdim.,Ve konferansı katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,814
+Bu konferansa katılmaya karar verdim.,Bu konferansı katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,815
+Ama bu habere çok sevindim.,Ama bu haberi çok sevindim.,argument_structure_transitive,habere,haberi,sevindim,816
+Bu kumara fazla kapılmamalısın.,Bu kumarı fazla kapılmamalısın.,argument_structure_transitive,kumara,kumarı,kapılmamalısın,817
+Onlar balayı için Urla'da karar kılmışlar.,Onlar balayı için Urla'ya karar kılmışlar.,argument_structure_transitive,Urla'da,Urla'ya,karar kılmışlar,818
+Hemen tatile çıkma fikrine çok ısındım.,Hemen tatile çıkma fikrini çok ısındım.,argument_structure_transitive,fikrine,fikrini,ısındım,819
+Genel müdürümüz bize çok kızdı.,Genel müdürümüz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,820
+Aslında tartışmaya girmeyi sevmem.,Aslında tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,821
+Ayrıca ona büyük saygı duyuyorum.,Ayrıca onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,822
+Ayrıca bu kitap serisine bayıldım.,Ayrıca bu kitap serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,823
+Müdürümüz bize çok kızdı.,Müdürümüz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,824
+Gerçekten bu kasabayı çok seviyorum.,Gerçekten bu kasabaya çok seviyorum.,argument_structure_transitive,kasabayı,kasabaya,seviyorum,825
+Genç doktor bey yaşlı hastayla özel olarak ilgileniyor.,Genç doktor bey yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,826
+Ben bu şarkıya bayılıyorum.,Ben bu şarkıyı bayılıyorum.,argument_structure_transitive,şarkıya,şarkıyı,bayılıyorum,827
+Doktor saygısız çalışan yaşlı kadınla resmen alay etti.,Doktor saygısız çalışan yaşlı kadına resmen alay etti.,argument_structure_transitive,kadınla,kadına,alay etti,828
+Benim kedim balkondan düştü.,Benim kedim balkonu düştü.,argument_structure_transitive,balkondan,balkonu,düştü,829
+Böyle zorlu bir maratondan sonra elde ettiğin bu zafere sevindim.,Böyle zorlu bir maratondan sonra elde ettiğin bu zaferi sevindim.,argument_structure_transitive,zafere,zaferi,sevindim,830
+Ve ona büyük saygı duyuyorum.,Ve onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,831
+Yeni hükümet partisi yeni yasada hala ısrar ediyor.,Yeni hükümet partisi yeni yasayı hala ısrar ediyor.,argument_structure_transitive,yasada,yasayı,ısrar ediyor,832
+Ben tartışmaya girmeyi sevmem.,Ben tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,833
+Tarih öğretmenimiz bize çok kızdı.,Tarih öğretmenimiz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,834
+Ardından seminere katılmaya karar verdim.,Ardından semineri katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,835
+Öyle zorlu bir süreçten sonra elde ettiğin bu başarıya sevindim.,Öyle zorlu bir süreçten sonra elde ettiğin bu başarıyı sevindim.,argument_structure_transitive,başarıya,başarıyı,sevindim,836
+Hükümet partisi yeni yasada hala ısrar ediyor.,Hükümet partisi yeni yasayı hala ısrar ediyor.,argument_structure_transitive,yasada,yasayı,ısrar ediyor,837
+İşte eda hediyesine resmen bayıldı.,İşte eda hediyesini resmen bayıldı.,argument_structure_transitive,hediyesine,hediyesini,bayıldı,838
+Ve dün yaptıklarından sonra sana çok kırıldım.,Ve dün yaptıklarından sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,839
+Ve sana her zaman güveniyorum.,Ve seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,840
+O son gelişmeye çok şaşırdım.,O son gelişmeyi çok şaşırdım.,argument_structure_transitive,gelişmeye,gelişmeyi,şaşırdım,841
+Ama annemin sözlerine kulak verdim.,Ama annemin sözlerini kulak verdim.,argument_structure_transitive,sözlerine,sözlerini,verdim,842
+Fakat ben artık ona sadece gülüyorum.,Fakat ben artık onu sadece gülüyorum.,argument_structure_transitive,ona,onu,gülüyorum,843
+Daha dün söylediklerinden sonra sana çok kırıldım.,Daha dün söylediklerinden sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,844
+Özellikle bu saati çok beğendim.,Özellikle bu saate çok beğendim.,argument_structure_transitive,saati,saate,beğendim,845
+Yalnız babamın öğütlerine kulak verdim.,Yalnız babamın öğütlerini kulak verdim.,argument_structure_transitive,öğütlerine,öğütlerini,verdim,846
+Bir tatile çıkma fikrine çok ısındım.,Bir tatile çıkma fikrini çok ısındım.,argument_structure_transitive,fikrine,fikrini,ısındım,847
+9- i̇nternette her gördüğün habere körü körüne inanma.,9- i̇nternette her gördüğün haberi körü körüne inanma.,argument_structure_transitive,habere,haberi,inanma,848
+Ben tartışmaya girmeyi sevmem.,Ben tartışmaya girmeye sevmem.,argument_structure_transitive,girmeyi,girmeye,sevmem,849
+Hadi bu filme bayılıyoruz.,Hadi bu filmi bayılıyoruz.,argument_structure_transitive,filme,filmi,bayılıyoruz,850
+Ve bu filme bayılıyoruz.,Ve bu filmi bayılıyoruz.,argument_structure_transitive,filme,filmi,bayılıyoruz,851
+Bizim bu fikre çok önem veriyoruz.,Bizim bu fikri çok önem veriyoruz.,argument_structure_transitive,fikre,fikri,veriyoruz,852
+Ama onun cevabına çok şaşırdım.,Ama onun cevabını çok şaşırdım.,argument_structure_transitive,cevabına,cevabını,şaşırdım,853
+Bu fikre sıcak baktı.,Bu fikri sıcak baktı.,argument_structure_transitive,fikre,fikri,baktı,854
+Ve bu fikre çok önem veriyoruz.,Ve bu fikri çok önem veriyoruz.,argument_structure_transitive,fikre,fikri,veriyoruz,855
+İki yeni projeye başlamaya karar verdiler.,İki yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,856
+İnsanlar bu duruma çok üzüldüler.,İnsanlar bu durumu çok üzüldüler.,argument_structure_transitive,duruma,durumu,üzüldüler,857
+Ve onun tepkisine çok şaşırdım.,Ve onun tepkisini çok şaşırdım.,argument_structure_transitive,tepkisine,tepkisini,şaşırdım,858
+Kadınlar bu duruma çok üzüldüler.,Kadınlar bu durumu çok üzüldüler.,argument_structure_transitive,duruma,durumu,üzüldüler,859
+Bir etkinliğe katılmayı düşünüyorlar.,Bir etkinliğe katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,860
+Ve yeni bir kursa girdim.,Ve yeni bir kursu girdim.,argument_structure_transitive,kursa,kursu,girdim,861
+Ve balayı için Urla'da karar kılmışlar.,Ve balayı için Urla'ya karar kılmışlar.,argument_structure_transitive,Urla'da,Urla'ya,karar kılmışlar,862
+Bu şarkıya bayılıyorum.,Bu şarkıyı bayılıyorum.,argument_structure_transitive,şarkıya,şarkıyı,bayılıyorum,863
+Yine yeni bir kursa girdim.,Yine yeni bir kursu girdim.,argument_structure_transitive,kursa,kursu,girdim,864
+Ve bu projeye çok önem veriyoruz.,Ve bu projeyi çok önem veriyoruz.,argument_structure_transitive,projeye,projeyi,veriyoruz,865
+Ayrıca bu tabloya hayran kaldım.,Ayrıca bu tabloyu hayran kaldım.,argument_structure_transitive,tabloya,tabloyu,hayran kaldım,866
+Ben ona büyük saygı duyuyorum.,Ben onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,867
+Daha dün yaptıklarından sonra sana çok kırıldım.,Daha dün yaptıklarından sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,868
+İngiliz hükümet partisi yeni yasada hala ısrar ediyor.,İngiliz hükümet partisi yeni yasayı hala ısrar ediyor.,argument_structure_transitive,yasada,yasayı,ısrar ediyor,869
+Muhalefet partisi erken seçimde hala ısrar ediyor.,Muhalefet partisi erken seçimi hala ısrar ediyor.,argument_structure_transitive,seçimde,seçimi,ısrar ediyor,870
+Ve seni buralarda görmeye son zamanlarda iyice alıştım.,Ve seni buralarda görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,871
+Şimdi bizim kuşumuz komşunun kedisinden baya korkuyormuş.,Şimdi bizim kuşumuz komşunun kedisini baya korkuyormuş.,argument_structure_transitive,kedisinden,kedisini,korkuyormuş,872
+</s> eda yeni elbisesine resmen hayran kaldı.,</s> eda yeni elbisesini resmen hayran kaldı.,argument_structure_transitive,elbisesine,elbisesini,hayran kaldı,873
+Bir arkadaşımın doğum gününü unuttum.,Bir arkadaşımın doğum gününe unuttum.,argument_structure_transitive,doğum gününü,doğum gününe,unuttum,874
+Patron saygısız çalışan yaşlı kadınla resmen alay etti.,Patron saygısız çalışan yaşlı kadına resmen alay etti.,argument_structure_transitive,kadınla,kadına,alay etti,875
+Ayrıca ona koşulsuz destek oluyorum.,Ayrıca onu koşulsuz destek oluyorum.,argument_structure_transitive,ona,onu,oluyorum,876
+Sabah tatile çıkma fikrine çok ısındım.,Sabah tatile çıkma fikrini çok ısındım.,argument_structure_transitive,fikrine,fikrini,ısındım,877
+Yaşlı doktor bey yaşlı hastayla özel olarak ilgileniyor.,Yaşlı doktor bey yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,878
+Ama eşimin kararlarına çok güvenirim.,Ama eşimin kararlarını çok güvenirim.,argument_structure_transitive,kararlarına,kararlarını,güvenirim,879
+Dün söylediklerinden sonra sana çok kırıldım.,Dün söylediklerinden sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,880
+Ben senin bu tavırlarından bıktım.,Ben senin bu tavırlarına bıktım.,argument_structure_transitive,tavırlarından,tavırlarına,bıktım,881
+Şimdi onun doğruyu söylediğine inanıyorum.,Şimdi onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,882
+Ben artık ona sadece gülüyorum.,Ben artık onu sadece gülüyorum.,argument_structure_transitive,ona,onu,gülüyorum,883
+Yine yarın onlara da uğrarım.,Yine yarın onları da uğrarım.,argument_structure_transitive,onlara,onları,uğrarım,884
+Bir yeni bir hobiye başladık.,Bir yeni bir hobiyi başladık.,argument_structure_transitive,hobiye,hobiyi,başladık,885
+Ama son duruma çok şaşırdım.,Ama son durumu çok şaşırdım.,argument_structure_transitive,duruma,durumu,şaşırdım,886
+Bu bu konuya çok kafa yordum.,Bu bu konuyu çok kafa yordum.,argument_structure_transitive,konuya,konuyu,yordum,887
+İki kedim balkondan düştü.,İki kedim balkonu düştü.,argument_structure_transitive,balkondan,balkonu,düştü,888
+Genç hemşire hanım yaşlı hastayla özel olarak ilgileniyor.,Genç hemşire hanım yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,889
+Uzman doktor bey yaşlı hastayla özel olarak ilgileniyor.,Uzman doktor bey yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,890
+Ne zorlu bir süreçten sonra elde ettiğin bu başarıya sevindim.,Ne zorlu bir süreçten sonra elde ettiğin bu başarıyı sevindim.,argument_structure_transitive,başarıya,başarıyı,sevindim,891
+Daha şu yeniliklere oldum olası alışamadım.,Daha şu yenilikleri oldum olası alışamadım.,argument_structure_transitive,yeniliklere,yenilikleri,alışamadım,892
+Bir etkinliğe katılmayı düşünüyorlar.,Bir etkinliğe katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,893
+Biz bu projeye çok önem veriyoruz.,Biz bu projeyi çok önem veriyoruz.,argument_structure_transitive,projeye,projeyi,veriyoruz,894
+Bizim kuşumuz komşunun kedisinden baya korkuyormuş.,Bizim kuşumuz komşunun kedisini baya korkuyormuş.,argument_structure_transitive,kedisinden,kedisini,korkuyormuş,895
+O bu şehri çok seviyorum.,O bu şehre çok seviyorum.,argument_structure_transitive,şehri,şehre,seviyorum,896
+Ben şu yeniliklere oldum olası alışamadım.,Ben şu yenilikleri oldum olası alışamadım.,argument_structure_transitive,yeniliklere,yenilikleri,alışamadım,897
+Yeni bir spora başladık.,Yeni bir sporu başladık.,argument_structure_transitive,spora,sporu,başladık,898
+Ama onun söylediklerine katılıyorum.,Ama onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,899
+Ben yeni bir hobiye başladık.,Ben yeni bir hobiyi başladık.,argument_structure_transitive,hobiye,hobiyi,başladık,900
+Öğrenciler bu öneriye sıcak baktı.,Öğrenciler bu öneriyi sıcak baktı.,argument_structure_transitive,öneriye,öneriyi,baktı,901
+Ama annem her zaman bana destek olur.,Ama annem her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,902
+Kesinlikle onun söylediklerine katılıyorum.,Kesinlikle onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,903
+Şu gözden kaçan detaya çok üzüldüm.,Şu gözden kaçan detayı çok üzüldüm.,argument_structure_transitive,detaya,detayı,üzüldüm,904
+Aslında bizim kuşumuz komşunun kedisinden baya korkuyormuş.,Aslında bizim kuşumuz komşunun kedisini baya korkuyormuş.,argument_structure_transitive,kedisinden,kedisini,korkuyormuş,905
+Çünkü eşimin kararlarına çok güvenirim.,Çünkü eşimin kararlarını çok güvenirim.,argument_structure_transitive,kararlarına,kararlarını,güvenirim,906
+2. balayı için Urla'da karar kılmışlar.,2. balayı için Urla'ya karar kılmışlar.,argument_structure_transitive,Urla'da,Urla'ya,karar kılmışlar,907
+Sınıf öğretmenimiz bize çok kızdı.,Sınıf öğretmenimiz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,908
+Şimdi ben artık sana sadece acıyorum.,Şimdi ben artık seni sadece acıyorum.,argument_structure_transitive,sana,seni,acıyorum,909
+Ana muhalefet partisi erken seçimde hala ısrar ediyor.,Ana muhalefet partisi erken seçimi hala ısrar ediyor.,argument_structure_transitive,seçimde,seçimi,ısrar ediyor,910
+Hangi konsere katılmayı düşünüyorlar.,Hangi konsere katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,911
+4- i̇nternette her gördüğün habere körü körüne inanma.,4- i̇nternette her gördüğün haberi körü körüne inanma.,argument_structure_transitive,habere,haberi,inanma,912
+Evet yeni bir kursa girdim.,Evet yeni bir kursu girdim.,argument_structure_transitive,kursa,kursu,girdim,913
+İşte ben artık sana sadece acıyorum.,İşte ben artık seni sadece acıyorum.,argument_structure_transitive,sana,seni,acıyorum,914
+Ve yeni projeye başlamaya karar verdiler.,Ve yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,915
+Çünkü sana her zaman güveniyorum.,Çünkü seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,916
+Kız arkadaşımın doğum gününü unuttum.,Kız arkadaşımın doğum gününe unuttum.,argument_structure_transitive,doğum gününü,doğum gününe,unuttum,917
+Ben onun söylediklerine katılıyorum.,Ben onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,918
+Çünkü ben artık sana sadece acıyorum.,Çünkü ben artık seni sadece acıyorum.,argument_structure_transitive,sana,seni,acıyorum,919
+İngilizce öğretmenimiz bize çok kızdı.,İngilizce öğretmenimiz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,920
+Arkadaşlar yeni bir spora başladık.,Arkadaşlar yeni bir sporu başladık.,argument_structure_transitive,spora,sporu,başladık,921
+Yakın arkadaşımın doğum gününü unuttum.,Yakın arkadaşımın doğum gününe unuttum.,argument_structure_transitive,doğum gününü,doğum gününe,unuttum,922
+Bu film serisine bayıldım.,Bu film serisini bayıldım.,argument_structure_transitive,serisine,serisini,bayıldım,923
+3 muhalefet partisi erken seçimde hala ısrar ediyor.,3 muhalefet partisi erken seçimi hala ısrar ediyor.,argument_structure_transitive,seçimde,seçimi,ısrar ediyor,924
+Sonra köpeğim merdivenlerden düştü.,Sonra köpeğim merdivenleri düştü.,argument_structure_transitive,merdivenlerden,merdivenleri,düştü,925
+Bugün bu konuya çok kafa yordum.,Bugün bu konuyu çok kafa yordum.,argument_structure_transitive,konuya,konuyu,yordum,926
+Usta doktor bey yaşlı hastayla özel olarak ilgileniyor.,Usta doktor bey yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,927
+Ben bu konuya çok kafa yordum.,Ben bu konuyu çok kafa yordum.,argument_structure_transitive,konuya,konuyu,yordum,928
+Özel tatil için Bodrum'da karar kılmışlar.,Özel tatil için Bodrum'a karar kılmışlar.,argument_structure_transitive,Bodrum'da,Bodrum'a,karar kılmışlar,929
+İşte ben artık ona sadece gülüyorum.,İşte ben artık onu sadece gülüyorum.,argument_structure_transitive,ona,onu,gülüyorum,930
+Belki yarın onlara da uğrarım.,Belki yarın onları da uğrarım.,argument_structure_transitive,onlara,onları,uğrarım,931
+Eski hemşire hanım yaşlı hastayla özel olarak ilgileniyor.,Eski hemşire hanım yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,932
+Bir öğretmenimiz bize çok kızdı.,Bir öğretmenimiz bizi çok kızdı.,argument_structure_transitive,bize,bizi,kızdı,933
+İşte bu sınava günlerce çalıştım.,İşte bu sınavı günlerce çalıştım.,argument_structure_transitive,sınava,sınavı,çalıştım,934
+Özellikle bu saati çok beğendim.,Özellikle bu saate çok beğendim.,argument_structure_transitive,saati,saate,beğendim,935
+Ne zorlu bir maratondan sonra elde ettiğin bu zafere sevindim.,Ne zorlu bir maratondan sonra elde ettiğin bu zaferi sevindim.,argument_structure_transitive,zafere,zaferi,sevindim,936
+Ben sana her zaman güveniyorum.,Ben seni her zaman güveniyorum.,argument_structure_transitive,sana,seni,güveniyorum,937
+2 muhalefet partisi erken seçimde hala ısrar ediyor.,2 muhalefet partisi erken seçimi hala ısrar ediyor.,argument_structure_transitive,seçimde,seçimi,ısrar ediyor,938
+Evet senin bu hallerinden bıktım.,Evet senin bu hallerine bıktım.,argument_structure_transitive,hallerinden,hallerine,bıktım,939
+Ben eşimin zevkine çok güvenirim.,Ben eşimin zevkini çok güvenirim.,argument_structure_transitive,zevkine,zevkini,güvenirim,940
+Fakat kumara fazla kapılmamalısın.,Fakat kumarı fazla kapılmamalısın.,argument_structure_transitive,kumara,kumarı,kapılmamalısın,941
+Ama onun doğruyu söylediğine inanıyorum.,Ama onun doğruyu söylediğini inanıyorum.,argument_structure_transitive,söylediğine,söylediğini,inanıyorum,942
+8- i̇nternette her gördüğün habere körü körüne inanma.,8- i̇nternette her gördüğün haberi körü körüne inanma.,argument_structure_transitive,habere,haberi,inanma,943
+Artık yeni bir spora başladık.,Artık yeni bir sporu başladık.,argument_structure_transitive,spora,sporu,başladık,944
+Valla bu şarkıya bayılıyorum.,Valla bu şarkıyı bayılıyorum.,argument_structure_transitive,şarkıya,şarkıyı,bayılıyorum,945
+Ama şu yeniliklere oldum olası alışamadım.,Ama şu yenilikleri oldum olası alışamadım.,argument_structure_transitive,yeniliklere,yenilikleri,alışamadım,946
+Ben bu saati çok beğendim.,Ben bu saate çok beğendim.,argument_structure_transitive,saati,saate,beğendim,947
+• i̇nternette her okuduğun şeye körü körüne inanma.,• i̇nternette her okuduğun şeyi körü körüne inanma.,argument_structure_transitive,şeye,şeyi,inanma,948
+Artık seni buralarda görmeye son zamanlarda iyice alıştım.,Artık seni buralarda görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,949
+Ve hemşire hanım yaşlı hastayla özel olarak ilgileniyor.,Ve hemşire hanım yaşlı hastayı özel olarak ilgileniyor.,argument_structure_transitive,hastayla,hastayı,ilgileniyor,950
+Yine onun söylediklerine katılıyorum.,Yine onun söylediklerini katılıyorum.,argument_structure_transitive,söylediklerine,söylediklerini,katılıyorum,951
+Türk hükümet partisi yeni yasada hala ısrar ediyor.,Türk hükümet partisi yeni yasayı hala ısrar ediyor.,argument_structure_transitive,yasada,yasayı,ısrar ediyor,952
+İşte dün yaptıklarından sonra sana çok kırıldım.,İşte dün yaptıklarından sonra seni çok kırıldım.,argument_structure_transitive,sana,seni,kırıldım,953
+Özellikle bu heykellere hayran kaldım.,Özellikle bu heykelleri hayran kaldım.,argument_structure_transitive,heykellere,heykelleri,hayran kaldım,954
+O kaba müşteri genç garsonla resmen dalga geçti.,O kaba müşteri genç garsona resmen dalga geçti.,argument_structure_transitive,garsonla,garsona,dalga geçti,955
+Fakat bu habere çok sevindim.,Fakat bu haberi çok sevindim.,argument_structure_transitive,habere,haberi,sevindim,956
+Ben seni burada görmeye son zamanlarda iyice alıştım.,Ben seni burada görmeyi son zamanlarda iyice alıştım.,argument_structure_transitive,görmeye,görmeyi,alıştım,957
+Ve bu projeye çok önem veriyoruz.,Ve bu projeyi çok önem veriyoruz.,argument_structure_transitive,projeye,projeyi,veriyoruz,958
+Sabah bütün gün seni düşündüm.,Sabah bütün gün senden düşündüm.,argument_structure_transitive,seni,senden,düşündüm,959
+Arkadaşlar bu habere çok sevindim.,Arkadaşlar bu haberi çok sevindim.,argument_structure_transitive,habere,haberi,sevindim,960
+En kaba müşteri genç garsonla resmen dalga geçti.,En kaba müşteri genç garsona resmen dalga geçti.,argument_structure_transitive,garsonla,garsona,dalga geçti,961
+Anne babam her zaman bana destek olur.,Anne babam her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,962
+Bundan bizim ufaklık sıra arkadaşından baya hoşlanıyormuş.,Bundan bizim ufaklık sıra arkadaşını baya hoşlanıyormuş.,argument_structure_transitive,arkadaşından,arkadaşını,hoşlanıyormuş,963
+Için bu projeye çok önem veriyoruz.,Için bu projeyi çok önem veriyoruz.,argument_structure_transitive,projeye,projeyi,veriyoruz,964
+En gözden kaçan hataya çok üzüldüm.,En gözden kaçan hatayı çok üzüldüm.,argument_structure_transitive,hataya,hatayı,üzüldüm,965
+Bu son gelişmeye çok şaşırdım.,Bu son gelişmeyi çok şaşırdım.,argument_structure_transitive,gelişmeye,gelişmeyi,şaşırdım,966
+Ancak hükümet partisi yeni yasada hala ısrar ediyor.,Ancak hükümet partisi yeni yasayı hala ısrar ediyor.,argument_structure_transitive,yasada,yasayı,ısrar ediyor,967
+Benim akrabalarımla iyi geçiniyorum.,Benim akrabalarımı iyi geçiniyorum.,argument_structure_transitive,akrabalarımla,akrabalarımı,geçiniyorum,968
+Öğrenciler bu duruma çok üzüldüler.,Öğrenciler bu durumu çok üzüldüler.,argument_structure_transitive,duruma,durumu,üzüldüler,969
+Ve şu değişikliklere oldum olası alışamadım.,Ve şu değişiklikleri oldum olası alışamadım.,argument_structure_transitive,değişikliklere,değişiklikleri,alışamadım,970
+Ayrıca komşularımla iyi geçiniyorum.,Ayrıca komşularımı iyi geçiniyorum.,argument_structure_transitive,komşularımla,komşularımı,geçiniyorum,971
+Ama babam her zaman bana destek olur.,Ama babam her zaman beni destek olur.,argument_structure_transitive,bana,beni,destek olur,972
+Balayı için Urla'da karar kılmışlar.,Balayı için Urla'ya karar kılmışlar.,argument_structure_transitive,Urla'da,Urla'ya,karar kılmışlar,973
+Bugün yeni bir hobiye başladık.,Bugün yeni bir hobiyi başladık.,argument_structure_transitive,hobiye,hobiyi,başladık,974
+Erkek kardeşimin mezuniyetini unuttum.,Erkek kardeşimin mezuniyetine unuttum.,argument_structure_transitive,mezuniyetini,mezuniyetine,unuttum,975
+İki muhalefet partisi erken seçimde hala ısrar ediyor.,İki muhalefet partisi erken seçimi hala ısrar ediyor.,argument_structure_transitive,seçimde,seçimi,ısrar ediyor,976
+Ve ben artık sana sadece acıyorum.,Ve ben artık seni sadece acıyorum.,argument_structure_transitive,sana,seni,acıyorum,977
+Bakan bu öneriye sıcak baktı.,Bakan bu öneriyi sıcak baktı.,argument_structure_transitive,öneriye,öneriyi,baktı,978
+Evet yeni bir spora başladık.,Evet yeni bir sporu başladık.,argument_structure_transitive,spora,sporu,başladık,979
+Ve yeni projeye başlamaya karar verdiler.,Ve yeni projeye başlamayı karar verdiler.,argument_structure_transitive,başlamaya,başlamayı,karar verdiler,980
+Babamın öğütlerine kulak verdim.,Babamın öğütlerini kulak verdim.,argument_structure_transitive,öğütlerine,öğütlerini,verdim,981
+Sonra onun tepkisine çok şaşırdım.,Sonra onun tepkisini çok şaşırdım.,argument_structure_transitive,tepkisine,tepkisini,şaşırdım,982
+Ama ben artık ona sadece gülüyorum.,Ama ben artık onu sadece gülüyorum.,argument_structure_transitive,ona,onu,gülüyorum,983
+İşte senin bu hallerinden bıktım.,İşte senin bu hallerine bıktım.,argument_structure_transitive,hallerinden,hallerine,bıktım,984
+İnşallah yarın onlara da uğrarım.,İnşallah yarın onları da uğrarım.,argument_structure_transitive,onlara,onları,uğrarım,985
+Başbakan bu fikre sıcak baktı.,Başbakan bu fikri sıcak baktı.,argument_structure_transitive,fikre,fikri,baktı,986
+Ve babamın öğütlerine kulak verdim.,Ve babamın öğütlerini kulak verdim.,argument_structure_transitive,öğütlerine,öğütlerini,verdim,987
+Ancak son gelişmeye çok şaşırdım.,Ancak son gelişmeyi çok şaşırdım.,argument_structure_transitive,gelişmeye,gelişmeyi,şaşırdım,988
+Çok saygısız çalışan yaşlı kadınla resmen alay etti.,Çok saygısız çalışan yaşlı kadına resmen alay etti.,argument_structure_transitive,kadınla,kadına,alay etti,989
+Ona büyük saygı duyuyorum.,Onu büyük saygı duyuyorum.,argument_structure_transitive,ona,onu,duyuyorum,990
+Aslında bu yarışmaya günlerce çalıştım.,Aslında bu yarışmayı günlerce çalıştım.,argument_structure_transitive,yarışmaya,yarışmayı,çalıştım,991
+Şu son gelişmeye çok şaşırdım.,Şu son gelişmeyi çok şaşırdım.,argument_structure_transitive,gelişmeye,gelişmeyi,şaşırdım,992
+</s> konsere katılmayı düşünüyorlar.,</s> konsere katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,993
+Çok gözden kaçan hataya çok üzüldüm.,Çok gözden kaçan hatayı çok üzüldüm.,argument_structure_transitive,hataya,hatayı,üzüldüm,994
+Ve konferansa katılmaya karar verdim.,Ve konferansı katılmayı karar verdim.,argument_structure_transitive,katılmaya,katılmayı,karar verdim,995
+Bu filme bayılıyoruz.,Bu filmi bayılıyoruz.,argument_structure_transitive,filme,filmi,bayılıyoruz,996
+Bugün bu diziye bayılıyoruz.,Bugün bu diziyi bayılıyoruz.,argument_structure_transitive,diziye,diziyi,bayılıyoruz,997
+Etkinliğe katılmayı düşünüyorlar.,Etkinliğe katılmaya düşünüyorlar.,argument_structure_transitive,katılmayı,katılmaya,düşünüyorlar,998
+Bu tabloya hayran kaldım.,Bu tabloyu hayran kaldım.,argument_structure_transitive,tabloya,tabloyu,hayran kaldım,999
+İnsanlar bu olaya çok üzüldüler.,İnsanlar bu olayı çok üzüldüler.,argument_structure_transitive,olaya,olayı,üzüldüler,1000
