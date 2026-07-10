@@ -1,6 +1,6 @@
 CATEGORIES = {
 
-    "turblimp" = {
+    "turblimp": {
         "anaphor_agreement": ["anaphor_agreement"],
         "argument_structure_ditransitive": ["argument_structure_ditransitive"],
         "argument_structure_transitive": ["argument_structure_transitive"],
