@@ -1,0 +1,22 @@
+
+=== Russian subject-verb / subject-predicate agreement overlap ===
+Model: gemma-3-4b-pt
+Target selected units: 691
+Random baseline: 6.91 units
+
+Counts of pairwise overlaps:
+RuBLiMP × CLAMS pairs: 77
+RuBLiMP within pairs:  55
+CLAMS within pairs:    21
+
+RuBLiMP × CLAMS    mean=   27.23 units ( 3.94%), sd=   12.27, min=2, max=61
+RuBLiMP within     mean=  186.16 units (26.94%), sd=   71.93, min=97, max=421
+CLAMS within       mean=  109.57 units (15.86%), sd=  101.76, min=8, max=338
+Random             mean=    6.91 units ( 1.00%)
+
+One-sample t-test: RuBLiMP × CLAMS > random
+t = 14.536, p = 0.00000
+
+Descriptive Welch tests, interpret cautiously because pair overlaps are not fully independent:
+Cross vs RuBLiMP within: t = -16.218, p = 0.00000
+Cross vs CLAMS within:   t = -3.701, p = 0.00140
