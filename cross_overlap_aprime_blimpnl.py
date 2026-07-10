@@ -117,6 +117,7 @@ def extract_model_name(path: Path, prefix: str, percentage: float) -> str:
         return name[len(prefix) : -len(suffix)]
 
     stem = path.stem
+
     if stem.startswith(prefix):
         return stem[len(prefix) :]
 
@@ -188,7 +189,7 @@ def find_cross_matrices_to_blimp(
       rows    = BLiMP-NL suites
       columns = BLiMP suites
 
-    It handles either saved orientation:
+    Handles either saved orientation:
       cross-overlap_blimp_blimp-nl_...
       cross-overlap_blimp-nl_blimp_...
     """
@@ -266,8 +267,8 @@ def get_all_suites(cat_map: Dict[str, List[str]]) -> List[str]:
 def get_blimp_aprime_categories(cat_blimp: Dict[str, List[str]]) -> List[str]:
     """
     BLiMP does not use the same category names as BLiMP-NL.
-    For A′/extraction-style dependencies, the relevant BLiMP categories are
-    normally filler-gap dependencies and island effects.
+    For A-prime/extraction-style dependencies, the relevant BLiMP categories
+    are normally filler-gap dependencies and island effects.
     """
     preferred = [
         "filler_gap_dependency",
@@ -287,11 +288,12 @@ def get_blimp_aprime_categories(cat_blimp: Dict[str, List[str]]) -> List[str]:
 
     if not fallback:
         print("\nAvailable BLiMP categories:")
+
         for cat in cat_blimp:
             print(" ", cat)
 
         raise ValueError(
-            "Could not identify BLiMP A′ categories. "
+            "Could not identify BLiMP A-prime categories. "
             "Expected filler_gap_dependency and/or island_effects."
         )
 
@@ -300,6 +302,7 @@ def get_blimp_aprime_categories(cat_blimp: Dict[str, List[str]]) -> List[str]:
 
 def validate_aprime_suites(dataset: str):
     dataset_key = dataset.lower()
+
     all_dataset_suites = {
         suite
         for suites in CATEGORIES[dataset_key].values()
@@ -316,7 +319,7 @@ def validate_aprime_suites(dataset: str):
 
     if missing:
         raise ValueError(
-            "These A′ suites are not listed in categories.py:\n"
+            "These A-prime suites are not listed in categories.py:\n"
             + "\n".join(missing)
         )
 
@@ -345,16 +348,19 @@ def aggregate(
     ]
 
     blimp_aprime_cats = get_blimp_aprime_categories(cat_blimp)
+
     all_aprime_blimp = [
         suite for cat in blimp_aprime_cats for suite in cat_blimp[cat]
     ]
 
     all_blimp_suites = get_all_suites(cat_blimp)
+
     non_aprime_blimp = [
         suite for suite in all_blimp_suites if suite not in all_aprime_blimp
     ]
 
-    print("\nUsing BLiMP A′ categories:")
+    print("\nUsing BLiMP A-prime categories:")
+
     for cat in blimp_aprime_cats:
         print(f"  {cat}: {len(cat_blimp[cat])} suites")
 
@@ -452,10 +458,10 @@ def plot(
 
     labels = [
         f"Within-category in {dataset}",
-        f"With other A′ categories in {dataset}",
-        f"With non-A′ categories in {dataset}",
-        "With A′ categories in BLiMP",
-        "With non-A′ categories in BLiMP",
+        f"With other A-prime categories in {dataset}",
+        f"With non-A-prime categories in {dataset}",
+        "With A-prime categories in BLiMP",
+        "With non-A-prime categories in BLiMP",
     ]
 
     y = np.arange(len(summary))
@@ -484,7 +490,9 @@ def plot(
     max_val = np.nanmax(summary[show_cols].to_numpy(dtype=float))
     x_max = min(100, max(10, np.ceil((max_val + 8) / 10.0) * 10.0))
 
+    # Main grid/axis stays here. Percentage labels are outside the right spine.
     ax.set_xlim(0, x_max)
+
     ax.set_xlabel("Percentage of units", fontsize=9)
     ax.tick_params(axis="x", labelsize=8)
     ax.grid(axis="x", linestyle=":", alpha=0.4, zorder=0)
@@ -515,19 +523,20 @@ def plot(
 
             if not np.isfinite(val):
                 label = "N/A"
-                x = 0.5
             else:
                 label = f"{val:.2f}%"
-                x = val + 0.8
 
+            # Fixed percentage column outside the main plotting grid.
             ax.text(
-                x,
+                1.02,
                 yi + offsets[j],
                 label,
+                transform=ax.get_yaxis_transform(),
                 va="center",
                 ha="left",
                 fontsize=7,
                 zorder=9,
+                clip_on=False,
             )
 
     bar_handles = [
@@ -572,7 +581,14 @@ def plot(
         spine.set_linewidth(1.1)
         spine.set_color("black")
 
-    fig.tight_layout()
+    # Leave room for the outside percentage column.
+    # Do not use tight_layout here.
+    fig.subplots_adjust(
+        left=0.20,
+        right=0.82,
+        top=0.90,
+        bottom=0.14,
+    )
 
     dataset_key = dataset.lower()
     out_png = Path(directory) / f"cross_overlap_aprime_{dataset_key}_5bar.png"
@@ -591,7 +607,7 @@ def main():
     p.add_argument("--directory", default="multilingual/blimpnl")
     p.add_argument(
         "--title",
-        default="Cross-phenomenon overlap in BLiMP-NL (A′-dependencies)",
+        default="Cross-phenomenon overlap in BLiMP-NL (A-prime dependencies)",
     )
     p.add_argument("--percentage", type=float, default=1.0)
     p.add_argument("--add-model-markers", action="store_true")
