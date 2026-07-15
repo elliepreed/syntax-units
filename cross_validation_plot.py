@@ -35,6 +35,10 @@ TURBLIMP_LABELS = {
     "quantifiers": "Quantifiers",
     "relative_clauses": "Relative Clauses",
     "scrambling": "Scrambling",
+ives",
+    "quantifiers": "Quantifiers",
+    "relative_clauses": "Relative Clauses",
+    "scrambling": "Scrambling",
     "subject_agreement": "Subject Agreement",
     "suspended_affixation": "Suspended Affixation",
     "random": "Random",
@@ -110,8 +114,6 @@ def build_category_map(dataset_key):
     """
     Build:
         normalised suite name -> normalised category/phenomenon name
-
-    If categories.py has one-suite-per-category, this still works.
     """
     category_map = {}
 
@@ -135,7 +137,6 @@ def build_category_map(dataset_key):
 def build_category_colors(dataset_key, categories_in_plot):
     """
     Assign one colour per phenomenon/category.
-    For TurBLiMP, use a stable order so legend/bar colours remain consistent.
     """
     if dataset_key in CATEGORY_COLORS:
         palette = CATEGORY_COLORS[dataset_key]
@@ -341,7 +342,7 @@ def main():
         y_rublimp,
         y_sling,
         color="#fff3cd",
-        alpha=0.25,
+        alpha=0.22,
         zorder=0,
     )
 
@@ -359,7 +360,7 @@ def main():
         y_rublimp,
         color="#1e8449",
         linestyle=":",
-        linewidth=2,
+        linewidth=2.5,
         zorder=1,
     )
 
@@ -367,33 +368,32 @@ def main():
         y_sling,
         color="#c0392b",
         linestyle=":",
-        linewidth=2,
+        linewidth=2.5,
         zorder=1,
     )
 
-    # Threshold labels placed just outside the plot.
-    ax.text(
-        1.03,
-        y_rublimp,
-        f"RuBLiMP min = {RUBLIMP_MIN:.2f}%",
-        transform=ax.get_yaxis_transform(),
-        va="center",
-        ha="left",
-        fontsize=9,
-        color="#1e8449",
-        clip_on=False,
+    # Readable threshold textbox inside plot.
+    threshold_text = (
+        f"RuBLiMP minimum = {RUBLIMP_MIN:.2f}%\n"
+        f"SLING minimum = {SLING_MIN:.2f}%"
     )
 
     ax.text(
-        1.03,
-        y_sling,
-        f"SLING min = {SLING_MIN:.2f}%",
-        transform=ax.get_yaxis_transform(),
-        va="center",
+        0.03,
+        0.04,
+        threshold_text,
+        transform=ax.transAxes,
+        fontsize=10,
         ha="left",
-        fontsize=9,
-        color="#c0392b",
-        clip_on=False,
+        va="bottom",
+        color="black",
+        bbox=dict(
+            facecolor="white",
+            edgecolor="black",
+            alpha=0.92,
+            boxstyle="round,pad=0.35",
+        ),
+        zorder=10,
     )
 
     # ----------------------------
@@ -499,6 +499,7 @@ def main():
             )
         )
 
+    # Line/background legend entries
     handles.extend(
         [
             Line2D(
@@ -506,16 +507,16 @@ def main():
                 [0],
                 color="#1e8449",
                 linestyle=":",
-                linewidth=2,
-                label=f"Lowest RuBLiMP = {RUBLIMP_MIN:.2f}%",
+                linewidth=2.5,
+                label=f"RuBLiMP minimum",
             ),
             Line2D(
                 [0],
                 [0],
                 color="#c0392b",
                 linestyle=":",
-                linewidth=2,
-                label=f"Lowest SLING = {SLING_MIN:.2f}%",
+                linewidth=2.5,
+                label=f"SLING minimum",
             ),
             Patch(
                 facecolor="#d4edda",
