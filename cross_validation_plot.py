@@ -15,55 +15,9 @@ from plot_utils import CATEGORY_COLORS
 from utils import random_overlap_expected
 
 
-# Lowest comparison values from the other datasets
+# Thresholds from comparison datasets
 SLING_MIN = 46.32
 RUBLIMP_MIN = 50.46
-
-
-TURBLIMP_LABELS = {
-    "anaphor_agreement": "Anaphor Agreement",
-    "argument_structure_transitive": "Arg. Struct. Trans.",
-    "argument_structure_ditransitive": "Arg. Struct. Ditrans.",
-    "binding": "Binding",
-    "determiners": "Determiners",
-    "ellipsis": "Ellipsis",
-    "irregular_forms": "Irregular Forms",
-    "island_effects": "Island Effects",
-    "nominalization": "Nominalization",
-    "npi_licensing": "NPI Licensing",
-    "passives": "Passives",
-    "quantifiers": "Quantifiers",
-    "relative_clauses": "Relative Clauses",
-    "scrambling": "Scrambling",
-ives",
-    "quantifiers": "Quantifiers",
-    "relative_clauses": "Relative Clauses",
-    "scrambling": "Scrambling",
-    "subject_agreement": "Subject Agreement",
-    "suspended_affixation": "Suspended Affixation",
-    "random": "Random",
-    "blimp-control_(avg.)": "BLiMP-Control",
-}
-
-
-TURBLIMP_LEGEND_ORDER = [
-    "anaphor_agreement",
-    "argument_structure_transitive",
-    "argument_structure_ditransitive",
-    "binding",
-    "determiners",
-    "ellipsis",
-    "irregular_forms",
-    "island_effects",
-    "nominalization",
-    "npi_licensing",
-    "passives",
-    "quantifiers",
-    "relative_clauses",
-    "scrambling",
-    "subject_agreement",
-    "suspended_affixation",
-]
 
 
 def norm_name(x):
@@ -71,93 +25,37 @@ def norm_name(x):
 
 
 def display_name(name):
-    key = norm_name(name)
-
-    if key in TURBLIMP_LABELS:
-        return TURBLIMP_LABELS[key]
-
-    return (
-        str(name)
-        .replace("_", " ")
-        .replace("-", " ")
-        .title()
-    )
-
-
-def read_control_file(path: str, expect_many: bool):
-    records = []
-
-    with open(path) as f:
-        for line in f:
-            spl = line.strip().split()
-
-            if len(spl) < 1:
-                continue
-
-            records.append(int(spl[0]))
-
-    if not records:
-        raise RuntimeError(f"{path} is empty?")
-
-    avg = float(np.mean(records))
-    return avg, None
+    return str(name).replace("_", " ").replace("-", " ").title()
 
 
 def add_score(table, model_name, suite, score):
     if suite not in table:
         table[suite] = {}
-
     table[suite][model_name] = score
 
 
 def build_category_map(dataset_key):
     """
     Build:
-        normalised suite name -> normalised category/phenomenon name
+        suite/paradigm name -> BLiMP-NL category name
     """
     category_map = {}
 
-    if dataset_key not in CATEGORIES:
-        return category_map
-
-    for cat, subdict in CATEGORIES[dataset_key].items():
-        cat_key = norm_name(cat)
-
-        if isinstance(subdict, dict):
-            suite_names = subdict.keys()
-        else:
-            suite_names = subdict
-
-        for suite_name in suite_names:
-            category_map[norm_name(suite_name)] = cat_key
+    for cat, suites in CATEGORIES[dataset_key].items():
+        for suite in suites:
+            category_map[norm_name(suite)] = norm_name(cat)
 
     return category_map
 
 
 def build_category_colors(dataset_key, categories_in_plot):
-    """
-    Assign one colour per phenomenon/category.
-    """
     if dataset_key in CATEGORY_COLORS:
         palette = CATEGORY_COLORS[dataset_key]
     else:
         palette = list(plt.cm.tab20.colors)
 
     color_map = {}
-
-    if dataset_key == "turblimp":
-        ordered = [
-            c for c in TURBLIMP_LEGEND_ORDER
-            if c in categories_in_plot
-        ]
-        ordered += [
-            c for c in categories_in_plot
-            if c not in ordered
-        ]
-    else:
-        ordered = categories_in_plot
-
-    for i, cat in enumerate(ordered):
+    for i, cat in enumerate(categories_in_plot):
         color_map[cat] = palette[i % len(palette)]
 
     return color_map
@@ -170,7 +68,34 @@ def threshold_boundary_y(entries, threshold):
     """
     vals = list(entries.values())
     n_above = sum(v >= threshold for v in vals)
+    return n_boundary_y(entries, threshold):
+    """
+    Bars are sorted descending.
+    Return the y-position between bars >= threshold and bars < threshold.
+    """
+    vals = list(entries.values())
+    n_above = sum(v >= threshold for v in vals)
     return n_above - 0.5
+
+
+def parse_filename(fname, dataset_key):
+    """
+    Expected:
+    cross-validation_blimp-nl_gemma-3-4b-pt_1.0%_2-fold.txt
+    """
+    prefix = f"cross-validation_{dataset_key}_"
+    suffix = ".txt"
+
+    if not fname.startswith(prefix) or not fname.endswith(suffix):
+        return None
+
+    rest = fname[len(prefix):-len(suffix)]
+    model_name, perc_str, folds_str = rest.rsplit("_", 2)
+
+    percent = float(perc_str.replace("%", "")) / 100
+    n_folds = int(folds_str.replace("-fold", ""))
+
+    return model_name, percent, n_folds
 
 
 def main():
@@ -182,54 +107,47 @@ def main():
 
     dataset_key = args.dataset.lower()
 
+    if dataset_key != "blimp-nl":
+        raise ValueError("This script is intended for BLiMP-NL only.")
+
     model_names = set()
     suite_rows = {}
     percentage_units = {}
 
     for fname in os.listdir(args.directory):
-        if fname.startswith(f"cross-validation_{dataset_key}_") and fname.endswith("txt"):
-            _, dataset, model_name, perc_str, num_folds = fname.split("_")
+        parsed = parse_filename(fname, dataset_key)
 
-            percent = float(perc_str[:-1]) / 100
-            model_names.add(model_name)
+        if parsed is None:
+            continue
 
-            print(fname)
+        model_name, percent, n_folds = parsed
+        model_names.add(model_name)
 
-            n_units_total = get_num_blocks(model_name) * get_hidden_dim(model_name)
-            k_units = int(n_units_total * percent)
-            percentage_units[model_name] = k_units
+        print(fname)
 
-            with open(os.path.join(args.directory, fname)) as fh:
-                for ln in fh:
-                    parts = ln.strip().split()
+        n_units_total = get_num_blocks(model_name) * get_hidden_dim(model_name)
+        k_units = int(n_units_total * percent)
+        percentage_units[model_name] = k_units
 
-                    if len(parts) != 3:
-                        continue
+        with open(os.path.join(args.directory, fname)) as fh:
+            for ln in fh:
+                parts = ln.strip().split()
 
-                    raw_overlap = float(parts[0])
-                    suite_name = parts[2]
+                if len(parts) != 3:
+                    continue
 
-                    add_score(suite_rows, model_name, suite_name, raw_overlap)
+                raw_overlap = float(parts[0])
+                suite_name = parts[2]
 
-            for ctrl_file in os.listdir(args.directory):
-                if f"cross-validation_blimp-control_{model_name}" in ctrl_file:
-                    ctrl_path = os.path.join(args.directory, ctrl_file)
-                    score, _ = read_control_file(ctrl_path, expect_many=False)
+                add_score(suite_rows, model_name, suite_name, raw_overlap)
 
-                    add_score(
-                        suite_rows,
-                        model_name,
-                        "BLiMP-Control (Avg.)",
-                        float(score),
-                    )
+        rand_score = random_overlap_expected(
+            n_units_total,
+            k_units,
+            n_folds=n_folds,
+        )
 
-            rand_score = random_overlap_expected(
-                n_units_total,
-                k_units,
-                n_folds=int(num_folds[:-9]),
-            )
-
-            add_score(suite_rows, model_name, "Random", float(rand_score))
+        add_score(suite_rows, model_name, "Random", float(rand_score))
 
     if not suite_rows:
         raise FileNotFoundError(
@@ -261,7 +179,7 @@ def main():
             [
                 avg_entries[suite]
                 for suite in avg_entries
-                if "Control" not in suite and "Random" not in suite
+                if suite != "Random"
             ]
         ),
     )
@@ -275,8 +193,6 @@ def main():
 
         if suite == "Random":
             suite_to_plot_category[suite] = "random"
-        elif suite.startswith("BLiMP-Control"):
-            suite_to_plot_category[suite] = "blimp-control_(avg.)"
         elif suite_key in category_map:
             suite_to_plot_category[suite] = category_map[suite_key]
         else:
@@ -289,27 +205,14 @@ def main():
 
     categories_in_plot = []
 
-    if dataset_key == "turblimp":
-        for cat in TURBLIMP_LEGEND_ORDER:
-            if cat in suite_to_plot_category.values():
-                categories_in_plot.append(cat)
+    for suite in avg_entries:
+        cat = suite_to_plot_category[suite]
 
-        for cat in suite_to_plot_category.values():
-            if cat not in categories_in_plot and cat not in {
-                "random",
-                "blimp-control_(avg.)",
-            }:
-                categories_in_plot.append(cat)
-    else:
-        for suite in avg_entries:
-            cat = suite_to_plot_category[suite]
-
-            if cat not in {"random", "blimp-control_(avg.)"} and cat not in categories_in_plot:
-                categories_in_plot.append(cat)
+        if cat != "random" and cat not in categories_in_plot:
+            categories_in_plot.append(cat)
 
     cat2color = build_category_colors(dataset_key, categories_in_plot)
 
-    GREY_CTRL = "#888888"
     GREY_RAND = "#bbbbbb"
 
     n_bars = len(avg_entries)
@@ -319,7 +222,6 @@ def main():
     fig, ax = plt.subplots(figsize=(8, fig_height))
 
     y_pos = np.arange(n_bars)
-
     ax.set_xlim(0, 100)
 
     # ----------------------------
@@ -328,7 +230,7 @@ def main():
     y_rublimp = threshold_boundary_y(avg_entries, RUBLIMP_MIN)
     y_sling = threshold_boundary_y(avg_entries, SLING_MIN)
 
-    # Green: bars at/above lowest RuBLiMP value.
+    # Green: BLiMP-NL paradigms at/above the lowest RuBLiMP value.
     ax.axhspan(
         -0.5,
         y_rublimp,
@@ -346,7 +248,7 @@ def main():
         zorder=0,
     )
 
-    # Red: below lowest SLING value.
+    # Red: below the lowest SLING value.
     ax.axhspan(
         y_sling,
         n_bars - 0.5,
@@ -355,7 +257,7 @@ def main():
         zorder=0,
     )
 
-    # Dotted horizontal threshold lines.
+    # Dotted threshold lines.
     ax.axhline(
         y_rublimp,
         color="#1e8449",
@@ -402,9 +304,7 @@ def main():
     for i, (suite, avg_score) in enumerate(avg_entries.items()):
         cat = suite_to_plot_category[suite]
 
-        if cat == "blimp-control_(avg.)":
-            color = GREY_CTRL
-        elif cat == "random":
+        if cat == "random":
             color = GREY_RAND
         else:
             color = cat2color.get(cat, "#1f77b4")
@@ -471,20 +371,6 @@ def main():
             )
         )
 
-    if "blimp-control_(avg.)" in suite_to_plot_category.values():
-        handles.append(
-            Line2D(
-                [0],
-                [0],
-                marker="s",
-                linestyle="",
-                markersize=10,
-                markerfacecolor=GREY_CTRL,
-                markeredgecolor="black",
-                label="BLiMP-Control",
-            )
-        )
-
     if "random" in suite_to_plot_category.values():
         handles.append(
             Line2D(
@@ -499,7 +385,6 @@ def main():
             )
         )
 
-    # Line/background legend entries
     handles.extend(
         [
             Line2D(
@@ -508,7 +393,7 @@ def main():
                 color="#1e8449",
                 linestyle=":",
                 linewidth=2.5,
-                label=f"RuBLiMP minimum",
+                label="RuBLiMP minimum",
             ),
             Line2D(
                 [0],
@@ -516,7 +401,7 @@ def main():
                 color="#c0392b",
                 linestyle=":",
                 linewidth=2.5,
-                label=f"SLING minimum",
+                label="SLING minimum",
             ),
             Patch(
                 facecolor="#d4edda",
@@ -547,8 +432,8 @@ def main():
         bottom=0.12,
     )
 
-    out_pdf = f"{args.directory}/cross_validation_{dataset_key}_thresholds.pdf"
-    out_png = f"{args.directory}/cross_validation_{dataset_key}_thresholds.png"
+    out_pdf = f"{args.directory}/cross_validation_blimp-nl_thresholds.pdf"
+    out_png = f"{args.directory}/cross_validation_blimp-nl_thresholds.png"
 
     fig.savefig(out_pdf, bbox_inches="tight")
     fig.savefig(out_png, dpi=300, bbox_inches="tight")
