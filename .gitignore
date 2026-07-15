@@ -1,2 +1,3 @@
 .venv/
-.vscode/
+.vscode/cache/
+cache_cross_overlap_*/
