@@ -1,4 +1,3 @@
-cat > cross_overlap_bar.py <<'PY'
 import argparse
 from typing import Dict, List, Sequence, Tuple
 
