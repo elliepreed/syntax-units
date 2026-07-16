@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import argparse
-import os
 from typing import Dict, List, Sequence, Tuple
 
 import numpy as np
@@ -27,13 +26,22 @@ def agreement_cats(cat_map: Dict[str, List[str]]) -> List[str]:
 
 def within_values(df: pd.DataFrame, suites: Sequence[str]) -> np.ndarray:
     sub = df.loc[suites, suites]
+
+    if len(suites) <= 1:
+        return np.array([np.nan])
+
     mask = ~np.eye(len(suites), dtype=bool)
     return sub.values[mask]
 
 
 def cross_values(
-    df: pd.DataFrame, suites_from: Sequence[str], suites_to: Sequence[str]
+    df: pd.DataFrame,
+    suites_from: Sequence[str],
+    suites_to: Sequence[str],
 ) -> np.ndarray:
+    if len(suites_from) == 0 or len(suites_to) == 0:
+        return np.array([np.nan])
+
     return df.loc[suites_from, suites_to].values.ravel()
 
 
@@ -43,12 +51,12 @@ def aggregate(
     cat_src: Dict[str, List[str]],
     cat_blimp: Dict[str, List[str]] | None = None,
 ) -> Tuple[
-    pd.DataFrame,  # summary_df
-    Dict[str, Dict[str, float]],  # per‑model within
-    Dict[str, Dict[str, float]],  # per‑model other_agree
-    Dict[str, Dict[str, float]],  # per‑model non_agree
-    Dict[str, Dict[str, float]] | None,  # per‑model blimp_agree
-    Dict[str, Dict[str, float]] | None,  # per‑model blimp_non_agree
+    pd.DataFrame,
+    Dict[str, Dict[str, float]],
+    Dict[str, Dict[str, float]],
+    Dict[str, Dict[str, float]],
+    Dict[str, Dict[str, float]] | None,
+    Dict[str, Dict[str, float]] | None,
 ]:
     def agree_cats(cat_map: Dict[str, List[str]]) -> List[str]:
         return [
@@ -61,10 +69,16 @@ def aggregate(
     all_agree_src = [s for c in agree_src for s in cat_src[c]]
 
     non_agree_src = [
-        s for suites in cat_src.values() for s in suites if s not in all_agree_src
+        s
+        for suites in cat_src.values()
+        for s in suites
+        if s not in all_agree_src
     ]
 
     if mats_cross is not None:
+        if cat_blimp is None:
+            raise ValueError("cat_blimp must be provided when mats_cross is not None.")
+
         agree_blimp = agree_cats(cat_blimp)
         all_agree_blimp = [s for c in agree_blimp for s in cat_blimp[c]]
         non_agree_blimp = [
@@ -73,6 +87,9 @@ def aggregate(
             for s in suites
             if s not in all_agree_blimp
         ]
+    else:
+        all_agree_blimp = []
+        non_agree_blimp = []
 
     per_w, per_oa, per_na = {}, {}, {}
     per_ba, per_bn = ({}, {}) if mats_cross is not None else (None, None)
@@ -86,28 +103,35 @@ def aggregate(
         ba, bn = ({}, {}) if mats_cross is not None else (None, None)
 
         for model, df in mats_lang.items():
-            w[model] = within_values(df, suites).mean()
-            oa[model] = cross_values(df, suites, other_agree).mean()
-            na[model] = cross_values(df, suites, non_agree_src).mean()
+            w[model] = float(np.nanmean(within_values(df, suites)))
+            oa[model] = float(np.nanmean(cross_values(df, suites, other_agree)))
+            na[model] = float(np.nanmean(cross_values(df, suites, non_agree_src)))
 
             if mats_cross is not None:
                 df_cross = mats_cross[model]
-                ba[model] = cross_values(df_cross, suites, all_agree_blimp).mean()
-                bn[model] = cross_values(df_cross, suites, non_agree_blimp).mean()
+                ba[model] = float(
+                    np.nanmean(cross_values(df_cross, suites, all_agree_blimp))
+                )
+                bn[model] = float(
+                    np.nanmean(cross_values(df_cross, suites, non_agree_blimp))
+                )
 
         per_w[cat], per_oa[cat], per_na[cat] = w, oa, na
+
         if mats_cross is not None:
             per_ba[cat], per_bn[cat] = ba, bn
 
         row = {
             "category": cat,
-            "within": np.mean(list(w.values())),
-            "other_agree": np.mean(list(oa.values())),
-            "non_agree": np.mean(list(na.values())),
+            "within": float(np.nanmean(list(w.values()))),
+            "other_agree": float(np.nanmean(list(oa.values()))),
+            "non_agree": float(np.nanmean(list(na.values()))),
         }
+
         if mats_cross is not None:
-            row["blimp_agree"] = np.mean(list(ba.values()))
-            row["blimp_non_agree"] = np.mean(list(bn.values()))
+            row["blimp_agree"] = float(np.nanmean(list(ba.values())))
+            row["blimp_non_agree"] = float(np.nanmean(list(bn.values())))
+
         rows.append(row)
 
     summary_df = pd.DataFrame(rows).set_index("category")
@@ -126,41 +150,44 @@ def plot(
     title: str,
     add_model_markers: bool,
     seed: int = 42,
-    x_lim: int = 100,  # 60
-    spacing: int = 1,  # 2
-    fig_w: int = 9,  # 7.5
-    val_d: int = 7,  # 1
 ):
     cols_core = ["within", "other_agree", "non_agree"]
     extra_cols = []
+
     if pba is not None:
         extra_cols = ["blimp_agree", "blimp_non_agree"]
 
     show_cols = cols_core + extra_cols
+
     colors = ["#89CCF1", "#FFB668", "#C0C0C0", "#8ECA7A", "#BC9E92"]
+
     labels = [
         f"Within-category in {dataset}",
         f"With other agreement categories in {dataset}",
-        f"With non‑agreement categories in {dataset}",
+        f"With non-agreement categories in {dataset}",
         "With agreement categories in BLiMP",
         "With non-agreement categories in BLiMP",
     ][: len(show_cols)]
 
+    summary = summary.copy()
     summary["diff"] = summary["within"] - summary["other_agree"]
     summary = summary.sort_values("diff", ascending=False)
 
     y = np.arange(len(summary))
-    width = 0.16
-    offs = offs = np.linspace(-spacing * width, spacing * width, len(show_cols))
 
-    fig_h = 1 + len(summary) * 0.65
+    # More space because there are up to five bars per category.
+    fig_h = max(5.8, 1.20 * len(summary) + 1.8)
+    fig_w = 12.0
     fig, ax = plt.subplots(figsize=(fig_w, fig_h))
+
+    bar_h = 0.14
+    offsets = np.linspace(-0.32, 0.32, len(show_cols))
 
     for i, col in enumerate(show_cols):
         ax.barh(
-            y + offs[i],
+            y + offsets[i],
             summary[col],
-            height=width,
+            height=bar_h,
             color=colors[i],
             edgecolor="black",
             label=labels[i],
@@ -168,56 +195,70 @@ def plot(
         )
 
     ax.set_yticks(y)
-    ax.set_yticklabels([pretty_category_name(c) for c in summary.index], fontsize=8)
+    ax.set_yticklabels(
+        [pretty_category_name(c) for c in summary.index],
+        fontsize=11,
+    )
     ax.invert_yaxis()
 
+    max_val = float(np.nanmax(summary[show_cols].values))
+    x_lim = max(60, int(np.ceil((max_val + 12) / 10) * 10))
     ax.set_xlim(0, x_lim)
-    ax.set_xlabel("Percentage of units", fontsize=8)
-    ax.tick_params(axis="x", labelsize=7)
+
+    ax.set_xlabel("Percentage of units", fontsize=12)
+    ax.tick_params(axis="x", labelsize=10)
     ax.grid(axis="x", linestyle=":", alpha=0.4, zorder=0)
-    ax.set_title(title, fontsize=10)
+    ax.set_title(title, fontsize=13)
 
     rng = np.random.default_rng(seed)
     model_names = sorted({m for d in pw.values() for m in d})
-    mlist, m2c, m2m = build_model_style_maps(model_names)
+    model_list, model_to_color, model_to_marker = build_model_style_maps(model_names)
 
     for yi, cat in zip(y, summary.index):
-        if add_model_markers:
-            add_model_scatter(
-                pw[cat], yi + offs[0], ax, m2c, m2m, rng, s=20, jitter=0.03
-            )
-            add_model_scatter(
-                poa[cat], yi + offs[1], ax, m2c, m2m, rng, s=20, jitter=0.03
-            )
-            add_model_scatter(
-                pna[cat], yi + offs[2], ax, m2c, m2m, rng, s=20, jitter=0.03
-            )
-            if pba is not None:
-                add_model_scatter(
-                    pba[cat], yi + offs[3], ax, m2c, m2m, rng, s=20, jitter=0.03
-                )
-                add_model_scatter(
-                    pbn[cat], yi + offs[4], ax, m2c, m2m, rng, s=20, jitter=0.03
-                )
+        per_col_model_dicts = [pw[cat], poa[cat], pna[cat]]
+
+        if pba is not None:
+            per_col_model_dicts += [pba[cat], pbn[cat]]
 
         for j, col in enumerate(show_cols):
             val = summary.loc[cat, col]
+
             ax.text(
-                val + val_d,
-                yi + offs[j],
+                val + 0.8,
+                yi + offsets[j],
                 f"{val:.2f}%",
                 va="center",
                 ha="left",
-                fontsize=6,
+                fontsize=8,
                 zorder=9,
             )
+
+            if add_model_markers:
+                add_model_scatter(
+                    per_col_model_dicts[j],
+                    center=yi + offsets[j],
+                    ax=ax,
+                    model_to_color=model_to_color,
+                    model_to_marker=model_to_marker,
+                    rng=rng,
+                    s=22,
+                    jitter=0.025,
+                )
 
     bar_handles = [
         Patch(facecolor=colors[i], edgecolor="black", label=labels[i])
         for i in range(len(show_cols))
     ]
+
+    # Legend outside the plot so it does not compress the bars.
     bar_leg = ax.legend(
-        handles=bar_handles, loc="lower right", fontsize=7, frameon=True
+        handles=bar_handles,
+        loc="center left",
+        bbox_to_anchor=(1.01, 0.5),
+        fontsize=9,
+        frameon=True,
+        title="Overlap type",
+        title_fontsize=10,
     )
     ax.add_artist(bar_leg)
 
@@ -226,35 +267,44 @@ def plot(
             Line2D(
                 [],
                 [],
-                marker=m2m[m],
-                color=m2c[m],
+                marker=model_to_marker[m],
+                color=model_to_color[m],
                 linestyle="None",
                 markersize=5,
                 markeredgecolor="black",
                 markeredgewidth=0.4,
                 label=m,
             )
-            for m in mlist
+            for m in model_list
         ]
+
         ax.legend(
             handles=model_handles,
-            loc="upper right",
+            loc="upper left",
+            bbox_to_anchor=(1.01, 1.0),
             title="Models",
-            fontsize=7,
-            title_fontsize=8,
+            fontsize=8,
+            title_fontsize=9,
             frameon=True,
         )
 
-    fig.tight_layout()
-    fig.savefig(f"{directory}/cross_overlap_agreement_{dataset.lower()}.png", dpi=300)
-    fig.savefig(f"{directory}/cross_overlap_agreement_{dataset.lower()}.pdf")
+    fig.tight_layout(rect=[0, 0, 0.78, 1])
+
+    out_png = f"{directory}/cross_overlap_agreement_{dataset.lower()}_clean.png"
+    out_pdf = f"{directory}/cross_overlap_agreement_{dataset.lower()}_clean.pdf"
+
+    fig.savefig(out_png, dpi=300, bbox_inches="tight")
+    fig.savefig(out_pdf, bbox_inches="tight")
+
+    print(f"Saved {out_png}")
+    print(f"Saved {out_pdf}")
 
 
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--dataset", default="BLiMP")
-    p.add_argument("--directory", default=f"english/cross-overlap")
-    p.add_argument("--title", default=f"Cross‑phenomenon overlap in BLiMP (agreement)")
+    p.add_argument("--directory", default="english/cross-overlap")
+    p.add_argument("--title", default="Cross-phenomenon overlap in BLiMP (agreement)")
     p.add_argument("--add-model-markers", action="store_true")
     p.add_argument("--seed", type=int, default=42)
     args = p.parse_args()
@@ -268,18 +318,34 @@ def main():
     col_order = row_order
     col_blimp = get_canonical_order(cat_blimp)
 
-    mats_lang = load_model_matrices(args.directory, lang, lang, row_order, col_order)
+    mats_lang = load_model_matrices(
+        args.directory,
+        lang,
+        lang,
+        row_order,
+        col_order,
+    )
+
     mats_cross = (
-        load_model_matrices(args.directory, "blimp", lang, row_order, col_blimp)
+        load_model_matrices(
+            args.directory,
+            "blimp",
+            lang,
+            row_order,
+            col_blimp,
+        )
         if lang != "blimp"
         else None
     )
 
-    (summary, pw, poa, pna, pba, pbn) = aggregate(
-        mats_lang, mats_cross, cat_src, cat_blimp
+    summary, pw, poa, pna, pba, pbn = aggregate(
+        mats_lang,
+        mats_cross,
+        cat_src,
+        cat_blimp,
     )
 
-    if mats_cross:
+    if mats_cross is not None:
 
         def agree_suites(cat_map: Dict[str, List[str]]) -> List[str]:
             return [
@@ -293,21 +359,20 @@ def main():
         blimp_agree_suites = agree_suites(cat_blimp)
 
         per_model_means = {}
-        all_vals = []
 
         for model, df in mats_cross.items():
-            print(df.loc[src_agree_suites, blimp_agree_suites])
             sub = df.loc[src_agree_suites, blimp_agree_suites].to_numpy().ravel()
             sub = sub[~np.isnan(sub)]
+
             if sub.size:
                 per_model_means[model] = float(sub.mean())
-                all_vals.append(sub)
             else:
                 per_model_means[model] = np.nan
 
         overall_avg = float(np.nanmean(list(per_model_means.values())))
 
-        print(f"Per‑model mean overlap ({args.dataset} agreement / BLiMP agreement):")
+        print(f"Per-model mean overlap ({args.dataset} agreement / BLiMP agreement):")
+
         for m, v in sorted(per_model_means.items()):
             print(f"  {m}: {v:.2f}%")
 
